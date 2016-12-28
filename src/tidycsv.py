@@ -15,7 +15,9 @@ import pandas
 
 if __name__ == '__main__':
     import sys
-    
-    df = pandas.read_csv(sys.argv[1])
-    df.to_csv(sys.argv[1], index=False, encoding='utf-8')
+
+    for fn in sys.argv[1:]:
+        print "Tidying %s" % fn
+        df = pandas.read_csv(fn, dtype=str)
+        df.to_csv(fn, index=False, encoding='utf-8')
     
