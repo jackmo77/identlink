@@ -85,6 +85,12 @@ if __name__ == '__main__':
                      'person.name.last', 'source', 'person.ref' ],
                    inplace=True)
 
+    # We convert dates to YYYYMMDD. This way, ident files can be loaded
+    # into e.g. Excel for editing, without messing up the formatting.
+    # YYYYMMDD is considered a valid ISO date format as well.
+    df['S_FIRST'] = df['S_FIRST'].str.replace("-", "")
+    df['S_LAST'] = df['S_LAST'].str.replace("-", "")
+
     print "Writing ident files..."  
     for (group, data) in df.groupby([ 'league.year', 'league.name' ]):
         print group[0], group[1]
