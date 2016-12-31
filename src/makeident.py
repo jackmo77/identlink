@@ -1,13 +1,9 @@
 import pandas as pd
 
-if __name__ == '__main__':
-    import sys
-    import os
-    import glob
-
-    # Pass path to repository of minor league averages
-    path = sys.argv[1]
-    
+def collect_from_averages(path):
+    """Collect playing and managing performance records from
+    minoraverages repository.
+    """
     dflist = [ ]
     for sourcepath in glob.glob("%s/processed/*" % path):
         source = sourcepath.split("/")[-1]
@@ -23,6 +19,14 @@ if __name__ == '__main__':
             dflist[-1]['source'] = "minoraverages/%s" % source
         except IOError:
             print "  Warning: did not find managers file"
+    return dflist
+
+if __name__ == '__main__':
+    import sys
+    import os
+    import glob
+
+    dflist = collect_from_averages("../minoraverages")
     print "Concatenating files..."
     df = pd.concat(dflist, ignore_index=True)
 
