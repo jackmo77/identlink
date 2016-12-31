@@ -4,6 +4,7 @@ def collect_from_averages(path):
     """Collect playing and managing performance records from
     minoraverages repository.
     """
+    print "Collecting items from minoraverages dataset."
     dflist = [ ]
     for sourcepath in glob.glob("%s/processed/*" % path):
         source = sourcepath.split("/")[-1]
@@ -19,6 +20,25 @@ def collect_from_averages(path):
             dflist[-1]['source'] = "minoraverages/%s" % source
         except IOError:
             print "  Warning: did not find managers file"
+    print
+    return dflist
+
+def collect_from_boxscores(path):
+    """Collect people entries from boxscores repository.
+    """
+    print "Collecting items from boxscores dataset."
+    dflist = [ ]
+    for sourcepath in glob.glob("%s/processed/*/*" % path):
+        source = "/".join(sourcepath.split("/")[-2:])
+        print "Collecting source %s" % source
+
+        try:
+            dflist.append(pd.read_csv("%s/people.csv" % sourcepath,
+                                      dtype=str))
+            dflist[-1]['source'] = "boxscores/%s" % source
+        except IOError:
+            print "  Warning: did not find people file"
+    print
     return dflist
 
 if __name__ == '__main__':
@@ -26,9 +46,10 @@ if __name__ == '__main__':
     import os
     import glob
 
-    dflist = collect_from_averages("../minoraverages")
+    avglist = collect_from_averages("../minoraverages")
+    boxlist = collect_from_boxscores("../boxscores")
     print "Concatenating files..."
-    df = pd.concat(dflist, ignore_index=True)
+    df = pd.concat(avglist + boxlist, ignore_index=True)
 
     idents = [ ]
     for identfile in glob.glob("leagues/*/*.csv"):
@@ -56,6 +77,7 @@ if __name__ == '__main__':
     df = df[[ 'source', 'league.year', 'league.name', 'ident', 'person.ref',
               'person.name.last', 'person.name.given',
              'S_STINT', 'entry.name',
+             'S_FIRST', 'S_LAST',
              'B_G', 'P_G', 'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
              'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G', 'F_C_G', 'F_P_G',
              'F_ALL_G' ]] 
