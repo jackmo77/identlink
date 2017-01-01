@@ -51,6 +51,12 @@ if __name__ == '__main__':
     print "Concatenating files..."
     df = pd.concat(avglist + boxlist, ignore_index=True)
 
+    # Fill in an indicator for records which indicate a position played
+    # but not games at that position
+    for pos in [ "P", "C", "1B", "2B", "3B", "SS", "OF", "LF", "CF", "RF" ]:
+        if "F_%s_G" % pos in df and "F_%s_POS" % pos in df:
+            df["F_%s_G" % pos] = df["F_%s_G" % pos].fillna(df["F_%s_POS" % pos].apply(lambda x: "yes" if not pd.isnull(x) and int(x) > 0 else None))
+
     idents = [ ]
     for identfile in glob.glob("leagues/*/*.csv"):
         print "Collecting identfile %s" % identfile
