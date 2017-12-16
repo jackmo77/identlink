@@ -2398,7 +2398,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-NESL:nee,cw:1cd56d6b,,nee---002---,Nee,,,
 1914-NESL:neff,cw:3035149c,,neff--001cly,Neff,Clyde,Clyde,
 1914-NESL:obst,cw:3fa4a0f5,,obst--002pau,Obst,Paul,Paul L.,
-1914-NESL:oriet,cw:8cf201ab,,oriet-001wil,Oriet,William,William E.,
+1914-NESL:oriet,cw:8cf201ab,,oriet-001wil,Oriet,Bill,William Eli,18840213
 1914-NESL:osborne,cw:d73f076f,,osborn001mac,Osborne,Mack,Mack,
 1914-NESL:palmer,cw:4adaebe6,,palmer001cha,Palmer,Charles,Charles,
 1914-NESL:parks,cw:94a6562f,,parks-013---,Parks,,,
@@ -2870,6 +2870,168 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-NYSL:wratten,cw:2ecf8436,,wratte001irv,Wratten,Irve,John Irvin,
 1914-NYSL:young,cw:592915b4,younh101,young-003her,Young,Herman,Herman John,18860414
 1914-NYSL:zeiser,cw:c84b8211,zeism101,zieser001mat,Zieser,Matt,Mathias John,18880925
+1914-SALL:amason,cw:39e9e666,,amason001h--,Amason,H. W.,H. W.,
+1914-SALL:andrews,cw:3fc4a83e,,andrew009---,Andrews,,,
+1914-SALL:ashby,cw:fc3dce22,,ashby-002---,Ashby,,,
+1914-SALL:atkinson,cw:36dbb05a,,atkins001hol,Atkinson,Hollis,Hollis E.,
+1914-SALL:averett,cw:9cb412af,,averet001cli,Averett,Cliff,Clifford Munroe,1884
+1914-SALL:bales,cw:7cf9ce5c,,bales-002wil,Bales,William,William P.,
+1914-SALL:barker,cw:9ae57625,,barker001joh,Barker,John,John,
+1914-SALL:basham,cw:252c906a,,basham001alb,Basham,Albert,Albert,
+1914-SALL:bell,cw:c8db378e,,bell--004cha,Bell,Charles,Charles J.,
+1914-SALL:berger,cw:ce7d4f50,,berger022---,Berger,,,
+1914-SALL:bernsen,cw:71120aa7,,bernse001alb,Bernsen,Albert,Albert William,18910819
+1914-SALL:betzel,cw:b1cbfe6e,,betzel001---,Betzel,,,
+1914-SALL:bitting,cw:8d6ec7e5,,bittin001erl,Bitting,Earl,Erle Raymond,18900616
+1914-SALL:bowden,cw:33e915e8,,bowden003---,Bowden,,,
+1914-SALL:bowdoin,cw:b8b94196,,bowdoi001---,Bowdoin,,,
+1914-SALL:boyd,cw:e4642fdc,,boyd--042---,Boyd,,,
+1914-SALL:braun,cw:9ad468cf,,braun-001car,Braun,Carl,Carl,188201
+1914-SALL:brooks,cw:d5bf1162,,brooks001gar,Brooks,Garnett,Garnett,
+1914-SALL:broughton,cw:43a502b9,,brough001---,Broughton,,,
+1914-SALL:brouthers,cw:5bd5e465,broua101,brouth001art,Brouthers,Art,Arthur Henry,18821125
+1914-SALL:burgess,cw:a4fd24ee,,burges001j--,Burgess,Grady,J. Grady,
+1914-SALL:burmeister,cw:30720a25,,burmei001cla,Burmeister,Clarence,Clarence E.,1888
+1914-SALL:cain,cw:2278b647,,cain--001emm,Cain,Emmett,Emmett,1891
+1914-SALL:callahan,cw:20f90e42,callw101,callah001wes,Callahan,Wese,Wese LeRoy,18880703
+1914-SALL:camnitz,cw:1e8d0ff5,camnh102,camnit001hen,Camnitz,Harry,Henry Richardson,18841026
+1914-SALL:campfield,cw:47921bbc,,campfi001---,Campfield,,,
+1914-SALL:carroll,cw:5300844d,carrd103,carrol001dor,Carroll,Dixie,Dorsey Lee,18910519
+1914-SALL:cates,cw:038b3d31,,cates-001---,Cates,Jack,Jack,
+1914-SALL:causey,cw:24b65a55,causr101,causey001cec,Causey,Red,Cecil Algerton,18930811
+1914-SALL:chalker,cw:5b98f1f3,,chalke001---,Chalker,,,
+1914-SALL:cheney,cw:85ff7a64,,cheney001l--,Cheney,Larry,Larry,
+1914-SALL:clark,cw:65d8d22f,clard101,clark-002dan,Clark,Danny,Daniel Curren,18940118
+1914-SALL:cochran-alb,cw:b73b3c9b,,cochra003joh,Cochran,John,John T.,
+1914-SALL:cochran-cha,cw:2abc1f3d,,cochra001h--,Cochran,Howard,Howard,
+1914-SALL:colby,cw:a7e5ec45,,colby-001gle,Colby,Glenn,Glenn,
+1914-SALL:correll,cw:37ba75b2,,correl001ml-,Correll,M. L.,M. L.,
+1914-SALL:crowder,cw:cf6aa94e,,crowde001ned,Crowder,Ned,Edward Francis,18840212
+1914-SALL:crowell,cw:4dea828f,,crowel001bob,Crowell,Bob,William Robert,18910403
+1914-SALL:cueto,cw:b11699b1,cuetm101,cueto-001man,Cueto,Manuel,Manuel,18920208
+1914-SALL:durmeyer,cw:b514cb17,,durmey001cha,Durmeyer,Charles,Charles Philip,18890828
+1914-SALL:durr,cw:e961a229,,durr--001---,Durr,,,
+1914-SALL:eberts,cw:8859a7cb,,eberts001hen,Eberts,Henry,Henry,
+1914-SALL:eldridge,cw:1410fd17,,eldrid001jes,Eldridge,Rube,Jesse Morgan,18880720
+1914-SALL:erwin,cw:1b5453d8,,erwin-001d--,Erwin,Zeke,Dewitt M.,18880713
+1914-SALL:ezell,cw:00632c8e,,ezell-001ed-,Ezell,Ed,Ed,
+1914-SALL:farina,cw:95d5fbac,,farina001---,Farina,,,
+1914-SALL:finnegan,cw:24f40867,,finneg002wil,Finnegan,Bill,William,
+1914-SALL:firestine,cw:2aff839d,,firest001---,Firestine,,,
+1914-SALL:fisher,cw:ce62a228,,fisher001bob,Fisher,Bob,Bob,
+1914-SALL:folmar,cw:55edafaf,,folmar001rob,Folmar,Robert,Robert R.,
+1914-SALL:ford,cw:56bd7433,,ford--015---,Ford,,,
+1914-SALL:foster,cw:78fdd2dd,foste102,foster004edw,Foster,Ed,Edward Lee,18850625
+1914-SALL:fox,cw:d81e38f3,,fox---001jam,Fox,Jim,James Claudius,18790303
+1914-SALL:fuesse,cw:2f109022,,fuesse001---,Fuesse,,,
+1914-SALL:gallagher,cw:17ff4b9f,,gallag008---,Gallagher,,,
+1914-SALL:gardin,cw:55360b64,,gardin001ber,Gardin,Bert,Daniel Albert,18910317
+1914-SALL:golden,cw:2d11afa5,,golden001---,Golden,,,
+1914-SALL:gonzales,cw:214caa22,,gonzal000oct,Gonzalez,Octavio,Octavio,
+1914-SALL:green,cw:6ffd1ac5,,green-002roy,Green,Roy,Roy James,18870808
+1914-SALL:gust,cw:8a31db25,guste101,gust--001ern,Gust,Ernie,Ernest Herman Frank,18880124
+1914-SALL:hamilton,cw:f0eefcc7,,hamilt003jam,Hamilton,Jimmy,James A.,1888
+1914-SALL:handiboe,cw:706d6582,handm101,handib001alo,Handiboe,Mike,Aloysius James,18870721
+1914-SALL:hanna,cw:874b5370,,hanna-001ear,Hanna,Earl,Earl A.,
+1914-SALL:harbison,cw:46b43b39,,harbis001dou,Harbison,Douglas,George Douglass,18870604
+1914-SALL:harris,cw:a6342a42,,harris001m--,Harris,Merle,Merle,
+1914-SALL:hawkins.c,cw:c580ceb1,,hawkin001c--,Hawkins,C.,C.,
+1914-SALL:hawkins.j,cw:72484279,,hawkin001j--,Hawkins,Jack,Jack L.,
+1914-SALL:herndon,cw:5d3ff930,,herndo001har,Herndon,Hardin,Hardin T.,18920317
+1914-SALL:higgins,cw:e0cc5e66,,higgin022---,Higgins,,,
+1914-SALL:hoffman,cw:17dfa2b4,,hoffma005ric,Hoffman,Dutch,Richard P.,1886
+1914-SALL:holland,cw:0782e08f,,hollan004---,Holland,,,
+1914-SALL:horten,cw:333eefb3,,horten001kar,Horten,Karl,Karl T.,
+1914-SALL:jackson,cw:fbee2c16,,jackso009cha,Jackson,Charlie,Charles Bernard,
+1914-SALL:johnson.f,cw:756e37cf,,johnso001f--,Johnson,F.,F.,
+1914-SALL:johnson.l,cw:32f78a5f,,johnso002l--,Johnson,L.,L.,
+1914-SALL:kates,cw:c922dcae,,kates-001wal,Kates,Walter,J. Walter,
+1914-SALL:kelly,cw:59498441,,kelly-007j--,Kelly,J.,J.,
+1914-SALL:killingsworth,cw:bc8a185b,,killin001---,Killingsworth,,,
+1914-SALL:kimball,cw:d5241a4a,,kimbal009---,Kimball,,,
+1914-SALL:kluth,cw:d8585306,,kluth-001---,Kluth,,,
+1914-SALL:krebs,cw:dd52906e,,krebs-001ray,Krebs,Ray,Raymond Francis,18840524
+1914-SALL:kuhlman,cw:485cc3e4,,kuhlma001---,Kuhlman,,,
+1914-SALL:lake,cw:b50184f1,,lake--001m--,Lake,M.,M.,
+1914-SALL:lawrence,cw:39d864eb,,lawren001elm,Lawrence,Elmer,Elmer J.,
+1914-SALL:lewis,cw:e70c88c8,,lewis-001l--,Lewis,L.,L.,
+1914-SALL:lipe,cw:acc7e4f2,,lipe--001per,Lipe,Perry,Perry Hamilton,18750214
+1914-SALL:llewellyn,cw:6df822f4,,llewel001---,Llewellyn,,,
+1914-SALL:lowry,cw:66a8941d,,lowry-003---,Lowry,,,
+1914-SALL:macmillan,cw:a99200c3,,mcmill003joh,McMillan,John,John B.,
+1914-SALL:maekert,cw:ecd956e5,,macker001fra,Mackert,Franklin,Franklin Masser,18891213
+1914-SALL:manush,cw:21405c6c,manuf101,manush001fra,Manush,Frank,Frank Henry Benjamin,18830918
+1914-SALL:marshall,cw:1f1a55a5,,marsha001cla,Marshall,Clarence,Clarence H.,18870423
+1914-SALL:martin,cw:494753d7,,martin001g--,Martin,George,George,
+1914-SALL:matthews,cw:7429ebbd,,matthe001h--,Matthews,H.,H. L.,
+1914-SALL:mayer,cw:ab721dd8,mayes101,mayer-001sam,Mayer,Sam,Samuel Frankel,18930228
+1914-SALL:mayes,cw:a617de3c,,mayes-004---,Mayes,,,
+1914-SALL:mccormack,cw:689d4506,,mccorm004mic,McCormack,Michael,Michael J.,
+1914-SALL:mcdowell,cw:f36ddf46,,mcdowe001hol,McDowell,Holt,Holt,
+1914-SALL:mcduff,cw:9d1fe2d5,,mcduff001gor,McDuff,Gordon,S. Gordon,
+1914-SALL:mcmillan,cw:19ab6d14,,mcmill005tho,McMillan,Thomas,Thomas Sanders,18881127
+1914-SALL:melchoir,cw:aa06b5ac,,melchi001fre,Melchior,Fred,Frederick T.,18830213
+1914-SALL:montague,cw:dd748996,,montag001---,Montague,,,
+1914-SALL:moore,cw:26018540,,moore-002ric,Moore,Richard,Richard C.,
+1914-SALL:morrissey,cw:fc470dda,,morris100---,Morrisey,,,
+1914-SALL:morrow,cw:59ba7851,,morrow001how,Morrow,Howard,Howard,
+1914-SALL:morse,cw:9a75b4db,,morse-010---,Morse,,,
+1914-SALL:moses,cw:4e95239b,,moses-001---,Moses,,,
+1914-SALL:muldrow,cw:aa6e737f,,muldro001h--,Muldrow,H.,H. G.,
+1914-SALL:munn,cw:e3fa9ca5,,munn--001nor,Munn,Norman,Norman W.,
+1914-SALL:nance,cw:4788fbc6,,nance-003---,Nance,,,
+1914-SALL:neyenhouse,cw:c544b459,,neyenh001jer,Neyenhouse,Jerry,Jerry,
+1914-SALL:norcott,cw:dd918e24,,norcot001---,Norcott,,,
+1914-SALL:osteen,cw:647963be,ostec101,osteen001jam,Osteen,Champ,James Champlin,18770224
+1914-SALL:ozagon,cw:ce04ad00,,ogazon001---,Ogazon,,,
+1914-SALL:parker,cw:08af1dfe,,parker003---,Parker,,,
+1914-SALL:pate,cw:bb07d9f9,patej101,pate--001jos,Pate,Joe,Joseph William,18920606
+1914-SALL:payne,cw:2d6ef5e3,payng102,payne-001geo,Payne,George,George Washington,18890523
+1914-SALL:payntar,cw:f92251c6,,paynta001---,Payntar,,,
+1914-SALL:pearson,cw:74d5dbc9,,pearso002isa,Pearson,Ike,Isaac O.,18910727
+1914-SALL:peddy,cw:6711db72,,peddy-001hug,Peddy,Hugh,Hugh,
+1914-SALL:pool,cw:bc2f6423,,pool--001jam,Pool,James,James,
+1914-SALL:pownall,cw:6ef46fab,,pownal001wil,Pownall,William,William,
+1914-SALL:prough,cw:55deb663,,prough001gro,Prough,Grover,Grover C.,18900613
+1914-SALL:redding,cw:8f883298,reddp101,reddin001phi,Redding,Phil,Philip Hayden,18900125
+1914-SALL:reynolds,cw:1eac7b96,,reynol001wad,Reynolds,Wade,Wade J.,
+1914-SALL:riggs,cw:8e2c0dff,,riggs-005---,Riggs,,,
+1914-SALL:russell,cw:c4ce643c,,russel001wil,Russell,William,William A.,
+1914-SALL:sabrie,cw:46eaa26a,,sabrie001edw,Sabrie,Eddie,Edwin L.,188204
+1914-SALL:selph,cw:67fc505e,,selph-001mac,Selph,Mack,Mack,18920603
+1914-SALL:shaw,cw:1b331e57,,shaw--001e--,Shaw,Pop,E. N.,
+1914-SALL:smallwood,cw:6b6b6b42,smalw101,smallw002wal,Smallwood,Walt,Walter Clayton,18930424
+1914-SALL:smith.h,cw:4120fabf,smith107,smith-026jam,Smith,Harry,James Harry,18900515
+1914-SALL:smith.m,cw:6efe72a4,,smith-001man,Smith,Manning,Manning,
+1914-SALL:smith.t,cw:ba2eb5cd,,smith-001ted,Smith,Ted,Ted A.,
+1914-SALL:snyder,cw:30fa7dcf,,snyder001cli,Snyder,Clifford,Clifford,
+1914-SALL:south,cw:eb729a44,,south-001per,South,Percy,Percy,
+1914-SALL:spaid,cw:c84de68e,,spaide001mer,Spaide,Merle,Merle Davis,18880201
+1914-SALL:stair,cw:6038cbab,,stair-001w--,Stair,W.,W. H.,
+1914-SALL:starr,cw:4394497d,,starr-004wil,Starr,Billy,William,
+1914-SALL:stinson,cw:4793a65d,,stinso001geo,Stinson,George,George C.,188203
+1914-SALL:stone,cw:45f2799d,,stone-001lee,Stone,Lee,Lee G.,
+1914-SALL:stuart,cw:6ae0daa9,,stuart001ral,Stuart,Ralph,Ralph,
+1914-SALL:thackam,cw:f15021e0,,thacka001rob,Thackam,Bob,Robert O.,18871105
+1914-SALL:thompson,cw:618bc2ff,thomh101,thomps002hom,Thompson,Homer,Homer Thomas,18910601
+1914-SALL:thornton,cw:a220747a,,thornt002woo,Thornton,Woody,Woody Austin,18820401
+1914-SALL:vanlandingham,cw:be172aba,,vanlan001---,VanLandingham,,,
+1914-SALL:vaughn,cw:46fdea11,,vaughn004---,Vaughn,,,
+1914-SALL:villazon,cw:e2012ee4,,villaz001a--,Villazon,Angel,Angel,1892
+1914-SALL:voss,cw:d6d1495a,,voss--001joh,Voss,John,John D.,
+1914-SALL:wallace,cw:5e56f87a,,wallac001jac,Wallace,Jack,Jack,
+1914-SALL:weir,cw:4e0a88de,,weir--001lem,Weir,Whiskers,Lemuel Sam,18891128
+1914-SALL:wells,cw:6a22d9a9,,wells-002phi,Wells,Phil,Phillip,
+1914-SALL:wheat,cw:e9df915c,wheam101,wheat-001mck,Wheat,Mack,McKinley Davis,18930609
+1914-SALL:white,cw:73f05963,,white-039---,White,,,
+1914-SALL:wilbur,cw:b57cdc3a,,wilbur001j--,Wilbur,J.,J. A.,
+1914-SALL:wilder,cw:e33089a6,,wilder001per,Wilder,Percy,Percy James,18810708
+1914-SALL:wiley,cw:3cc07deb,,wiley-001joe,Wiley,Joe,Joe,
+1914-SALL:williams,cw:417babe2,,willia070---,Williams,,,
+1914-SALL:winchell,cw:a0542f03,,winche001fra,Winchell,Frank,Frank,
+1914-SALL:winston,cw:76d3172a,,winslo001edd,Winslow,Eddie,Eddie,
+1914-SALL:woolf,cw:43d18b0a,,woolf-001jes,Woolf,Jesse,Jesse Elder,18890922
+1914-SALL:zimmerman,cw:ab3e742e,,zimmer004wil,Zimmerman,William,William,
 1914-SOUA:adams,cw:f527ea76,adamb106,adams-003joh,Adams,Bert,John Bertram,18910621
 1914-SOUA:allison,cw:07e8b8e8,allim101,alliso001mil,Allison,Milo,Milo Henry,18901016
 1914-SOUA:bagby,cw:b26d67a5,bagbj101,bagby-002jam,Bagby,Jim,James Charles Jacob,18891005
