@@ -1300,3 +1300,626 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1916-PCL:wolverton,cw:41cb67cd,wolvh101,wolver001har,Wolverton,Harry,Harry Sterling,18731206
 1916-PCL:zabel,cw:7d6359f6,zabez101,zabel-001geo,Zabel,Zip,George Washington,18910218
 1916-PCL:zimmerman,cw:ac6bca22,zimmb101,zimmer001wil,Zimmerman,Bill,William Frederick,18870120
+1916-SOUA:allen,cw:e78d088a,,allen-001jam,Allen,James,James,
+1916-SOUA:allison-mob,cw:75712b56,allim102,alliso001mac,Allison,Mack,Mack Pendleton,18870123
+1916-SOUA:allison-no,cw:07e8b8e8,allim101,alliso001mil,Allison,Milo,Milo Henry,18901016
+1916-SOUA:andreen,cw:0d8c2915,,andree001mik,Andreen,Mike,Morton Lavine,18900425
+1916-SOUA:bacon,cw:6919eccf,bacoe101,bacon-001edg,Bacon,Eddie,Edgar Suter,18950408
+1916-SOUA:baker,cw:b37c5cd3,,baker-003how,Baker,Howard,Howard William,18800815
+1916-SOUA:barbare,cw:df7e51ff,barbw101,barbar001wal,Barbare,Walter,Walter Lawrence,18910811
+1916-SOUA:barger,cw:9a9dda79,bargc101,barger001ero,Barger,Cy,Eros Bolivar,18850518
+1916-SOUA:baumgardner,cw:e0b23392,baumg101,baumga001geo,Baumgardner,George,George Washington,18910722
+1916-SOUA:bluhm,cw:56b5fd48,bluhr101,bluhm-001har,Bluhm,Red,Harvey Fred,18940627
+1916-SOUA:brennan,cw:4afa5984,brena101,brenna001add,Brennan,Ad,Addison Foster,18870718
+1916-SOUA:brenton,cw:162c0f58,brenl101,brento001lyn,Brenton,Lynn,Lynn Davis,18891007
+1916-SOUA:bridwell,cw:dadd8fda,brida101,bridwe001alb,Bridwell,Al,Albert Henry,18840104
+1916-SOUA:bromwich,cw:eed3167e,,bromwi001alb,Bromwich,Albert,Albert A.,18880407
+1916-SOUA:brooks,cw:8b71323f,,brooks001b--,Brooks,B.,B. B.,
+1916-SOUA:brown,cw:cc9485ca,browb103,brown-002car,Brown,Boardwalk,Carroll William,18890220
+1916-SOUA:burke.j,cw:de617228,,burke-001jac,Burke,Jack,Jack Rufus,18780521
+1916-SOUA:burke.m,cw:6642071d,,burke-001mik,Burke,Mike,Mike,
+1916-SOUA:calhoun,cw:fbcd14a8,calhb101,calhou001wil,Calhoun,Bill,William Davitte,18900623
+1916-SOUA:carroll,cw:1197fb8b,,carrol002cha,Carroll,Charlie,Charles Lemuel,18900816
+1916-SOUA:caton,cw:cc673fae,catoh101,caton-001jam,Caton,Howdy,James Howard,18940716
+1916-SOUA:cavet,cw:24970069,cavep101,cavet-002til,Cavet,Pug,Tillar H.,18891226
+1916-SOUA:chadbourne,cw:86ed16a2,chadc101,chadbo001che,Chadbourne,Chet,Chester James,18841028
+1916-SOUA:chapman,cw:9cd799a9,chaph102,chapma002har,Chapman,Harry,Harry E.,18851026
+1916-SOUA:clancy,cw:1297b46b,,clancy001joh,Clancy,John,John,
+1916-SOUA:clark-bir,cw:65d8d22f,clard101,clark-002dan,Clark,Danny,Daniel Curren,18940118
+1916-SOUA:clark-mob,cw:69d230ba,clarn101,clarke001jay,Clarke,Nig,Jay Justin,18821215
+1916-SOUA:cook,cw:bbe0fb34,cookd101,cook--001lut,Cook,Doc,Luther Almus,18860624
+1916-SOUA:coombs,cw:6c378d6a,coomc101,coombs001cec,Coombs,Cecil,Cecil Lysander,18880318
+1916-SOUA:couchman,cw:ebef35b6,,couchm001rob,Couchman,Bob,Robert Macbeth,18880201
+1916-SOUA:covington-cha,cw:9dd1f387,covit101,coving002wil,Covington,Tex,William Wilkes,18870319
+1916-SOUA:covington-lr,cw:4a9c4e9b,covis101,coving001cla,Covington,Sam,Clarence Calvert,18941118
+1916-SOUA:cruthers,cw:85594991,crutp101,cruthe001cha,Cruthers,Press,Charles Preston,18900908
+1916-SOUA:davis,cw:6ce4f0c5,davib104,davis-017joh,Davis,Bud,John Wilbur,18951207
+1916-SOUA:day,cw:9c1d38bb,,day---001red,Day,Red,V. M.,
+1916-SOUA:deberry,cw:1e969afa,debeh101,deberr001joh,DeBerry,Hank,John Herman,18941229
+1916-SOUA:dempsey,cw:4207d2a8,,dempse004jac,Dempsey,Jack,Jack,
+1916-SOUA:derrick,cw:543f53ea,,derric001fre,Derrick,Fred,Frederick Bonner,18880619
+1916-SOUA:dillinger,cw:3ba08ea1,dillh101,dillin002har,Dillinger,Harley,Harley Hugh,18941030
+1916-SOUA:dobard,cw:39843c4a,,dobard001leo,Dobard,Leonard,Leonard Ralph,18880811
+1916-SOUA:dodge,cw:66d6ecb5,dodgj101,dodge-002joh,Dodge,John,John Lewis,18890427
+1916-SOUA:edmondson,cw:d8acc2e3,edmoe101,edmons001ear,Edmonson,Eddie,Earl Edward,18891120
+1916-SOUA:elberfeld,cw:f51f274d,elbek101,elberf001nor,Elberfeld,Kid,Norman Arthur,18750413
+1916-SOUA:ellam,cw:d37aa353,ellar101,ellam-001roy,Ellam,Roy,Roy,18860208
+1916-SOUA:ellis,cw:6ac068f6,,ellis-001wil,Ellis,William,William E.,
+1916-SOUA:eschen,cw:28100812,eschj101,eschen002jam,Eschen,Jim,James Godrich,18910821
+1916-SOUA:fincher,cw:51d9b8c5,fincb101,finche001wil,Fincher,Bill,William Allen,18940526
+1916-SOUA:frost,cw:f4a63eed,,frost-001jam,Frost,James,James R.,
+1916-SOUA:gagnier,cw:d018e046,gagne101,gagnie001edw,Gagnier,Ed,John Edward,18830416
+1916-SOUA:gibson,cw:d65f7728,gibsf101,gibson001fra,Gibson,Frank,Frank Gilbert,18900927
+1916-SOUA:gondolfi,cw:079f134d,,gondol001dan,Gondolfi,Dan,Daniel A.,1889
+1916-SOUA:graff,cw:9fc47904,graff101,graff-001fre,Graf,Fred,Frederick Gottleib,18890825
+1916-SOUA:grimes-bir,cw:0957655a,grimb101,grimes001bur,Grimes,Burleigh,Burleigh Arland,18930818
+1916-SOUA:grimes-mem,cw:2d96c86e,grimr104,grimes001aus,Grimes,Roy,Austin Roy,18930911
+1916-SOUA:gutierrez,cw:09888e74,,gutier006jos,Gutierrez,Jose,Jose Maria,
+1916-SOUA:hanford,cw:15e7f93a,hanfc101,hanfor001cha,Hanford,Charlie,Charles Joseph,18820603
+1916-SOUA:hardgrove,cw:03688c0c,,hardgr001ome,Hardgrove,Omer,Omer William,18850107
+1916-SOUA:harris-cha,cw:458c7544,harrj103,harris001jos,Harris,Joe,Joseph,18910520
+1916-SOUA:harris-mob,cw:3ac5f6a8,,harris003e--,Harris,E.,E.,
+1916-SOUA:hauser,cw:826ba7fe,,hauser001mic,Hauser,Michael,Michael,
+1916-SOUA:hemingway,cw:391a4442,hemie101,heming001eds,Hemingway,Ed,Edson Marshall,18930508
+1916-SOUA:herbert,cw:5ff9a4c8,herbe101,herber001ern,Herbert,Ernie,Earn Albert,18870130
+1916-SOUA:higgins,cw:01a3de8a,higgb102,higgin002rob,Higgins,Bob,Robert Stone,18860923
+1916-SOUA:hoff,cw:17041685,hoffr102,hoff--002che,Hoff,Red,Chester Cornelius,18910508
+1916-SOUA:holley,cw:bb68f197,,holley001ed-,Holley,Ed,Ed,
+1916-SOUA:hollingsworth,cw:fc4d073c,,hollin001joh,Hollingsworth,John,John,
+1916-SOUA:holmquist,cw:5a6f6a25,,holmqu001jef,Holmquist,Jeff,Jeff,
+1916-SOUA:hyatt,cw:78009a78,hyath101,hyatt-002rob,Hyatt,Ham,Robert Hamilton,18841101
+1916-SOUA:jacobson,cw:a2668210,jacow101,jacobs007wil,Jacobson,Baby Doll,William Chester,18900816
+1916-SOUA:jantzen,cw:13fb892a,janth101,jantze002wal,Jantzen,Heinie,Walter Charles,18900409
+1916-SOUA:johnson,cw:4fe64633,,johnso001art,Johnson,Art,Art,
+1916-SOUA:juul,cw:1ca28a65,juulh101,juul--001ear,Juul,Herold,Earl Herold,18930521
+1916-SOUA:karr,cw:b21aa5fd,karrb101,karr--001ben,Karr,Benn,Benjamin Joyce,18931128
+1916-SOUA:kauffman,cw:ec5dc7b2,kaufd101,kauffm001how,Kauffman,Dick,Howard Richard,18880622
+1916-SOUA:kelly,cw:7019a86e,,kelly-023jam,Kelly,James,James,
+1916-SOUA:kerr,cw:e144a288,kerrd101,kerr--001ric,Kerr,Dickey,Richard Henry,18930703
+1916-SOUA:kirby,cw:95fe8051,kirbl101,kirby-001lar,Kirby,LaRue,LaRue,18891230
+1916-SOUA:kissinger,cw:ef25217a,kisir101,kising001cha,Kisinger,Rube,Charles Samuel,18761213
+1916-SOUA:kitchens,cw:e5ddc2f1,,kitche001fra,Kitchens,Pop,Gary Frank,18860303
+1916-SOUA:knaupp,cw:6a246da2,knauc101,knaupp001hen,Knaupp,Cotton,Henry Antone,18890813
+1916-SOUA:knisely,cw:dfa11e41,knisp101,knisel001pet,Knisely,Pete,Peter Cole,18840811
+1916-SOUA:knowlson,cw:8be4ca95,knowt101,knowls001tho,Knowlson,Tom,Thomas Herbert,18950423
+1916-SOUA:kores,cw:08a15acf,korea101,kores-002art,Kores,Art,Arthur Emil,18860722
+1916-SOUA:krapp,cw:14d34d58,krapg101,krapp-002eug,Krapp,Gene,Eugene Hamlet,18870512
+1916-SOUA:kroh,cw:e9b56275,krohr101,kroh--001aug,Kroh,Rube,Floyd Myron,18860825
+1916-SOUA:lafitte,cw:07d30704,lafie101,lafitt001edw,Lafitte,Ed,Edward Francis,18860407
+1916-SOUA:lautenslager,cw:6ca01987,,black-001kar,Black,Karl,Karl Leonard,18900404
+1916-SOUA:lear,cw:e73f5313,leark101,lear--001cha,Lear,King,Charles Bernard,18910123
+1916-SOUA:leclair,cw:b092d724,,leclai001geo,LeClaire,George,George L.,
+1916-SOUA:ledbetter,cw:6e1939aa,ledbr101,ledbet001ral,Ledbetter,Razor,Ralph Overton,18941208
+1916-SOUA:lee,cw:7f82f103,lee-b102,lee---009wil,Lee,Billy,William Joseph,18940109
+1916-SOUA:lennox,cw:7133cf25,lenne102,lennox001jam,Lennox,Ed,James Edgar,18831103
+1916-SOUA:lindsay,cw:405bfb10,lindb102,lindsa003wil,Lindsay,Bill,William Gibbons,18810224
+1916-SOUA:manning,cw:0872ea92,manne101,mannin001ern,Manning,Ernie,Ernest Devon,18901009
+1916-SOUA:marcan,cw:7af06626,,marcan002art,Marcan,Art,Arthur M.,1881
+1916-SOUA:marshall-cha,cw:849c42da,,marsha001rub,Marshall,Rube,Rube,
+1916-SOUA:marshall-nas,cw:1f1a55a5,,marsha001cla,Marshall,Clarence,Clarence H.,18870423
+1916-SOUA:martina,cw:f3456129,martj104,martin020joh,Martina,John,John Joseph,18890708
+1916-SOUA:massey,cw:dd8dd0ae,massm101,massey002wil,Massey,Mike,William Herbert,18930928
+1916-SOUA:mayer,cw:ab721dd8,mayes101,mayer-001sam,Mayer,Sam,Samuel Frankel,18930228
+1916-SOUA:mcdonald-atl,cw:25abc8d5,mcdot101,mcdona005cha,McDonald,Tex,Charles C.,18910131
+1916-SOUA:mcdonald-bir,cw:ced1dc24,mcdoe101,mcdona002edw,McDonald,Ed,Edward Cyril,18861028
+1916-SOUA:mcdowell,cw:f36ddf46,,mcdowe001hol,McDowell,Holt,Holt,
+1916-SOUA:mcintrye,cw:64d3d363,mcinm101,mcinty001mat,McIntyre,Matty,Matthew Martin,18800612
+1916-SOUA:mcmillan,cw:b8bb6f0a,mcmit101,mcmill004tho,McMillan,Tommy,Thomas Law,18880418
+1916-SOUA:merritt,cw:5f166dbf,merrj101,merrit001joh,Merritt,John,John Howard,18941012
+1916-SOUA:messenger,cw:5e693f58,messb101,messen001cha,Messenger,Bobby,Charles Walter,18840319
+1916-SOUA:meusel,cw:a9ef4dc6,meusi101,meusel001emi,Meusel,Irish,Emil Frederick,18930609
+1916-SOUA:midkiff,cw:3b2159b8,midke101,midkif003ezr,Midkiff,Ezra,Ezra Millington,18821113
+1916-SOUA:monroe,cw:0c295e7b,monre101,monroe001edw,Monroe,Ed,Edward Oliver,18950222
+1916-SOUA:moore,cw:ea0af163,,moore-001eug,Moore,Eugene,Eugene,
+1916-SOUA:moran,cw:4691d0cf,morar101,moran-001roy,Moran,Roy,Roy Ellis,18840917
+1916-SOUA:moriarity,cw:44c82f26,morig101,moriar003geo,Moriarty,George,George Joseph,18850707
+1916-SOUA:munch,cw:aa4a6855,muncj101,munch-001jac,Munch,Jake,Jacob Ferdinand,18901116
+1916-SOUA:myers,cw:b1f1ed90,,myers-001mah,Myers,Mahlon,Mahlon F.,1892
+1916-SOUA:neiderkorn,cw:7febe72c,,nieder001nor,Niederkorn,Norman,Norbert Paul,18941022
+1916-SOUA:nicholson.f,cw:96666f89,nichf101,nichol002fre,Nicholson,Fred,Fred,18940901
+1916-SOUA:nicholson.o,cw:277a7c9a,nicho101,nichol002ovi,Nicholson,Ovid,Ovid Edward,18881230
+1916-SOUA:nolley,cw:1f2d8eb9,,nolley001ruf,Nolley,Rufus,Rufus L.,18801008
+1916-SOUA:odell,cw:71c24d09,,odell-002alf,O'Dell,Alfred,Alfred,
+1916-SOUA:orourke,cw:017d97b0,orouf101,orourk002jam,O'Rourke,Frank,James Francis,18931128
+1916-SOUA:paulette,cw:147b2f14,paulg102,paulet002eug,Paulette,Gene,Eugene Edward,18910526
+1916-SOUA:payne,cw:1099b4bc,paynf101,payne-001fre,Payne,Fred,Frederick Thomas,18800902
+1916-SOUA:perkins,cw:da262631,perkc101,perkin001ral,Perkins,Cy,Ralph Foster,18960227
+1916-SOUA:perry,cw:55c35b63,perrs101,perry-002her,Perry,Scott,Herbert Scott,18910417
+1916-SOUA:perryman,cw:d47dee3d,perrp102,perrym001emm,Perryman,Parson,Emmett Key,18881024
+1916-SOUA:peters,cw:5da5252e,petej102,peters003joh,Peters,John,John William,18930714
+1916-SOUA:pezold,cw:ed805f30,pezol101,pezold001lor,Pezold,Larry,Lorenz Johannes,18930622
+1916-SOUA:pitler,cw:4b700caf,pitlj101,pitler001jac,Pitler,Jake,Jacob Albert,18940422
+1916-SOUA:ponder,cw:10ed2b13,ponde101,ponder001cha,Ponder,Elmer,Charles Elmer,18930626
+1916-SOUA:powell,cw:2c2643b4,poweb102,powell003wil,Powell,Bill,William Burris,18850508
+1916-SOUA:powers,cw:3d0332d7,,powers002pet,Powers,Peter,Peter,
+1916-SOUA:prieste,cw:ab7481ac,,priest001mon,Priest,Monte,Morey Jordan,18911125
+1916-SOUA:reilly-atl,cw:3e0ce945,reilt101,reilly002tho,Reilly,Tom,Thomas Henry,18840803
+1916-SOUA:reilly-mob,cw:2c3a2da1,reilh101,reilly001har,Reilly,Hal,Harold John,18940401
+1916-SOUA:robertson-bir,cw:827b1b9e,robed106,robert002pre,Robertson,Dick,Preston James,18910916
+1916-SOUA:robertson-mem,cw:8dcb3dec,,robert009wil,Robertson,William,William Clifford,18831231
+1916-SOUA:robinson,cw:807cc0e9,robih102,robins003joh,Robinson,Hank,John Henry,18870816
+1916-SOUA:rogers,cw:89e80bff,roget101,rogers001tho,Rogers,Tom,Thomas Andrew,18920212
+1916-SOUA:ruel,cw:cd44a05b,ruelm101,ruel--001her,Ruel,Muddy,Herold Dominic,18960220
+1916-SOUA:rumler,cw:91b314d0,rumlw101,rumler002wil,Rumler,William,William George,18910327
+1916-SOUA:schmidt,cw:b252f8b9,schmb102,schmid001cha,Schmidt,Boss,Charles,18800912
+1916-SOUA:sharman,cw:ab861087,sharr101,sharma001ral,Sharman,Ralph,Ralph Edward,18950411
+1916-SOUA:sheehan,cw:81783509,,sheeha001tho,Sheehan,Thomas,Thomas,
+1916-SOUA:smith-bir,cw:4f15676e,smitr104,smith-007wil,Smith,Red,Willard Jehu,18920411
+1916-SOUA:smith-no,cw:208b356c,smitp107,smith-002cla,Smith,Pop-boy,Clarence Ossie,18920523
+1916-SOUA:smykal,cw:cdd9d5c2,smykf101,smykal001fra,Smykal,Frank,Frank John,18891013
+1916-SOUA:snyder,cw:0d2f9912,,snyder001jos,Snyder,Joseph,Joseph,
+1916-SOUA:stansbury,cw:41a9a5f0,stanj102,stansb001joh,Stansbury,Jack,John James,18851206
+1916-SOUA:stark,cw:9ed89161,stard101,stark-001mon,Stark,Dolly,Monroe Randolph,18850119
+1916-SOUA:starr,cw:e22bebdf,starc101,starr-001cha,Starr,Charlie,Charles Watkin,18780830
+1916-SOUA:stone,cw:f3b34551,stond101,stone-002dwi,Stone,Dwight,Dwight Ely,18860802
+1916-SOUA:street,cw:3c9c25c8,streg101,street001cha,Street,Gabby,Charles Evard,18820930
+1916-SOUA:swacina,cw:fbcbd0f2,swach101,swacin001har,Swacina,Harry,Harry Joseph,18810822
+1916-SOUA:sylvester,cw:0980b93d,,sylves001har,Sylvester,Harry,Harry Benj,18890328
+1916-SOUA:taylor,cw:5cffe24d,taylw101,taylor002phi,Taylor,Wiley,Philip Wiley,18880318
+1916-SOUA:tennant,cw:3876bd32,tennt101,tennan001tho,Tennant,Tom,Thomas Francis,18820703
+1916-SOUA:thomas,cw:94946073,thomf102,thomas004fre,Thomas,Fred,Frederick Harvey,18921219
+1916-SOUA:thrasher,cw:24b5fe4d,thrab101,thrash001fra,Thrasher,Buck,Frank Edward,18890806
+1916-SOUA:tillman,cw:097dcab6,tillj101,tillma001joh,Tillman,Johnny,John Lawrence,18931006
+1916-SOUA:townsend,cw:4716cb47,townl101,townse002leo,Townsend,Leo,Leo Alphonse,18910115
+1916-SOUA:walker-cha,cw:a60178d1,,walker001dix,Walker,Dixie,Dixie,
+1916-SOUA:walker-lr,cw:6fe4a6a4,walke101,walker001ern,Walker,Ernie,Ernest Robert,18900917
+1916-SOUA:walker-no,cw:da5a2899,walkr102,walker010jam,Walker,Roy,James Roy,18930413
+1916-SOUA:wallace,cw:6004c5a3,wallj104,wallac001cla,Wallace,Jack,Clarence Eugene,18900806
+1916-SOUA:walsh,cw:dcf89c36,,walsh-010jam,Walsh,James,James R.,
+1916-SOUA:ward,cw:b1b81200,warda101,ward--001aar,Ward,Aaron,Aaron Lee,18960828
+1916-SOUA:wares,cw:cc70f378,wareb101,wares-001cly,Wares,Buzzy,Clyde Ellsworth,18860523
+1916-SOUA:watson,cw:e5f6ce18,,watson035---,Watson,,,
+1916-SOUA:weaver,cw:2bed35bb,weavo101,weaver001orv,Weaver,Orlie,Orville Forest,18860604
+1916-SOUA:wells,cw:9ebfd16f,,wells-001fra,Wells,Frank,Frank,
+1916-SOUA:werner,cw:e212df1f,,werner001wal,Werner,Walter,Walter,
+1916-SOUA:whalen,cw:659e819b,,whalen001fen,Whalen,Fenton,Fenton,
+1916-SOUA:wheeler,cw:e5bd23d9,wheer101,wheele001flo,Wheeler,Rip,Floyd Clark,18980302
+1916-SOUA:wilcox,cw:399daf3b,,wilcox001wil,Wilcox,William,William,
+1916-SOUA:wiley,cw:3cc07deb,,wiley-001joe,Wiley,Joe,Joe,
+1916-SOUA:willett,cw:41d454c5,wille103,willet002rob,Willett,Ed,Robert Edgar,18840307
+1916-SOUA:williams-nas,cw:ea0c9472,willg103,willia001aug,Williams,Gus,August Joseph,18880507
+1916-SOUA:williams-no,cw:0045610c,,willia001urb,Williams,Urban,Urban,
+1916-SOUA:wilson,cw:b191b5f4,wilsf102,wilson001fin,Wilson,Fin,Finis Elbert,18881209
+1916-SOUA:works,cw:41d0725a,workr101,works-002ral,Works,Ralph,Ralph Talmadge,18880316
+1916-SOUA:wright,cw:767db504,wrigb101,wright002rob,Wright,Bob,Robert Cassius,18911213
+1916-SOUA:yerkes,cw:b9468c5e,yerks101,yerkes001ste,Yerkes,Steve,Stephen Douglas,18880515
+1916-SOUA:zinn,cw:78c31666,zinng101,zinn--001guy,Zinn,Guy,Guy,18870213
+1916-TL:allen,cw:ce7bc03a,alles101,allen-001fle,Allen,Sled,Fletcher Manson,18860823
+1916-TL:andreen,cw:0d8c2915,,andree001mik,Andreen,Mike,Morton Lavine,18900425
+1916-TL:atz,cw:b167c2a1,atz-j101,atz---001joh,Atz,Jake,Jacob Henry,18790701
+1916-TL:baggan,cw:514dc4eb,,baggan001joh,Baggan,John,John,18881125
+1916-TL:bailey,cw:f4a74b59,bailg101,bailey001art,Bailey,Gene,Arthur Eugene,18931125
+1916-TL:balenti,cw:88c44a4c,balem101,balent001mic,Balenti,Mike,Michael Richard,18860703
+1916-TL:barfoot,cw:37e4100b,barfc101,barfoo001cly,Barfoot,Clyde,Clyde Raymond,18910708
+1916-TL:barr,cw:20c9f474,barrs102,barr--001hyd,Barr,Scotty,Hyder Edward,18861006
+1916-TL:becker,cw:d93719c1,,becker001jes,Becker,Jess,Jesse F.,18820606
+1916-TL:bernsen,cw:71120aa7,,bernse001alb,Bernsen,Albert,Albert William,18910819
+1916-TL:betts,cw:9c28d225,,betts-001cha,Betts,Charles,Charles,
+1916-TL:bittle,cw:48addd7d,,bittle001cla,Bittle,Clarence,Clarence Elwood,18890208
+1916-TL:bluejacket,cw:073c9f7f,bluej101,blueja001jam,Bluejacket,Jim,James,18870708
+1916-TL:bobo,cw:90637d95,,bobo--001che,Bobo,Chester,Chester Collins,18920830
+1916-TL:brandt,cw:c60bb430,,brant-001gro,Brant,Grover,Grover C.,18901105
+1916-TL:breaux,cw:3b5aab52,,breaux001rus,Breaux,Russell,Russell,
+1916-TL:bronwlow,cw:50b384e8,,brownl002joh,Brownlow,Ben,John Benjeman,18860902
+1916-TL:burch,cw:8eb0f05b,,burch-001joh,Burch,Barney,John Feagin,18900806
+1916-TL:bush,cw:923e8db5,,bush--001joe,Bush,Joe,Joseph G.,
+1916-TL:butler,cw:161e4660,butlk102,butler007wil,Butler,Kid,Willis Everett,18870809
+1916-TL:carmody,cw:d10a96cc,,carmod001fra,Carmody,Frank,Franklin M.,
+1916-TL:carroll,cw:5300844d,carrd103,carrol001dor,Carroll,Dixie,Dorsey Lee,18910519
+1916-TL:causey,cw:24b65a55,causr101,causey001cec,Causey,Red,Cecil Algerton,18930811
+1916-TL:citrano,cw:daea68fa,,citran001ton,Citrano,Tony,Tony,
+1916-TL:clark,cw:0d64280e,clarj101,clark-004jam,Clark,Jim,James Francis,18871226
+1916-TL:compere,cw:0dc8c0f8,,comper001irw,Compere,Irwin,William Irvin,18941007
+1916-TL:conley,cw:7cc0b582,conls101,conley003jam,Conley,Snipe,James Patrick Michael,18920425
+1916-TL:conwell,cw:05e4d950,conwe101,conwel001edw,Conwell,Ed,Edward James,18900129
+1916-TL:cook,cw:006ffa3d,,cook--001les,Cook,Les,Lester Spurgeon,18950326
+1916-TL:couchman,cw:ebef35b6,,couchm001rob,Couchman,Bob,Robert Macbeth,18880201
+1916-TL:coyle,cw:b5f58c0a,,coyle-001nor,Coyle,Norman,Norman,18890913
+1916-TL:criss,cw:be0f0ff6,crisd101,criss-001dod,Criss,Dode,Dode,18850312
+1916-TL:crouch,cw:5029cd32,,crouch001wil,Crouch,Wilbur,Wilbur,
+1916-TL:dee,cw:d0e7230b,dee-s101,dee---001mau,Dee,Shorty,Maurice Leo,18891004
+1916-TL:delahanty,cw:01aa916e,delaj103,delaha001jam,Delahanty,Jim,James Christopher,18790620
+1916-TL:deltz,cw:c662558e,,diltz-001ste,Diltz,Stewart,Stewart,
+1916-TL:diamond,cw:e9e41ac6,,dimond001ben,Dimond,Ben,Ben,18881120
+1916-TL:dickson,cw:df648610,dickw101,dickso001wal,Dickson,Walt,Walter Raleigh,18781203
+1916-TL:dodd,cw:38f97283,doddo101,dodd--001ora,Dodd,Ona,Ona Melvin,18861014
+1916-TL:donalds,cw:154859c5,donae101,donald001edw,Donalds,Ed,Edward Alexander,18830622
+1916-TL:duffy,cw:57916a68,,duffy-001ed-,Duffy,Ed,Edward L.,
+1916-TL:dunckell,cw:7c4d3199,,duncke001ear,Dunckel,Earl,Earl S.,
+1916-TL:edmondson,cw:4ab734f3,,edmond001rog,Edmondson,Roger,Roger E.,18861211
+1916-TL:elwert,cw:10a59f43,,elwert001wil,Elwert,Bill,William J.,18800111
+1916-TL:ens,cw:70280e43,ens-j101,ens---001jew,Ens,Jewel,Jewel Winklemeyer,18890824
+1916-TL:fentress,cw:be31c553,,fentre001roy,Fentress,Roy,Roy E.,18870204
+1916-TL:flynn,cw:55af47f7,flind101,flinn-001don,Flinn,Don,Don Raphael,18921117
+1916-TL:frierson,cw:69e7c902,,friers001joh,Frierson,John,John S.,
+1916-TL:gardner,cw:0fb9d793,,gardne001lut,Gardner,Rube,Luther Curtis,18831105
+1916-TL:gleason,cw:794c9595,gleaj101,gleaso003jos,Gleason,Joe,Joseph Paul,18950709
+1916-TL:green,cw:2faa6a09,,green-003e--,Green,E. H.,E. H.,1885
+1916-TL:grubb,cw:19cc8dfa,grubh102,grubb-002har,Grubb,Harvey,Harvey Harrison,18900918
+1916-TL:gudger,cw:ae5e223f,,gudger001jam,Gudger,James,James,
+1916-TL:harbin,cw:395222e9,,harben001c--,Harben,Charles,Charles Hugh,18911031
+1916-TL:harding,cw:efbd9887,hardc102,hardin003cha,Harding,Charlie,Charles Harold,18910103
+1916-TL:harrah,cw:3bc73ce6,,harrah001orv,Harrah,Orville,Orville,
+1916-TL:hemmingway,cw:391a4442,hemie101,heming001eds,Hemingway,Ed,Edson Marshall,18930508
+1916-TL:hill,cw:7379902f,hillr101,hill--001cli,Hill,Red,Clifford Joseph,18930120
+1916-TL:hille,cw:47bd8154,,hille-001wil,Hille,William,William,
+1916-TL:hollander,cw:bbf1bff8,,hollan006wil,Hollander,Bill,William,18911209
+1916-TL:holt,cw:9d28969d,halta101,halt--001alv,Halt,Al,Alva William,18901123
+1916-TL:hunter,cw:5f2ea400,huntn101,hunter002fre,Hunter,Newt,Frederick Creighton,18800105
+1916-TL:jacobus,cw:2978c9e5,jacol101,jacobu001stu,Jacobus,Larry,Stuart Louis,18941213
+1916-TL:james,cw:0a0705fe,jameb101,james-002ber,James,Bert,Berton Hulon,18860707
+1916-TL:jenkins,cw:2369a264,jenkj102,jenkin002jos,Jenkins,Joe,Joseph Daniel,18901012
+1916-TL:johnson-fw,cw:0b89ec19,johnr104,johnso003ada,Johnson,Rankin,Adam Rankin,18880204
+1916-TL:johnson-gal,cw:9b751187,,johnso015wil,Johnson,Will,William F.,
+1916-TL:johnston,cw:da0c076c,johnj106,johnst003joh,Johnston,Johnny,John Thomas,18900328
+1916-TL:josephson,cw:9b0d58c0,,josefs001god,Josefson,Godfrey,John Godfrey,18930420
+1916-TL:jost,cw:422b8e25,,jost--001oll,Jost,Ollie,Ollie,
+1916-TL:karr,cw:b21aa5fd,karrb101,karr--001ben,Karr,Benn,Benjamin Joyce,18931128
+1916-TL:knaupp,cw:64fd7f8b,,knaupp001wil,Knaupp,Chick,William Lewis,18921222
+1916-TL:kneaves,cw:ee8ee924,,kneave001jos,Kneaves,Joseph,Joseph,
+1916-TL:kuhn,cw:4bf9959f,kuhnw101,kuhn--001wal,Kuhn,Walt,Charles Walter,18870202
+1916-TL:lee,cw:4ea47635,,lee---003all,Lee,Al,Allen C.,
+1916-TL:leslie,cw:4aca8f81,leslr101,leslie001roy,Leslie,Roy,Roy Reid,18940823
+1916-TL:leverett,cw:9a515d4d,leveh101,levere001hor,Leverette,Hod,Horace Wilbur,18890204
+1916-TL:lewis,cw:ec2d46b3,,lewis-001sam,Lewis,Sam,Samuel I.,18930317
+1916-TL:lourcey,cw:e6f05d38,,lource001wil,Lourcey,William,William,
+1916-TL:love,cw:0000ba28,,love--001jac,Love,Jack,Jackson,18810405
+1916-TL:malmquist,cw:7a61b0aa,,malmqu001wal,Malmquist,Walter,Walter E.,18901021
+1916-TL:manda,cw:06544a7d,mandc101,manda-001car,Manda,Carl,Carl Alan,18861116
+1916-TL:martini,cw:f3456129,martj104,martin020joh,Martina,John,John Joseph,18890708
+1916-TL:mccandless,cw:7a065b86,mccaj107,mccand001sco,McCandless,Jack,Scott Cook,18910505
+1916-TL:mciver,cw:0406f03d,mcivo101,mcivor001edw,McIvor,Otto,Edward Otto,18840726
+1916-TL:mclauren,cw:5cdca188,mclar101,mclaur001ral,McLaurin,Ralph,Ralph Edgar,18850523
+1916-TL:mcmahon,cw:65ef9875,,mcmaho001boy,McMahan,Boyd,John Boyd,18930203
+1916-TL:mcneil,cw:10eb8cfa,,mcneil001nel,McNeill,Nelson,Nelson,18940917
+1916-TL:miller,cw:e6225ef3,mille103,miller009edw,Miller,Ed,Edwin Collins,18881124
+1916-TL:moore,cw:0ae621fd,moorg103,moore-005eug,Moore,Gene,Eugene,18851109
+1916-TL:mullen,cw:c7d3c17b,,mullin001ovi,Mullins,Ovid,Ovid Vethy,18931129
+1916-TL:murray,cw:974d00b3,murrj101,murray008jam,Murray,Jim,James Oscar,18780116
+1916-TL:napier,cw:700be3a8,napib101,napier001ske,Napier,Buddy,Skelton Leroy,18891218
+1916-TL:newnam,cw:39ec2907,newnp101,newnam001pat,Newnam,Pat,Robert Albert,18801210
+1916-TL:nixon,cw:131d2992,nixoa101,nixon-001alb,Nixon,Al,Albert Richard,18860411
+1916-TL:northern,cw:4c738903,north101,northe001hub,Northen,Hub,Hubbard Edwin,18860816
+1916-TL:noyes,cw:7796452a,,noyes-001edw,Noyes,Eddie,Edwin Gossin,18801118
+1916-TL:ogle,cw:44ae46c4,,ogle--001hat,Ogle,Hatton,Hatton Geter,18830806
+1916-TL:perritt,cw:5e6372fc,,perrit001flo,Perritt,Floyd,Floyd,
+1916-TL:perry,cw:3180151e,perrc101,perry-001cla,Perry,Clay,Clayton Shields,18811218
+1916-TL:petty,cw:9c706ae4,pettj103,petty-001jes,Petty,Jesse,Jesse Lee,18941123
+1916-TL:redford,cw:e063cff7,,redfor001fri,Redford,Fritz,Fritz,18911202
+1916-TL:riley,cw:d3922eac,,reilly001emm,Reilly,Turk,Emmett Robert,18890410
+1916-TL:robinson,cw:94014924,,robins033---,Robinson,,,
+1916-TL:sage,cw:04fcbc1d,,sage--001geo,Sage,George,George,
+1916-TL:schrader,cw:b4e5f0b6,,schrad001aug,Schrader,August,August,
+1916-TL:schwind,cw:a3835826,schwa101,schwin001art,Schwind,Art,Arthur Edwin,18891104
+1916-TL:seitz,cw:b8f78402,,seitz-002cha,Seitz,Charlie,Charles W.,18840814
+1916-TL:sentell,cw:b545e91a,sentp101,sentel001leo,Sentell,Paul,Leopold Theodore,18790827
+1916-TL:sewell,cw:9aaf2ea6,,sewell002jam,Sewell,Jim,James Wesley,18850217
+1916-TL:sharman,cw:ab861087,sharr101,sharma001ral,Sharman,Ralph,Ralph Edward,18950411
+1916-TL:sloan,cw:b72e0b81,,sloan-001tod,Sloan,Tod,J. Tod,
+1916-TL:smith-dal,cw:60d8bb8d,smith104,smith-018har,Smith,Harry,Harry Thomas,18741031
+1916-TL:smith-shr,cw:7d483625,smits101,smith-001syd,Smith,Syd,Sydney A.,18830831
+1916-TL:smithson,cw:bff62edd,,smiths001joh,Smithson,John,John Fritz,18930829
+1916-TL:snedecor,cw:447b300a,,snedec001pal,Snedecor,Palmer,Palmer G.,18911005
+1916-TL:stark,cw:9ed89161,stard101,stark-001mon,Stark,Dolly,Monroe Randolph,18850119
+1916-TL:stewart,cw:c958a543,,stewar005har,Stewart,Harry,Harry Leonard,18820825
+1916-TL:stowe,cw:0e8d138c,,stow--001rob,Stow,Bobby,Robert Carlton,18880111
+1916-TL:stuart,cw:1bdc8ea1,stual101,stuart001lut,Stuart,Luke,Luther Lane,18920523
+1916-TL:stupp,cw:db8f1221,,stupp-001har,Stupp,Harry,Harry,
+1916-TL:swan,cw:9b14b2cc,,swann-001o--,Swan,Kinlock,Oscar Kinlock,18791029
+1916-TL:tanner,cw:f6772a75,,tanner001arc,Tanner,Arch,Archie DeWitt,18910508
+1916-TL:tarleton,cw:c4c77ba4,,tarlet001rob,Tarleton,Bob,Robert Samuel,18810108
+1916-TL:terry,cw:4281b131,terrb101,terry-002wil,Terry,Bill,William Harold,18981030
+1916-TL:thompson,cw:cb8cdc2d,,thomps005wil,Thompson,Bill,William G.,
+1916-TL:tillman,cw:097dcab6,tillj101,tillma001joh,Tillman,Johnny,John Lawrence,18931006
+1916-TL:tretter,cw:8bf14fef,,trette001lou,Tretter,Louis,Louis,
+1916-TL:troutman,cw:0111172d,,troutm001fre,Troutman,Fred,Fred,
+1916-TL:tullos,cw:84ed9b72,,tullos001les,Tullos,Les,Leslie E.,18850717
+1916-TL:watkins,cw:225e8f59,,watkin001rob,Watkins,Robert,Robert Y.,
+1916-TL:welchonce,cw:5bc7b9d6,welch102,welcho001har,Welchonce,Harry,Harry Monroe,18831120
+1916-TL:westerzil,cw:0fe8c88a,wistt101,wister001geo,Wisterzil,Tex,George John,18880307
+1916-TL:wilson,cw:9a9e2aa5,wilst101,wilson003tho,Wilson,Tom,Thomas G.,18900603
+1916-TL:wohleben,cw:14d16173,,wohlen001fre,Wohllenben,Fred,Frederick H.,
+1916-TL:wotell,cw:69567966,,wotell001mic,Wotell,Michael,Michael George,18851212
+1916-TL:zinn,cw:a8472f60,zinnj101,zinn--002jam,Zinn,Jimmy,James Edward,18950131
+1916-VIRL:albus,cw:673cc914,,albus-001geo,Albus,George,George,
+1916-VIRL:alexander,cw:622c1346,,alexan001sam,Alexander,Sam,Samuel J.,1885
+1916-VIRL:allen,cw:c2fd198a,,allen-002cha,Allen,Charles,Charles,
+1916-VIRL:alton,cw:2ec8bc05,altee101,alten-001ern,Alten,Ernie,Ernest Matthias,18941201
+1916-VIRL:applegate,cw:0be9a0fa,,appleg001abe,Applegate,Abe,Abel W.,18911205
+1916-VIRL:baker,cw:a92b318b,,baker-050---,Baker,,,
+1916-VIRL:barnett,cw:df5f5cb1,,barnet001jam,Barnett,James,James G.,
+1916-VIRL:bennett,cw:6f5daab4,,bennet031---,Bennett,,,
+1916-VIRL:berger,cw:459875df,,berger010---,Berger,,,
+1916-VIRL:bowen,cw:cac36450,,bowen-001gra,Bowen,Grady,Grady,
+1916-VIRL:brown,cw:fbc0cc84,,brown-194---,Brown,,,
+1916-VIRL:bruce,cw:241b8a37,,bruce-001gra,Bruce,Graham,Graham H.,
+1916-VIRL:carroll,cw:7f9f82c9,,carrol028---,Carroll,,,
+1916-VIRL:cochran,cw:ff0819d6,cochg102,cochra001alv,Cochran,Goat,Alvah Jackson,18900131
+1916-VIRL:colbert,cw:0f056a69,,calber001ern,Calbert,Ernest,Ernest Elgin,18870113
+1916-VIRL:crabble,cw:01ed8de2,,crabbl001---,Crabble,,,
+1916-VIRL:craft,cw:4b369361,crafm101,craft-002mau,Craft,Molly,Maurice Montague,18951128
+1916-VIRL:crist,cw:c12ee92f,,crist-001fw-,Crist,Brook,F. W.,
+1916-VIRL:cronin,cw:afb2d6dc,,cronin001eug,Cronin,Eugene,Eugene J.,
+1916-VIRL:cueto,cw:b11699b1,cuetm101,cueto-001man,Cueto,Manuel,Manuel,18920208
+1916-VIRL:darden,cw:d8705400,,darden001buc,Darden,Buck,Buck,
+1916-VIRL:doyle,cw:7ee9d038,,doyle-022---,Doyle,,,
+1916-VIRL:dozier,cw:f3f349a9,,dozier001ew-,Dozier,E. W.,E. W.,
+1916-VIRL:edwards,cw:104ff818,,edward001jam,Edwards,James,James,1884
+1916-VIRL:eisel,cw:6dfbcc4f,,eisel-001---,Eisel,,,
+1916-VIRL:eldridge,cw:1410fd17,,eldrid001jes,Eldridge,Rube,Jesse Morgan,18880720
+1916-VIRL:emery,cw:6cfafcf4,,emery-001b--,Emery,Bert,Burleigh Samuel,18840217
+1916-VIRL:ferguson,cw:9687e2aa,,fergus003joh,Ferguson,John,John,
+1916-VIRL:fox,cw:d81e38f3,,fox---001jam,Fox,Jim,James Claudius,18790303
+1916-VIRL:gallagher,cw:f2c7595e,,gallag001log,Gallagher,Logan,Logan A.,
+1916-VIRL:gandy,cw:2673c67c,gandb101,gandy-001rob,Gandy,Bob,Robert Brinkley,18930825
+1916-VIRL:gardin,cw:55360b64,,gardin001ber,Gardin,Bert,Daniel Albert,18910317
+1916-VIRL:gardinier,cw:9e4c2e68,,gardin003---,Gardinier,,,
+1916-VIRL:gaston,cw:177c2d36,,gaston001ste,Gaston,Steve,Steve,
+1916-VIRL:goalby,cw:b97c81e8,,goalby001fra,Goalby,Frank,Frank John,18900118
+1916-VIRL:goosetree,cw:f11df283,,gooset001ed-,Goostree,Eddie,Mallie Edward,18880126
+1916-VIRL:graham,cw:2b400bae,,graham001j--,Graham,Frank,J. Frank,
+1916-VIRL:gray,cw:5eb88d1a,,gray--001cec,Gray,Cecil,Cecil,
+1916-VIRL:gust,cw:0028999a,,gust--002---,Gust,,,
+1916-VIRL:hamilton,cw:f29db0a2,,hamilt001f--,Hamilton,F. T.,F. T.,
+1916-VIRL:handiboe,cw:706d6582,handm101,handib001alo,Handiboe,Mike,Aloysius James,18870721
+1916-VIRL:hartsell,cw:996fb8d7,,hartse004---,Hartsell,,,
+1916-VIRL:hayes,cw:502a8e0d,,hayes-012---,Hayes,,,
+1916-VIRL:helfrich,cw:0498f4e3,helft101,helfri001emo,Helfrich,Ty,Emory Wilbur,18901009
+1916-VIRL:henry,cw:47415ce7,henrs101,henry-002fre,Henry,Snake,Frederick Marshall,18950719
+1916-VIRL:hopkins,cw:cf759ddd,hopkb101,hopkin004joh,Hopkins,Buck,John Winton,18830103
+1916-VIRL:hudgins,cw:98bd5f18,,hudgin001gen,Hudgins,Gene,Louis Eugene,18930331
+1916-VIRL:hurd,cw:331b807f,,hurd--003---,Hurd,,,
+1916-VIRL:irmscher,cw:44d2bf45,,irmsch001pau,Irmscher,Paul,Paul,18780417
+1916-VIRL:jarman,cw:2c98fde5,,jarman001fra,Jarman,Frank,Frank McWhorter,18920521
+1916-VIRL:king,cw:5f9ec42d,,king--001k--,King,K.,K. S.,
+1916-VIRL:kircher,cw:e5a78704,,kirche001geo,Kircher,George,George C.,18871011
+1916-VIRL:klein,cw:d4dd5142,,klein-001kir,Klein,Kirk,Kirk L.,
+1916-VIRL:lake,cw:7500b8b5,,lake--002har,Lake,Harry,Harry G.,1890
+1916-VIRL:leake,cw:e93dd4a9,,leake-001alb,Leake,Al,Albert,
+1916-VIRL:lindsay,cw:405bfb10,lindb102,lindsa003wil,Lindsay,Bill,William Gibbons,18810224
+1916-VIRL:llewellyn,cw:6df822f4,,llewel001---,Llewellyn,,,
+1916-VIRL:mace,cw:d0293853,,mace--001joh,Mace,Johnny,John William,18900903
+1916-VIRL:manning,cw:64b8ca89,,mannin001wil,Manning,William,William A.,1895
+1916-VIRL:marcan,cw:7af06626,,marcan002art,Marcan,Art,Arthur M.,1881
+1916-VIRL:marks,cw:5e37c488,,marks-001cly,Marks,Clyde,Clyde C.,
+1916-VIRL:mathews,cw:7b2db3fa,,mathew013---,Mathews,,,
+1916-VIRL:mcclellan,cw:ce694143,,mcclel001bog,McClellan,Boggs,I. Boggs,
+1916-VIRL:mcdaniels,cw:d7fc48f1,,mcdani001chu,McDaniels,Chuck,Chuck,
+1916-VIRL:mcmahon,cw:6e9ba13d,,mcmaho001m--,McMahon,Molly,Morrison Davis,18820831
+1916-VIRL:mohart,cw:e913558c,mohag101,mohart001geo,Mohart,George,George Benjamin,18920306
+1916-VIRL:moore-nor,cw:884f1afe,,moore-011j--,Moore,J.,J.,
+1916-VIRL:moore-por,cw:26018540,,moore-002ric,Moore,Richard,Richard C.,
+1916-VIRL:moorefield,cw:57c47341,,mooref001geo,Moorefield,George,George H.,
+1916-VIRL:morpeth,cw:23ec2b27,,morpet001cas,Morpeth,Casper,Casper Leon,18940215
+1916-VIRL:mullin,cw:afd80a91,,mullin001b--,Mullin,B. F.,B. F.,
+1916-VIRL:newton,cw:779cd587,,newton001eug,Newton,Eugene,Eugene Hervy,18840229
+1916-VIRL:nicks,cw:e239b046,,nicks-001ira,Nicks,Ira,Ira G.,
+1916-VIRL:orr,cw:d5446a53,,orr---008---,Orr,,,
+1916-VIRL:owens,cw:a549b886,,owens-016---,Owens,,,
+1916-VIRL:parker,cw:04209c65,,parker004w--,Parker,W. E.,W. E.,
+1916-VIRL:parlman,cw:b04b7821,,pahlma001ott,Pahlman,Otto,Otto,
+1916-VIRL:parmalee,cw:6f005f53,,parmal001ott,Parmalee,Otto,Otto,
+1916-VIRL:pay,cw:5871b9fa,,pay---001geo,Pay,George,George W.,
+1916-VIRL:payne,cw:1099b4bc,paynf101,payne-001fre,Payne,Fred,Frederick Thomas,18800902
+1916-VIRL:pearson,cw:74d5dbc9,,pearso002isa,Pearson,Ike,Isaac O.,18910727
+1916-VIRL:pickett,cw:2aa6d2a6,,picket001o--,Pickett,Milton,O. Milton,
+1916-VIRL:poh,cw:3a6a883c,,poh---001wal,Poh,Walker,Walker Lawrence,18920808
+1916-VIRL:poole,cw:bc2f6423,,pool--001jam,Pool,James,James,
+1916-VIRL:pooray,cw:38fb1431,porre101,porray001edm,Porray,Ed,Edmund Joseph,18881205
+1916-VIRL:pressly,cw:df68ab13,,pressl002wil,Pressly,Buck,William Lowry,18861202
+1916-VIRL:ray,cw:7975e0f6,ray-c101,ray---002car,Ray,Carl,Carl Grady,18890131
+1916-VIRL:reynolds,cw:e877e7e6,,reynol001ham,Reynolds,Ham,Hammond G.,
+1916-VIRL:richardson,cw:751ef17f,,richar025---,Richardson,,,
+1916-VIRL:ripley,cw:43253228,,ripley001---,Ripley,,,
+1916-VIRL:ritchie,cw:874447e6,,ritchi001har,Ritchie,Harry,Harry T.,
+1916-VIRL:rogers,cw:b90cb050,,rogers031---,Rogers,,,
+1916-VIRL:rower,cw:f438746e,,rowe--013---,Rowe,,,
+1916-VIRL:russell-hop,cw:29fb48d7,,russel011---,Russell,,,
+1916-VIRL:russell-rm,cw:5e802269,,russel021---,Russell,,,
+1916-VIRL:ryan,cw:d3f00e24,,ryan--001ray,Ryan,Ray,Ray,
+1916-VIRL:schulte,cw:b49a41df,schuj106,schult002joh,Schulte,Johnny,John Clement,18960908
+1916-VIRL:shaw,cw:1b331e57,,shaw--001e--,Shaw,Pop,E. N.,
+1916-VIRL:short,cw:30957b6a,,short-002ray,Short,Raymond,Raymond L.,
+1916-VIRL:sicking,cw:7c4669d7,sicke101,sickin001edw,Sicking,Ed,Edward Joseph,18970330
+1916-VIRL:simmons,cw:a7d88a86,,simmon001l--,Simmons,Lester,Lester R.,
+1916-VIRL:smith-nn,cw:e0a6266d,,smith-007art,Smith,Arthur,Arthur S.,
+1916-VIRL:smith-nor,cw:fc5eb608,,smith-021w--,Smith,W.,W.,
+1916-VIRL:spaid,cw:c84de68e,,spaide001mer,Spaide,Merle,Merle Davis,18880201
+1916-VIRL:spencer-nor,cw:d7600bc8,spent101,spence002edw,Spencer,Tubby,Edward Russell,18840126
+1916-VIRL:spencer-pet,cw:8e24d7ae,,spence001ben,Spencer,Ben,Ben,
+1916-VIRL:steinbrenner,cw:d0323c7c,steig101,steinb002eug,Steinbrenner,Gene,Eugene Gass,18921117
+1916-VIRL:stewart-nor,cw:76680e44,,stewar009j--,Stewart,J.,J.,
+1916-VIRL:stewart-pet,cw:817cf4c6,,stewar004r--,Stewart,R.,R.,
+1916-VIRL:stmartin,cw:3dfb25c2,,stmart001vic,St. Martin,Victor,Victor N.,18910726
+1916-VIRL:summers,cw:c9b61b9f,,summer005---,Summers,,,
+1916-VIRL:talbor,cw:a632f12e,,talbot002ric,Talbot,Richard,Richard,
+1916-VIRL:teague,cw:d8d7b2f9,,teague001cla,Teague,Clarence,Clarence F.,
+1916-VIRL:thrailkill,cw:1fcfbdc8,,thrail001g--,Thrailkill,George,George C.,18950824
+1916-VIRL:voss,cw:d6d1495a,,voss--001joh,Voss,John,John D.,
+1916-VIRL:walker,cw:2b37a52f,walkf102,walker002cha,Walker,Frank,Charles Franklin,18940922
+1916-VIRL:walters,cw:05cced26,,walter006wil,Walters,Wilson,Wilson J.,1892
+1916-VIRL:watt,cw:8ba1a0f1,watta101,watt--001alb,Watt,Allie,Albert Bailey,18991212
+1916-VIRL:welcher,cw:257a1646,,welche001har,Welcher,Harry,Harry,
+1916-VIRL:whitted,cw:a5e400cd,,whitte001hug,Whitted,Hugh,Hugh E.,
+1916-VIRL:wood,cw:e29de80a,,wood--028---,Wood,John,John T.,
+1916-VIRL:wratten,cw:2ecf8436,,wratte001irv,Wratten,Irve,John Irvin,
+1916-WL:abstein,cw:51453a21,abstb101,abstei001wil,Abstein,Bill,William Henry,18830202
+1916-WL:agler,cw:71805836,aglej101,agler-001jos,Agler,Joe,Joseph Abram,18870612
+1916-WL:allen,cw:8e64df2e,allen101,allen-001art,Allen,Nick,Artemus Ward,18880914
+1916-WL:allison,cw:bb6d096d,,alliso014---,Allison,,,
+1916-WL:andrews,cw:c38bd70b,,andrew003ray,Andrews,Ray,Ray,
+1916-WL:baker,cw:7588b875,,baker-001e--,Baker,E.,E. W.,
+1916-WL:beers,cw:5d0de6e4,,beers-005---,Beers,,,
+1916-WL:bennett,cw:ef25cf17,,bennet050---,Bennett,L. D.,L. D.,
+1916-WL:blackburn,cw:10ea729f,blacc101,blackb001fos,Blackburn,Charlie,Foster Edwin,18950106
+1916-WL:block,cw:f4854fff,,block-001geo,Block,George,George,18871106
+1916-WL:boardman,cw:f2e714cb,boarc101,boardm001cha,Boardman,Charlie,Charles Louis,18930327
+1916-WL:breen,cw:85e9350a,,breen-001r--,Breen,Dick,Henry Francis,18851123
+1916-WL:brinley,cw:810dfdac,,brinle001ear,Brinley,Earl,Irl Walter,18920307
+1916-WL:britton,cw:1dfd1220,britg101,britto001ste,Britton,Gil,Stephen Gilbert,18910921
+1916-WL:bruck,cw:14d78b03,,bruck-002---,Bruck,,,
+1916-WL:burg,cw:111f39ad,burgp101,burg--001jos,Burg,Joe,Joseph Peter,18820604
+1916-WL:burwell,cw:e137ded7,burwb101,burwel001wil,Burwell,Bill,William Edwin,18950327
+1916-WL:butcher,cw:d5fca3f1,butch101,butche001hen,Butcher,Hank,Henry Joseph,18860712
+1916-WL:butler,cw:b6232232,,butler021---,Butler,,,
+1916-WL:callahan,cw:4b5aa816,,callah001cha,Callahan,Charley,Charles H.,
+1916-WL:carlisle,cw:85b86860,carlw101,carlis001wal,Carlisle,Walter,Walter,18810706
+1916-WL:cass,cw:f89b1180,,cass--001dj-,Cass,D. J.,D. J.,
+1916-WL:claire,cw:f6db0025,,claire002dan,Claire,Danny,Daniel Vincent,18840416
+1916-WL:clark,cw:8127fcd4,,clark-003c--,Clark,Clayton,Clayton R.,1888
+1916-WL:cochran,cw:38806c1b,cochg101,cochra001geo,Cochran,George,George Leslie,18890212
+1916-WL:cockingham,cw:9503167e,,cockin001---,Cockingham,,,
+1916-WL:cole,cw:5cc44834,colew101,cole--006wil,Cole,Willis,Willis Russell,18820106
+1916-WL:connolly,cw:0a84014c,connt101,connol001tho,Connolly,Tom,Thomas Francis,18921230
+1916-WL:cooney,cw:715b3278,coonp101,cooney001phi,Cooney,Phil,Philip Clarence,18820914
+1916-WL:cooper,cw:4d4f88cb,,cooper001fel,Cooper,Felix,Felix O.,
+1916-WL:coy,cw:4f4837e9,,coy---001ber,Coy,Bert,Bert Marvin,18760324
+1916-WL:craig,cw:836ea05a,,craig-012---,Craig,,,
+1916-WL:crosby,cw:cc396378,,crosby001wil,Crosby,Tex,Willie Lee,18920306
+1916-WL:dashner,cw:5959c3dd,dashl101,dashne001lee,Dashner,Lee,Lee Claire,18870425
+1916-WL:davis,cw:a88f0ba4,,davis-001gil,Davis,Gil,Gil,
+1916-WL:defate,cw:f319440c,defat101,defate001cly,DeFate,Tony,Clyde Herbert,18950222
+1916-WL:devore,cw:c5ae4721,devoj101,devore001jos,Devore,Josh,Joshua M.,18871113
+1916-WL:doyle,cw:fe301120,,doyle-002ber,Doyle,Bernard,Bernard,
+1916-WL:dunn,cw:f0136722,,dunn--047---,Dunn,,,
+1916-WL:durham,cw:c7c09391,durhj102,durham003jam,Durham,James,James Garfield,18811007
+1916-WL:dyer,cw:4964de93,dyerb101,dyer--001ben,Dyer,Ben,Benjamin Franklin,18930213
+1916-WL:east,cw:ef38fb70,eastc101,east--001car,East,Carl,Carlton William,18940827
+1916-WL:engle,cw:f44349e4,englc103,engle-001art,Engle,Clyde,Arthur Clyde,18840319
+1916-WL:ewoldt,cw:3c2882c8,ewola101,ewoldt001art,Ewoldt,Art,Arthur Lee,18940108
+1916-WL:fleharty,cw:ec216e11,,flehar003ear,Fleharty,Earl,Earl Leroy,18860726
+1916-WL:ford,cw:c15d8d78,fordr101,ford--001rus,Ford,Russ,Russell William,18830425
+1916-WL:forstyhe,cw:d619452d,,forsyt001fra,Forsythe,Cy,Frank Roy,18850328
+1916-WL:fox,cw:fe336635,,fox---008wil,Fox,William,William,
+1916-WL:fusner,cw:0ce4d87f,,fusner001b--,Fusner,B. J.,B. J.,
+1916-WL:gardner,cw:50a21771,gardh101,gardne003har,Gardner,Harry,Harry Ray,18870601
+1916-WL:gaskill,cw:298a980b,,gaskel001pri,Gaskell,Prince,Prince Douglas,18850331
+1916-WL:gaspar,cw:c96c00ba,gasph101,gaspar001har,Gaspar,Harry,Harry Lambert,18830428
+1916-WL:gaut,cw:540d9f83,,gaut--002---,Gaut,,,
+1916-WL:gilligan,cw:14c8f2f0,gillj101,gillig002joh,Gilligan,Jack,John Patrick,18851018
+1916-WL:gilmore,cw:0e71f12f,,gilmor001gro,Gilmore,Grover,Grover,
+1916-WL:goodwin,cw:f0f95c1d,goodp101,goodwi001cla,Goodwin,Pep,Claire Vernon,18911219
+1916-WL:graham,cw:5911645f,,graham001cla,Graham,Claude,Claude M.,
+1916-WL:grant,cw:3de83811,granj102,grant-004jam,Grant,Jim,James Ronald,18940804
+1916-WL:gray,cw:2384d870,,gray--009wil,Gray,Dolly,Wilbur T.,18910302
+1916-WL:gregory,cw:433bf016,gregh101,gregor001how,Gregory,Howie,Howard Watterson,18861118
+1916-WL:griffin,cw:c65cdaa9,,griffi001wes,Griffin,Wes,Wesley H.,18940630
+1916-WL:griffith,cw:558e601f,,griffi004dav,Griffith,Dave,David,
+1916-WL:grover,cw:1c185422,grovc101,grover001cha,Grover,Charlie,Charles Byrd,18900620
+1916-WL:hahn,cw:b25b5f76,hahne101,hahn--003wil,Hahn,Ed,William Edgar,18750827
+1916-WL:hall,cw:c8f78d90,hallh101,hall--002her,Hall,Herb,Herbert Silas,18930605
+1916-WL:halla,cw:d470521c,hallj104,halla-001joh,Halla,John,John Arthur,18840513
+1916-WL:hannan,cw:a5b8a822,,hannan001---,Hannan,,,
+1916-WL:harrington,cw:950ab970,,harrin001wil,Harrington,William,William H.,1892
+1916-WL:hartford,cw:fa6d204f,hartb102,hartfo001bru,Hartford,Bruce,Bruce Daniel,18920514
+1916-WL:helmer,cw:1e292234,,helmer001gle,Helmer,Glenn,Glenn,
+1916-WL:henning,cw:cbdd9869,,hennin001---,Henning,,,
+1916-WL:hensling,cw:a9974320,,hensli001art,Hensling,Whitey,Arthur Reinhart,18890203
+1916-WL:hetling,cw:9d62368b,hetlg101,hetlin001aug,Hetling,Gus,August Julius,18851121
+1916-WL:hichman,cw:9efa7a4f,hinch101,hinchm001har,Hinchman,Harry,Harry Sibley,18780804
+1916-WL:higginbotham,cw:91966bfa,higgi101,higgin001irv,Higginbotham,Irv,Irving Clinton,18820426
+1916-WL:hoffman,cw:717d3277,,hoffma001guy,Hoffman,Guy,Guy,
+1916-WL:holmes,cw:2226dad3,,holmes005---,Holmes,,,
+1916-WL:hovlik,cw:a996d27e,hovle101,hovlik001edw,Hovlik,Ed,Edward Charles,18910820
+1916-WL:hunt,cw:b909023a,huntb101,hunt--002ben,Hunt,Ben,Benjamin Franklin,18881110
+1916-WL:hunter-dm,cw:3f0851c9,huntb103,hunter002wil,Hunter,Bill,William Ellsworth,18870708
+1916-WL:hunter-lin,cw:5f2ea400,huntn101,hunter002fre,Hunter,Newt,Frederick Creighton,18800105
+1916-WL:irelan,cw:ca022b09,irelh101,irelan001har,Irelan,Hal,Harold,18900805
+1916-WL:irion,cw:d483720f,,irion-001bob,Irion,Bob,Robert,
+1916-WL:jackson,cw:210065a2,,jackso010joh,Jackson,John,John,
+1916-WL:johnson,cw:e2f8c488,johne103,johnso002elm,Johnson,Elmer,Elmer Ellsworth,18840612
+1916-WL:jones,cw:a87a1078,jonet102,jones-021wil,Jones,Tex,William Roderick,18850804
+1916-WL:jourdan,cw:58288945,jourt101,jourda001the,Jourdan,Ted,Theodore Charles,18950905
+1916-WL:kaufman,cw:41859e21,,kaufma003---,Kaufman,,,
+1916-WL:keating,cw:86480f69,keatc101,keatin001wal,Keating,Chick,Walter Francis,18910808
+1916-WL:kelliher,cw:5c2cb687,kellj107,kelleh002joh,Kelleher,John,John Patrick,18930913
+1916-WL:kelly,cw:d15f72b7,,kelly-002tho,Kelly,Thomas,Thomas R.,
+1916-WL:kenard,cw:3240dc4a,,kenard001---,Kenard,,,
+1916-WL:kilduff,cw:a6a3eaab,kildp101,kilduf001pet,Kilduff,Pete,Peter John,18930404
+1916-WL:killeen,cw:a26c4c08,,killee001joh,Killeen,Jack,John C.,1897
+1916-WL:king,cw:b2dda185,,king--001joh,King,John,John,
+1916-WL:kinnan,cw:d4e7fa92,,kinnan001---,Kinnan,,,
+1916-WL:kirkham,cw:31a22c27,,kirkha001ked,Kirkham,Kenzie,Kenzie Karl,18910506
+1916-WL:klein,cw:253f53ad,,klein-004---,Klein,,,
+1916-WL:koestner,cw:9f4e6670,koese101,koestn001elm,Koestner,Elmer,Elmer Joseph,18851130
+1916-WL:krause,cw:1f4815ff,krauh101,krause002har,Krause,Harry,Harry William,18880712
+1916-WL:krueger,cw:452e7972,kruee101,kruege001ern,Krueger,Ernie,Ernest George,18901227
+1916-WL:krug,cw:aaa6655f,krugm101,krug--002mar,Krug,Marty,Martin John,18880910
+1916-WL:kruger,cw:c3c485d6,,kruger008---,Kruger,,,
+1916-WL:lambeth,cw:8bd4b926,lambo101,lambet001oti,Lambeth,Otis,Otis Samuel,18900513
+1916-WL:larsen,cw:9898b79e,,larsen001ber,Larsen,Bert,Bert R.,
+1916-WL:lathrop.r,cw:a5717a27,,lathro001ral,Lathrop,Ralph,Ralph,
+1916-WL:lathrop.w,cw:5f633a4f,,lathro001w--,Lathrop,W.,W.,
+1916-WL:lattimore,cw:e5bc2a89,,lattim001ral,Lattimore,Ralph,Ralph,
+1916-WL:lejeune,cw:3f39c75d,lejel101,lejeun001she,Lejeune,Sheldon,Sheldon Aldenburg,18850722
+1916-WL:lindmore,cw:a61a0dbf,,lindim001how,Lindimore,Howard,Howard S.,18930810
+1916-WL:liston,cw:a089bb3d,,liston001emi,Liston,Emil,Emil Smith,18900821
+1916-WL:litschi,cw:1f96e1b9,,litsch001lou,Litschi,Lou,Louis L.,18860705
+1916-WL:livingston,cw:8da83125,livip101,living001pat,Livingston,Paddy,Patrick Joseph,18800114
+1916-WL:lloyd,cw:7f9f5ed0,,lloyd-001dav,Lloyd,Davy,David,
+1916-WL:lober,cw:a014f01a,,lober-001elm,Lober,Ty,Elmer W.,18920812
+1916-WL:loudermilk,cw:1b962bc7,lowdl101,lowder001lou,Lowdermilk,Lou,Louis Bailey,18870223
+1916-WL:malarkey,cw:0b085f7c,,malark001---,Malarkey,Bill,Bill,
+1916-WL:manser,cw:325ad823,,manser001jam,Manser,James,James Vernon,18821009
+1916-WL:marshall,cw:5074610e,,marsha022---,Marshall,,,
+1916-WL:mccabe,cw:1789598d,mccab101,mccabe002wil,McCabe,Bill,William Francis,18921028
+1916-WL:mcclelland,cw:374ffb3c,mcclh103,mcclel001har,McClellan,Hervey,Hervey McDowell,18941222
+1916-WL:meloan,cw:b65893e2,melop101,meloan001pau,Meloan,Paul,Paul B.,18880823
+1916-WL:merz,cw:96aba8c4,,merz--001ott,Merz,Otto,Otto Charles,18891009
+1916-WL:metz,cw:4229f592,,metz--001fra,Metz,Frank,Benjamin Franklin,1885
+1916-WL:miller-den,cw:948c863a,,miller001cha,Miller,Charles,Charles,
+1916-WL:miller-oma,cw:97142ea3,millr107,miller007ray,Miller,Ray,Raymond Peter,18880212
+1916-WL:monroe,cw:0e0d658e,,monroe002edw,Monroe,Edward,Edward L.,
+1916-WL:morse,cw:66d65d0a,,morse-001irl,Morse,Irl,Irl,
+1916-WL:musser,cw:0d3830cd,mussp101,musser001pau,Musser,Paul,Paul,18890624
+1916-WL:north,cw:44f5fe20,nortl101,north-003lou,North,Lou,Louis Alexander,18910615
+1916-WL:oakes,cw:37539897,oaker101,oakes-001enn,Oakes,Rebel,Ennis Telfair,18831217
+1916-WL:otoole,cw:fb2d4b15,otoom101,otoole001mar,O'Toole,Marty,Martin James,18881127
+1916-WL:pate,cw:bb07d9f9,patej101,pate--001jos,Pate,Joe,Joseph William,18920606
+1916-WL:patterson,cw:413f2557,pattr101,patter001roy,Patterson,Roy,Roy Lewis,18761217
+1916-WL:pfiester,cw:35db06a1,pfiej101,pfiest001joh,Pfiester,Jack,John Albert,18780524
+1916-WL:phillips,cw:3801b664,,philli013---,Phillips,,,
+1916-WL:powers,cw:94ae6837,,powers001har,Powers,Harry,Harry R.,
+1916-WL:price,cw:0b507ec2,,price-007---,Price,,,
+1916-WL:prieste,cw:72200837,,priest002---,Prieste,,,
+1916-WL:rader,cw:31b3e301,raded104,rader-001don,Rader,Don,Donald Russell,18930905
+1916-WL:rapps,cw:008dafe9,,rapps-001wil,Rapps,Bill,William Herman,18810201
+1916-WL:reed,cw:2cf11e38,reedm101,reed--001mil,Reed,Milt,Milton D.,18900704
+1916-WL:reynolds,cw:69832d31,reynr101,reynol001ros,Reynolds,Ross,Ross Ernest,18870820
+1916-WL:rigsby,cw:ad795436,,rigsby001wal,Rigsby,Walter,Walter H.,
+1916-WL:rohrer,cw:e0418295,,rohrer001joh,Rohrer,John,John H.,18920820
+1916-WL:rossman,cw:5724383e,,rossma001---,Rossman,Claude,Claude,
+1916-WL:sanders,cw:0261f22e,sandr101,sander003roy,Sanders,Roy,Roy Lee,18940610
+1916-WL:schardt,cw:58fbdbce,schab102,schard001wil,Schardt,Bill,Wilburt,18860120
+1916-WL:schweitzer,cw:fc2e20da,schwa102,schwei001alb,Schweitzer,Al,Albert Casper,18821223
+1916-WL:shestak,cw:fde8eab8,,shesta001geo,Shestak,George,George W.,
+1916-WL:shields,cw:e884c8a5,shiep101,shield001fra,Shields,Pete,Francis Leroy,18910921
+1916-WL:shook,cw:f051b778,,shook-001---,Shook,,,
+1916-WL:smith-lin,cw:c8f939a8,smitt101,smith-001ant,Smith,Tony,Anthony,18840514
+1916-WL:smith.e-oma,cw:ffebef55,smite107,smith-003ear,Smith,Earl,Earl Leonard,18910120
+1916-WL:smith.f-oma,cw:0025de37,,smith-003flo,Smith,Floyd,Floyd,
+1916-WL:snow,cw:4309363c,,snow--001gra,Snow,Graeme,Graeme M.,1892
+1916-WL:sommers,cw:426d34b7,sommr101,sommer001rud,Sommers,Rudy,Rudolph,18861030
+1916-WL:spahr,cw:da47bbaa,,spahr-001law,Spahr,Lawrence,Lawrence,
+1916-WL:sterzer,cw:3481cc82,,sterze001car,Sterzer,Carl,Carl George,18880924
+1916-WL:stevens,cw:b4142f82,,steven001car,Stevens,Carl,Carl E.,
+1916-WL:stevenson,cw:8f8b5fc9,,steven001tho,Stevenson,Thomas,Thomas,
+1916-WL:sullivan,cw:63a9c5e5,sulld101,sulliv001den,Sullivan,Denny,Dennis William,18820928
+1916-WL:thomas-dm,cw:1f1a3532,thomc101,thomas007cla,Thomas,Claude,Claude Alfred,18900515
+1916-WL:thomas-sj,cw:b5ffbd6e,thomf104,thomas001for,Thomas,Frosty,Forrest,18810523
+1916-WL:thompson-lin,cw:bdd61293,,thomps077---,Thompson,,,
+1916-WL:thompson.c-oma,cw:184b15eb,,thomps001cec,Thompson,Cecil,Cecil A.,
+1916-WL:thompson.j-oma,cw:9ac26b32,thoms101,thomps002jam,Thompson,Shag,James Alfred,18930429
+1916-WL:tobin,cw:7f7171f1,,tobin-001jos,Tobin,Joe,Joseph I.,18910616
+1916-WL:trainer,cw:d1763e2f,,traine001gle,Trainer,Glen,Glen,
+1916-WL:tydeman,cw:4a79e27d,,tydema001vin,Tydeman,Vincent,Vincent Ariel,18830824
+1916-WL:watson.c,cw:aa6401ca,watsd101,watson002cha,Watson,Doc,Charles John,18850130
+1916-WL:watson.g,cw:5595f5ce,,watson002geo,Watson,George,George Washington,
+1916-WL:west,cw:5820b6f9,westh102,west--003jam,West,Hi,James Hiram,18840808
+1916-WL:westerwick,cw:b76175ac,,wester001joh,Westerwick,John,John H.,
+1916-WL:white,cw:1c92eebe,,white-001kid,White,Kidder,Duane Kidder,18941225
+1916-WL:willett,cw:6a43afe2,,willet008---,Willett,,,
+1916-WL:williams-lin,cw:36f3119e,willh103,willia008har,Williams,Harry,Harry Peter,18900623
+1916-WL:williams.j-sj,cw:7a544ac1,willj101,willia005joh,Williams,Johnnie,John Brodie,18890716
+1916-WL:williams.o-sj,cw:b10d3f3c,willo101,willia001ott,Williams,Otto,Otto George,18771102
+1916-WL:wright,cw:5bf3a049,wrigr104,wright001way,Wright,Rasty,Wayne Bromley,18951105
