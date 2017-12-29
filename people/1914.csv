@@ -136,7 +136,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-AA:paddock,cw:60359231,paddd101,paddoc001del,Paddock,Del,Delmer Harold,18870608
 1914-AA:patterson,cw:413f2557,pattr101,patter001roy,Patterson,Roy,Roy Lewis,18761217
 1914-AA:paulette,cw:147b2f14,paulg102,paulet002eug,Paulette,Gene,Eugene Edward,18910526
-1914-AA:perry,cw:1efb9daf,,perry-001rop,Perry,Rope,Rope,
+1914-AA:perry,cw:55c35b63,perrs101,perry-002her,Perry,Scott,Herbert Scott,18910417
 1914-AA:pfeffer,cw:36594561,,pfeffe001mon,Pfeffer,Monte,Monte,
 1914-AA:powell,cw:2c2643b4,poweb102,powell003wil,Powell,Bill,William Burris,18850508
 1914-AA:randall,cw:6c7c5228,randn101,randal001new,Randall,Newt,Newton John,18800203
@@ -266,7 +266,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-ATLL:schrage,cw:d214a40c,,schrag001f--,Schrage,F.,F.,
 1914-ATLL:schultz,cw:dc12e1d8,,schult031---,Schultz,,,
 1914-ATLL:schwab,cw:73a98945,,schwab007---,Schwab,,,
-1914-ATLL:schwartz,cw:ec3f17ca,,schwar002joh,Schwartz,John,John J.,
+1914-ATLL:schwartz,cw:ec3f17ca,,schwar002joh,Schwartz,Jack,John J.,
 1914-ATLL:scull,cw:7edbb824,,scull-001---,Scull,Carl,Carl A.,
 1914-ATLL:shaukey,cw:35b0036b,,shanke001vic,Shankey,Vic,Victor Jerome,18920306
 1914-ATLL:shufelt,cw:7fcfd159,,shufel001---,Shufelt,,,
@@ -404,8 +404,8 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-CANL:price,cw:3c793306,,price-012---,Price,,,
 1914-CANL:reidy,cw:00c01992,,reidy-001cy-,Reidy,Cy,C. Y.,
 1914-CANL:reiseling,cw:4c9547aa,reisd101,reisli001fra,Reisling,Doc,Frank Carl,18740725
-1914-CANL:riley,cw:41007c0a,,riley-014---,Riley,,,
-1914-CANL:roberts,cw:ea7d1450,,robert008tho,Roberts,Thomas,Thomas,
+1914-CANL:riley,cw:7324d509,,reilly004wil,Reilly,William,William J.,
+1914-CANL:roberts,cw:ea7d1450,,robert008tho,Roberts,Tuck,Thomas E.,
 1914-CANL:rogers,cw:79929edf,,rogers003e--,Rogers,Edgar,Edgar T.,
 1914-CANL:rooney,cw:550c8125,roonf101,rooney001fra,Rooney,Frank,Frank,18841012
 1914-CANL:roth,cw:5a06ba81,,roth--005---,Roth,,,
@@ -921,13 +921,13 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-COLL:obrien,cw:b44b11ae,,obrien002cha,O'Brien,Charles,Charles,
 1914-COLL:oconnell,cw:f40390bd,,oconne001ral,O'Connell,Ralph,Ralph,
 1914-COLL:oconnor,cw:00168043,,oconno005---,O'Connor,,,
-1914-COLL:orcutt,cw:f80a1ae8,,orcutt002---,Orcutt,,,
+1914-COLL:orcutt,cw:6bcd1467,,orcutt001del,Orcutt,Delmar,Delmar B.,
 1914-COLL:page,cw:50000543,,page--004---,Page,,,
 1914-COLL:pfeffer,cw:4ada5c70,,pfeffe001---,Pfeffer,,,
 1914-COLL:pjura,cw:9ae6d865,,pjura-001joh,Pjura,John,John Michael,18930216
 1914-COLL:powers,cw:ca2b8d93,,powers003fra,Powers,Frank,Frank L.,
 1914-COLL:presbrey,cw:efd4cb39,,presbr001---,Presbrey,,,
-1914-COLL:prouix,cw:6ce1245c,,proulx001---,Proulx,,,
+1914-COLL:prouix,cw:6ce1245c,,proulx001---,Proulx,Aime,Aime,
 1914-COLL:randlett,cw:f9c9dfad,,randle001hav,Randlett,Haven,Haven F.,
 1914-COLL:riley,cw:ebe2a287,,riley-003wil,Riley,Bill,William A.,
 1914-COLL:sharpe,cw:34af4cd8,,sharpe004---,Sharpe,,,
@@ -1192,7 +1192,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-EASA:wendell,cw:1df2c474,wendl101,wendel003lew,Wendell,Lew,Lewis Charles,18920322
 1914-EASA:white,cw:3b08a22c,,white-001s--,White,Steve,Steve V.,
 1914-EASA:williams-bri,cw:c9768d42,,willia001ray,Williams,Ray,Ray,
-1914-EASA:williams-wat,cw:4a8d1af3,,willia079---,Williams,Earl,Earl,
+1914-EASA:williams-wat,cw:81efb365,,willia002err,Williams,Errol,Rebel E.,
 1914-EASA:wilson,cw:99886cb0,wilsp101,wilson001pet,Wilson,Pete,Alec Peter,18841009
 1914-EASA:wolfe,cw:eb7323ad,wolfp101,wolfe-001roy,Wolfe,Polly,Roy Chamberlain,18880901
 1914-EASA:woodward,cw:b2dfd8d2,woodf102,woodwa001fra,Woodward,Frank,Frank Russell,18940517
@@ -1387,7 +1387,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-IIIL:craig,cw:8294e800,,craig-001ral,Craig,Ralph,Ralph,
 1914-IIIL:crouch,cw:923d7447,,crouch001pau,Crouch,Paul,Paul,
 1914-IIIL:cummings-mol,cw:0ae51863,,cummin003cha,Cummings,Charles,Charles R.,
-1914-IIIL:cummings-qui,cw:3c310298,,cummin002alb,Cummings,Albert,Albert,
+1914-IIIL:cummings-qui,cw:3c310298,,cummin002alb,Cummings,Al,Albert,
 1914-IIIL:dang,cw:6126202f,,dang--001fra,Dang,Frank,Frank M.,18840512
 1914-IIIL:daringer,cw:e9751505,,daring001how,Daringer,Howard,Howard Charles,18830629
 1914-IIIL:dark,cw:e5876b05,,dark--001ros,Dark,Ross,Ross,
@@ -1482,7 +1482,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-IIIL:scheid,cw:01830df1,,scheid001fer,Scheid,Ferd,Ferd,
 1914-IIIL:schlansker,cw:b9c9979e,,schlan001cha,Schlansker,Charles,Charles,
 1914-IIIL:schleuter,cw:44c3716e,,schlue001joe,Schlueter,Joe,Joe,
-1914-IIIL:seaman,cw:1e562e10,,seaman004---,Seaman,,,
+1914-IIIL:seaman,cw:087db6e7,,seaman002wal,Seaman,Walter,Walter H.,
 1914-IIIL:seibert,cw:c4e8afcc,,seiber001roy,Seibert,Roy,Roy,
 1914-IIIL:selby,cw:55c81229,,selby-001orv,Selby,Orville,Orville M.,18820629
 1914-IIIL:shannon,cw:700a39a0,,shanno013---,Shannon,,,
@@ -1568,7 +1568,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-ILMO:perry,cw:f14a8555,,perry-001fre,Perry,Frederick,Frederick V.,18940615
 1914-ILMO:phillips,cw:7548f810,,philli001roy,Phillips,Roy,Roy,
 1914-ILMO:quinn,cw:3fcf98c8,,quinn-001ray,Quinn,Ray,Ray,
-1914-ILMO:quirey,cw:227166fb,,quirey001sho,Quirey,Shorty,Shorty,
+1914-ILMO:quirey,cw:421d130e,,quirey001j--,Quirey,Shorty,J. A.,
 1914-ILMO:rafferty,cw:e8ff3020,,raffer001syl,Rafferty,Sylvester,Sylvester,
 1914-ILMO:randall,cw:f7e153ed,,randal001e--,Randall,E.,E.,
 1914-ILMO:remark,cw:ce9c6867,,remark001fel,Remark,Felix,Felix T.,
@@ -2159,7 +2159,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-NCSL:schuyler,cw:66bad2b6,,schuyl001r--,Schuyler,R.,R. B.,
 1914-NCSL:schwartje,cw:8b76d547,,schwar001her,Schwartje,Herman,Herman John,1894
 1914-NCSL:short,cw:30957b6a,,short-002ray,Short,Raymond,Raymond L.,
-1914-NCSL:shumaker,cw:50778429,,shumak002---,Shumaker,,,
+1914-NCSL:shumaker,cw:f31c5cce,,schuma002wil,Schumaker,William,William,
 1914-NCSL:spence,cw:99ae9ef0,,spence001t--,Spence,T.,T. T.,
 1914-NCSL:strain,cw:2dc7281c,,strain002cha,Strain,Charles,Charles A.,18910116
 1914-NCSL:stuart-cha,cw:6ae0daa9,,stuart001ral,Stuart,Ralph,Ralph,
@@ -2249,7 +2249,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-NENL:moulton,cw:16306bb6,moula101,moulto001alb,Moulton,Allie,Albert Theodore,18860116
 1914-NENL:mulvey,cw:59d0468b,,mulvey001jam,Mulvey,James,James,
 1914-NENL:mundy,cw:888afbfc,mundb101,mundy-001wil,Mundy,Bill,William Edward,18890628
-1914-NENL:murphy,cw:429c7d58,,murphy031---,Murphy,,,
+1914-NENL:murphy,cw:07c23150,murpm102,murphy008mic,Murphy,Mike,Michael Jerome,18880819
 1914-NENL:oconnell-law,cw:8c33e178,,oconne003dan,O'Connell,Daniel,Daniel T.,18880827
 1914-NENL:oconnell-lew,cw:2233e5bc,,oconne002wil,O'Connell,William,William J.,
 1914-NENL:olde,cw:d23ab025,,olde--001fre,Olde,Fred,Fred G.,
@@ -2266,7 +2266,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-NENL:reed,cw:0a072ac9,,reed--002cha,Reed,Charles,Charles G.,
 1914-NENL:rieger,cw:4b1e3598,,rieger001joh,Rieger,John,John August,18891212
 1914-NENL:ring,cw:f9428686,ringj101,ring--001jam,Ring,Jimmy,James Joseph,18950215
-1914-NENL:roes,cw:b5f3af4c,,roes--001---,Roes,,,
+1914-NENL:roes,cw:46f6f67a,,roes--001wil,Roes,Billy,William,
 1914-NENL:ryan,cw:57b208c0,,ryan--023---,Ryan,,,
 1914-NENL:scanlon,cw:b7f9dfdc,,scanlo001jos,Scanlon,Joe,Joseph,
 1914-NENL:shea,cw:aa79aa33,,shea--002tim,Shea,Timothy,Timothy L.,
@@ -2696,7 +2696,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-NWES:osborne,cw:8c60677b,,osborn002w--,Osborne,W.,W. R.,
 1914-NWES:perrine,cw:c73f6d35,perrn101,perrin002joh,Perrine,Nig,John Grover,18850114
 1914-NWES:peterson,cw:b4211b35,,peters002hen,Peterson,Henry,Henry,
-1914-NWES:pope,cw:3f182a06,,pope--006---,Pope,,,
+1914-NWES:pope,cw:e0c84416,,pope--001ash,Pope,Ashley,Ashley Franklin,18891222
 1914-NWES:powell,cw:902a4295,,powell001wal,Powell,Watt,Walter Beatty,18840916
 1914-NWES:raymond,cw:4aa2c1d2,,raymon002fra,Raymond,Frank,Frank C.,1882
 1914-NWES:reams,cw:2ecc8dbf,,reams-001man,Reams,Mannis,Mannis E.,
@@ -2828,7 +2828,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-NYSL:noonan,cw:cdab4045,noonp101,noonan001pet,Noonan,Pete,Peter John,18811124
 1914-NYSL:north,cw:44f5fe20,nortl101,north-003lou,North,Lou,Louis Alexander,18910615
 1914-NYSL:oberlin,cw:dc686e91,oberf101,oberli002fra,Oberlin,Frank,Frank Rufus,18760329
-1914-NYSL:oneill.j,cw:84d4e9f1,,oneill005j--,O'Neill,James,James,
+1914-NYSL:oneill.j,cw:b2713681,,oneill002j--,O'Neill,Jim,James,
 1914-NYSL:oneill.m,cw:eef04954,oneim101,oneill002mic,O'Neill,Mike,Michael Joyce,18770907
 1914-NYSL:orourke,cw:017d97b0,orouf101,orourk002jam,O'Rourke,Frank,James Francis,18931128
 1914-NYSL:owens,cw:8d281d2e,,owens-001and,Owens,Andy,Andrew B.,
@@ -2905,7 +2905,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-SALL:cochran-alb,cw:b73b3c9b,,cochra003joh,Cochran,John,John T.,
 1914-SALL:cochran-cha,cw:2abc1f3d,,cochra001h--,Cochran,Howard,Howard,
 1914-SALL:colby,cw:a7e5ec45,,colby-001gle,Colby,Glenn,Glenn,
-1914-SALL:correll,cw:37ba75b2,,correl001ml-,Correll,M. L.,M. L.,
+1914-SALL:correll,cw:37ba75b2,,correl001ml-,Correll,Lee,Milton Lee,18930501
 1914-SALL:crowder,cw:cf6aa94e,,crowde001ned,Crowder,Ned,Edward Francis,18840212
 1914-SALL:crowell,cw:4dea828f,,crowel001bob,Crowell,Bob,William Robert,18910403
 1914-SALL:cueto,cw:b11699b1,cuetm101,cueto-001man,Cueto,Manuel,Manuel,18920208
@@ -2984,7 +2984,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-SALL:norcott,cw:dd918e24,,norcot001---,Norcott,,,
 1914-SALL:osteen,cw:647963be,ostec101,osteen001jam,Osteen,Champ,James Champlin,18770224
 1914-SALL:ozagon,cw:ce04ad00,,ogazon001---,Ogazon,,,
-1914-SALL:parker,cw:08af1dfe,,parker003---,Parker,,,
+1914-SALL:parker,cw:12e3d2dc,,parker002w--,Parker,Piggy,W. E.,
 1914-SALL:pate,cw:bb07d9f9,patej101,pate--001jos,Pate,Joe,Joseph William,18920606
 1914-SALL:payne,cw:2d6ef5e3,payng102,payne-001geo,Payne,George,George Washington,18890523
 1914-SALL:payntar,cw:f92251c6,,paynta001---,Payntar,,,
@@ -3032,6 +3032,134 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-SALL:winston,cw:76d3172a,,winslo001edd,Winslow,Eddie,Eddie,
 1914-SALL:woolf,cw:43d18b0a,,woolf-001jes,Woolf,Jesse,Jesse Elder,18890922
 1914-SALL:zimmerman,cw:ab3e742e,,zimmer004wil,Zimmerman,William,William,
+1914-SMIL:adams,cw:fd698a98,,adams-001fra,Adams,Frank,Frank,
+1914-SMIL:badger,cw:508ff6af,,badger001guy,Badger,Guy,Guy,1874
+1914-SMIL:barry,cw:6916774e,,barry-001gro,Barry,Grover,Grover P.,
+1914-SMIL:bashang,cw:a4c3df73,basha101,bashan001alb,Bashang,Al,Albert C.,18880822
+1914-SMIL:baxter,cw:a67e07c0,,baxter014---,Baxter,,,
+1914-SMIL:beall,cw:b588156c,,beall-001geo,Beall,George,George,
+1914-SMIL:beebe,cw:be470aea,,beebe-001jes,Beebe,Jess,Jess,
+1914-SMIL:bemis,cw:779625ee,,bemis-001cha,Bemis,Peg,Charles,
+1914-SMIL:bisonette,cw:086bf534,,bisone001h--,Bisonette,H.,H.,
+1914-SMIL:bond,cw:81d6344d,,bond--001---,Bond,,,
+1914-SMIL:boose,cw:2d21282c,,boose-001---,Boose,,,
+1914-SMIL:bowden,cw:a6f68bc9,,bowden001a--,Bowden,Alfred,Alfred J.,
+1914-SMIL:boyle,cw:0e15dd71,,boyle-001jos,Boyle,Joseph,Joseph,
+1914-SMIL:bravenor,cw:b26a3a44,,braven002---,Bravenor,,,
+1914-SMIL:broder,cw:1c2f2c83,,broder001gil,Broder,Gilbert,Gilbert T.,
+1914-SMIL:brown,cw:7564e650,,brown-003d--,Brown,D.,D. M.,
+1914-SMIL:bussey,cw:e33a5a13,,bussey002har,Bussey,Harvey,Harvey L.,187607
+1914-SMIL:cable,cw:a737a469,,cable-001har,Cable,Harold,Harold F.,
+1914-SMIL:cahill,cw:0631a4b4,,cahill001joh,Cahill,John,John,
+1914-SMIL:carpenter,cw:6e595f53,,carpen011---,Carpenter,,,
+1914-SMIL:ceaser,cw:85498a01,,caesar001tho,Caesar,Thomas,Thomas,
+1914-SMIL:chilton,cw:1ee22bbb,,chilto002---,Chilton,,,
+1914-SMIL:connors,cw:202d5eda,,connor010---,Connors,,,
+1914-SMIL:coombs,cw:6c378d6a,coomc101,coombs001cec,Coombs,Cecil,Cecil Lysander,18880318
+1914-SMIL:crossman,cw:aaedff9e,,crossm001h--,Crossman,Harold,Harold M.,
+1914-SMIL:curtis,cw:e0d0e340,,curtis020---,Curtis,,,
+1914-SMIL:dennis,cw:ec060d69,,dennis001ern,Dennis,Ernest,Ernest W.,
+1914-SMIL:diem,cw:e1e11b7b,,diem--001ed-,Diem,Ed,Ed,
+1914-SMIL:dobbins,cw:79b80f21,,dobbin001geo,Dobbins,George,George,
+1914-SMIL:dodge,cw:d28d802b,,dodge-006---,Dodge,,,
+1914-SMIL:donnelly,cw:4960ad8c,,donnel011---,Donnelly,,,
+1914-SMIL:duffy-mc,cw:a0ab8722,,duffy-020---,Duffy,,,
+1914-SMIL:duffy-sb,cw:57916a68,,duffy-001ed-,Duffy,Ed,Edward L.,
+1914-SMIL:duncan,cw:f2ac8e3a,duncp101,duncan001lou,Duncan,Pat,Louis Baird,18931006
+1914-SMIL:edmiston,cw:047ac062,,edmist001cha,Edmiston,Charles,Charles,
+1914-SMIL:ferren,cw:de95fdb1,,ferren001atw,Ferren,Atwood,Atwood,
+1914-SMIL:foley,cw:4a482d3e,,foley-001don,Foley,Don,Don,
+1914-SMIL:fulton,cw:7c205b99,,fulton003cha,Fulton,Charles,Charles Fauntleroy,18920101
+1914-SMIL:gill,cw:5fb699ac,,gill--001rob,Gill,Bobby,James Robert,18910513
+1914-SMIL:green,cw:0d4e8ec4,,green-009rob,Green,Robert,Robert,
+1914-SMIL:grey,cw:11f068e7,,grey--002---,Grey,,,
+1914-SMIL:grodick,cw:7a3c4e52,,grodic001jos,Grodick,Joseph,Joseph,
+1914-SMIL:gross,cw:f4ab795a,,gross-001her,Gross,Herman,Herman,
+1914-SMIL:guerney,cw:2b2888ac,,guerne002---,Guerney,,,
+1914-SMIL:haigh,cw:19147e72,,haig--001wal,Haig,Walter,Walter,
+1914-SMIL:haines,cw:afeb716c,hainj101,haines001jes,Haines,Jesse,Jesse Joseph,18930722
+1914-SMIL:harring,cw:07be4812,,harrin001---,Harring,,,
+1914-SMIL:harris,cw:458c7544,harrj103,harris001jos,Harris,Joe,Joseph,18910520
+1914-SMIL:hart,cw:ee107d0d,,hart--039---,Hart,,,
+1914-SMIL:hartsell,cw:0aa35d96,hartt102,hartse001tul,Hartsel,Topsy,Tully Frederick,18740626
+1914-SMIL:hartwell,cw:fcb5e60e,,hartwe001wal,Hartwell,Walter,Walter C.,
+1914-SMIL:helmer,cw:1e292234,,helmer001gle,Helmer,Glenn,Glenn,
+1914-SMIL:henderson,cw:43f9cc2a,,hender004wil,Henderson,William,William B.,18830728
+1914-SMIL:henges,cw:39111715,,henges001har,Henges,Harry,Harry,
+1914-SMIL:hernandez,cw:dd8cf175,,hernan001des,Hernandez,Desiderio,Desiderio,
+1914-SMIL:hickman,cw:a5f04890,,hickma001arc,Hickman,Arch,Archie,
+1914-SMIL:hill,cw:302b7c40,hillh105,hill--001her,Hill,Herbert,Herbert Lee,18910819
+1914-SMIL:hoffman,cw:4593fb5f,hofft101,hoffma001edw,Hoffman,Tex,Edward Adolph,18931130
+1914-SMIL:holmes,cw:5daa5b4a,holmd102,holmes001how,Holmes,Ducky,Howard Elbert,18830708
+1914-SMIL:houser,cw:8ff9d27d,,hauser003jam,Hauser,James,James S.,
+1914-SMIL:huntress,cw:40c9af3b,,huntre001fre,Huntress,Fred,Fred,
+1914-SMIL:jacobson,cw:ca1d9878,jacob101,jacobs001alb,Jacobson,Beany,Albert Leonard,18810605
+1914-SMIL:jansen,cw:ec8390a7,jansr101,jansen001ray,Jansen,Ray,Raymond William,18890116
+1914-SMIL:jenkins.j,cw:eea7de62,,jenkin001joe,Jenkins,Joe,Joe,
+1914-SMIL:jenkins.u,cw:34942125,,jenkin002dan,Jenkins,Danny,Daniel M.,
+1914-SMIL:jones-adr,cw:9dd51dcf,jonec107,jones-003alb,Jones,Cowboy,Albert Edward,18740823
+1914-SMIL:jones-sag,cw:d406980f,,jones-001joh,Jones,John,John,
+1914-SMIL:kaad,cw:7fe3bad9,,kaad--001har,Kaad,Harry,Harry Benjamin,18881107
+1914-SMIL:keifer,cw:bc87f00d,keifk101,keifer001she,Keifer,Katsy,Sherman Carl,18910903
+1914-SMIL:kein,cw:b71b165c,,kein--001---,Kein,,,
+1914-SMIL:kelly,cw:ecb5b95c,,kelly-095---,Kelly,,,
+1914-SMIL:king,cw:4b7d0099,kingl103,king--001edw,King,Lee,Edward Lee,18921226
+1914-SMIL:koehler,cw:45ad3b1c,koehb101,koehle001ber,Koehler,Ben,Bernard James,18770126
+1914-SMIL:korfagen,cw:fde487bc,,korfag001---,Korfagen,,,
+1914-SMIL:kynett,cw:2787bd34,,kynett001ros,Kynett,Ross,Ross,
+1914-SMIL:lafleur,cw:5d6c17c4,,lafleu001---,Lafleur,,,
+1914-SMIL:lake,cw:7500b8b5,,lake--002har,Lake,Harry,Harry G.,1890
+1914-SMIL:laross,cw:19443819,laroh101,laross001har,LaRoss,Harry,Harry Raymond,18880102
+1914-SMIL:leber,cw:b83d76c8,,leber-001jac,Leber,Jack,John,
+1914-SMIL:lindholm,cw:a66025f4,,lindho001---,Lindholm,,,
+1914-SMIL:loomis,cw:5cd665d8,,loomis001joh,Loomis,Jack,John J.,
+1914-SMIL:loudermilk,cw:1b962bc7,lowdl101,lowder001lou,Lowdermilk,Lou,Louis Bailey,18870223
+1914-SMIL:love,cw:9b9eb058,,love--001jam,Love,James,James C.,
+1914-SMIL:lyons,cw:448a8dc8,,lyons-013---,Lyons,,,
+1914-SMIL:manning,cw:d3039e31,,mannin001ste,Manning,Steve,Steve,
+1914-SMIL:manny,cw:01dac5be,,manny-001---,Manny,,,
+1914-SMIL:matteson,cw:a47e4710,,mattis001l--,Mattison,L.,L. Q.,
+1914-SMIL:mchale,cw:bc778585,,mchale001edw,McHale,Ed,Edward J.,
+1914-SMIL:mitchell,cw:0f7c9d63,mitcj101,mitche007joh,Mitchell,Johnny,John Franklin,18940809
+1914-SMIL:morton,cw:9ab22667,,morton001roy,Morton,Roy,Leroy Carrol,18820905
+1914-SMIL:neuschafer,cw:89b33aa5,,neusch001arc,Neuschafer,Archie,Archibald Peter,18830727
+1914-SMIL:nichols,cw:92fd6a53,,nichol010cha,Nichols,Charles,Charles E.,
+1914-SMIL:norcabbage,cw:847fed72,,norcab001ale,Norcabbage,Alex,Alex John,18830922
+1914-SMIL:oconnell,cw:0e607ded,,oconne001fra,O'Connell,Frank,Frank,
+1914-SMIL:pahlman,cw:b04b7821,,pahlma001ott,Pahlman,Otto,Otto,
+1914-SMIL:pay,cw:5871b9fa,,pay---001geo,Pay,George,George W.,
+1914-SMIL:pitler,cw:4b700caf,pitlj101,pitler001jac,Pitler,Jake,Jacob Albert,18940422
+1914-SMIL:plate,cw:e7e86041,,plate-001jac,Plate,Jacob,Jacob,
+1914-SMIL:potts,cw:997ffe9b,,potts-001cla,Potts,Claude,Claude,
+1914-SMIL:richards,cw:85bcdc04,,richar001ler,Richards,Leroy,Leroy B.,
+1914-SMIL:robbins,cw:691c92e7,,robbin001rus,Robbins,Russell,Russell R.,
+1914-SMIL:rynearson,cw:b6afdc08,,rynear001elt,Rynearson,Elton,Elton,
+1914-SMIL:schorr,cw:486d22c0,schoe101,schorr001edw,Schorr,Ed,Edward Walter,18920216
+1914-SMIL:scott-fli,cw:d27a8bf3,,scott-001ed-,Scott,Ed,Ed L.,
+1914-SMIL:scott-sag,cw:b7147f85,,scott-003wal,Scott,Walter,Walter,
+1914-SMIL:seiger,cw:41a44f90,,seeger001ben,Seeger,Ben,Ben,
+1914-SMIL:sharkey,cw:2fab574e,,sharke001tom,Sharkey,Tom,Thomas,
+1914-SMIL:siner,cw:934bf230,,siner-001emi,Siner,Emil,Emil,
+1914-SMIL:smith,cw:1bdc5e24,,smith-043---,Smith,,,
+1914-SMIL:spaulding,cw:e8021205,,spauld001che,Spaulding,Chester,Chester,
+1914-SMIL:spencer,cw:01808bae,spenv101,spence001ver,Spencer,Vern,Vernon Murray,18940204
+1914-SMIL:stebbins,cw:66fce441,,stebbi001g--,Stebbins,G.,G. W.,
+1914-SMIL:streeter,cw:5979b01e,,street001fre,Streeter,Fred,Fred J.,
+1914-SMIL:stupp,cw:db8f1221,,stupp-001har,Stupp,Harry,Harry,
+1914-SMIL:sweeney,cw:24a87584,,sweene002hug,Sweeney,Hugh,Hugh L.,
+1914-SMIL:tate,cw:250a91be,tateh101,tate--001hug,Tate,Hughie,Hugh Henry,18800519
+1914-SMIL:thebo,cw:bed683ce,,thebo-001ant,Thebo,Tony,Antonio Valle,18810901
+1914-SMIL:thomas,cw:b6365d66,,thomas005ric,Thomas,Richard,Richard J.,
+1914-SMIL:todd,cw:f7865679,,todd--010---,Todd,,,
+1914-SMIL:turner,cw:cf5a8aa5,turnt103,turner004tho,Turner,Tink,Thomas Lovatt,18900220
+1914-SMIL:wagner,cw:ba9c19a3,,wagner002cha,Wagner,Charles,Charles H.,
+1914-SMIL:walls,cw:743bfc5f,,walls-001d--,Walls,Richard,Richard W.,
+1914-SMIL:walters,cw:108d9299,,walter002cly,Walters,Clyde,Clyde,
+1914-SMIL:warner,cw:b2d0f252,warnh102,warner001hok,Warner,Hooks,Hoke Hayden,18940522
+1914-SMIL:williams-fli,cw:db60732d,,willia232---,Williams,,,
+1914-SMIL:williams-sb,cw:4ae8d914,,willia081---,Williams,,,
+1914-SMIL:woods,cw:5b49f66b,,woods-003har,Woods,Harold,Harold G.,
+1914-SMIL:wyman,cw:a86af592,,wyman-001---,Wyman,,,
 1914-SOUA:adams,cw:f527ea76,adamb106,adams-003joh,Adams,Bert,John Bertram,18910621
 1914-SOUA:allison,cw:07e8b8e8,allim101,alliso001mil,Allison,Milo,Milo Henry,18901016
 1914-SOUA:bagby,cw:b26d67a5,bagbj101,bagby-002jam,Bagby,Jim,James Charles Jacob,18891005
@@ -3114,7 +3242,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-SOUA:hudnall,cw:c6d2846b,,hudnal001gil,Hudnall,Gilbert,Gilbert C.,
 1914-SOUA:jacobson,cw:a2668210,jacow101,jacobs007wil,Jacobson,Baby Doll,William Chester,18900816
 1914-SOUA:jantzen,cw:13fb892a,janth101,jantze002wal,Jantzen,Heinie,Walter Charles,18900409
-1914-SOUA:jennings,cw:3cfcf354,,jennin001mor,Jennings,Morely,Morely,
+1914-SOUA:jennings,cw:3cfcf354,,jennin001mor,Jennings,Morley,Morley,
 1914-SOUA:johnson-bir,cw:4fe64633,,johnso001art,Johnson,Art,Art,
 1914-SOUA:johnson-cha,cw:da0c076c,johnj106,johnst003joh,Johnston,Johnny,John Thomas,18900328
 1914-SOUA:johnson-mem,cw:63c95a84,,johnso001guy,Johnson,Guy,Guy,
@@ -3147,7 +3275,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-SOUA:mcbride,cw:ab1418fe,,mcbrid001cly,McBride,Clyde,Clyde,
 1914-SOUA:mcconnell,cw:5cafb04c,mccoa101,mcconn001amb,McConnell,Amby,Ambrose Moses,18830429
 1914-SOUA:mccormick-cha,cw:75d9e7be,mccom104,mccorm004har,McCormick,Moose,Harry Elwood,18810228
-1914-SOUA:mccormick-mem,cw:e7e981c0,,,McCormick,,,
+1914-SOUA:mccormick-mem,cw:e7e981c0,,mccorm037---,McCormick,,,
 1914-SOUA:mcdermott,cw:3db68a8e,mcder101,mcderm001fra,McDermott,Red,Frank Aloyious,18881112
 1914-SOUA:mcdonald,cw:ced1dc24,mcdoe101,mcdona002edw,McDonald,Ed,Edward Cyril,18861028
 1914-SOUA:mcdowell,cw:f36ddf46,,mcdowe001hol,McDowell,Holt,Holt,
@@ -3166,7 +3294,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1914-SOUA:obrien,cw:fb31e78c,obrib101,obrien005tho,O'Brien,Buck,Thomas Joseph,18820509
 1914-SOUA:odell,cw:71c24d09,,odell-002alf,O'Dell,Alfred,Alfred,
 1914-SOUA:paige,cw:b02534ea,paigp101,paige-001geo,Paige,Pat,George Lynn,18820505
-1914-SOUA:parker,cw:12e3d2dc,,parker002w--,Parker,W.,W. E.,
+1914-SOUA:parker,cw:12e3d2dc,,parker002w--,Parker,Piggy,W. E.,
 1914-SOUA:paulette,cw:147b2f14,paulg102,paulet002eug,Paulette,Gene,Eugene Edward,18910526
 1914-SOUA:perry,cw:3180151e,perrc101,perry-001cla,Perry,Clay,Clayton Shields,18811218
 1914-SOUA:perryman,cw:d47dee3d,perrp102,perrym001emm,Perryman,Parson,Emmett Key,18881024

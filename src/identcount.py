@@ -6,7 +6,7 @@ import pandas as pd
 def main():
     year = sys.argv[1]
 
-    for fn in glob.glob("leagues/%s/*.csv" % year):
+    for fn in sorted(glob.glob("leagues/%s/*.csv" % year)):
         df = pd.read_csv(fn, dtype=str)
         league = df['league.name'].unique()[0]
 

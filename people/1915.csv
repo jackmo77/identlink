@@ -88,7 +88,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-AA:hulswitt,cw:eb4f9f9f,hulsr101,hulswi001rud,Hulswitt,Rudy,Rudolph Edward,18770223
 1915-AA:ingersoll,cw:980c878a,ingeb101,ingers001rob,Ingersoll,Bob,Robert Randolph,18830108
 1915-AA:james,cw:f918b3e9,jamel102,james-004wil,James,Lefty,William L.,18890701
-1915-AA:jennings,cw:3cfcf354,,jennin001mor,Jennings,Morely,Morely,
+1915-AA:jennings,cw:3cfcf354,,jennin001mor,Jennings,Morley,Morley,
 1915-AA:johns,cw:105c211d,johnp101,johns-002wil,Johns,Pete,William R.,18880117
 1915-AA:johnson,cw:e2f8c488,johne103,johnso002elm,Johnson,Elmer,Elmer Ellsworth,18840612
 1915-AA:jones,cw:2d7e5586,jonet103,jones-002tho,Jones,Tom,Thomas,18740621
@@ -132,7 +132,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-AA:otoole,cw:fb2d4b15,otoom101,otoole001mar,O'Toole,Marty,Martin James,18881127
 1915-AA:paddock,cw:60359231,paddd101,paddoc001del,Paddock,Del,Delmer Harold,18870608
 1915-AA:pennybacker,cw:37e60965,,pennyb001ros,Pennybaker,Ross,Ross,
-1915-AA:perry,cw:1efb9daf,,perry-001rop,Perry,Rope,Rope,
+1915-AA:perry,cw:55c35b63,perrs101,perry-002her,Perry,Scott,Herbert Scott,18910417
 1915-AA:platte,cw:356ab05a,plata101,platte001alf,Platte,Al,Alfred Frederick Joseph,18900413
 1915-AA:randall,cw:6c7c5228,randn101,randal001new,Randall,Newt,Newton John,18800203
 1915-AA:rath,cw:50bba699,rathm101,rath--001mor,Rath,Morrie,Morris Charles,18861225
@@ -581,7 +581,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-CANL:reidy,cw:00c01992,,reidy-001cy-,Reidy,Cy,C. Y.,
 1915-CANL:reilly,cw:7324d509,,reilly004wil,Reilly,William,William J.,
 1915-CANL:reisling,cw:4c9547aa,reisd101,reisli001fra,Reisling,Doc,Frank Carl,18740725
-1915-CANL:roberts,cw:ea7d1450,,robert008tho,Roberts,Thomas,Thomas,
+1915-CANL:roberts,cw:ea7d1450,,robert008tho,Roberts,Tuck,Thomas E.,
 1915-CANL:rooney,cw:550c8125,roonf101,rooney001fra,Rooney,Frank,Frank,18841012
 1915-CANL:ross,cw:01eadc3f,,ross--002---,Ross,,,
 1915-CANL:rynearson,cw:b6afdc08,,rynear001elt,Rynearson,Elton,Elton,
@@ -969,20 +969,20 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-COLL:obrien,cw:d3830f73,,obrien093---,O'Brien,,,
 1915-COLL:oconnell,cw:6fb4bdff,,oconne009---,O'Connell,,,
 1915-COLL:pastor,cw:70ff102b,,pastor001hen,Pastor,Tony,Henry,
-1915-COLL:peters,cw:c1d8ff20,,peters057---,Peters,,,
+1915-COLL:peters,cw:9c7f2df7,peter102,peters001ott,Peters,Rube,Otto Casper,18850315
 1915-COLL:phillips-nb,cw:c88e57b4,,philli041---,Phillips,,,
 1915-COLL:phillips-spr,cw:1acee1ec,,philli009jam,Phillips,James,James,
 1915-COLL:phoenix,cw:60b0c20b,,phoeni001wil,Phoenix,Bill,William L.,18860625
 1915-COLL:pjura,cw:9ae6d865,,pjura-001joh,Pjura,John,John Michael,18930216
 1915-COLL:powers,cw:ca2b8d93,,powers003fra,Powers,Frank,Frank L.,
-1915-COLL:proulx,cw:6ce1245c,,proulx001---,Proulx,,,
+1915-COLL:proulx,cw:6ce1245c,,proulx001---,Proulx,Aime,Aime,
 1915-COLL:quinn,cw:d08f9eb4,,quinn-040---,Quinn,,,
 1915-COLL:russell,cw:e61637cd,,russel052---,Russell,,,
 1915-COLL:rylander,cw:e0bf3d93,,ryland002---,Rylander,,,
 1915-COLL:schmidt,cw:f8560b9d,,schmid035---,Schmidt,,,
 1915-COLL:senno,cw:7097ace6,,senno-001dan,Senno,Dan,Daniel Anthony,18860215
 1915-COLL:sharpe,cw:cbfc13f7,,sharpe008---,Sharpe,,,
-1915-COLL:sherman,cw:6b0f7780,,sherma006---,Sherman,,,
+1915-COLL:sherman,cw:6b0f7780,,sherma006---,Sherman,Blondie,Blondie,
 1915-COLL:simon,cw:1f113cb1,,simon-003---,Simon,,,
 1915-COLL:smith,cw:89b66eb8,,smith-009d--,Smith,D.,D.,
 1915-COLL:somers,cw:426d34b7,sommr101,sommer001rud,Sommers,Rudy,Rudolph,18861030
@@ -1099,7 +1099,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-FAGL:perry,cw:f131ce11,,perry-035---,Perry,,,
 1915-FAGL:pittman,cw:acf0ed5e,,pittma001gil,Pittman,Gil,Gilford Daulton,18900526
 1915-FAGL:pollard,cw:6e45778e,,pollar004---,Pollard,,,
-1915-FAGL:poole,cw:e7032714,,poole-007---,Poole,,,
+1915-FAGL:poole,cw:bdf75ae4,,poole-002h--,Poole,Hi,H. E.,
 1915-FAGL:powers,cw:e63ab14e,,powers022---,Powers,,,
 1915-FAGL:pratt,cw:8d0697f4,,pratt-017---,Pratt,,,
 1915-FAGL:price-dot,cw:65f30369,,price-018---,Price,,,
@@ -1956,9 +1956,9 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-NENL:reed,cw:0a072ac9,,reed--002cha,Reed,Charles,Charles G.,
 1915-NENL:rettig,cw:2f5077d4,retto101,rettig001ado,Rettig,Otto,Adolph John,18940129
 1915-NENL:rieger,cw:4b1e3598,,rieger001joh,Rieger,John,John August,18891212
-1915-NENL:ritter,cw:3c4b4f00,,ritter004---,Ritter,,,
+1915-NENL:ritter,cw:be3eaa52,,ritter013---,Ritter,,,
 1915-NENL:robinson,cw:85312a16,,robins001cla,Robinson,Clarence,Clarence E.,
-1915-NENL:schwartz,cw:ec3f17ca,,schwar002joh,Schwartz,John,John J.,
+1915-NENL:schwartz,cw:ec3f17ca,,schwar002joh,Schwartz,Jack,John J.,
 1915-NENL:senno,cw:7097ace6,,senno-001dan,Senno,Dan,Daniel Anthony,18860215
 1915-NENL:shears,cw:c951e015,sheag102,shears001geo,Shears,George,George Penfield,18900413
 1915-NENL:sline,cw:66630909,,sline-001wil,Sline,Bill,William Francis,18821004
@@ -2053,7 +2053,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-NORL:nagle,cw:3cca89e5,,nagle-001jos,Nagle,Joe,Joseph J.,1895
 1915-NORL:nelson,cw:8ea1300f,nelsr104,nelson002alb,Nelson,Red,Albert Francis,18860519
 1915-NORL:nifnecker,cw:7b94228b,,nifnec001rob,Nifnecker,Robert,Robert,
-1915-NORL:noble,cw:831e2dca,,noble-005---,Noble,,,
+1915-NORL:noble,cw:ba915283,,noble-003jam,Noble,James,James,
 1915-NORL:obrien,cw:b35aa999,,obrien002t--,O'Brien,T. J.,T. J.,
 1915-NORL:patterson,cw:413f2557,pattr101,patter001roy,Patterson,Roy,Roy Lewis,18761217
 1915-NORL:penfold,cw:adbf88d1,,penfol001har,Penfold,Harvey,Harvey S.,
@@ -2296,7 +2296,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-NYSL:oberlin,cw:dc686e91,oberf101,oberli002fra,Oberlin,Frank,Frank Rufus,18760329
 1915-NYSL:oconnor,cw:e6653b1a,,oconno032---,O'Connor,,,
 1915-NYSL:oneill-syr,cw:eef04954,oneim101,oneill002mic,O'Neill,Mike,Michael Joyce,18770907
-1915-NYSL:oneill-uti,cw:ba829413,,oneill001m--,O'Neill,M.,M.,
+1915-NYSL:oneill-uti,cw:b2713681,,oneill002j--,O'Neill,Jim,James,
 1915-NYSL:orourke-alb,cw:987afe96,oroup101,orourk001jos,O'Rourke,Patsy,Joseph Leo,18810413
 1915-NYSL:orourke-syr,cw:9bca3b59,orouq101,orourk005jam,O'Rourke,Queenie,James Stephen,18831226
 1915-NYSL:orourke-wb,cw:017d97b0,orouf101,orourk002jam,O'Rourke,Frank,James Francis,18931128
@@ -2304,7 +2304,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-NYSL:pepe,cw:fd3016d2,,pepe--001jos,Pepe,Joe,Joseph,1888
 1915-NYSL:peterson,cw:7530bef1,peteb101,peters005rob,Peterson,Bob,Robert Andrew,18840616
 1915-NYSL:phelps,cw:2b3d009b,phele101,phelps002edw,Phelps,Ed,Edward Jaykill,18790303
-1915-NYSL:phillips,cw:644fef85,,philli020---,Phillips,,,
+1915-NYSL:phillips,cw:d74a1f89,philt102,philli003tho,Phillips,Tom,Thomas Gerard,18890401
 1915-NYSL:priest,cw:ab7481ac,,priest001mon,Priest,Monte,Morey Jordan,18911125
 1915-NYSL:quinn,cw:e6b170dc,,quinn-002owe,Quinn,Owen,Owen M.,
 1915-NYSL:rapp,cw:362df943,,rapp--001fra,Rapp,Frank,Frank,
@@ -2727,7 +2727,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-SALL:cheney,cw:85ff7a64,,cheney001l--,Cheney,Larry,Larry,
 1915-SALL:cline,cw:0c98609f,,cline-002---,Cline,,,
 1915-SALL:connolly,cw:30d2b5ba,,connol001f--,Connolly,F.,F.,
-1915-SALL:correll,cw:37ba75b2,,correl001ml-,Correll,M. L.,M. L.,
+1915-SALL:correll,cw:37ba75b2,,correl001ml-,Correll,Lee,Milton Lee,18930501
 1915-SALL:cowan,cw:dc985177,,cowan-005---,Cowan,,,
 1915-SALL:crowder,cw:cf6aa94e,,crowde001ned,Crowder,Ned,Edward Francis,18840212
 1915-SALL:crowell,cw:4dea828f,,crowel001bob,Crowell,Bob,William Robert,18910403
@@ -2809,7 +2809,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-SALL:prough,cw:55deb663,,prough001gro,Prough,Grover,Grover C.,18900613
 1915-SALL:reagan,cw:b4f53665,,reagan011---,Reagan,,,
 1915-SALL:richard,cw:138609ea,,rickar001---,Rickard,,,
-1915-SALL:robertson,cw:4e058175,,robert064---,Robertson,,,
+1915-SALL:robertson,cw:a35db318,,robert004fra,Robertson,Frank,Frank,
 1915-SALL:roth,cw:0a77d26b,,roth--001v--,Roth,Vincent,Vincent T.,
 1915-SALL:sabrie,cw:46eaa26a,,sabrie001edw,Sabrie,Eddie,Edwin L.,188204
 1915-SALL:shinault,cw:022b3a9e,,shinau001---,Shinault,,,
@@ -3099,13 +3099,13 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-SOUA:paulette,cw:147b2f14,paulg102,paulet002eug,Paulette,Gene,Eugene Edward,18910526
 1915-SOUA:pearson-atl,cw:5aa98902,,pearso007---,Pearson,,,
 1915-SOUA:pearson-cha,cw:7f144995,,pearso015---,Pearson,,,
-1915-SOUA:perry-atl,cw:d2cf7cf7,,perry-004sco,Perry,Scott,Scott,
+1915-SOUA:perry-atl,cw:55c35b63,perrs101,perry-002her,Perry,Scott,Herbert Scott,18910417
 1915-SOUA:perry-mob,cw:3180151e,perrc101,perry-001cla,Perry,Clay,Clayton Shields,18811218
 1915-SOUA:perryman,cw:d47dee3d,perrp102,perrym001emm,Perryman,Parson,Emmett Key,18881024
 1915-SOUA:peters,cw:5da5252e,petej102,peters003joh,Peters,John,John William,18930714
 1915-SOUA:pezold,cw:ed805f30,pezol101,pezold001lor,Pezold,Larry,Lorenz Johannes,18930622
 1915-SOUA:pitler,cw:4b700caf,pitlj101,pitler001jac,Pitler,Jake,Jacob Albert,18940422
-1915-SOUA:poole,cw:bdf75ae4,,poole-002h--,Poole,H.,H. E.,
+1915-SOUA:poole,cw:bdf75ae4,,poole-002h--,Poole,Hi,H. E.,
 1915-SOUA:potts,cw:997ffe9b,,potts-001cla,Potts,Claude,Claude,
 1915-SOUA:powell-lr,cw:2c2643b4,poweb102,powell003wil,Powell,Bill,William Burris,18850508
 1915-SOUA:powell-mob,cw:f58dc905,,powell008wil,Powell,William,William,
@@ -3406,7 +3406,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1915-VIRL:ryan,cw:d3f00e24,,ryan--001ray,Ryan,Ray,Ray,
 1915-VIRL:saracino,cw:870cda48,,saraci001car,Saracino,Carl,Carl,
 1915-VIRL:scott,cw:65aa9037,,scott-004cha,Scott,Charles,Charles S.,
-1915-VIRL:seiglie,cw:91b6f43c,,seigli001---,Seiglie,,,
+1915-VIRL:seiglie,cw:1d6ff01f,,seigli000ram,Seiglie,Ramiro,Ramiro,189205
 1915-VIRL:sharpe,cw:6c0fc8f6,,sharpe011---,Sharpe,,,
 1915-VIRL:short,cw:30957b6a,,short-002ray,Short,Raymond,Raymond L.,
 1915-VIRL:shumaker,cw:516f5978,,shumak001---,Shumake,,,

@@ -91,7 +91,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1916-AA:hulswitt,cw:eb4f9f9f,hulsr101,hulswi001rud,Hulswitt,Rudy,Rudolph Edward,18770223
 1916-AA:humphries,cw:91b3b205,humpb101,humphr002alb,Humphries,Bert,Albert,18800926
 1916-AA:james,cw:f918b3e9,jamel102,james-004wil,James,Lefty,William L.,18890701
-1916-AA:jennings,cw:3cfcf354,,jennin001mor,Jennings,Morely,Morely,
+1916-AA:jennings,cw:3cfcf354,,jennin001mor,Jennings,Morley,Morley,
 1916-AA:johns,cw:105c211d,johnp101,johns-002wil,Johns,Pete,William R.,18880117
 1916-AA:kaiserling,cw:647e20e3,kaisg101,kaiser002geo,Kaiserling,George,George,18930512
 1916-AA:kelly,cw:2676457d,kellj102,kelly-004jos,Kelly,Joe,Joseph Henry,18860923
@@ -157,7 +157,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1916-AA:schauer,cw:4cee0026,schar101,schaue001ale,Schauer,Rube,Alexander John,18910319
 1916-AA:scheer,cw:c331b402,schea102,scheer001alb,Scheer,Al,Allen George,18881027
 1916-AA:scherdell,cw:47e26849,sherb101,sherde001wil,Sherdel,Bill,William Henry,18960815
-1916-AA:seaton,cw:c521509b,,seaton002---,Seaton,,,
+1916-AA:seaton,cw:5679fc51,seatt102,seaton001tho,Seaton,Tom,Thomas Gordon,18870830
 1916-AA:shackelford,cw:8a9b6a67,,shacke001joh,Shackelford,John,John C.,
 1916-AA:shaw,cw:91009de3,shawa102,shaw--003alb,Shaw,Al,Albert Simpson,18810301
 1916-AA:slapnicka,cw:b38d9ea2,slapc101,slapni001cyr,Slapnicka,Cy,Cyril Charles,18860323
@@ -538,7 +538,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1916-IIIL:crabb,cw:e5248cec,crabr101,crabb-002jam,Crabb,Roy,James Roy,18900823
 1916-IIIL:craig,cw:8294e800,,craig-001ral,Craig,Ralph,Ralph,
 1916-IIIL:crissman,cw:482aa965,,crissm001---,Crissman,,,
-1916-IIIL:cummings-qui,cw:3c310298,,cummin002alb,Cummings,Albert,Albert,
+1916-IIIL:cummings-qui,cw:3c310298,,cummin002alb,Cummings,Al,Albert,
 1916-IIIL:cummings-roc,cw:1f904951,,cummin003pat,Cummings,Patrick,Patrick,
 1916-IIIL:dang,cw:6126202f,,dang--001fra,Dang,Frank,Frank M.,18840512
 1916-IIIL:danner,cw:c5a436dc,,danner002joh,Danner,John,John,
@@ -610,7 +610,7 @@ ident,key,key.retro,key.brminors,name.last,name.first,name.given,birth.date
 1916-IIIL:pechous,cw:ca2b5371,pechc101,pechou001cha,Pechous,Charlie,Charles Edward,18961005
 1916-IIIL:pettigrew,cw:af1f8b80,pettn101,pettig001jim,Pettigrew,Ned,Jim Ned,18810825
 1916-IIIL:pike,cw:97bb63be,,pike--001wil,Pike,William,William T.,
-1916-IIIL:poole,cw:28e877c1,,poole-001---,Poole,,,
+1916-IIIL:poole,cw:bdf75ae4,,poole-002h--,Poole,Hi,H. E.,
 1916-IIIL:rafferty,cw:e8ff3020,,raffer001syl,Rafferty,Sylvester,Sylvester,
 1916-IIIL:rapp,cw:cfece773,rappg101,rapp--002jos,Rapp,Goldie,Joseph Aloysius,18940206
 1916-IIIL:reiger,cw:c82c00e9,,rieger003---,Rieger,,,
