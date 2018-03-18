@@ -41,6 +41,26 @@ def collect_from_boxscores(path):
     print
     return dflist
 
+def collect_from_researchers(path):
+    """Collect engagement records from researchers repository.
+    """
+    print "Collecting items from researchers dataset."
+    df = pd.read_csv("%s/processed/clubs.csv" % path, encoding='utf-8',
+                     dtype=str)
+    df.rename(inplace=True,
+              columns={'last':       'person.name.last',
+                       'first':      'person.name.given',
+                       'date':       'league.year',
+                       'league':     'league.name',
+                       'person':     'person.ref',
+                       'club':       'entry.name'})
+    df['source'] = 'researchers' + '/' + df['person.ref'].str.split("/").str[0]
+    df['person.ref'] = df['person.ref'].str.split("/").str[1]
+    # Restrict years we collect for now based on where we have
+    # significant coverage
+    df = df[df['league.year'].isin(['1914', '1915'])]
+    return [df]
+
 if __name__ == '__main__':
     import sys
     import os
@@ -48,8 +68,10 @@ if __name__ == '__main__':
 
     avglist = collect_from_averages("../minoraverages")
     boxlist = collect_from_boxscores("../boxscores")
+    reslist = collect_from_researchers("../researchers")
+    
     print "Concatenating files..."
-    df = pd.concat(avglist + boxlist, ignore_index=True)
+    df = pd.concat(avglist + boxlist + reslist, ignore_index=True)
 
     # Fill in an indicator for records which indicate a position played
     # but not games at that position
