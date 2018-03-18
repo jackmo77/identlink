@@ -1,5 +1,6 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
 minoraverages/1947TSN,1946,Tri-State League,,B00961,Accardo,Thomas,0,Shelby,,,10,,,,,,,,,,,,
+researchers/nemec,1946,Tri-State League,,YTYKLFT,Accardo,Tom,,Shelby,,,,,,,,,,,,,,,
 minoraverages/1947TSN,1946,Tri-State League,,B00450,Acton,Ray,0,Spartanburg,,,87,,,,,,,,,,,,
 minoraverages/1947TSN,1946,Tri-State League,,F20458,Acton,,0,Spartanburg,,,,,,,66,,,,,,,,
 minoraverages/1947TSN,1946,Tri-State League,,F20604,Acton,,0,Spartanburg,,,,,,,,12,,,,,,,

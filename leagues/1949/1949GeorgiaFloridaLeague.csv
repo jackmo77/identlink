@@ -1,6 +1,7 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
 minoraverages/1950TSN,1949,Georgia-Florida League,abadie,B00335,Abadie,Benjamin,0,Waycross,,,76,,,,,,,,,,,,
 minoraverages/1950TSN,1949,Georgia-Florida League,abadie,F21021,Abadie,,0,Waycross,,,,,,,,,75,,,,,,
+researchers/nemec,1949,Georgia-Florida League,,NLTJCDZ,Abadie,Ben,,Waycross,,,,,,,,,,,,,,,
 minoraverages/1950TSN,1949,Georgia-Florida League,adamcewicz,B00531,Adamcewicz,Erwin,0,Albany,,,27,,,,,,,,,,,,
 minoraverages/1950TSN,1949,Georgia-Florida League,adamcewicz,F20919,Adamcewicz,,0,Albany,,,,,,,,,27,,,,,,
 minoraverages/1950TSN,1949,Georgia-Florida League,adcock,B00442,Adcock,Robert,0,Thomasville,,,25,,,,,,,,,,,,

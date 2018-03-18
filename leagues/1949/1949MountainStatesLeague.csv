@@ -1,5 +1,6 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
 minoraverages/1950TSN,1949,Mountain States League,adams,B00973,Adams,Eugene,0,Big Stone Gap,,,138,,,,,,,,,,,,
+researchers/nemec,1949,Mountain States League,,WCKNXRQ,Adams,Gene,,Big Stone Gap,,,,,,,,,,,,,,,
 minoraverages/1950TSN,1949,Mountain States League,aguiar,B01300,Aguiar,Jose,0,Newport,,,20,,,,,,,,,,,,
 minoraverages/1950TSN,1949,Mountain States League,aguiar,F21021,Aguiar,,0,Newport,,,,,,,,,,,,,,23,
 minoraverages/1950TSN,1949,Mountain States League,aguiar,P10361,Aguiar,,0,Newport,,,,23,,,,,,,,,,,

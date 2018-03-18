@@ -1,6 +1,7 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
 minoraverages/1947TSN,1946,Western International League,,B01055,Abbott,Morrison,0,Tacoma,,,68,,,,,,,,,,,,
 minoraverages/1947TSN,1946,Western International League,,F21210,Abbott,,0,Tacoma,,,,,,,,,63,,,,,,
+researchers/mcconnell,1946,Western International League,,TDYVQRD,Abbott,Morry,,Tacoma,,,,,,,,,,,,,,,
 minoraverages/1947TSN,1946,Western International League,,B00264,Adams,Richard,0,Wenatchee,,,126,,,,,,,,,,,,
 minoraverages/1947TSN,1946,Western International League,,B01857,Adams,Andrew,1,Salem,,,10,,,,,,,,,,,,
 minoraverages/1947TSN,1946,Western International League,,B01857,Adams,Andrew,2,Victoria,,,3,,,,,,,,,,,,
@@ -14,6 +15,7 @@ minoraverages/1947TSN,1946,Western International League,,P10698,Adams,Andrew,2,V
 minoraverages/1947TSN,1946,Western International League,,P10698,Adams,Andrew,T,,,,,11,,,,,,,,,,,
 minoraverages/1947TSN,1946,Western International League,,P11009,Adams,Richard,0,Wenatchee,,,,1,,,,,,,,,,,
 minoraverages/1947TSN,1946,Western International League,,B02215,Aden,Dwight,0,Spokane,,,,,,,,,,,,,,,
+researchers/nemec,1946,Western International League,,ZKHMZFJ,Aden,Dwight,,Spokane,,,,,,,,,,,,,,,
 minoraverages/1947TSN,1946,Western International League,,B02062,Ahearn,,0,Bremerton,,,,,,,,,,,,,,,
 minoraverages/1947TSN,1946,Western International League,,P10852,Ahearn,,0,Bremerton,,,,2,,,,,,,,,,,
 minoraverages/1947TSN,1946,Western International League,,B00045,Amaral,Dan,0,Bremerton,,,73,,,,,,,,,,,,

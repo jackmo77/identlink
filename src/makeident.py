@@ -11,12 +11,12 @@ def collect_from_averages(path):
         print "Collecting source %s" % source
         
         dflist.append(pd.read_csv("%s/playing_individual.csv" % sourcepath,
-                                  dtype=str))
+                                  dtype=str, encoding='utf-8'))
         dflist[-1]['source'] = "minoraverages/%s" % source
 
         try:
             dflist.append(pd.read_csv("%s/managing_individual.csv" % sourcepath,
-                                      dtype=str))
+                                      dtype=str, encoding='utf-8'))
             dflist[-1]['source'] = "minoraverages/%s" % source
         except IOError:
             print "  Warning: did not find managers file"
@@ -34,7 +34,7 @@ def collect_from_boxscores(path):
 
         try:
             dflist.append(pd.read_csv("%s/people.csv" % sourcepath,
-                                      dtype=str))
+                                      dtype=str, encoding='utf-8'))
             dflist[-1]['source'] = "boxscores/%s" % source
         except IOError:
             print "  Warning: did not find people file"
@@ -56,9 +56,7 @@ def collect_from_researchers(path):
                        'club':       'entry.name'})
     df['source'] = 'researchers' + '/' + df['person.ref'].str.split("/").str[0]
     df['person.ref'] = df['person.ref'].str.split("/").str[1]
-    # Restrict years we collect for now based on where we have
-    # significant coverage
-    df = df[df['league.year'].isin(['1914', '1915'])]
+    df = df[~df['person.name.last'].isnull()].copy()
     return [df]
 
 if __name__ == '__main__':
@@ -82,7 +80,7 @@ if __name__ == '__main__':
     idents = [ ]
     for identfile in glob.glob("leagues/*/*.csv"):
         print "Collecting identfile %s" % identfile
-        idents.append(pd.read_csv(identfile, dtype=str))
+        idents.append(pd.read_csv(identfile, dtype=str, encoding='utf-8'))
     print
     if len(idents) > 0:
         idents = pd.concat(idents, ignore_index=True)
@@ -121,11 +119,19 @@ if __name__ == '__main__':
 
     print "Writing ident files..."  
     for (group, data) in df.groupby([ 'league.year', 'league.name' ]):
+        # We only generate ident files for leagues where we have
+        # either an averages compilation or boxscore data
+        sample = data[data['source'].str.startswith('minoraverages/') |
+                      data['source'].str.startswith('boxscores/')]
+        if len(sample) == 0:
+            continue
         print group[0], group[1]
         try:
             os.makedirs("leagues/%s" % group[0])
         except os.error:
             pass
+        data = data.drop_duplicates()
         data.to_csv("leagues/%s/%s%s.csv" % (group[0], group[0],
                                              group[1].replace(" ", "").replace("-", "")),
-                    index=False)
+                    index=False,
+                    encoding='utf-8')
