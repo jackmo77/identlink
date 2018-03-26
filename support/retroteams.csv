@@ -1,0 +1,2896 @@
+league.year,league.name,entry.name,team.key
+1871,National Association,Boston,BS1
+1871,National Association,Chicago,CH1
+1871,National Association,Cleveland,CL1
+1871,National Association,Fort Wayne,FW1
+1871,National Association,New York,NY2
+1871,National Association,Philadelphia,PH1
+1871,National Association,Rockford,RC1
+1871,National Association,Troy,TRO
+1871,National Association,Washington,WS3
+1872,National Association,Baltimore,BL1
+1872,National Association,Boston,BS1
+1872,National Association,Brooklyn Atlantics,BR2
+1872,National Association,Brooklyn Eckfords,BR1
+1872,National Association,Cleveland,CL1
+1872,National Association,Middletown,MID
+1872,National Association,New York,NY2
+1872,National Association,Philadelphia,PH1
+1872,National Association,Troy,TRO
+1872,National Association,Washington Nationals,WS4
+1872,National Association,Washington Olympics,WS3
+1873,National Association,Baltimore Canaries,BL1
+1873,National Association,Baltimore Marylands,BL4
+1873,National Association,Boston,BS1
+1873,National Association,Brooklyn,BR2
+1873,National Association,Elizabeth,ELI
+1873,National Association,New York,NY2
+1873,National Association,Philadelphia Athletics,PH1
+1873,National Association,Philadelphia Whites,PH2
+1873,National Association,Washington,WS5
+1874,National Association,Baltimore,BL1
+1874,National Association,Boston,BS1
+1874,National Association,Brooklyn,BR2
+1874,National Association,Chicago,CH2
+1874,National Association,Hartford,HR1
+1874,National Association,New York,NY2
+1874,National Association,Philadelphia Athletics,PH1
+1874,National Association,Philadelphia Whites,PH2
+1875,National Association,Boston,BS1
+1875,National Association,Brooklyn,BR2
+1875,National Association,Chicago,CH2
+1875,National Association,Hartford,HR1
+1875,National Association,Keokuk,KEO
+1875,National Association,New Haven,NH1
+1875,National Association,New York,NY2
+1875,National Association,Philadelphia Athletics,PH1
+1875,National Association,Philadelphia Centennials,PH3
+1875,National Association,Philadelphia Whites,PH2
+1875,National Association,St. Louis Brown Stockings,SL2
+1875,National Association,St. Louis Red Stockings,SL1
+1875,National Association,Washington,WS6
+1876,National League,Boston,BSN
+1876,National League,Chicago,CHN
+1876,National League,Cincinnati,CN1
+1876,National League,Hartford,HAR
+1876,National League,Louisville,LS1
+1876,National League,New York,NY3
+1876,National League,Philadelphia,PHN
+1876,National League,St. Louis,SL3
+1877,National League,Boston,BSN
+1877,National League,Chicago,CHN
+1877,National League,Cincinnati,CN1
+1877,National League,Hartford,HAR
+1877,National League,Louisville,LS1
+1877,National League,St. Louis,SL3
+1878,National League,Boston,BSN
+1878,National League,Chicago,CHN
+1878,National League,Cincinnati,CN1
+1878,National League,Indianapolis,IN1
+1878,National League,Milwaukee,ML2
+1878,National League,Providence,PRO
+1879,National League,Boston,BSN
+1879,National League,Buffalo,BFN
+1879,National League,Chicago,CHN
+1879,National League,Cincinnati,CN1
+1879,National League,Cleveland,CL2
+1879,National League,Providence,PRO
+1879,National League,Syracuse,SR1
+1879,National League,Troy,TRN
+1880,National League,Boston,BSN
+1880,National League,Buffalo,BFN
+1880,National League,Chicago,CHN
+1880,National League,Cincinnati,CN1
+1880,National League,Cleveland,CL2
+1880,National League,Providence,PRO
+1880,National League,Troy,TRN
+1880,National League,Worcester,WOR
+1881,National League,Boston,BSN
+1881,National League,Buffalo,BFN
+1881,National League,Chicago,CHN
+1881,National League,Cleveland,CL2
+1881,National League,Detroit,DTN
+1881,National League,Providence,PRO
+1881,National League,Troy,TRN
+1881,National League,Worcester,WOR
+1882,American Association,Baltimore,BL2
+1882,American Association,Cincinnati,CN2
+1882,American Association,Louisville,LS2
+1882,American Association,Philadelphia,PH4
+1882,American Association,Pittsburgh,PT1
+1882,American Association,St. Louis,SL4
+1882,National League,Boston,BSN
+1882,National League,Buffalo,BFN
+1882,National League,Chicago,CHN
+1882,National League,Cleveland,CL2
+1882,National League,Detroit,DTN
+1882,National League,Providence,PRO
+1882,National League,Troy,TRN
+1882,National League,Worcester,WOR
+1883,American Association,Baltimore,BL2
+1883,American Association,Cincinnati,CN2
+1883,American Association,Columbus,CL5
+1883,American Association,Louisville,LS2
+1883,American Association,New York,NY4
+1883,American Association,Philadelphia,PH4
+1883,American Association,Pittsburgh,PT1
+1883,American Association,St. Louis,SL4
+1883,National League,Boston,BSN
+1883,National League,Buffalo,BFN
+1883,National League,Chicago,CHN
+1883,National League,Cleveland,CL2
+1883,National League,Detroit,DTN
+1883,National League,New York,NY1
+1883,National League,Philadelphia,PHI
+1883,National League,Providence,PRO
+1884,American Association,Baltimore,BL2
+1884,American Association,Brooklyn,BR3
+1884,American Association,Cincinnati,CN2
+1884,American Association,Columbus,CL5
+1884,American Association,Indianapolis,IN2
+1884,American Association,Louisville,LS2
+1884,American Association,New York,NY4
+1884,American Association,Philadelphia,PH4
+1884,American Association,Pittsburgh,PT1
+1884,American Association,Richmond,RIC
+1884,American Association,St. Louis,SL4
+1884,American Association,Toledo,TL1
+1884,American Association,Washington,WS7
+1884,National League,Boston,BSN
+1884,National League,Buffalo,BFN
+1884,National League,Chicago,CHN
+1884,National League,Cleveland,CL2
+1884,National League,Detroit,DTN
+1884,National League,New York,NY1
+1884,National League,Philadelphia,PHI
+1884,National League,Providence,PRO
+1884,Union Association,Altoona,ALT
+1884,Union Association,Baltimore,BLU
+1884,Union Association,Boston,BSU
+1884,Union Association,Chicago/Pittsburgh,CHU
+1884,Union Association,Cincinnati,CNU
+1884,Union Association,Kansas City,KCU
+1884,Union Association,Milwaukee,MLU
+1884,Union Association,Philadelphia,PHU
+1884,Union Association,St. Louis,SLU
+1884,Union Association,St. Paul,SPU
+1884,Union Association,Washington,WSU
+1884,Union Association,Wilmington,WIL
+1885,American Association,Baltimore,BL2
+1885,American Association,Brooklyn,BR3
+1885,American Association,Cincinnati,CN2
+1885,American Association,Louisville,LS2
+1885,American Association,New York,NY4
+1885,American Association,Philadelphia,PH4
+1885,American Association,Pittsburgh,PT1
+1885,American Association,St. Louis,SL4
+1885,National League,Boston,BSN
+1885,National League,Buffalo,BFN
+1885,National League,Chicago,CHN
+1885,National League,Detroit,DTN
+1885,National League,New York,NY1
+1885,National League,Philadelphia,PHI
+1885,National League,Providence,PRO
+1885,National League,St. Louis,SL5
+1886,American Association,Baltimore,BL2
+1886,American Association,Brooklyn,BR3
+1886,American Association,Cincinnati,CN2
+1886,American Association,Louisville,LS2
+1886,American Association,New York,NY4
+1886,American Association,Philadelphia,PH4
+1886,American Association,Pittsburgh,PT1
+1886,American Association,St. Louis,SL4
+1886,National League,Boston,BSN
+1886,National League,Chicago,CHN
+1886,National League,Detroit,DTN
+1886,National League,Kansas City,KCN
+1886,National League,New York,NY1
+1886,National League,Philadelphia,PHI
+1886,National League,St. Louis,SL5
+1886,National League,Washington,WS8
+1887,American Association,Baltimore,BL2
+1887,American Association,Brooklyn,BR3
+1887,American Association,Cincinnati,CN2
+1887,American Association,Cleveland,CL3
+1887,American Association,Louisville,LS2
+1887,American Association,New York,NY4
+1887,American Association,Philadelphia,PH4
+1887,American Association,St. Louis,SL4
+1887,National League,Boston,BSN
+1887,National League,Chicago,CHN
+1887,National League,Detroit,DTN
+1887,National League,Indianapolis,IN3
+1887,National League,New York,NY1
+1887,National League,Philadelphia,PHI
+1887,National League,Pittsburgh,PIT
+1887,National League,Washington,WS8
+1888,American Association,Baltimore,BL2
+1888,American Association,Brooklyn,BR3
+1888,American Association,Cincinnati,CN2
+1888,American Association,Cleveland,CL3
+1888,American Association,Kansas City,KC2
+1888,American Association,Louisville,LS2
+1888,American Association,Philadelphia,PH4
+1888,American Association,St. Louis,SL4
+1888,National League,Boston,BSN
+1888,National League,Chicago,CHN
+1888,National League,Detroit,DTN
+1888,National League,Indianapolis,IN3
+1888,National League,New York,NY1
+1888,National League,Philadelphia,PHI
+1888,National League,Pittsburgh,PIT
+1888,National League,Washington,WS8
+1889,American Association,Baltimore,BL2
+1889,American Association,Brooklyn,BR3
+1889,American Association,Cincinnati,CN2
+1889,American Association,Columbus,CL6
+1889,American Association,Kansas City,KC2
+1889,American Association,Louisville,LS2
+1889,American Association,Philadelphia,PH4
+1889,American Association,St. Louis,SL4
+1889,National League,Boston,BSN
+1889,National League,Chicago,CHN
+1889,National League,Cleveland,CL4
+1889,National League,Indianapolis,IN3
+1889,National League,New York,NY1
+1889,National League,Philadelphia,PHI
+1889,National League,Pittsburgh,PIT
+1889,National League,Washington,WS8
+1890,American Association,Baltimore,BL3
+1890,American Association,Brooklyn,BR4
+1890,American Association,Columbus,CL6
+1890,American Association,Louisville,LS2
+1890,American Association,Philadelphia,PH4
+1890,American Association,Rochester,RC2
+1890,American Association,St. Louis,SL4
+1890,American Association,Syracuse,SR2
+1890,American Association,Toledo,TL2
+1890,National League,Boston,BSN
+1890,National League,Brooklyn,BRO
+1890,National League,Chicago,CHN
+1890,National League,Cincinnati,CIN
+1890,National League,Cleveland,CL4
+1890,National League,New York,NY1
+1890,National League,Philadelphia,PHI
+1890,National League,Pittsburgh,PIT
+1890,Players League,Boston,BSP
+1890,Players League,Brooklyn,BRP
+1890,Players League,Buffalo,BFP
+1890,Players League,Chicago,CHP
+1890,Players League,Cleveland,CLP
+1890,Players League,New York,NYP
+1890,Players League,Philadelphia,PHP
+1890,Players League,Pittsburgh,PTP
+1891,American Association,Baltimore,BL3
+1891,American Association,Boston,BS2
+1891,American Association,Cincinnati,CN3
+1891,American Association,Columbus,CL6
+1891,American Association,Louisville,LS2
+1891,American Association,Milwaukee,ML3
+1891,American Association,Philadelphia,PH4
+1891,American Association,St. Louis,SL4
+1891,American Association,Washington,WS9
+1891,National League,Boston,BSN
+1891,National League,Brooklyn,BRO
+1891,National League,Chicago,CHN
+1891,National League,Cincinnati,CIN
+1891,National League,Cleveland,CL4
+1891,National League,New York,NY1
+1891,National League,Philadelphia,PHI
+1891,National League,Pittsburgh,PIT
+1892,National League,Baltimore,BLN
+1892,National League,Boston,BSN
+1892,National League,Brooklyn,BRO
+1892,National League,Chicago,CHN
+1892,National League,Cincinnati,CIN
+1892,National League,Cleveland,CL4
+1892,National League,Louisville,LS3
+1892,National League,New York,NY1
+1892,National League,Philadelphia,PHI
+1892,National League,Pittsburgh,PIT
+1892,National League,St. Louis,SLN
+1892,National League,Washington,WSN
+1893,National League,Baltimore,BLN
+1893,National League,Boston,BSN
+1893,National League,Brooklyn,BRO
+1893,National League,Chicago,CHN
+1893,National League,Cincinnati,CIN
+1893,National League,Cleveland,CL4
+1893,National League,Louisville,LS3
+1893,National League,New York,NY1
+1893,National League,Philadelphia,PHI
+1893,National League,Pittsburgh,PIT
+1893,National League,St. Louis,SLN
+1893,National League,Washington,WSN
+1894,National League,Baltimore,BLN
+1894,National League,Boston,BSN
+1894,National League,Brooklyn,BRO
+1894,National League,Chicago,CHN
+1894,National League,Cincinnati,CIN
+1894,National League,Cleveland,CL4
+1894,National League,Louisville,LS3
+1894,National League,New York,NY1
+1894,National League,Philadelphia,PHI
+1894,National League,Pittsburgh,PIT
+1894,National League,St. Louis,SLN
+1894,National League,Washington,WSN
+1895,National League,Baltimore,BLN
+1895,National League,Boston,BSN
+1895,National League,Brooklyn,BRO
+1895,National League,Chicago,CHN
+1895,National League,Cincinnati,CIN
+1895,National League,Cleveland,CL4
+1895,National League,Louisville,LS3
+1895,National League,New York,NY1
+1895,National League,Philadelphia,PHI
+1895,National League,Pittsburgh,PIT
+1895,National League,St. Louis,SLN
+1895,National League,Washington,WSN
+1896,National League,Baltimore,BLN
+1896,National League,Boston,BSN
+1896,National League,Brooklyn,BRO
+1896,National League,Chicago,CHN
+1896,National League,Cincinnati,CIN
+1896,National League,Cleveland,CL4
+1896,National League,Louisville,LS3
+1896,National League,New York,NY1
+1896,National League,Philadelphia,PHI
+1896,National League,Pittsburgh,PIT
+1896,National League,St. Louis,SLN
+1896,National League,Washington,WSN
+1897,National League,Baltimore,BLN
+1897,National League,Boston,BSN
+1897,National League,Brooklyn,BRO
+1897,National League,Chicago,CHN
+1897,National League,Cincinnati,CIN
+1897,National League,Cleveland,CL4
+1897,National League,Louisville,LS3
+1897,National League,New York,NY1
+1897,National League,Philadelphia,PHI
+1897,National League,Pittsburgh,PIT
+1897,National League,St. Louis,SLN
+1897,National League,Washington,WSN
+1898,National League,Baltimore,BLN
+1898,National League,Boston,BSN
+1898,National League,Brooklyn,BRO
+1898,National League,Chicago,CHN
+1898,National League,Cincinnati,CIN
+1898,National League,Cleveland,CL4
+1898,National League,Louisville,LS3
+1898,National League,New York,NY1
+1898,National League,Philadelphia,PHI
+1898,National League,Pittsburgh,PIT
+1898,National League,St. Louis,SLN
+1898,National League,Washington,WSN
+1899,National League,Baltimore,BLN
+1899,National League,Boston,BSN
+1899,National League,Brooklyn,BRO
+1899,National League,Chicago,CHN
+1899,National League,Cincinnati,CIN
+1899,National League,Cleveland,CL4
+1899,National League,Louisville,LS3
+1899,National League,New York,NY1
+1899,National League,Philadelphia,PHI
+1899,National League,Pittsburgh,PIT
+1899,National League,St. Louis,SLN
+1899,National League,Washington,WSN
+1900,National League,Boston,BSN
+1900,National League,Brooklyn,BRO
+1900,National League,Chicago,CHN
+1900,National League,Cincinnati,CIN
+1900,National League,New York,NY1
+1900,National League,Philadelphia,PHI
+1900,National League,Pittsburgh,PIT
+1900,National League,St. Louis,SLN
+1901,American League,Baltimore,BLA
+1901,American League,Boston,BOS
+1901,American League,Chicago,CHA
+1901,American League,Cleveland,CLE
+1901,American League,Detroit,DET
+1901,American League,Milwaukee,MLA
+1901,American League,Philadelphia,PHA
+1901,American League,Washington,WS1
+1901,National League,Boston,BSN
+1901,National League,Brooklyn,BRO
+1901,National League,Chicago,CHN
+1901,National League,Cincinnati,CIN
+1901,National League,New York,NY1
+1901,National League,Philadelphia,PHI
+1901,National League,Pittsburgh,PIT
+1901,National League,St. Louis,SLN
+1902,American League,Baltimore,BLA
+1902,American League,Boston,BOS
+1902,American League,Chicago,CHA
+1902,American League,Cleveland,CLE
+1902,American League,Detroit,DET
+1902,American League,Philadelphia,PHA
+1902,American League,St. Louis,SLA
+1902,American League,Washington,WS1
+1902,National League,Boston,BSN
+1902,National League,Brooklyn,BRO
+1902,National League,Chicago,CHN
+1902,National League,Cincinnati,CIN
+1902,National League,New York,NY1
+1902,National League,Philadelphia,PHI
+1902,National League,Pittsburgh,PIT
+1902,National League,St. Louis,SLN
+1903,American League,Boston,BOS
+1903,American League,Chicago,CHA
+1903,American League,Cleveland,CLE
+1903,American League,Detroit,DET
+1903,American League,New York,NYA
+1903,American League,Philadelphia,PHA
+1903,American League,St. Louis,SLA
+1903,American League,Washington,WS1
+1903,National League,Boston,BSN
+1903,National League,Brooklyn,BRO
+1903,National League,Chicago,CHN
+1903,National League,Cincinnati,CIN
+1903,National League,New York,NY1
+1903,National League,Philadelphia,PHI
+1903,National League,Pittsburgh,PIT
+1903,National League,St. Louis,SLN
+1904,American League,Boston,BOS
+1904,American League,Chicago,CHA
+1904,American League,Cleveland,CLE
+1904,American League,Detroit,DET
+1904,American League,New York,NYA
+1904,American League,Philadelphia,PHA
+1904,American League,St. Louis,SLA
+1904,American League,Washington,WS1
+1904,National League,Boston,BSN
+1904,National League,Brooklyn,BRO
+1904,National League,Chicago,CHN
+1904,National League,Cincinnati,CIN
+1904,National League,New York,NY1
+1904,National League,Philadelphia,PHI
+1904,National League,Pittsburgh,PIT
+1904,National League,St. Louis,SLN
+1905,American League,Boston,BOS
+1905,American League,Chicago,CHA
+1905,American League,Cleveland,CLE
+1905,American League,Detroit,DET
+1905,American League,New York,NYA
+1905,American League,Philadelphia,PHA
+1905,American League,St. Louis,SLA
+1905,American League,Washington,WS1
+1905,National League,Boston,BSN
+1905,National League,Brooklyn,BRO
+1905,National League,Chicago,CHN
+1905,National League,Cincinnati,CIN
+1905,National League,New York,NY1
+1905,National League,Philadelphia,PHI
+1905,National League,Pittsburgh,PIT
+1905,National League,St. Louis,SLN
+1906,American League,Boston,BOS
+1906,American League,Chicago,CHA
+1906,American League,Cleveland,CLE
+1906,American League,Detroit,DET
+1906,American League,New York,NYA
+1906,American League,Philadelphia,PHA
+1906,American League,St. Louis,SLA
+1906,American League,Washington,WS1
+1906,National League,Boston,BSN
+1906,National League,Brooklyn,BRO
+1906,National League,Chicago,CHN
+1906,National League,Cincinnati,CIN
+1906,National League,New York,NY1
+1906,National League,Philadelphia,PHI
+1906,National League,Pittsburgh,PIT
+1906,National League,St. Louis,SLN
+1907,American League,Boston,BOS
+1907,American League,Chicago,CHA
+1907,American League,Cleveland,CLE
+1907,American League,Detroit,DET
+1907,American League,New York,NYA
+1907,American League,Philadelphia,PHA
+1907,American League,St. Louis,SLA
+1907,American League,Washington,WS1
+1907,National League,Boston,BSN
+1907,National League,Brooklyn,BRO
+1907,National League,Chicago,CHN
+1907,National League,Cincinnati,CIN
+1907,National League,New York,NY1
+1907,National League,Philadelphia,PHI
+1907,National League,Pittsburgh,PIT
+1907,National League,St. Louis,SLN
+1908,American League,Boston,BOS
+1908,American League,Chicago,CHA
+1908,American League,Cleveland,CLE
+1908,American League,Detroit,DET
+1908,American League,New York,NYA
+1908,American League,Philadelphia,PHA
+1908,American League,St. Louis,SLA
+1908,American League,Washington,WS1
+1908,National League,Boston,BSN
+1908,National League,Brooklyn,BRO
+1908,National League,Chicago,CHN
+1908,National League,Cincinnati,CIN
+1908,National League,New York,NY1
+1908,National League,Philadelphia,PHI
+1908,National League,Pittsburgh,PIT
+1908,National League,St. Louis,SLN
+1909,American League,Boston,BOS
+1909,American League,Chicago,CHA
+1909,American League,Cleveland,CLE
+1909,American League,Detroit,DET
+1909,American League,New York,NYA
+1909,American League,Philadelphia,PHA
+1909,American League,St. Louis,SLA
+1909,American League,Washington,WS1
+1909,National League,Boston,BSN
+1909,National League,Brooklyn,BRO
+1909,National League,Chicago,CHN
+1909,National League,Cincinnati,CIN
+1909,National League,New York,NY1
+1909,National League,Philadelphia,PHI
+1909,National League,Pittsburgh,PIT
+1909,National League,St. Louis,SLN
+1910,American League,Boston,BOS
+1910,American League,Chicago,CHA
+1910,American League,Cleveland,CLE
+1910,American League,Detroit,DET
+1910,American League,New York,NYA
+1910,American League,Philadelphia,PHA
+1910,American League,St. Louis,SLA
+1910,American League,Washington,WS1
+1910,National League,Boston,BSN
+1910,National League,Brooklyn,BRO
+1910,National League,Chicago,CHN
+1910,National League,Cincinnati,CIN
+1910,National League,New York,NY1
+1910,National League,Philadelphia,PHI
+1910,National League,Pittsburgh,PIT
+1910,National League,St. Louis,SLN
+1911,American League,Boston,BOS
+1911,American League,Chicago,CHA
+1911,American League,Cleveland,CLE
+1911,American League,Detroit,DET
+1911,American League,New York,NYA
+1911,American League,Philadelphia,PHA
+1911,American League,St. Louis,SLA
+1911,American League,Washington,WS1
+1911,National League,Boston,BSN
+1911,National League,Brooklyn,BRO
+1911,National League,Chicago,CHN
+1911,National League,Cincinnati,CIN
+1911,National League,New York,NY1
+1911,National League,Philadelphia,PHI
+1911,National League,Pittsburgh,PIT
+1911,National League,St. Louis,SLN
+1912,American League,Boston,BOS
+1912,American League,Chicago,CHA
+1912,American League,Cleveland,CLE
+1912,American League,Detroit,DET
+1912,American League,New York,NYA
+1912,American League,Philadelphia,PHA
+1912,American League,St. Louis,SLA
+1912,American League,Washington,WS1
+1912,National League,Boston,BSN
+1912,National League,Brooklyn,BRO
+1912,National League,Chicago,CHN
+1912,National League,Cincinnati,CIN
+1912,National League,New York,NY1
+1912,National League,Philadelphia,PHI
+1912,National League,Pittsburgh,PIT
+1912,National League,St. Louis,SLN
+1913,American League,Boston,BOS
+1913,American League,Chicago,CHA
+1913,American League,Cleveland,CLE
+1913,American League,Detroit,DET
+1913,American League,New York,NYA
+1913,American League,Philadelphia,PHA
+1913,American League,St. Louis,SLA
+1913,American League,Washington,WS1
+1913,National League,Boston,BSN
+1913,National League,Brooklyn,BRO
+1913,National League,Chicago,CHN
+1913,National League,Cincinnati,CIN
+1913,National League,New York,NY1
+1913,National League,Philadelphia,PHI
+1913,National League,Pittsburgh,PIT
+1913,National League,St. Louis,SLN
+1914,American League,Boston,BOS
+1914,American League,Chicago,CHA
+1914,American League,Cleveland,CLE
+1914,American League,Detroit,DET
+1914,American League,New York,NYA
+1914,American League,Philadelphia,PHA
+1914,American League,St. Louis,SLA
+1914,American League,Washington,WS1
+1914,Federal League,Baltimore,BLF
+1914,Federal League,Brooklyn,BRF
+1914,Federal League,Buffalo,BUF
+1914,Federal League,Chicago,CHF
+1914,Federal League,Indianapolis,IND
+1914,Federal League,Kansas City,KCF
+1914,Federal League,Pittsburgh,PTF
+1914,Federal League,St. Louis,SLF
+1914,National League,Boston,BSN
+1914,National League,Brooklyn,BRO
+1914,National League,Chicago,CHN
+1914,National League,Cincinnati,CIN
+1914,National League,New York,NY1
+1914,National League,Philadelphia,PHI
+1914,National League,Pittsburgh,PIT
+1914,National League,St. Louis,SLN
+1915,American League,Boston,BOS
+1915,American League,Chicago,CHA
+1915,American League,Cleveland,CLE
+1915,American League,Detroit,DET
+1915,American League,New York,NYA
+1915,American League,Philadelphia,PHA
+1915,American League,St. Louis,SLA
+1915,American League,Washington,WS1
+1915,Federal League,Baltimore,BLF
+1915,Federal League,Brooklyn,BRF
+1915,Federal League,Buffalo,BUF
+1915,Federal League,Chicago,CHF
+1915,Federal League,Kansas City,KCF
+1915,Federal League,Newark,NEW
+1915,Federal League,Pittsburgh,PTF
+1915,Federal League,St. Louis,SLF
+1915,National League,Boston,BSN
+1915,National League,Brooklyn,BRO
+1915,National League,Chicago,CHN
+1915,National League,Cincinnati,CIN
+1915,National League,New York,NY1
+1915,National League,Philadelphia,PHI
+1915,National League,Pittsburgh,PIT
+1915,National League,St. Louis,SLN
+1916,American League,Boston,BOS
+1916,American League,Chicago,CHA
+1916,American League,Cleveland,CLE
+1916,American League,Detroit,DET
+1916,American League,New York,NYA
+1916,American League,Philadelphia,PHA
+1916,American League,St. Louis,SLA
+1916,American League,Washington,WS1
+1916,National League,Boston,BSN
+1916,National League,Brooklyn,BRO
+1916,National League,Chicago,CHN
+1916,National League,Cincinnati,CIN
+1916,National League,New York,NY1
+1916,National League,Philadelphia,PHI
+1916,National League,Pittsburgh,PIT
+1916,National League,St. Louis,SLN
+1917,American League,Boston,BOS
+1917,American League,Chicago,CHA
+1917,American League,Cleveland,CLE
+1917,American League,Detroit,DET
+1917,American League,New York,NYA
+1917,American League,Philadelphia,PHA
+1917,American League,St. Louis,SLA
+1917,American League,Washington,WS1
+1917,National League,Boston,BSN
+1917,National League,Brooklyn,BRO
+1917,National League,Chicago,CHN
+1917,National League,Cincinnati,CIN
+1917,National League,New York,NY1
+1917,National League,Philadelphia,PHI
+1917,National League,Pittsburgh,PIT
+1917,National League,St. Louis,SLN
+1918,American League,Boston,BOS
+1918,American League,Chicago,CHA
+1918,American League,Cleveland,CLE
+1918,American League,Detroit,DET
+1918,American League,New York,NYA
+1918,American League,Philadelphia,PHA
+1918,American League,St. Louis,SLA
+1918,American League,Washington,WS1
+1918,National League,Boston,BSN
+1918,National League,Brooklyn,BRO
+1918,National League,Chicago,CHN
+1918,National League,Cincinnati,CIN
+1918,National League,New York,NY1
+1918,National League,Philadelphia,PHI
+1918,National League,Pittsburgh,PIT
+1918,National League,St. Louis,SLN
+1919,American League,Boston,BOS
+1919,American League,Chicago,CHA
+1919,American League,Cleveland,CLE
+1919,American League,Detroit,DET
+1919,American League,New York,NYA
+1919,American League,Philadelphia,PHA
+1919,American League,St. Louis,SLA
+1919,American League,Washington,WS1
+1919,National League,Boston,BSN
+1919,National League,Brooklyn,BRO
+1919,National League,Chicago,CHN
+1919,National League,Cincinnati,CIN
+1919,National League,New York,NY1
+1919,National League,Philadelphia,PHI
+1919,National League,Pittsburgh,PIT
+1919,National League,St. Louis,SLN
+1920,American League,Boston,BOS
+1920,American League,Chicago,CHA
+1920,American League,Cleveland,CLE
+1920,American League,Detroit,DET
+1920,American League,New York,NYA
+1920,American League,Philadelphia,PHA
+1920,American League,St. Louis,SLA
+1920,American League,Washington,WS1
+1920,National League,Boston,BSN
+1920,National League,Brooklyn,BRO
+1920,National League,Chicago,CHN
+1920,National League,Cincinnati,CIN
+1920,National League,New York,NY1
+1920,National League,Philadelphia,PHI
+1920,National League,Pittsburgh,PIT
+1920,National League,St. Louis,SLN
+1921,American League,Boston,BOS
+1921,American League,Chicago,CHA
+1921,American League,Cleveland,CLE
+1921,American League,Detroit,DET
+1921,American League,New York,NYA
+1921,American League,Philadelphia,PHA
+1921,American League,St. Louis,SLA
+1921,American League,Washington,WS1
+1921,National League,Boston,BSN
+1921,National League,Brooklyn,BRO
+1921,National League,Chicago,CHN
+1921,National League,Cincinnati,CIN
+1921,National League,New York,NY1
+1921,National League,Philadelphia,PHI
+1921,National League,Pittsburgh,PIT
+1921,National League,St. Louis,SLN
+1922,American League,Boston,BOS
+1922,American League,Chicago,CHA
+1922,American League,Cleveland,CLE
+1922,American League,Detroit,DET
+1922,American League,New York,NYA
+1922,American League,Philadelphia,PHA
+1922,American League,St. Louis,SLA
+1922,American League,Washington,WS1
+1922,National League,Boston,BSN
+1922,National League,Brooklyn,BRO
+1922,National League,Chicago,CHN
+1922,National League,Cincinnati,CIN
+1922,National League,New York,NY1
+1922,National League,Philadelphia,PHI
+1922,National League,Pittsburgh,PIT
+1922,National League,St. Louis,SLN
+1923,American League,Boston,BOS
+1923,American League,Chicago,CHA
+1923,American League,Cleveland,CLE
+1923,American League,Detroit,DET
+1923,American League,New York,NYA
+1923,American League,Philadelphia,PHA
+1923,American League,St. Louis,SLA
+1923,American League,Washington,WS1
+1923,National League,Boston,BSN
+1923,National League,Brooklyn,BRO
+1923,National League,Chicago,CHN
+1923,National League,Cincinnati,CIN
+1923,National League,New York,NY1
+1923,National League,Philadelphia,PHI
+1923,National League,Pittsburgh,PIT
+1923,National League,St. Louis,SLN
+1924,American League,Boston,BOS
+1924,American League,Chicago,CHA
+1924,American League,Cleveland,CLE
+1924,American League,Detroit,DET
+1924,American League,New York,NYA
+1924,American League,Philadelphia,PHA
+1924,American League,St. Louis,SLA
+1924,American League,Washington,WS1
+1924,National League,Boston,BSN
+1924,National League,Brooklyn,BRO
+1924,National League,Chicago,CHN
+1924,National League,Cincinnati,CIN
+1924,National League,New York,NY1
+1924,National League,Philadelphia,PHI
+1924,National League,Pittsburgh,PIT
+1924,National League,St. Louis,SLN
+1925,American League,Boston,BOS
+1925,American League,Chicago,CHA
+1925,American League,Cleveland,CLE
+1925,American League,Detroit,DET
+1925,American League,New York,NYA
+1925,American League,Philadelphia,PHA
+1925,American League,St. Louis,SLA
+1925,American League,Washington,WS1
+1925,National League,Boston,BSN
+1925,National League,Brooklyn,BRO
+1925,National League,Chicago,CHN
+1925,National League,Cincinnati,CIN
+1925,National League,New York,NY1
+1925,National League,Philadelphia,PHI
+1925,National League,Pittsburgh,PIT
+1925,National League,St. Louis,SLN
+1926,American League,Boston,BOS
+1926,American League,Chicago,CHA
+1926,American League,Cleveland,CLE
+1926,American League,Detroit,DET
+1926,American League,New York,NYA
+1926,American League,Philadelphia,PHA
+1926,American League,St. Louis,SLA
+1926,American League,Washington,WS1
+1926,National League,Boston,BSN
+1926,National League,Brooklyn,BRO
+1926,National League,Chicago,CHN
+1926,National League,Cincinnati,CIN
+1926,National League,New York,NY1
+1926,National League,Philadelphia,PHI
+1926,National League,Pittsburgh,PIT
+1926,National League,St. Louis,SLN
+1927,American League,Boston,BOS
+1927,American League,Chicago,CHA
+1927,American League,Cleveland,CLE
+1927,American League,Detroit,DET
+1927,American League,New York,NYA
+1927,American League,Philadelphia,PHA
+1927,American League,St. Louis,SLA
+1927,American League,Washington,WS1
+1927,National League,Boston,BSN
+1927,National League,Brooklyn,BRO
+1927,National League,Chicago,CHN
+1927,National League,Cincinnati,CIN
+1927,National League,New York,NY1
+1927,National League,Philadelphia,PHI
+1927,National League,Pittsburgh,PIT
+1927,National League,St. Louis,SLN
+1928,American League,Boston,BOS
+1928,American League,Chicago,CHA
+1928,American League,Cleveland,CLE
+1928,American League,Detroit,DET
+1928,American League,New York,NYA
+1928,American League,Philadelphia,PHA
+1928,American League,St. Louis,SLA
+1928,American League,Washington,WS1
+1928,National League,Boston,BSN
+1928,National League,Brooklyn,BRO
+1928,National League,Chicago,CHN
+1928,National League,Cincinnati,CIN
+1928,National League,New York,NY1
+1928,National League,Philadelphia,PHI
+1928,National League,Pittsburgh,PIT
+1928,National League,St. Louis,SLN
+1929,American League,Boston,BOS
+1929,American League,Chicago,CHA
+1929,American League,Cleveland,CLE
+1929,American League,Detroit,DET
+1929,American League,New York,NYA
+1929,American League,Philadelphia,PHA
+1929,American League,St. Louis,SLA
+1929,American League,Washington,WS1
+1929,National League,Boston,BSN
+1929,National League,Brooklyn,BRO
+1929,National League,Chicago,CHN
+1929,National League,Cincinnati,CIN
+1929,National League,New York,NY1
+1929,National League,Philadelphia,PHI
+1929,National League,Pittsburgh,PIT
+1929,National League,St. Louis,SLN
+1930,American League,Boston,BOS
+1930,American League,Chicago,CHA
+1930,American League,Cleveland,CLE
+1930,American League,Detroit,DET
+1930,American League,New York,NYA
+1930,American League,Philadelphia,PHA
+1930,American League,St. Louis,SLA
+1930,American League,Washington,WS1
+1930,National League,Boston,BSN
+1930,National League,Brooklyn,BRO
+1930,National League,Chicago,CHN
+1930,National League,Cincinnati,CIN
+1930,National League,New York,NY1
+1930,National League,Philadelphia,PHI
+1930,National League,Pittsburgh,PIT
+1930,National League,St. Louis,SLN
+1931,American League,Boston,BOS
+1931,American League,Chicago,CHA
+1931,American League,Cleveland,CLE
+1931,American League,Detroit,DET
+1931,American League,New York,NYA
+1931,American League,Philadelphia,PHA
+1931,American League,St. Louis,SLA
+1931,American League,Washington,WS1
+1931,National League,Boston,BSN
+1931,National League,Brooklyn,BRO
+1931,National League,Chicago,CHN
+1931,National League,Cincinnati,CIN
+1931,National League,New York,NY1
+1931,National League,Philadelphia,PHI
+1931,National League,Pittsburgh,PIT
+1931,National League,St. Louis,SLN
+1932,American League,Boston,BOS
+1932,American League,Chicago,CHA
+1932,American League,Cleveland,CLE
+1932,American League,Detroit,DET
+1932,American League,New York,NYA
+1932,American League,Philadelphia,PHA
+1932,American League,St. Louis,SLA
+1932,American League,Washington,WS1
+1932,National League,Boston,BSN
+1932,National League,Brooklyn,BRO
+1932,National League,Chicago,CHN
+1932,National League,Cincinnati,CIN
+1932,National League,New York,NY1
+1932,National League,Philadelphia,PHI
+1932,National League,Pittsburgh,PIT
+1932,National League,St. Louis,SLN
+1933,American League,Boston,BOS
+1933,American League,Chicago,CHA
+1933,American League,Cleveland,CLE
+1933,American League,Detroit,DET
+1933,American League,New York,NYA
+1933,American League,Philadelphia,PHA
+1933,American League,St. Louis,SLA
+1933,American League,Washington,WS1
+1933,National League,Boston,BSN
+1933,National League,Brooklyn,BRO
+1933,National League,Chicago,CHN
+1933,National League,Cincinnati,CIN
+1933,National League,New York,NY1
+1933,National League,Philadelphia,PHI
+1933,National League,Pittsburgh,PIT
+1933,National League,St. Louis,SLN
+1934,American League,Boston,BOS
+1934,American League,Chicago,CHA
+1934,American League,Cleveland,CLE
+1934,American League,Detroit,DET
+1934,American League,New York,NYA
+1934,American League,Philadelphia,PHA
+1934,American League,St. Louis,SLA
+1934,American League,Washington,WS1
+1934,National League,Boston,BSN
+1934,National League,Brooklyn,BRO
+1934,National League,Chicago,CHN
+1934,National League,Cincinnati,CIN
+1934,National League,New York,NY1
+1934,National League,Philadelphia,PHI
+1934,National League,Pittsburgh,PIT
+1934,National League,St. Louis,SLN
+1935,American League,Boston,BOS
+1935,American League,Chicago,CHA
+1935,American League,Cleveland,CLE
+1935,American League,Detroit,DET
+1935,American League,New York,NYA
+1935,American League,Philadelphia,PHA
+1935,American League,St. Louis,SLA
+1935,American League,Washington,WS1
+1935,National League,Boston,BSN
+1935,National League,Brooklyn,BRO
+1935,National League,Chicago,CHN
+1935,National League,Cincinnati,CIN
+1935,National League,New York,NY1
+1935,National League,Philadelphia,PHI
+1935,National League,Pittsburgh,PIT
+1935,National League,St. Louis,SLN
+1936,American League,Boston,BOS
+1936,American League,Chicago,CHA
+1936,American League,Cleveland,CLE
+1936,American League,Detroit,DET
+1936,American League,New York,NYA
+1936,American League,Philadelphia,PHA
+1936,American League,St. Louis,SLA
+1936,American League,Washington,WS1
+1936,National League,Boston,BSN
+1936,National League,Brooklyn,BRO
+1936,National League,Chicago,CHN
+1936,National League,Cincinnati,CIN
+1936,National League,New York,NY1
+1936,National League,Philadelphia,PHI
+1936,National League,Pittsburgh,PIT
+1936,National League,St. Louis,SLN
+1937,American League,Boston,BOS
+1937,American League,Chicago,CHA
+1937,American League,Cleveland,CLE
+1937,American League,Detroit,DET
+1937,American League,New York,NYA
+1937,American League,Philadelphia,PHA
+1937,American League,St. Louis,SLA
+1937,American League,Washington,WS1
+1937,National League,Boston,BSN
+1937,National League,Brooklyn,BRO
+1937,National League,Chicago,CHN
+1937,National League,Cincinnati,CIN
+1937,National League,New York,NY1
+1937,National League,Philadelphia,PHI
+1937,National League,Pittsburgh,PIT
+1937,National League,St. Louis,SLN
+1938,American League,Boston,BOS
+1938,American League,Chicago,CHA
+1938,American League,Cleveland,CLE
+1938,American League,Detroit,DET
+1938,American League,New York,NYA
+1938,American League,Philadelphia,PHA
+1938,American League,St. Louis,SLA
+1938,American League,Washington,WS1
+1938,National League,Boston,BSN
+1938,National League,Brooklyn,BRO
+1938,National League,Chicago,CHN
+1938,National League,Cincinnati,CIN
+1938,National League,New York,NY1
+1938,National League,Philadelphia,PHI
+1938,National League,Pittsburgh,PIT
+1938,National League,St. Louis,SLN
+1939,American League,Boston,BOS
+1939,American League,Chicago,CHA
+1939,American League,Cleveland,CLE
+1939,American League,Detroit,DET
+1939,American League,New York,NYA
+1939,American League,Philadelphia,PHA
+1939,American League,St. Louis,SLA
+1939,American League,Washington,WS1
+1939,National League,Boston,BSN
+1939,National League,Brooklyn,BRO
+1939,National League,Chicago,CHN
+1939,National League,Cincinnati,CIN
+1939,National League,New York,NY1
+1939,National League,Philadelphia,PHI
+1939,National League,Pittsburgh,PIT
+1939,National League,St. Louis,SLN
+1940,American League,Boston,BOS
+1940,American League,Chicago,CHA
+1940,American League,Cleveland,CLE
+1940,American League,Detroit,DET
+1940,American League,New York,NYA
+1940,American League,Philadelphia,PHA
+1940,American League,St. Louis,SLA
+1940,American League,Washington,WS1
+1940,National League,Boston,BSN
+1940,National League,Brooklyn,BRO
+1940,National League,Chicago,CHN
+1940,National League,Cincinnati,CIN
+1940,National League,New York,NY1
+1940,National League,Philadelphia,PHI
+1940,National League,Pittsburgh,PIT
+1940,National League,St. Louis,SLN
+1941,American League,Boston,BOS
+1941,American League,Chicago,CHA
+1941,American League,Cleveland,CLE
+1941,American League,Detroit,DET
+1941,American League,New York,NYA
+1941,American League,Philadelphia,PHA
+1941,American League,St. Louis,SLA
+1941,American League,Washington,WS1
+1941,National League,Boston,BSN
+1941,National League,Brooklyn,BRO
+1941,National League,Chicago,CHN
+1941,National League,Cincinnati,CIN
+1941,National League,New York,NY1
+1941,National League,Philadelphia,PHI
+1941,National League,Pittsburgh,PIT
+1941,National League,St. Louis,SLN
+1942,American League,Boston,BOS
+1942,American League,Chicago,CHA
+1942,American League,Cleveland,CLE
+1942,American League,Detroit,DET
+1942,American League,New York,NYA
+1942,American League,Philadelphia,PHA
+1942,American League,St. Louis,SLA
+1942,American League,Washington,WS1
+1942,National League,Boston,BSN
+1942,National League,Brooklyn,BRO
+1942,National League,Chicago,CHN
+1942,National League,Cincinnati,CIN
+1942,National League,New York,NY1
+1942,National League,Philadelphia,PHI
+1942,National League,Pittsburgh,PIT
+1942,National League,St. Louis,SLN
+1943,American League,Boston,BOS
+1943,American League,Chicago,CHA
+1943,American League,Cleveland,CLE
+1943,American League,Detroit,DET
+1943,American League,New York,NYA
+1943,American League,Philadelphia,PHA
+1943,American League,St. Louis,SLA
+1943,American League,Washington,WS1
+1943,National League,Boston,BSN
+1943,National League,Brooklyn,BRO
+1943,National League,Chicago,CHN
+1943,National League,Cincinnati,CIN
+1943,National League,New York,NY1
+1943,National League,Philadelphia,PHI
+1943,National League,Pittsburgh,PIT
+1943,National League,St. Louis,SLN
+1944,American League,Boston,BOS
+1944,American League,Chicago,CHA
+1944,American League,Cleveland,CLE
+1944,American League,Detroit,DET
+1944,American League,New York,NYA
+1944,American League,Philadelphia,PHA
+1944,American League,St. Louis,SLA
+1944,American League,Washington,WS1
+1944,National League,Boston,BSN
+1944,National League,Brooklyn,BRO
+1944,National League,Chicago,CHN
+1944,National League,Cincinnati,CIN
+1944,National League,New York,NY1
+1944,National League,Philadelphia,PHI
+1944,National League,Pittsburgh,PIT
+1944,National League,St. Louis,SLN
+1945,American League,Boston,BOS
+1945,American League,Chicago,CHA
+1945,American League,Cleveland,CLE
+1945,American League,Detroit,DET
+1945,American League,New York,NYA
+1945,American League,Philadelphia,PHA
+1945,American League,St. Louis,SLA
+1945,American League,Washington,WS1
+1945,National League,Boston,BSN
+1945,National League,Brooklyn,BRO
+1945,National League,Chicago,CHN
+1945,National League,Cincinnati,CIN
+1945,National League,New York,NY1
+1945,National League,Philadelphia,PHI
+1945,National League,Pittsburgh,PIT
+1945,National League,St. Louis,SLN
+1946,American League,Boston,BOS
+1946,American League,Chicago,CHA
+1946,American League,Cleveland,CLE
+1946,American League,Detroit,DET
+1946,American League,New York,NYA
+1946,American League,Philadelphia,PHA
+1946,American League,St. Louis,SLA
+1946,American League,Washington,WS1
+1946,National League,Boston,BSN
+1946,National League,Brooklyn,BRO
+1946,National League,Chicago,CHN
+1946,National League,Cincinnati,CIN
+1946,National League,New York,NY1
+1946,National League,Philadelphia,PHI
+1946,National League,Pittsburgh,PIT
+1946,National League,St. Louis,SLN
+1947,American League,Boston,BOS
+1947,American League,Chicago,CHA
+1947,American League,Cleveland,CLE
+1947,American League,Detroit,DET
+1947,American League,New York,NYA
+1947,American League,Philadelphia,PHA
+1947,American League,St. Louis,SLA
+1947,American League,Washington,WS1
+1947,National League,Boston,BSN
+1947,National League,Brooklyn,BRO
+1947,National League,Chicago,CHN
+1947,National League,Cincinnati,CIN
+1947,National League,New York,NY1
+1947,National League,Philadelphia,PHI
+1947,National League,Pittsburgh,PIT
+1947,National League,St. Louis,SLN
+1948,American League,Boston,BOS
+1948,American League,Chicago,CHA
+1948,American League,Cleveland,CLE
+1948,American League,Detroit,DET
+1948,American League,New York,NYA
+1948,American League,Philadelphia,PHA
+1948,American League,St. Louis,SLA
+1948,American League,Washington,WS1
+1948,National League,Boston,BSN
+1948,National League,Brooklyn,BRO
+1948,National League,Chicago,CHN
+1948,National League,Cincinnati,CIN
+1948,National League,New York,NY1
+1948,National League,Philadelphia,PHI
+1948,National League,Pittsburgh,PIT
+1948,National League,St. Louis,SLN
+1949,American League,Boston,BOS
+1949,American League,Chicago,CHA
+1949,American League,Cleveland,CLE
+1949,American League,Detroit,DET
+1949,American League,New York,NYA
+1949,American League,Philadelphia,PHA
+1949,American League,St. Louis,SLA
+1949,American League,Washington,WS1
+1949,National League,Boston,BSN
+1949,National League,Brooklyn,BRO
+1949,National League,Chicago,CHN
+1949,National League,Cincinnati,CIN
+1949,National League,New York,NY1
+1949,National League,Philadelphia,PHI
+1949,National League,Pittsburgh,PIT
+1949,National League,St. Louis,SLN
+1950,American League,Boston,BOS
+1950,American League,Chicago,CHA
+1950,American League,Cleveland,CLE
+1950,American League,Detroit,DET
+1950,American League,New York,NYA
+1950,American League,Philadelphia,PHA
+1950,American League,St. Louis,SLA
+1950,American League,Washington,WS1
+1950,National League,Boston,BSN
+1950,National League,Brooklyn,BRO
+1950,National League,Chicago,CHN
+1950,National League,Cincinnati,CIN
+1950,National League,New York,NY1
+1950,National League,Philadelphia,PHI
+1950,National League,Pittsburgh,PIT
+1950,National League,St. Louis,SLN
+1951,American League,Boston,BOS
+1951,American League,Chicago,CHA
+1951,American League,Cleveland,CLE
+1951,American League,Detroit,DET
+1951,American League,New York,NYA
+1951,American League,Philadelphia,PHA
+1951,American League,St. Louis,SLA
+1951,American League,Washington,WS1
+1951,National League,Boston,BSN
+1951,National League,Brooklyn,BRO
+1951,National League,Chicago,CHN
+1951,National League,Cincinnati,CIN
+1951,National League,New York,NY1
+1951,National League,Philadelphia,PHI
+1951,National League,Pittsburgh,PIT
+1951,National League,St. Louis,SLN
+1952,American League,Boston,BOS
+1952,American League,Chicago,CHA
+1952,American League,Cleveland,CLE
+1952,American League,Detroit,DET
+1952,American League,New York,NYA
+1952,American League,Philadelphia,PHA
+1952,American League,St. Louis,SLA
+1952,American League,Washington,WS1
+1952,National League,Boston,BSN
+1952,National League,Brooklyn,BRO
+1952,National League,Chicago,CHN
+1952,National League,Cincinnati,CIN
+1952,National League,New York,NY1
+1952,National League,Philadelphia,PHI
+1952,National League,Pittsburgh,PIT
+1952,National League,St. Louis,SLN
+1953,American League,Boston,BOS
+1953,American League,Chicago,CHA
+1953,American League,Cleveland,CLE
+1953,American League,Detroit,DET
+1953,American League,New York,NYA
+1953,American League,Philadelphia,PHA
+1953,American League,St. Louis,SLA
+1953,American League,Washington,WS1
+1953,National League,Brooklyn,BRO
+1953,National League,Chicago,CHN
+1953,National League,Cincinnati,CIN
+1953,National League,Milwaukee,MLN
+1953,National League,New York,NY1
+1953,National League,Philadelphia,PHI
+1953,National League,Pittsburgh,PIT
+1953,National League,St. Louis,SLN
+1954,American League,Baltimore,BAL
+1954,American League,Boston,BOS
+1954,American League,Chicago,CHA
+1954,American League,Cleveland,CLE
+1954,American League,Detroit,DET
+1954,American League,New York,NYA
+1954,American League,Philadelphia,PHA
+1954,American League,Washington,WS1
+1954,National League,Brooklyn,BRO
+1954,National League,Chicago,CHN
+1954,National League,Cincinnati,CIN
+1954,National League,Milwaukee,MLN
+1954,National League,New York,NY1
+1954,National League,Philadelphia,PHI
+1954,National League,Pittsburgh,PIT
+1954,National League,St. Louis,SLN
+1955,American League,Baltimore,BAL
+1955,American League,Boston,BOS
+1955,American League,Chicago,CHA
+1955,American League,Cleveland,CLE
+1955,American League,Detroit,DET
+1955,American League,Kansas City,KC1
+1955,American League,New York,NYA
+1955,American League,Washington,WS1
+1955,National League,Brooklyn,BRO
+1955,National League,Chicago,CHN
+1955,National League,Cincinnati,CIN
+1955,National League,Milwaukee,MLN
+1955,National League,New York,NY1
+1955,National League,Philadelphia,PHI
+1955,National League,Pittsburgh,PIT
+1955,National League,St. Louis,SLN
+1956,American League,Baltimore,BAL
+1956,American League,Boston,BOS
+1956,American League,Chicago,CHA
+1956,American League,Cleveland,CLE
+1956,American League,Detroit,DET
+1956,American League,Kansas City,KC1
+1956,American League,New York,NYA
+1956,American League,Washington,WS1
+1956,National League,Brooklyn,BRO
+1956,National League,Chicago,CHN
+1956,National League,Cincinnati,CIN
+1956,National League,Milwaukee,MLN
+1956,National League,New York,NY1
+1956,National League,Philadelphia,PHI
+1956,National League,Pittsburgh,PIT
+1956,National League,St. Louis,SLN
+1957,American League,Baltimore,BAL
+1957,American League,Boston,BOS
+1957,American League,Chicago,CHA
+1957,American League,Cleveland,CLE
+1957,American League,Detroit,DET
+1957,American League,Kansas City,KC1
+1957,American League,New York,NYA
+1957,American League,Washington,WS1
+1957,National League,Brooklyn,BRO
+1957,National League,Chicago,CHN
+1957,National League,Cincinnati,CIN
+1957,National League,Milwaukee,MLN
+1957,National League,New York,NY1
+1957,National League,Philadelphia,PHI
+1957,National League,Pittsburgh,PIT
+1957,National League,St. Louis,SLN
+1958,American League,Baltimore,BAL
+1958,American League,Boston,BOS
+1958,American League,Chicago,CHA
+1958,American League,Cleveland,CLE
+1958,American League,Detroit,DET
+1958,American League,Kansas City,KC1
+1958,American League,New York,NYA
+1958,American League,Washington,WS1
+1958,National League,Chicago,CHN
+1958,National League,Cincinnati,CIN
+1958,National League,Los Angeles,LAN
+1958,National League,Milwaukee,MLN
+1958,National League,Philadelphia,PHI
+1958,National League,Pittsburgh,PIT
+1958,National League,San Francisco,SFN
+1958,National League,St. Louis,SLN
+1959,American League,Baltimore,BAL
+1959,American League,Boston,BOS
+1959,American League,Chicago,CHA
+1959,American League,Cleveland,CLE
+1959,American League,Detroit,DET
+1959,American League,Kansas City,KC1
+1959,American League,New York,NYA
+1959,American League,Washington,WS1
+1959,National League,Chicago,CHN
+1959,National League,Cincinnati,CIN
+1959,National League,Los Angeles,LAN
+1959,National League,Milwaukee,MLN
+1959,National League,Philadelphia,PHI
+1959,National League,Pittsburgh,PIT
+1959,National League,San Francisco,SFN
+1959,National League,St. Louis,SLN
+1960,American League,Baltimore,BAL
+1960,American League,Boston,BOS
+1960,American League,Chicago,CHA
+1960,American League,Cleveland,CLE
+1960,American League,Detroit,DET
+1960,American League,Kansas City,KC1
+1960,American League,New York,NYA
+1960,American League,Washington,WS1
+1960,National League,Chicago,CHN
+1960,National League,Cincinnati,CIN
+1960,National League,Los Angeles,LAN
+1960,National League,Milwaukee,MLN
+1960,National League,Philadelphia,PHI
+1960,National League,Pittsburgh,PIT
+1960,National League,San Francisco,SFN
+1960,National League,St. Louis,SLN
+1961,American League,Baltimore,BAL
+1961,American League,Boston,BOS
+1961,American League,Chicago,CHA
+1961,American League,Cleveland,CLE
+1961,American League,Detroit,DET
+1961,American League,Kansas City,KC1
+1961,American League,Los Angeles,LAA
+1961,American League,Minnesota,MIN
+1961,American League,New York,NYA
+1961,American League,Washington,WS2
+1961,National League,Chicago,CHN
+1961,National League,Cincinnati,CIN
+1961,National League,Los Angeles,LAN
+1961,National League,Milwaukee,MLN
+1961,National League,Philadelphia,PHI
+1961,National League,Pittsburgh,PIT
+1961,National League,San Francisco,SFN
+1961,National League,St. Louis,SLN
+1962,American League,Baltimore,BAL
+1962,American League,Boston,BOS
+1962,American League,Chicago,CHA
+1962,American League,Cleveland,CLE
+1962,American League,Detroit,DET
+1962,American League,Kansas City,KC1
+1962,American League,Los Angeles,LAA
+1962,American League,Minnesota,MIN
+1962,American League,New York,NYA
+1962,American League,Washington,WS2
+1962,National League,Chicago,CHN
+1962,National League,Cincinnati,CIN
+1962,National League,Houston,HOU
+1962,National League,Los Angeles,LAN
+1962,National League,Milwaukee,MLN
+1962,National League,New York,NYN
+1962,National League,Philadelphia,PHI
+1962,National League,Pittsburgh,PIT
+1962,National League,San Francisco,SFN
+1962,National League,St. Louis,SLN
+1963,American League,Baltimore,BAL
+1963,American League,Boston,BOS
+1963,American League,Chicago,CHA
+1963,American League,Cleveland,CLE
+1963,American League,Detroit,DET
+1963,American League,Kansas City,KC1
+1963,American League,Los Angeles,LAA
+1963,American League,Minnesota,MIN
+1963,American League,New York,NYA
+1963,American League,Washington,WS2
+1963,National League,Chicago,CHN
+1963,National League,Cincinnati,CIN
+1963,National League,Houston,HOU
+1963,National League,Los Angeles,LAN
+1963,National League,Milwaukee,MLN
+1963,National League,New York,NYN
+1963,National League,Philadelphia,PHI
+1963,National League,Pittsburgh,PIT
+1963,National League,San Francisco,SFN
+1963,National League,St. Louis,SLN
+1964,American League,Baltimore,BAL
+1964,American League,Boston,BOS
+1964,American League,Chicago,CHA
+1964,American League,Cleveland,CLE
+1964,American League,Detroit,DET
+1964,American League,Kansas City,KC1
+1964,American League,Los Angeles,LAA
+1964,American League,Minnesota,MIN
+1964,American League,New York,NYA
+1964,American League,Washington,WS2
+1964,National League,Chicago,CHN
+1964,National League,Cincinnati,CIN
+1964,National League,Houston,HOU
+1964,National League,Los Angeles,LAN
+1964,National League,Milwaukee,MLN
+1964,National League,New York,NYN
+1964,National League,Philadelphia,PHI
+1964,National League,Pittsburgh,PIT
+1964,National League,San Francisco,SFN
+1964,National League,St. Louis,SLN
+1965,American League,Baltimore,BAL
+1965,American League,Boston,BOS
+1965,American League,California,CAL
+1965,American League,Chicago,CHA
+1965,American League,Cleveland,CLE
+1965,American League,Detroit,DET
+1965,American League,Kansas City,KC1
+1965,American League,Minnesota,MIN
+1965,American League,New York,NYA
+1965,American League,Washington,WS2
+1965,National League,Chicago,CHN
+1965,National League,Cincinnati,CIN
+1965,National League,Houston,HOU
+1965,National League,Los Angeles,LAN
+1965,National League,Milwaukee,MLN
+1965,National League,New York,NYN
+1965,National League,Philadelphia,PHI
+1965,National League,Pittsburgh,PIT
+1965,National League,San Francisco,SFN
+1965,National League,St. Louis,SLN
+1966,American League,Baltimore,BAL
+1966,American League,Boston,BOS
+1966,American League,California,CAL
+1966,American League,Chicago,CHA
+1966,American League,Cleveland,CLE
+1966,American League,Detroit,DET
+1966,American League,Kansas City,KC1
+1966,American League,Minnesota,MIN
+1966,American League,New York,NYA
+1966,American League,Washington,WS2
+1966,National League,Atlanta,ATL
+1966,National League,Chicago,CHN
+1966,National League,Cincinnati,CIN
+1966,National League,Houston,HOU
+1966,National League,Los Angeles,LAN
+1966,National League,New York,NYN
+1966,National League,Philadelphia,PHI
+1966,National League,Pittsburgh,PIT
+1966,National League,San Francisco,SFN
+1966,National League,St. Louis,SLN
+1967,American League,Baltimore,BAL
+1967,American League,Boston,BOS
+1967,American League,California,CAL
+1967,American League,Chicago,CHA
+1967,American League,Cleveland,CLE
+1967,American League,Detroit,DET
+1967,American League,Kansas City,KC1
+1967,American League,Minnesota,MIN
+1967,American League,New York,NYA
+1967,American League,Washington,WS2
+1967,National League,Atlanta,ATL
+1967,National League,Chicago,CHN
+1967,National League,Cincinnati,CIN
+1967,National League,Houston,HOU
+1967,National League,Los Angeles,LAN
+1967,National League,New York,NYN
+1967,National League,Philadelphia,PHI
+1967,National League,Pittsburgh,PIT
+1967,National League,San Francisco,SFN
+1967,National League,St. Louis,SLN
+1968,American League,Baltimore,BAL
+1968,American League,Boston,BOS
+1968,American League,California,CAL
+1968,American League,Chicago,CHA
+1968,American League,Cleveland,CLE
+1968,American League,Detroit,DET
+1968,American League,Minnesota,MIN
+1968,American League,New York,NYA
+1968,American League,Oakland,OAK
+1968,American League,Washington,WS2
+1968,National League,Atlanta,ATL
+1968,National League,Chicago,CHN
+1968,National League,Cincinnati,CIN
+1968,National League,Houston,HOU
+1968,National League,Los Angeles,LAN
+1968,National League,New York,NYN
+1968,National League,Philadelphia,PHI
+1968,National League,Pittsburgh,PIT
+1968,National League,San Francisco,SFN
+1968,National League,St. Louis,SLN
+1969,American League,Baltimore,BAL
+1969,American League,Boston,BOS
+1969,American League,California,CAL
+1969,American League,Chicago,CHA
+1969,American League,Cleveland,CLE
+1969,American League,Detroit,DET
+1969,American League,Kansas City,KCA
+1969,American League,Minnesota,MIN
+1969,American League,New York,NYA
+1969,American League,Oakland,OAK
+1969,American League,Seattle,SE1
+1969,American League,Washington,WS2
+1969,National League,Atlanta,ATL
+1969,National League,Chicago,CHN
+1969,National League,Cincinnati,CIN
+1969,National League,Houston,HOU
+1969,National League,Los Angeles,LAN
+1969,National League,Montreal,MON
+1969,National League,New York,NYN
+1969,National League,Philadelphia,PHI
+1969,National League,Pittsburgh,PIT
+1969,National League,San Diego,SDN
+1969,National League,San Francisco,SFN
+1969,National League,St. Louis,SLN
+1970,American League,Baltimore,BAL
+1970,American League,Boston,BOS
+1970,American League,California,CAL
+1970,American League,Chicago,CHA
+1970,American League,Cleveland,CLE
+1970,American League,Detroit,DET
+1970,American League,Kansas City,KCA
+1970,American League,Milwaukee,MIL
+1970,American League,Minnesota,MIN
+1970,American League,New York,NYA
+1970,American League,Oakland,OAK
+1970,American League,Washington,WS2
+1970,National League,Atlanta,ATL
+1970,National League,Chicago,CHN
+1970,National League,Cincinnati,CIN
+1970,National League,Houston,HOU
+1970,National League,Los Angeles,LAN
+1970,National League,Montreal,MON
+1970,National League,New York,NYN
+1970,National League,Philadelphia,PHI
+1970,National League,Pittsburgh,PIT
+1970,National League,San Diego,SDN
+1970,National League,San Francisco,SFN
+1970,National League,St. Louis,SLN
+1971,American League,Baltimore,BAL
+1971,American League,Boston,BOS
+1971,American League,California,CAL
+1971,American League,Chicago,CHA
+1971,American League,Cleveland,CLE
+1971,American League,Detroit,DET
+1971,American League,Kansas City,KCA
+1971,American League,Milwaukee,MIL
+1971,American League,Minnesota,MIN
+1971,American League,New York,NYA
+1971,American League,Oakland,OAK
+1971,American League,Washington,WS2
+1971,National League,Atlanta,ATL
+1971,National League,Chicago,CHN
+1971,National League,Cincinnati,CIN
+1971,National League,Houston,HOU
+1971,National League,Los Angeles,LAN
+1971,National League,Montreal,MON
+1971,National League,New York,NYN
+1971,National League,Philadelphia,PHI
+1971,National League,Pittsburgh,PIT
+1971,National League,San Diego,SDN
+1971,National League,San Francisco,SFN
+1971,National League,St. Louis,SLN
+1972,American League,Baltimore,BAL
+1972,American League,Boston,BOS
+1972,American League,California,CAL
+1972,American League,Chicago,CHA
+1972,American League,Cleveland,CLE
+1972,American League,Detroit,DET
+1972,American League,Kansas City,KCA
+1972,American League,Milwaukee,MIL
+1972,American League,Minnesota,MIN
+1972,American League,New York,NYA
+1972,American League,Oakland,OAK
+1972,American League,Texas,TEX
+1972,National League,Atlanta,ATL
+1972,National League,Chicago,CHN
+1972,National League,Cincinnati,CIN
+1972,National League,Houston,HOU
+1972,National League,Los Angeles,LAN
+1972,National League,Montreal,MON
+1972,National League,New York,NYN
+1972,National League,Philadelphia,PHI
+1972,National League,Pittsburgh,PIT
+1972,National League,San Diego,SDN
+1972,National League,San Francisco,SFN
+1972,National League,St. Louis,SLN
+1973,American League,Baltimore,BAL
+1973,American League,Boston,BOS
+1973,American League,California,CAL
+1973,American League,Chicago,CHA
+1973,American League,Cleveland,CLE
+1973,American League,Detroit,DET
+1973,American League,Kansas City,KCA
+1973,American League,Milwaukee,MIL
+1973,American League,Minnesota,MIN
+1973,American League,New York,NYA
+1973,American League,Oakland,OAK
+1973,American League,Texas,TEX
+1973,National League,Atlanta,ATL
+1973,National League,Chicago,CHN
+1973,National League,Cincinnati,CIN
+1973,National League,Houston,HOU
+1973,National League,Los Angeles,LAN
+1973,National League,Montreal,MON
+1973,National League,New York,NYN
+1973,National League,Philadelphia,PHI
+1973,National League,Pittsburgh,PIT
+1973,National League,San Diego,SDN
+1973,National League,San Francisco,SFN
+1973,National League,St. Louis,SLN
+1974,American League,Baltimore,BAL
+1974,American League,Boston,BOS
+1974,American League,California,CAL
+1974,American League,Chicago,CHA
+1974,American League,Cleveland,CLE
+1974,American League,Detroit,DET
+1974,American League,Kansas City,KCA
+1974,American League,Milwaukee,MIL
+1974,American League,Minnesota,MIN
+1974,American League,New York,NYA
+1974,American League,Oakland,OAK
+1974,American League,Texas,TEX
+1974,National League,Atlanta,ATL
+1974,National League,Chicago,CHN
+1974,National League,Cincinnati,CIN
+1974,National League,Houston,HOU
+1974,National League,Los Angeles,LAN
+1974,National League,Montreal,MON
+1974,National League,New York,NYN
+1974,National League,Philadelphia,PHI
+1974,National League,Pittsburgh,PIT
+1974,National League,San Diego,SDN
+1974,National League,San Francisco,SFN
+1974,National League,St. Louis,SLN
+1975,American League,Baltimore,BAL
+1975,American League,Boston,BOS
+1975,American League,California,CAL
+1975,American League,Chicago,CHA
+1975,American League,Cleveland,CLE
+1975,American League,Detroit,DET
+1975,American League,Kansas City,KCA
+1975,American League,Milwaukee,MIL
+1975,American League,Minnesota,MIN
+1975,American League,New York,NYA
+1975,American League,Oakland,OAK
+1975,American League,Texas,TEX
+1975,National League,Atlanta,ATL
+1975,National League,Chicago,CHN
+1975,National League,Cincinnati,CIN
+1975,National League,Houston,HOU
+1975,National League,Los Angeles,LAN
+1975,National League,Montreal,MON
+1975,National League,New York,NYN
+1975,National League,Philadelphia,PHI
+1975,National League,Pittsburgh,PIT
+1975,National League,San Diego,SDN
+1975,National League,San Francisco,SFN
+1975,National League,St. Louis,SLN
+1976,American League,Baltimore,BAL
+1976,American League,Boston,BOS
+1976,American League,California,CAL
+1976,American League,Chicago,CHA
+1976,American League,Cleveland,CLE
+1976,American League,Detroit,DET
+1976,American League,Kansas City,KCA
+1976,American League,Milwaukee,MIL
+1976,American League,Minnesota,MIN
+1976,American League,New York,NYA
+1976,American League,Oakland,OAK
+1976,American League,Texas,TEX
+1976,National League,Atlanta,ATL
+1976,National League,Chicago,CHN
+1976,National League,Cincinnati,CIN
+1976,National League,Houston,HOU
+1976,National League,Los Angeles,LAN
+1976,National League,Montreal,MON
+1976,National League,New York,NYN
+1976,National League,Philadelphia,PHI
+1976,National League,Pittsburgh,PIT
+1976,National League,San Diego,SDN
+1976,National League,San Francisco,SFN
+1976,National League,St. Louis,SLN
+1977,American League,Baltimore,BAL
+1977,American League,Boston,BOS
+1977,American League,California,CAL
+1977,American League,Chicago,CHA
+1977,American League,Cleveland,CLE
+1977,American League,Detroit,DET
+1977,American League,Kansas City,KCA
+1977,American League,Milwaukee,MIL
+1977,American League,Minnesota,MIN
+1977,American League,New York,NYA
+1977,American League,Oakland,OAK
+1977,American League,Seattle,SEA
+1977,American League,Texas,TEX
+1977,American League,Toronto,TOR
+1977,National League,Atlanta,ATL
+1977,National League,Chicago,CHN
+1977,National League,Cincinnati,CIN
+1977,National League,Houston,HOU
+1977,National League,Los Angeles,LAN
+1977,National League,Montreal,MON
+1977,National League,New York,NYN
+1977,National League,Philadelphia,PHI
+1977,National League,Pittsburgh,PIT
+1977,National League,San Diego,SDN
+1977,National League,San Francisco,SFN
+1977,National League,St. Louis,SLN
+1978,American League,Baltimore,BAL
+1978,American League,Boston,BOS
+1978,American League,California,CAL
+1978,American League,Chicago,CHA
+1978,American League,Cleveland,CLE
+1978,American League,Detroit,DET
+1978,American League,Kansas City,KCA
+1978,American League,Milwaukee,MIL
+1978,American League,Minnesota,MIN
+1978,American League,New York,NYA
+1978,American League,Oakland,OAK
+1978,American League,Seattle,SEA
+1978,American League,Texas,TEX
+1978,American League,Toronto,TOR
+1978,National League,Atlanta,ATL
+1978,National League,Chicago,CHN
+1978,National League,Cincinnati,CIN
+1978,National League,Houston,HOU
+1978,National League,Los Angeles,LAN
+1978,National League,Montreal,MON
+1978,National League,New York,NYN
+1978,National League,Philadelphia,PHI
+1978,National League,Pittsburgh,PIT
+1978,National League,San Diego,SDN
+1978,National League,San Francisco,SFN
+1978,National League,St. Louis,SLN
+1979,American League,Baltimore,BAL
+1979,American League,Boston,BOS
+1979,American League,California,CAL
+1979,American League,Chicago,CHA
+1979,American League,Cleveland,CLE
+1979,American League,Detroit,DET
+1979,American League,Kansas City,KCA
+1979,American League,Milwaukee,MIL
+1979,American League,Minnesota,MIN
+1979,American League,New York,NYA
+1979,American League,Oakland,OAK
+1979,American League,Seattle,SEA
+1979,American League,Texas,TEX
+1979,American League,Toronto,TOR
+1979,National League,Atlanta,ATL
+1979,National League,Chicago,CHN
+1979,National League,Cincinnati,CIN
+1979,National League,Houston,HOU
+1979,National League,Los Angeles,LAN
+1979,National League,Montreal,MON
+1979,National League,New York,NYN
+1979,National League,Philadelphia,PHI
+1979,National League,Pittsburgh,PIT
+1979,National League,San Diego,SDN
+1979,National League,San Francisco,SFN
+1979,National League,St. Louis,SLN
+1980,American League,Baltimore,BAL
+1980,American League,Boston,BOS
+1980,American League,California,CAL
+1980,American League,Chicago,CHA
+1980,American League,Cleveland,CLE
+1980,American League,Detroit,DET
+1980,American League,Kansas City,KCA
+1980,American League,Milwaukee,MIL
+1980,American League,Minnesota,MIN
+1980,American League,New York,NYA
+1980,American League,Oakland,OAK
+1980,American League,Seattle,SEA
+1980,American League,Texas,TEX
+1980,American League,Toronto,TOR
+1980,National League,Atlanta,ATL
+1980,National League,Chicago,CHN
+1980,National League,Cincinnati,CIN
+1980,National League,Houston,HOU
+1980,National League,Los Angeles,LAN
+1980,National League,Montreal,MON
+1980,National League,New York,NYN
+1980,National League,Philadelphia,PHI
+1980,National League,Pittsburgh,PIT
+1980,National League,San Diego,SDN
+1980,National League,San Francisco,SFN
+1980,National League,St. Louis,SLN
+1981,American League,Baltimore,BAL
+1981,American League,Boston,BOS
+1981,American League,California,CAL
+1981,American League,Chicago,CHA
+1981,American League,Cleveland,CLE
+1981,American League,Detroit,DET
+1981,American League,Kansas City,KCA
+1981,American League,Milwaukee,MIL
+1981,American League,Minnesota,MIN
+1981,American League,New York,NYA
+1981,American League,Oakland,OAK
+1981,American League,Seattle,SEA
+1981,American League,Texas,TEX
+1981,American League,Toronto,TOR
+1981,National League,Atlanta,ATL
+1981,National League,Chicago,CHN
+1981,National League,Cincinnati,CIN
+1981,National League,Houston,HOU
+1981,National League,Los Angeles,LAN
+1981,National League,Montreal,MON
+1981,National League,New York,NYN
+1981,National League,Philadelphia,PHI
+1981,National League,Pittsburgh,PIT
+1981,National League,San Diego,SDN
+1981,National League,San Francisco,SFN
+1981,National League,St. Louis,SLN
+1982,American League,Baltimore,BAL
+1982,American League,Boston,BOS
+1982,American League,California,CAL
+1982,American League,Chicago,CHA
+1982,American League,Cleveland,CLE
+1982,American League,Detroit,DET
+1982,American League,Kansas City,KCA
+1982,American League,Milwaukee,MIL
+1982,American League,Minnesota,MIN
+1982,American League,New York,NYA
+1982,American League,Oakland,OAK
+1982,American League,Seattle,SEA
+1982,American League,Texas,TEX
+1982,American League,Toronto,TOR
+1982,National League,Atlanta,ATL
+1982,National League,Chicago,CHN
+1982,National League,Cincinnati,CIN
+1982,National League,Houston,HOU
+1982,National League,Los Angeles,LAN
+1982,National League,Montreal,MON
+1982,National League,New York,NYN
+1982,National League,Philadelphia,PHI
+1982,National League,Pittsburgh,PIT
+1982,National League,San Diego,SDN
+1982,National League,San Francisco,SFN
+1982,National League,St. Louis,SLN
+1983,American League,Baltimore,BAL
+1983,American League,Boston,BOS
+1983,American League,California,CAL
+1983,American League,Chicago,CHA
+1983,American League,Cleveland,CLE
+1983,American League,Detroit,DET
+1983,American League,Kansas City,KCA
+1983,American League,Milwaukee,MIL
+1983,American League,Minnesota,MIN
+1983,American League,New York,NYA
+1983,American League,Oakland,OAK
+1983,American League,Seattle,SEA
+1983,American League,Texas,TEX
+1983,American League,Toronto,TOR
+1983,National League,Atlanta,ATL
+1983,National League,Chicago,CHN
+1983,National League,Cincinnati,CIN
+1983,National League,Houston,HOU
+1983,National League,Los Angeles,LAN
+1983,National League,Montreal,MON
+1983,National League,New York,NYN
+1983,National League,Philadelphia,PHI
+1983,National League,Pittsburgh,PIT
+1983,National League,San Diego,SDN
+1983,National League,San Francisco,SFN
+1983,National League,St. Louis,SLN
+1984,American League,Baltimore,BAL
+1984,American League,Boston,BOS
+1984,American League,California,CAL
+1984,American League,Chicago,CHA
+1984,American League,Cleveland,CLE
+1984,American League,Detroit,DET
+1984,American League,Kansas City,KCA
+1984,American League,Milwaukee,MIL
+1984,American League,Minnesota,MIN
+1984,American League,New York,NYA
+1984,American League,Oakland,OAK
+1984,American League,Seattle,SEA
+1984,American League,Texas,TEX
+1984,American League,Toronto,TOR
+1984,National League,Atlanta,ATL
+1984,National League,Chicago,CHN
+1984,National League,Cincinnati,CIN
+1984,National League,Houston,HOU
+1984,National League,Los Angeles,LAN
+1984,National League,Montreal,MON
+1984,National League,New York,NYN
+1984,National League,Philadelphia,PHI
+1984,National League,Pittsburgh,PIT
+1984,National League,San Diego,SDN
+1984,National League,San Francisco,SFN
+1984,National League,St. Louis,SLN
+1985,American League,Baltimore,BAL
+1985,American League,Boston,BOS
+1985,American League,California,CAL
+1985,American League,Chicago,CHA
+1985,American League,Cleveland,CLE
+1985,American League,Detroit,DET
+1985,American League,Kansas City,KCA
+1985,American League,Milwaukee,MIL
+1985,American League,Minnesota,MIN
+1985,American League,New York,NYA
+1985,American League,Oakland,OAK
+1985,American League,Seattle,SEA
+1985,American League,Texas,TEX
+1985,American League,Toronto,TOR
+1985,National League,Atlanta,ATL
+1985,National League,Chicago,CHN
+1985,National League,Cincinnati,CIN
+1985,National League,Houston,HOU
+1985,National League,Los Angeles,LAN
+1985,National League,Montreal,MON
+1985,National League,New York,NYN
+1985,National League,Philadelphia,PHI
+1985,National League,Pittsburgh,PIT
+1985,National League,San Diego,SDN
+1985,National League,San Francisco,SFN
+1985,National League,St. Louis,SLN
+1986,American League,Baltimore,BAL
+1986,American League,Boston,BOS
+1986,American League,California,CAL
+1986,American League,Chicago,CHA
+1986,American League,Cleveland,CLE
+1986,American League,Detroit,DET
+1986,American League,Kansas City,KCA
+1986,American League,Milwaukee,MIL
+1986,American League,Minnesota,MIN
+1986,American League,New York,NYA
+1986,American League,Oakland,OAK
+1986,American League,Seattle,SEA
+1986,American League,Texas,TEX
+1986,American League,Toronto,TOR
+1986,National League,Atlanta,ATL
+1986,National League,Chicago,CHN
+1986,National League,Cincinnati,CIN
+1986,National League,Houston,HOU
+1986,National League,Los Angeles,LAN
+1986,National League,Montreal,MON
+1986,National League,New York,NYN
+1986,National League,Philadelphia,PHI
+1986,National League,Pittsburgh,PIT
+1986,National League,San Diego,SDN
+1986,National League,San Francisco,SFN
+1986,National League,St. Louis,SLN
+1987,American League,Baltimore,BAL
+1987,American League,Boston,BOS
+1987,American League,California,CAL
+1987,American League,Chicago,CHA
+1987,American League,Cleveland,CLE
+1987,American League,Detroit,DET
+1987,American League,Kansas City,KCA
+1987,American League,Milwaukee,MIL
+1987,American League,Minnesota,MIN
+1987,American League,New York,NYA
+1987,American League,Oakland,OAK
+1987,American League,Seattle,SEA
+1987,American League,Texas,TEX
+1987,American League,Toronto,TOR
+1987,National League,Atlanta,ATL
+1987,National League,Chicago,CHN
+1987,National League,Cincinnati,CIN
+1987,National League,Houston,HOU
+1987,National League,Los Angeles,LAN
+1987,National League,Montreal,MON
+1987,National League,New York,NYN
+1987,National League,Philadelphia,PHI
+1987,National League,Pittsburgh,PIT
+1987,National League,San Diego,SDN
+1987,National League,San Francisco,SFN
+1987,National League,St. Louis,SLN
+1988,American League,Baltimore,BAL
+1988,American League,Boston,BOS
+1988,American League,California,CAL
+1988,American League,Chicago,CHA
+1988,American League,Cleveland,CLE
+1988,American League,Detroit,DET
+1988,American League,Kansas City,KCA
+1988,American League,Milwaukee,MIL
+1988,American League,Minnesota,MIN
+1988,American League,New York,NYA
+1988,American League,Oakland,OAK
+1988,American League,Seattle,SEA
+1988,American League,Texas,TEX
+1988,American League,Toronto,TOR
+1988,National League,Atlanta,ATL
+1988,National League,Chicago,CHN
+1988,National League,Cincinnati,CIN
+1988,National League,Houston,HOU
+1988,National League,Los Angeles,LAN
+1988,National League,Montreal,MON
+1988,National League,New York,NYN
+1988,National League,Philadelphia,PHI
+1988,National League,Pittsburgh,PIT
+1988,National League,San Diego,SDN
+1988,National League,San Francisco,SFN
+1988,National League,St. Louis,SLN
+1989,American League,Baltimore,BAL
+1989,American League,Boston,BOS
+1989,American League,California,CAL
+1989,American League,Chicago,CHA
+1989,American League,Cleveland,CLE
+1989,American League,Detroit,DET
+1989,American League,Kansas City,KCA
+1989,American League,Milwaukee,MIL
+1989,American League,Minnesota,MIN
+1989,American League,New York,NYA
+1989,American League,Oakland,OAK
+1989,American League,Seattle,SEA
+1989,American League,Texas,TEX
+1989,American League,Toronto,TOR
+1989,National League,Atlanta,ATL
+1989,National League,Chicago,CHN
+1989,National League,Cincinnati,CIN
+1989,National League,Houston,HOU
+1989,National League,Los Angeles,LAN
+1989,National League,Montreal,MON
+1989,National League,New York,NYN
+1989,National League,Philadelphia,PHI
+1989,National League,Pittsburgh,PIT
+1989,National League,San Diego,SDN
+1989,National League,San Francisco,SFN
+1989,National League,St. Louis,SLN
+1990,American League,Baltimore,BAL
+1990,American League,Boston,BOS
+1990,American League,California,CAL
+1990,American League,Chicago,CHA
+1990,American League,Cleveland,CLE
+1990,American League,Detroit,DET
+1990,American League,Kansas City,KCA
+1990,American League,Milwaukee,MIL
+1990,American League,Minnesota,MIN
+1990,American League,New York,NYA
+1990,American League,Oakland,OAK
+1990,American League,Seattle,SEA
+1990,American League,Texas,TEX
+1990,American League,Toronto,TOR
+1990,National League,Atlanta,ATL
+1990,National League,Chicago,CHN
+1990,National League,Cincinnati,CIN
+1990,National League,Houston,HOU
+1990,National League,Los Angeles,LAN
+1990,National League,Montreal,MON
+1990,National League,New York,NYN
+1990,National League,Philadelphia,PHI
+1990,National League,Pittsburgh,PIT
+1990,National League,San Diego,SDN
+1990,National League,San Francisco,SFN
+1990,National League,St. Louis,SLN
+1991,American League,Baltimore,BAL
+1991,American League,Boston,BOS
+1991,American League,California,CAL
+1991,American League,Chicago,CHA
+1991,American League,Cleveland,CLE
+1991,American League,Detroit,DET
+1991,American League,Kansas City,KCA
+1991,American League,Milwaukee,MIL
+1991,American League,Minnesota,MIN
+1991,American League,New York,NYA
+1991,American League,Oakland,OAK
+1991,American League,Seattle,SEA
+1991,American League,Texas,TEX
+1991,American League,Toronto,TOR
+1991,National League,Atlanta,ATL
+1991,National League,Chicago,CHN
+1991,National League,Cincinnati,CIN
+1991,National League,Houston,HOU
+1991,National League,Los Angeles,LAN
+1991,National League,Montreal,MON
+1991,National League,New York,NYN
+1991,National League,Philadelphia,PHI
+1991,National League,Pittsburgh,PIT
+1991,National League,San Diego,SDN
+1991,National League,San Francisco,SFN
+1991,National League,St. Louis,SLN
+1992,American League,Baltimore,BAL
+1992,American League,Boston,BOS
+1992,American League,California,CAL
+1992,American League,Chicago,CHA
+1992,American League,Cleveland,CLE
+1992,American League,Detroit,DET
+1992,American League,Kansas City,KCA
+1992,American League,Milwaukee,MIL
+1992,American League,Minnesota,MIN
+1992,American League,New York,NYA
+1992,American League,Oakland,OAK
+1992,American League,Seattle,SEA
+1992,American League,Texas,TEX
+1992,American League,Toronto,TOR
+1992,National League,Atlanta,ATL
+1992,National League,Chicago,CHN
+1992,National League,Cincinnati,CIN
+1992,National League,Houston,HOU
+1992,National League,Los Angeles,LAN
+1992,National League,Montreal,MON
+1992,National League,New York,NYN
+1992,National League,Philadelphia,PHI
+1992,National League,Pittsburgh,PIT
+1992,National League,San Diego,SDN
+1992,National League,San Francisco,SFN
+1992,National League,St. Louis,SLN
+1993,American League,Baltimore,BAL
+1993,American League,Boston,BOS
+1993,American League,California,CAL
+1993,American League,Chicago,CHA
+1993,American League,Cleveland,CLE
+1993,American League,Detroit,DET
+1993,American League,Kansas City,KCA
+1993,American League,Milwaukee,MIL
+1993,American League,Minnesota,MIN
+1993,American League,New York,NYA
+1993,American League,Oakland,OAK
+1993,American League,Seattle,SEA
+1993,American League,Texas,TEX
+1993,American League,Toronto,TOR
+1993,National League,Atlanta,ATL
+1993,National League,Chicago,CHN
+1993,National League,Cincinnati,CIN
+1993,National League,Colorado,COL
+1993,National League,Florida,FLO
+1993,National League,Houston,HOU
+1993,National League,Los Angeles,LAN
+1993,National League,Montreal,MON
+1993,National League,New York,NYN
+1993,National League,Philadelphia,PHI
+1993,National League,Pittsburgh,PIT
+1993,National League,San Diego,SDN
+1993,National League,San Francisco,SFN
+1993,National League,St. Louis,SLN
+1994,American League,Baltimore,BAL
+1994,American League,Boston,BOS
+1994,American League,California,CAL
+1994,American League,Chicago,CHA
+1994,American League,Cleveland,CLE
+1994,American League,Detroit,DET
+1994,American League,Kansas City,KCA
+1994,American League,Milwaukee,MIL
+1994,American League,Minnesota,MIN
+1994,American League,New York,NYA
+1994,American League,Oakland,OAK
+1994,American League,Seattle,SEA
+1994,American League,Texas,TEX
+1994,American League,Toronto,TOR
+1994,National League,Atlanta,ATL
+1994,National League,Chicago,CHN
+1994,National League,Cincinnati,CIN
+1994,National League,Colorado,COL
+1994,National League,Florida,FLO
+1994,National League,Houston,HOU
+1994,National League,Los Angeles,LAN
+1994,National League,Montreal,MON
+1994,National League,New York,NYN
+1994,National League,Philadelphia,PHI
+1994,National League,Pittsburgh,PIT
+1994,National League,San Diego,SDN
+1994,National League,San Francisco,SFN
+1994,National League,St. Louis,SLN
+1995,American League,Baltimore,BAL
+1995,American League,Boston,BOS
+1995,American League,California,CAL
+1995,American League,Chicago,CHA
+1995,American League,Cleveland,CLE
+1995,American League,Detroit,DET
+1995,American League,Kansas City,KCA
+1995,American League,Milwaukee,MIL
+1995,American League,Minnesota,MIN
+1995,American League,New York,NYA
+1995,American League,Oakland,OAK
+1995,American League,Seattle,SEA
+1995,American League,Texas,TEX
+1995,American League,Toronto,TOR
+1995,National League,Atlanta,ATL
+1995,National League,Chicago,CHN
+1995,National League,Cincinnati,CIN
+1995,National League,Colorado,COL
+1995,National League,Florida,FLO
+1995,National League,Houston,HOU
+1995,National League,Los Angeles,LAN
+1995,National League,Montreal,MON
+1995,National League,New York,NYN
+1995,National League,Philadelphia,PHI
+1995,National League,Pittsburgh,PIT
+1995,National League,San Diego,SDN
+1995,National League,San Francisco,SFN
+1995,National League,St. Louis,SLN
+1996,American League,Baltimore,BAL
+1996,American League,Boston,BOS
+1996,American League,California,CAL
+1996,American League,Chicago,CHA
+1996,American League,Cleveland,CLE
+1996,American League,Detroit,DET
+1996,American League,Kansas City,KCA
+1996,American League,Milwaukee,MIL
+1996,American League,Minnesota,MIN
+1996,American League,New York,NYA
+1996,American League,Oakland,OAK
+1996,American League,Seattle,SEA
+1996,American League,Texas,TEX
+1996,American League,Toronto,TOR
+1996,National League,Atlanta,ATL
+1996,National League,Chicago,CHN
+1996,National League,Cincinnati,CIN
+1996,National League,Colorado,COL
+1996,National League,Florida,FLO
+1996,National League,Houston,HOU
+1996,National League,Los Angeles,LAN
+1996,National League,Montreal,MON
+1996,National League,New York,NYN
+1996,National League,Philadelphia,PHI
+1996,National League,Pittsburgh,PIT
+1996,National League,San Diego,SDN
+1996,National League,San Francisco,SFN
+1996,National League,St. Louis,SLN
+1997,American League,Anaheim,ANA
+1997,American League,Baltimore,BAL
+1997,American League,Boston,BOS
+1997,American League,Chicago,CHA
+1997,American League,Cleveland,CLE
+1997,American League,Detroit,DET
+1997,American League,Kansas City,KCA
+1997,American League,Milwaukee,MIL
+1997,American League,Minnesota,MIN
+1997,American League,New York,NYA
+1997,American League,Oakland,OAK
+1997,American League,Seattle,SEA
+1997,American League,Texas,TEX
+1997,American League,Toronto,TOR
+1997,National League,Atlanta,ATL
+1997,National League,Chicago,CHN
+1997,National League,Cincinnati,CIN
+1997,National League,Colorado,COL
+1997,National League,Florida,FLO
+1997,National League,Houston,HOU
+1997,National League,Los Angeles,LAN
+1997,National League,Montreal,MON
+1997,National League,New York,NYN
+1997,National League,Philadelphia,PHI
+1997,National League,Pittsburgh,PIT
+1997,National League,San Diego,SDN
+1997,National League,San Francisco,SFN
+1997,National League,St. Louis,SLN
+1998,American League,Anaheim,ANA
+1998,American League,Baltimore,BAL
+1998,American League,Boston,BOS
+1998,American League,Chicago,CHA
+1998,American League,Cleveland,CLE
+1998,American League,Detroit,DET
+1998,American League,Kansas City,KCA
+1998,American League,Minnesota,MIN
+1998,American League,New York,NYA
+1998,American League,Oakland,OAK
+1998,American League,Seattle,SEA
+1998,American League,Tampa Bay,TBA
+1998,American League,Texas,TEX
+1998,American League,Toronto,TOR
+1998,National League,Arizona,ARI
+1998,National League,Atlanta,ATL
+1998,National League,Chicago,CHN
+1998,National League,Cincinnati,CIN
+1998,National League,Colorado,COL
+1998,National League,Florida,FLO
+1998,National League,Houston,HOU
+1998,National League,Los Angeles,LAN
+1998,National League,Milwaukee,MIL
+1998,National League,Montreal,MON
+1998,National League,New York,NYN
+1998,National League,Philadelphia,PHI
+1998,National League,Pittsburgh,PIT
+1998,National League,San Diego,SDN
+1998,National League,San Francisco,SFN
+1998,National League,St. Louis,SLN
+1999,American League,Anaheim,ANA
+1999,American League,Baltimore,BAL
+1999,American League,Boston,BOS
+1999,American League,Chicago,CHA
+1999,American League,Cleveland,CLE
+1999,American League,Detroit,DET
+1999,American League,Kansas City,KCA
+1999,American League,Minnesota,MIN
+1999,American League,New York,NYA
+1999,American League,Oakland,OAK
+1999,American League,Seattle,SEA
+1999,American League,Tampa Bay,TBA
+1999,American League,Texas,TEX
+1999,American League,Toronto,TOR
+1999,National League,Arizona,ARI
+1999,National League,Atlanta,ATL
+1999,National League,Chicago,CHN
+1999,National League,Cincinnati,CIN
+1999,National League,Colorado,COL
+1999,National League,Florida,FLO
+1999,National League,Houston,HOU
+1999,National League,Los Angeles,LAN
+1999,National League,Milwaukee,MIL
+1999,National League,Montreal,MON
+1999,National League,New York,NYN
+1999,National League,Philadelphia,PHI
+1999,National League,Pittsburgh,PIT
+1999,National League,San Diego,SDN
+1999,National League,San Francisco,SFN
+1999,National League,St. Louis,SLN
+2000,American League,Anaheim,ANA
+2000,American League,Baltimore,BAL
+2000,American League,Boston,BOS
+2000,American League,Chicago,CHA
+2000,American League,Cleveland,CLE
+2000,American League,Detroit,DET
+2000,American League,Kansas City,KCA
+2000,American League,Minnesota,MIN
+2000,American League,New York,NYA
+2000,American League,Oakland,OAK
+2000,American League,Seattle,SEA
+2000,American League,Tampa Bay,TBA
+2000,American League,Texas,TEX
+2000,American League,Toronto,TOR
+2000,National League,Arizona,ARI
+2000,National League,Atlanta,ATL
+2000,National League,Chicago,CHN
+2000,National League,Cincinnati,CIN
+2000,National League,Colorado,COL
+2000,National League,Florida,FLO
+2000,National League,Houston,HOU
+2000,National League,Los Angeles,LAN
+2000,National League,Milwaukee,MIL
+2000,National League,Montreal,MON
+2000,National League,New York,NYN
+2000,National League,Philadelphia,PHI
+2000,National League,Pittsburgh,PIT
+2000,National League,San Diego,SDN
+2000,National League,San Francisco,SFN
+2000,National League,St. Louis,SLN
+2001,American League,Anaheim,ANA
+2001,American League,Baltimore,BAL
+2001,American League,Boston,BOS
+2001,American League,Chicago,CHA
+2001,American League,Cleveland,CLE
+2001,American League,Detroit,DET
+2001,American League,Kansas City,KCA
+2001,American League,Minnesota,MIN
+2001,American League,New York,NYA
+2001,American League,Oakland,OAK
+2001,American League,Seattle,SEA
+2001,American League,Tampa Bay,TBA
+2001,American League,Texas,TEX
+2001,American League,Toronto,TOR
+2001,National League,Arizona,ARI
+2001,National League,Atlanta,ATL
+2001,National League,Chicago,CHN
+2001,National League,Cincinnati,CIN
+2001,National League,Colorado,COL
+2001,National League,Florida,FLO
+2001,National League,Houston,HOU
+2001,National League,Los Angeles,LAN
+2001,National League,Milwaukee,MIL
+2001,National League,Montreal,MON
+2001,National League,New York,NYN
+2001,National League,Philadelphia,PHI
+2001,National League,Pittsburgh,PIT
+2001,National League,San Diego,SDN
+2001,National League,San Francisco,SFN
+2001,National League,St. Louis,SLN
+2002,American League,Anaheim,ANA
+2002,American League,Baltimore,BAL
+2002,American League,Boston,BOS
+2002,American League,Chicago,CHA
+2002,American League,Cleveland,CLE
+2002,American League,Detroit,DET
+2002,American League,Kansas City,KCA
+2002,American League,Minnesota,MIN
+2002,American League,New York,NYA
+2002,American League,Oakland,OAK
+2002,American League,Seattle,SEA
+2002,American League,Tampa Bay,TBA
+2002,American League,Texas,TEX
+2002,American League,Toronto,TOR
+2002,National League,Arizona,ARI
+2002,National League,Atlanta,ATL
+2002,National League,Chicago,CHN
+2002,National League,Cincinnati,CIN
+2002,National League,Colorado,COL
+2002,National League,Florida,FLO
+2002,National League,Houston,HOU
+2002,National League,Los Angeles,LAN
+2002,National League,Milwaukee,MIL
+2002,National League,Montreal,MON
+2002,National League,New York,NYN
+2002,National League,Philadelphia,PHI
+2002,National League,Pittsburgh,PIT
+2002,National League,San Diego,SDN
+2002,National League,San Francisco,SFN
+2002,National League,St. Louis,SLN
+2003,American League,Anaheim,ANA
+2003,American League,Baltimore,BAL
+2003,American League,Boston,BOS
+2003,American League,Chicago,CHA
+2003,American League,Cleveland,CLE
+2003,American League,Detroit,DET
+2003,American League,Kansas City,KCA
+2003,American League,Minnesota,MIN
+2003,American League,New York,NYA
+2003,American League,Oakland,OAK
+2003,American League,Seattle,SEA
+2003,American League,Tampa Bay,TBA
+2003,American League,Texas,TEX
+2003,American League,Toronto,TOR
+2003,National League,Arizona,ARI
+2003,National League,Atlanta,ATL
+2003,National League,Chicago,CHN
+2003,National League,Cincinnati,CIN
+2003,National League,Colorado,COL
+2003,National League,Florida,FLO
+2003,National League,Houston,HOU
+2003,National League,Los Angeles,LAN
+2003,National League,Milwaukee,MIL
+2003,National League,Montreal,MON
+2003,National League,New York,NYN
+2003,National League,Philadelphia,PHI
+2003,National League,Pittsburgh,PIT
+2003,National League,San Diego,SDN
+2003,National League,San Francisco,SFN
+2003,National League,St. Louis,SLN
+2004,American League,Anaheim,ANA
+2004,American League,Baltimore,BAL
+2004,American League,Boston,BOS
+2004,American League,Chicago,CHA
+2004,American League,Cleveland,CLE
+2004,American League,Detroit,DET
+2004,American League,Kansas City,KCA
+2004,American League,Minnesota,MIN
+2004,American League,New York,NYA
+2004,American League,Oakland,OAK
+2004,American League,Seattle,SEA
+2004,American League,Tampa Bay,TBA
+2004,American League,Texas,TEX
+2004,American League,Toronto,TOR
+2004,National League,Arizona,ARI
+2004,National League,Atlanta,ATL
+2004,National League,Chicago,CHN
+2004,National League,Cincinnati,CIN
+2004,National League,Colorado,COL
+2004,National League,Florida,FLO
+2004,National League,Houston,HOU
+2004,National League,Los Angeles,LAN
+2004,National League,Milwaukee,MIL
+2004,National League,Montreal,MON
+2004,National League,New York,NYN
+2004,National League,Philadelphia,PHI
+2004,National League,Pittsburgh,PIT
+2004,National League,San Diego,SDN
+2004,National League,San Francisco,SFN
+2004,National League,St. Louis,SLN
+2005,American League,Baltimore,BAL
+2005,American League,Boston,BOS
+2005,American League,Chicago,CHA
+2005,American League,Cleveland,CLE
+2005,American League,Detroit,DET
+2005,American League,Kansas City,KCA
+2005,American League,Los Angeles,ANA
+2005,American League,Minnesota,MIN
+2005,American League,New York,NYA
+2005,American League,Oakland,OAK
+2005,American League,Seattle,SEA
+2005,American League,Tampa Bay,TBA
+2005,American League,Texas,TEX
+2005,American League,Toronto,TOR
+2005,National League,Arizona,ARI
+2005,National League,Atlanta,ATL
+2005,National League,Chicago,CHN
+2005,National League,Cincinnati,CIN
+2005,National League,Colorado,COL
+2005,National League,Florida,FLO
+2005,National League,Houston,HOU
+2005,National League,Los Angeles,LAN
+2005,National League,Milwaukee,MIL
+2005,National League,New York,NYN
+2005,National League,Philadelphia,PHI
+2005,National League,Pittsburgh,PIT
+2005,National League,San Diego,SDN
+2005,National League,San Francisco,SFN
+2005,National League,St. Louis,SLN
+2005,National League,Washington,WAS
+2006,American League,Baltimore,BAL
+2006,American League,Boston,BOS
+2006,American League,Chicago,CHA
+2006,American League,Cleveland,CLE
+2006,American League,Detroit,DET
+2006,American League,Kansas City,KCA
+2006,American League,Los Angeles,ANA
+2006,American League,Minnesota,MIN
+2006,American League,New York,NYA
+2006,American League,Oakland,OAK
+2006,American League,Seattle,SEA
+2006,American League,Tampa Bay,TBA
+2006,American League,Texas,TEX
+2006,American League,Toronto,TOR
+2006,National League,Arizona,ARI
+2006,National League,Atlanta,ATL
+2006,National League,Chicago,CHN
+2006,National League,Cincinnati,CIN
+2006,National League,Colorado,COL
+2006,National League,Florida,FLO
+2006,National League,Houston,HOU
+2006,National League,Los Angeles,LAN
+2006,National League,Milwaukee,MIL
+2006,National League,New York,NYN
+2006,National League,Philadelphia,PHI
+2006,National League,Pittsburgh,PIT
+2006,National League,San Diego,SDN
+2006,National League,San Francisco,SFN
+2006,National League,St. Louis,SLN
+2006,National League,Washington,WAS
+2007,American League,Baltimore,BAL
+2007,American League,Boston,BOS
+2007,American League,Chicago,CHA
+2007,American League,Cleveland,CLE
+2007,American League,Detroit,DET
+2007,American League,Kansas City,KCA
+2007,American League,Los Angeles,ANA
+2007,American League,Minnesota,MIN
+2007,American League,New York,NYA
+2007,American League,Oakland,OAK
+2007,American League,Seattle,SEA
+2007,American League,Tampa Bay,TBA
+2007,American League,Texas,TEX
+2007,American League,Toronto,TOR
+2007,National League,Arizona,ARI
+2007,National League,Atlanta,ATL
+2007,National League,Chicago,CHN
+2007,National League,Cincinnati,CIN
+2007,National League,Colorado,COL
+2007,National League,Florida,FLO
+2007,National League,Houston,HOU
+2007,National League,Los Angeles,LAN
+2007,National League,Milwaukee,MIL
+2007,National League,New York,NYN
+2007,National League,Philadelphia,PHI
+2007,National League,Pittsburgh,PIT
+2007,National League,San Diego,SDN
+2007,National League,San Francisco,SFN
+2007,National League,St. Louis,SLN
+2007,National League,Washington,WAS
+2008,American League,Baltimore,BAL
+2008,American League,Boston,BOS
+2008,American League,Chicago,CHA
+2008,American League,Cleveland,CLE
+2008,American League,Detroit,DET
+2008,American League,Kansas City,KCA
+2008,American League,Los Angeles,ANA
+2008,American League,Minnesota,MIN
+2008,American League,New York,NYA
+2008,American League,Oakland,OAK
+2008,American League,Seattle,SEA
+2008,American League,Tampa Bay,TBA
+2008,American League,Texas,TEX
+2008,American League,Toronto,TOR
+2008,National League,Arizona,ARI
+2008,National League,Atlanta,ATL
+2008,National League,Chicago,CHN
+2008,National League,Cincinnati,CIN
+2008,National League,Colorado,COL
+2008,National League,Florida,FLO
+2008,National League,Houston,HOU
+2008,National League,Los Angeles,LAN
+2008,National League,Milwaukee,MIL
+2008,National League,New York,NYN
+2008,National League,Philadelphia,PHI
+2008,National League,Pittsburgh,PIT
+2008,National League,San Diego,SDN
+2008,National League,San Francisco,SFN
+2008,National League,St. Louis,SLN
+2008,National League,Washington,WAS
+2009,American League,Baltimore,BAL
+2009,American League,Boston,BOS
+2009,American League,Chicago,CHA
+2009,American League,Cleveland,CLE
+2009,American League,Detroit,DET
+2009,American League,Kansas City,KCA
+2009,American League,Los Angeles,ANA
+2009,American League,Minnesota,MIN
+2009,American League,New York,NYA
+2009,American League,Oakland,OAK
+2009,American League,Seattle,SEA
+2009,American League,Tampa Bay,TBA
+2009,American League,Texas,TEX
+2009,American League,Toronto,TOR
+2009,National League,Arizona,ARI
+2009,National League,Atlanta,ATL
+2009,National League,Chicago,CHN
+2009,National League,Cincinnati,CIN
+2009,National League,Colorado,COL
+2009,National League,Florida,FLO
+2009,National League,Houston,HOU
+2009,National League,Los Angeles,LAN
+2009,National League,Milwaukee,MIL
+2009,National League,New York,NYN
+2009,National League,Philadelphia,PHI
+2009,National League,Pittsburgh,PIT
+2009,National League,San Diego,SDN
+2009,National League,San Francisco,SFN
+2009,National League,St. Louis,SLN
+2009,National League,Washington,WAS
+2010,American League,Baltimore,BAL
+2010,American League,Boston,BOS
+2010,American League,Chicago,CHA
+2010,American League,Cleveland,CLE
+2010,American League,Detroit,DET
+2010,American League,Kansas City,KCA
+2010,American League,Los Angeles,ANA
+2010,American League,Minnesota,MIN
+2010,American League,New York,NYA
+2010,American League,Oakland,OAK
+2010,American League,Seattle,SEA
+2010,American League,Tampa Bay,TBA
+2010,American League,Texas,TEX
+2010,American League,Toronto,TOR
+2010,National League,Arizona,ARI
+2010,National League,Atlanta,ATL
+2010,National League,Chicago,CHN
+2010,National League,Cincinnati,CIN
+2010,National League,Colorado,COL
+2010,National League,Florida,FLO
+2010,National League,Houston,HOU
+2010,National League,Los Angeles,LAN
+2010,National League,Milwaukee,MIL
+2010,National League,New York,NYN
+2010,National League,Philadelphia,PHI
+2010,National League,Pittsburgh,PIT
+2010,National League,San Diego,SDN
+2010,National League,San Francisco,SFN
+2010,National League,St. Louis,SLN
+2010,National League,Washington,WAS
+2011,American League,Baltimore,BAL
+2011,American League,Boston,BOS
+2011,American League,Chicago,CHA
+2011,American League,Cleveland,CLE
+2011,American League,Detroit,DET
+2011,American League,Kansas City,KCA
+2011,American League,Los Angeles,ANA
+2011,American League,Minnesota,MIN
+2011,American League,New York,NYA
+2011,American League,Oakland,OAK
+2011,American League,Seattle,SEA
+2011,American League,Tampa Bay,TBA
+2011,American League,Texas,TEX
+2011,American League,Toronto,TOR
+2011,National League,Arizona,ARI
+2011,National League,Atlanta,ATL
+2011,National League,Chicago,CHN
+2011,National League,Cincinnati,CIN
+2011,National League,Colorado,COL
+2011,National League,Florida,FLO
+2011,National League,Houston,HOU
+2011,National League,Los Angeles,LAN
+2011,National League,Milwaukee,MIL
+2011,National League,New York,NYN
+2011,National League,Philadelphia,PHI
+2011,National League,Pittsburgh,PIT
+2011,National League,San Diego,SDN
+2011,National League,San Francisco,SFN
+2011,National League,St. Louis,SLN
+2011,National League,Washington,WAS
+2012,American League,Baltimore,BAL
+2012,American League,Boston,BOS
+2012,American League,Chicago,CHA
+2012,American League,Cleveland,CLE
+2012,American League,Detroit,DET
+2012,American League,Kansas City,KCA
+2012,American League,Los Angeles,ANA
+2012,American League,Minnesota,MIN
+2012,American League,New York,NYA
+2012,American League,Oakland,OAK
+2012,American League,Seattle,SEA
+2012,American League,Tampa Bay,TBA
+2012,American League,Texas,TEX
+2012,American League,Toronto,TOR
+2012,National League,Arizona,ARI
+2012,National League,Atlanta,ATL
+2012,National League,Chicago,CHN
+2012,National League,Cincinnati,CIN
+2012,National League,Colorado,COL
+2012,National League,Houston,HOU
+2012,National League,Los Angeles,LAN
+2012,National League,Miami,MIA
+2012,National League,Milwaukee,MIL
+2012,National League,New York,NYN
+2012,National League,Philadelphia,PHI
+2012,National League,Pittsburgh,PIT
+2012,National League,San Diego,SDN
+2012,National League,San Francisco,SFN
+2012,National League,St. Louis,SLN
+2012,National League,Washington,WAS
+2013,American League,Baltimore,BAL
+2013,American League,Boston,BOS
+2013,American League,Chicago,CHA
+2013,American League,Cleveland,CLE
+2013,American League,Detroit,DET
+2013,American League,Houston,HOU
+2013,American League,Kansas City,KCA
+2013,American League,Los Angeles,ANA
+2013,American League,Minnesota,MIN
+2013,American League,New York,NYA
+2013,American League,Oakland,OAK
+2013,American League,Seattle,SEA
+2013,American League,Tampa Bay,TBA
+2013,American League,Texas,TEX
+2013,American League,Toronto,TOR
+2013,National League,Arizona,ARI
+2013,National League,Atlanta,ATL
+2013,National League,Chicago,CHN
+2013,National League,Cincinnati,CIN
+2013,National League,Colorado,COL
+2013,National League,Los Angeles,LAN
+2013,National League,Miami,MIA
+2013,National League,Milwaukee,MIL
+2013,National League,New York,NYN
+2013,National League,Philadelphia,PHI
+2013,National League,Pittsburgh,PIT
+2013,National League,San Diego,SDN
+2013,National League,San Francisco,SFN
+2013,National League,St. Louis,SLN
+2013,National League,Washington,WAS
+2014,American League,Baltimore,BAL
+2014,American League,Boston,BOS
+2014,American League,Chicago,CHA
+2014,American League,Cleveland,CLE
+2014,American League,Detroit,DET
+2014,American League,Houston,HOU
+2014,American League,Kansas City,KCA
+2014,American League,Los Angeles,ANA
+2014,American League,Minnesota,MIN
+2014,American League,New York,NYA
+2014,American League,Oakland,OAK
+2014,American League,Seattle,SEA
+2014,American League,Tampa Bay,TBA
+2014,American League,Texas,TEX
+2014,American League,Toronto,TOR
+2014,National League,Arizona,ARI
+2014,National League,Atlanta,ATL
+2014,National League,Chicago,CHN
+2014,National League,Cincinnati,CIN
+2014,National League,Colorado,COL
+2014,National League,Los Angeles,LAN
+2014,National League,Miami,MIA
+2014,National League,Milwaukee,MIL
+2014,National League,New York,NYN
+2014,National League,Philadelphia,PHI
+2014,National League,Pittsburgh,PIT
+2014,National League,San Diego,SDN
+2014,National League,San Francisco,SFN
+2014,National League,St. Louis,SLN
+2014,National League,Washington,WAS
+2015,American League,Baltimore,BAL
+2015,American League,Boston,BOS
+2015,American League,Chicago,CHA
+2015,American League,Cleveland,CLE
+2015,American League,Detroit,DET
+2015,American League,Houston,HOU
+2015,American League,Kansas City,KCA
+2015,American League,Los Angeles,ANA
+2015,American League,Minnesota,MIN
+2015,American League,New York,NYA
+2015,American League,Oakland,OAK
+2015,American League,Seattle,SEA
+2015,American League,Tampa Bay,TBA
+2015,American League,Texas,TEX
+2015,American League,Toronto,TOR
+2015,National League,Arizona,ARI
+2015,National League,Atlanta,ATL
+2015,National League,Chicago,CHN
+2015,National League,Cincinnati,CIN
+2015,National League,Colorado,COL
+2015,National League,Los Angeles,LAN
+2015,National League,Miami,MIA
+2015,National League,Milwaukee,MIL
+2015,National League,New York,NYN
+2015,National League,Philadelphia,PHI
+2015,National League,Pittsburgh,PIT
+2015,National League,San Diego,SDN
+2015,National League,San Francisco,SFN
+2015,National League,St. Louis,SLN
+2015,National League,Washington,WAS
+2016,American League,Baltimore,BAL
+2016,American League,Boston,BOS
+2016,American League,Chicago,CHA
+2016,American League,Cleveland,CLE
+2016,American League,Detroit,DET
+2016,American League,Houston,HOU
+2016,American League,Kansas City,KCA
+2016,American League,Los Angeles,ANA
+2016,American League,Minnesota,MIN
+2016,American League,New York,NYA
+2016,American League,Oakland,OAK
+2016,American League,Seattle,SEA
+2016,American League,Tampa Bay,TBA
+2016,American League,Texas,TEX
+2016,American League,Toronto,TOR
+2016,National League,Arizona,ARI
+2016,National League,Atlanta,ATL
+2016,National League,Chicago,CHN
+2016,National League,Cincinnati,CIN
+2016,National League,Colorado,COL
+2016,National League,Los Angeles,LAN
+2016,National League,Miami,MIA
+2016,National League,Milwaukee,MIL
+2016,National League,New York,NYN
+2016,National League,Philadelphia,PHI
+2016,National League,Pittsburgh,PIT
+2016,National League,San Diego,SDN
+2016,National League,San Francisco,SFN
+2016,National League,St. Louis,SLN
+2016,National League,Washington,WAS
+2017,American League,Baltimore,BAL
+2017,American League,Boston,BOS
+2017,American League,Chicago,CHA
+2017,American League,Cleveland,CLE
+2017,American League,Detroit,DET
+2017,American League,Houston,HOU
+2017,American League,Kansas City,KCA
+2017,American League,Los Angeles,ANA
+2017,American League,Minnesota,MIN
+2017,American League,New York,NYA
+2017,American League,Oakland,OAK
+2017,American League,Seattle,SEA
+2017,American League,Tampa Bay,TBA
+2017,American League,Texas,TEX
+2017,American League,Toronto,TOR
+2017,National League,Arizona,ARI
+2017,National League,Atlanta,ATL
+2017,National League,Chicago,CHN
+2017,National League,Cincinnati,CIN
+2017,National League,Colorado,COL
+2017,National League,Los Angeles,LAN
+2017,National League,Miami,MIA
+2017,National League,Milwaukee,MIL
+2017,National League,New York,NYN
+2017,National League,Philadelphia,PHI
+2017,National League,Pittsburgh,PIT
+2017,National League,San Diego,SDN
+2017,National League,San Francisco,SFN
+2017,National League,St. Louis,SLN
+2017,National League,Washington,WAS
+2018,American League,Baltimore,BAL
+2018,American League,Boston,BOS
+2018,American League,Chicago,CHA
+2018,American League,Cleveland,CLE
+2018,American League,Detroit,DET
+2018,American League,Houston,HOU
+2018,American League,Kansas City,KCA
+2018,American League,Los Angeles,ANA
+2018,American League,Minnesota,MIN
+2018,American League,New York,NYA
+2018,American League,Oakland,OAK
+2018,American League,Seattle,SEA
+2018,American League,Tampa Bay,TBA
+2018,American League,Texas,TEX
+2018,American League,Toronto,TOR
+2018,National League,Arizona,ARI
+2018,National League,Atlanta,ATL
+2018,National League,Chicago,CHN
+2018,National League,Cincinnati,CIN
+2018,National League,Colorado,COL
+2018,National League,Los Angeles,LAN
+2018,National League,Miami,MIA
+2018,National League,Milwaukee,MIL
+2018,National League,New York,NYN
+2018,National League,Philadelphia,PHI
+2018,National League,Pittsburgh,PIT
+2018,National League,San Diego,SDN
+2018,National League,San Francisco,SFN
+2018,National League,St. Louis,SLN
+2018,National League,Washington,WAS

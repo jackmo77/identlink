@@ -41,6 +41,46 @@ def collect_from_boxscores(path):
     print
     return dflist
 
+def collect_from_retrosheet(path):
+    """Collect playing entries from retrosplits repository.
+    """
+    print "Collecting items from retrosheet dataset."
+    dflist = []
+    lookup = pd.read_csv("support/retroteams.csv", dtype=str, encoding='utf-8')
+    for year in range(1915, 1916):
+        source = "retrosheet/%s" % year
+        print "Collecting source %s" % source
+        df = pd.read_csv("%s/retrosplits/daybyday/playing-%d.csv" % (path, year),
+                         dtype=str, encoding='utf-8')
+        df = df[['person.key', 'team.key', 'game.date']]
+        df = df.groupby(['person.key', 'team.key']).aggregate(['min', 'max'])
+        df.columns = ['S_FIRST', 'S_LAST']
+        df.reset_index(inplace=True)
+        df['league.year'] = df['S_FIRST'].str.split('-').str[0]
+        df = pd.merge(df, lookup, how='left', on=['league.year', 'team.key'])
+        df.rename(inplace=True, columns={'person.key':  'person.ref'})
+        df['source'] = source
+
+        rosters = pd.concat([pd.read_csv(fn, dtype=str, encoding='utf-8',
+                                         header=None,
+                                         names=['person.ref',
+                                                'person.name.last',
+                                                'person.name.given',
+                                                'bats', 'throws',
+                                                'team.key', 'pos'])
+                             for fn in glob.glob("%s/retrosheet/rosters/%s/*.ros" %
+                                                 (path, year))],
+                             ignore_index=True)
+        df = pd.merge(df, rosters[['person.ref', 'team.key',
+                                   'person.name.last', 'person.name.given']],
+                      how='left', on=['person.ref', 'team.key'])
+        
+        dflist.append(df[['source', 'league.year', 'league.name',
+                          'person.ref',
+                          'person.name.last', 'person.name.given',
+                          'entry.name', 'S_FIRST', 'S_LAST']].copy())
+    return dflist
+
 def collect_from_researchers(path):
     """Collect engagement records from researchers repository.
     """
@@ -64,12 +104,13 @@ if __name__ == '__main__':
     import os
     import glob
 
+    retrolist = collect_from_retrosheet("..")
     avglist = collect_from_averages("../minoraverages")
     boxlist = collect_from_boxscores("../boxscores")
     reslist = collect_from_researchers("../researchers")
     
     print "Concatenating files..."
-    df = pd.concat(avglist + boxlist + reslist, ignore_index=True)
+    df = pd.concat(retrolist + avglist + boxlist + reslist, ignore_index=True)
 
     # Fill in an indicator for records which indicate a position played
     # but not games at that position
@@ -121,7 +162,8 @@ if __name__ == '__main__':
     for (group, data) in df.groupby([ 'league.year', 'league.name' ]):
         # We only generate ident files for leagues where we have
         # either an averages compilation or boxscore data
-        sample = data[data['source'].str.startswith('minoraverages/') |
+        sample = data[data['source'].str.startswith('retrosheet/') |
+                      data['source'].str.startswith('minoraverages/') |
                       data['source'].str.startswith('boxscores/')]
         if len(sample) == 0:
             continue
