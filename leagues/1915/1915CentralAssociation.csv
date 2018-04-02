@@ -1,6 +1,8 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
 minoraverages/1916Reach,1915,Central Association,anderson,B00037,Anderson,,0,Cedar Rapids,,,30,,,,,,,,,,,,
 minoraverages/1916Reach,1915,Central Association,anderson,F21232,Anderson,,0,Cedar Rapids,,,,,,,,,,,,,30,,
+researchers/mcconnell,1915,Central Association,,LLVGJYQ,Anderson,John,,Cedar Rapids,,,,,,,,,,,,,,,
+researchers/mcconnell,1915,Central Association,,ZNMNVZD,Askland,Frank,,Waterloo,,,,,,,,,,,,,,,
 minoraverages/1916Reach,1915,Central Association,augustus,B00760,Augustus,,0,Muscatine,,,124,,,,,,,,,,,,
 minoraverages/1916Reach,1915,Central Association,augustus,F20391,Augustus,,0,Muscatine,,,,,,,,124,,,,,,,
 minoraverages/1916Reach,1915,Central Association,augustus,P10070,Augustus,,0,Muscatine,,,,5,,,,,,,,,,,
