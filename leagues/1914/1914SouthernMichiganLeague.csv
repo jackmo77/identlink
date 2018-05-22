@@ -1,6 +1,7 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
 minoraverages/1915Spalding,1914,Southern Michigan League,adams,B00335,Adams,,0,Adrian,,,142,,,,,,,,,,,,
 minoraverages/1915Spalding,1914,Southern Michigan League,adams,F20745,Adams,,0,Adrian,,,,,,,,,142,,,,,,
+researchers/blau,1914,Southern Michigan League,,FHVZNGL,Asher,Ed,,South Bend,,,,,,,,,,,,,,,
 minoraverages/1915Spalding,1914,Southern Michigan League,badger,B00491,Badger,,0,Battle Creek,,,135,,,,,,,,,,,,
 minoraverages/1915Spalding,1914,Southern Michigan League,badger,F20095,Badger,,0,Battle Creek,,,,,113,,,,,,,,,,
 minoraverages/1915Spalding,1914,Southern Michigan League,badger,F20254,Badger,,0,Battle Creek,,,,,,22,,,,,,,,,
