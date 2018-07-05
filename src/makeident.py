@@ -68,7 +68,7 @@ def collect_from_retrosheet(path):
                                                 'person.name.given',
                                                 'bats', 'throws',
                                                 'team.key', 'pos'])
-                             for fn in glob.glob("%s/retrosheet/rosters/%s/*.ros" %
+                             for fn in glob.glob("%s/retrosheet/rosters/*%s.ROS" %
                                                  (path, year))],
                              ignore_index=True)
         df = pd.merge(df, rosters[['person.ref', 'team.key',
