@@ -1,6 +1,6 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
 boxscores/1911/1911-CN,1911,Carolina Association,aaranson,P7439356,Aaranson,,,Winston-Salem,19110706,19110706,2,0,0,0,0,0,2,0,2,0,0,0,
-boxscores/1911/1911-CEC,1911,Carolina Association,agnw,P2201258,Agnew,,,Charlotte,19110729,19110729,1,0,0,1,0,0,0,0,0,0,0,0,
+boxscores/1911/1911-CEC,1911,Carolina Association,agnew,P2201258,Agnew,,,Charlotte,19110729,19110729,1,0,0,1,0,0,0,0,0,0,0,0,
 boxscores/1911/1911-CN,1911,Carolina Association,agnew,P5549328,Agnew,,,Charlotte,19110603,19110816,60,0,0,60,0,0,0,0,0,0,0,0,
 minoraverages/1912Reach,1911,Carolina Association,agnew,B00898,Agnew,,0,Charlotte,,,78,,,,,,,,,,,,
 minoraverages/1912Reach,1911,Carolina Association,agnew,F20128,Agnew,,0,Charlotte,,,,,,77,,,,,,,,,
