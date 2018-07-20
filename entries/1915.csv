@@ -1,0 +1,241 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1915,American Association,Minneapolis,MIN,MIN,MIN
+1915,American Association,St. Paul,STP,STP,STP
+1915,American Association,Indianapolis,IND,IND,IND
+1915,American Association,Louisville,LOU,LOU,LOU
+1915,American Association,Kansas City,KC,KC,KC
+1915,American Association,Milwaukee,MIL,MIL,MIL
+1915,American Association,Cleveland,CLE,CLE,CLE
+1915,American Association,Columbus,COL,COL,COL
+1915,International League,Buffalo,BUF,BUF,BUF
+1915,International League,Providence,PRO,PRO,PRO
+1915,International League,Toronto,TOR,TOR,TOR
+1915,International League,Rochester,ROC,ROC,ROC
+1915,International League,Montreal,MON,MON,MON
+1915,International League,Newark/Harrisburg,NEW+HAR,,NEW+HAR
+1915,International League,Newark,NEW+HAR,NEW,NEW+HAR
+1915,International League,Harrisburg,NEW+HAR,HAR,NEW+HAR
+1915,International League,Richmond,RIC,RIC,RIC
+1915,International League,Jersey City,JC,JC,JC
+1915,Pacific Coast League,San Francisco,SF,SF,SF
+1915,Pacific Coast League,Salt Lake City,SLC,SLC,SLC
+1915,Pacific Coast League,Los Angeles,LA,LA,LA
+1915,Pacific Coast League,Venice/Vernon,VEN+VER,,VEN+VER
+1915,Pacific Coast League,Venice,VEN+VER,VEN,VEN+VER
+1915,Pacific Coast League,Vernon,VEN+VER,VER,VEN+VER
+1915,Pacific Coast League,Oakland,OAK,OAK,OAK
+1915,Pacific Coast League,Portland,POR,POR,POR
+1915,Southern Association,New Orleans,NO,NO,NO
+1915,Southern Association,Birmingham,BIR,BIR,BIR
+1915,Southern Association,Memphis,MEM,MEM,MEM
+1915,Southern Association,Nashville,NAS,NAS,NAS
+1915,Southern Association,Atlanta,ATL,ATL,ATL
+1915,Southern Association,Chattanooga,CHA,CHA,CHA
+1915,Southern Association,Mobile,MOB,MOB,MOB
+1915,Southern Association,Little Rock,LR,LR,LR
+1915,Western League,Des Moines,DM,DM,DM
+1915,Western League,Denver,DEN,DEN,DEN
+1915,Western League,Topeka,TOP,TOP,TOP
+1915,Western League,Omaha,OMA,OMA,OMA
+1915,Western League,Lincoln,LIN,LIN,LIN
+1915,Western League,Sioux City,SC,SC,SC
+1915,Western League,Wichita,WIC,WIC,WIC
+1915,Western League,St. Joseph,STJ,STJ,STJ
+1915,Central League,Evansville,EVA,EVA,EVA
+1915,Central League,Grand Rapids,GR,GR,GR
+1915,Central League,Youngstown,YOU,YOU,YOU
+1915,Central League,Terre Haute,TH,TH,TH
+1915,Central League,Erie,ERI,ERI,ERI
+1915,Central League,Fort Wayne,FW,FW,FW
+1915,Central League,Wheeling,WHE,WHE,WHE
+1915,Central League,Dayton,DAY,DAY,DAY
+1915,New England League,Portland,POR,POR,POR
+1915,New England League,Lawrence,LAW,LAW,LAW
+1915,New England League,Lynn,LYN,LYN,LYN
+1915,New England League,Worcester,WOR,WOR,WOR
+1915,New England League,Lowell,LOW,LOW,LOW
+1915,New England League,Lewiston,LEW,LEW,LEW
+1915,New England League,Manchester,MAN,MAN,MAN
+1915,New England League,Fitchburg,FIT,FIT,FIT
+1915,New York State League,Binghamton,BIN,BIN,BIN
+1915,New York State League,Utica,UTI,UTI,UTI
+1915,New York State League,Elmira,ELM,ELM,ELM
+1915,New York State League,Scranton,SCR,SCR,SCR
+1915,New York State League,Syracuse,SYR,SYR,SYR
+1915,New York State League,Wilkes-Barre,WB,WB,WB
+1915,New York State League,Troy,TRO,TRO,TRO
+1915,New York State League,Albany,ALB,ALB,ALB
+1915,Northwestern League,Seattle,SEA,SEA,SEA
+1915,Northwestern League,Tacoma,TAC,TAC,TAC
+1915,Northwestern League,Spokane,SPO,SPO,SPO
+1915,Northwestern League,Vancouver,VAN,VAN,VAN
+1915,Northwestern League,Aberdeen,ABE,ABE,ABE
+1915,Northwestern League,Victoria,VIC,VIC,VIC
+1915,Texas League,Waco,WAC,WAC,WAC
+1915,Texas League,San Antonio,SA,SA,SA
+1915,Texas League,Fort Worth,FW,FW,FW
+1915,Texas League,Dallas,DAL,DAL,DAL
+1915,Texas League,Houston,HOU,HOU,HOU
+1915,Texas League,Shreveport,SHR,SHR,SHR
+1915,Texas League,Beaumont,BEA,BEA,BEA
+1915,Texas League,Galveston,GAL,GAL,GAL
+1915,Illinois-Indiana-Iowa League,Moline,MOL,MOL,MOL
+1915,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1915,Illinois-Indiana-Iowa League,Rockford,ROC,ROC,ROC
+1915,Illinois-Indiana-Iowa League,Quincy,QUI,QUI,QUI
+1915,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1915,Illinois-Indiana-Iowa League,Dubuque/Freeport,DUB+FRE,,DUB+FRE
+1915,Illinois-Indiana-Iowa League,Dubuque,DUB+FRE,DUB,DUB+FRE
+1915,Illinois-Indiana-Iowa League,Freeport,DUB+FRE,FRE,DUB+FRE
+1915,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
+1915,Illinois-Indiana-Iowa League,Decatur,DEC,DEC,DEC
+1915,Canadian League,Ottawa,OTT,OTT,OTT
+1915,Canadian League,Guelph,GUE,GUE,GUE
+1915,Canadian League,Hamilton,HAM,HAM,HAM
+1915,Canadian League,Brantford,BRA,BRA,BRA
+1915,Canadian League,London,LON,LON,LON
+1915,Canadian League,St. Thomas,ST,ST,ST
+1915,Northern League,Fargo-Moorhead,FM,FM,FM
+1915,Northern League,St. Boniface,SB,SB,SB
+1915,Northern League,Fort William,FW,FW,FW
+1915,Northern League,Fort William-Port Arthur,FW,FW,FW
+1915,Northern League,Duluth,DUL,DUL,DUL
+1915,Northern League,Winnipeg,WIN,WIN,WIN
+1915,Northern League,Virginia,VIR,VIR,VIR
+1915,Northern League,Superior,SUP,SUP,SUP
+1915,Northern League,Grand Forks,GF,GF,GF
+1915,South Atlantic League,Columbus,CBS,CBS,CBS
+1915,South Atlantic League,Charleston,CHA,CHA,CHA
+1915,South Atlantic League,Macon,MAC,MAC,MAC
+1915,South Atlantic League,Columbia,CBA,CBA,CBA
+1915,South Atlantic League,Augusta,AUG,AUG,AUG
+1915,South Atlantic League,Albany,ALB,ALB,ALB
+1915,South Atlantic League,Jacksonville,JAC,JAC,JAC
+1915,South Atlantic League,Savannah,SAV,SAV,SAV
+1915,Southern Michigan Association,South Bend,SB,SB,SB
+1915,Southern Michigan Association,Battle Creek,BCK,BCK,BCK
+1915,Southern Michigan Association,Jackson,JAC,JAC,JAC
+1915,Southern Michigan Association,Bay City,BAY,BAY,BAY
+1915,Southern Michigan Association,Saginaw,SAG,SAG,SAG
+1915,Southern Michigan Association,Flint,FLI,FLI,FLI
+1915,Virginia League,Rocky Mount,RM,RM,RM
+1915,Virginia League,Portsmouth,POR,POR,POR
+1915,Virginia League,Norfolk,NOR,NOR,NOR
+1915,Virginia League,Newport News,NN,NN,NN
+1915,Virginia League,Suffolk,SUF,SUF,SUF
+1915,Virginia League,Petersburg,PET,PET,PET
+1915,Bi-State League,Streator,STR,STR,STR
+1915,Bi-State League,Racine,RAC,RAC,RAC
+1915,Bi-State League,Elgin,ELG,ELG,ELG
+1915,Bi-State League,Aurora,AUR,AUR,AUR
+1915,Bi-State League,Freeport,FRE,FRE,FRE
+1915,Bi-State League,Ottawa,OTT,OTT,OTT
+1915,Blue Ridge League,Frederick,FRE,FRE,FRE
+1915,Blue Ridge League,Martinsburg,MAR,MAR,MAR
+1915,Blue Ridge League,Hanover,HAN,HAN,HAN
+1915,Blue Ridge League,Hagerstown,HAG,HAG,HAG
+1915,Blue Ridge League,Gettysburg,GET,GET,GET
+1915,Blue Ridge League,Chambersburg,CHA,CHA,CHA
+1915,California State League,Modesto,MOD,MOD,MOD
+1915,California State League,San Jose,SJ,SJ,SJ
+1915,California State League,Oakland,OAK,OAK,OAK
+1915,California State League,Alameda,ALA,ALA,ALA
+1915,California State League,Stockton,STO,STO,STO
+1915,California State League,Berkeley/San Francisco,BER+SF,,BER+SF
+1915,California State League,Berkeley,BER+SF,BER,BER+SF
+1915,California State League,San Francisco,BER+SF,SF,BER+SF
+1915,Central Association,Burlington,BUR,BUR,BUR
+1915,Central Association,Muscatine,MUS,MUS,MUS
+1915,Central Association,Keokuk,KEO,KEO,KEO
+1915,Central Association,Mason City,MC,MC,MC
+1915,Central Association,Cedar Rapids,CR,CR,CR
+1915,Central Association,Marshalltown,MAR,MAR,MAR
+1915,Central Association,Waterloo,WAT,WAT,WAT
+1915,Central Association,Clinton,CLI,CLI,CLI
+1915,Central Texas League,Ennis,ENN,ENN,ENN
+1915,Central Texas League,Corsicana,COR,COR,COR
+1915,Central Texas League,Terrell,TER,TER,TER
+1915,Central Texas League,Kaufman,KAU,KAU,KAU
+1915,Central Texas League,Mexia,MEX,MEX,MEX
+1915,Central Texas League,Waxahachie,WAX,WAX,WAX
+1915,Florida-Alabama-Georgia League,Dothan,DOT,DOT,DOT
+1915,Florida-Alabama-Georgia League,Waycross,WAY,WAY,WAY
+1915,Florida-Alabama-Georgia League,Valdosta,VAL,VAL,VAL
+1915,Florida-Alabama-Georgia League,Brunswick,BRU,BRU,BRU
+1915,Florida-Alabama-Georgia League,Americus/Gainesville,AME+GAI,,AME+GAI
+1915,Florida-Alabama-Georgia League,Americus,AME+GAI,AME,AME+GAI
+1915,Florida-Alabama-Georgia League,Orphans,AME+GAI,ORP,AME+GAI
+1915,Florida-Alabama-Georgia League,Gainesville,AME+GAI,GAI,AME+GAI
+1915,Florida-Alabama-Georgia League,Thomasville,THO,THO,THO
+1915,Georgia-Alabama League,Newnan,NEW,NEW,NEW
+1915,Georgia-Alabama League,Talladega,TAL,TAL,TAL
+1915,Georgia-Alabama League,Griffin,GRI,GRI,GRI
+1915,Georgia-Alabama League,Rome,ROM,ROM,ROM
+1915,Georgia-Alabama League,Anniston,ANN,ANN,ANN
+1915,Georgia-Alabama League,La Grange,LAG,LAG,LAG
+1915,Interstate League,Wellsville,WEL,WEL,WEL
+1915,Interstate League,Olean,OLE,OLE,OLE
+1915,Interstate League,Bradford,BRA,BRA,BRA
+1915,Interstate League,Hornell,HOR,HOR,HOR
+1915,Interstate League,Warren,WAR,WAR,WAR
+1915,Interstate League,Jamestown,JAM,JAM,JAM
+1915,Middle Texas League,Belton,BEL,BEL,BEL
+1915,Middle Texas League,Temple,TEM,TEM,TEM
+1915,Middle Texas League,Bartlett,BAR,BAR,BAR
+1915,Middle Texas League,Austin/Taylor/Brenham,AUS+TAY+BR2,,AUS+TAY+BR2
+1915,Middle Texas League,Austin,AUS+TAY+BR2,AUS,AUS+TAY+BR2
+1915,Middle Texas League,Taylor,AUS+TAY+BR2,TAY,AUS+TAY+BR2
+1915,Middle Texas League,Brenham [II],AUS+TAY+BR2,BR2,AUS+TAY+BR2
+1915,Middle Texas League,Schulenburg,SCH,SCH,SCH
+1915,Middle Texas League,Brenham [I],BR1,BR1,BR1
+1915,Nebraska State League,Beatrice,BEA,BEA,BEA
+1915,Nebraska State League,Hastings,HAS,HAS,HAS
+1915,Nebraska State League,York,YOR,YOR,YOR
+1915,Nebraska State League,Fairbury,FAI,FAI,FAI
+1915,Nebraska State League,Norfolk,NOR,NOR,NOR
+1915,Nebraska State League,Grand Island,GI,GI,GI
+1915,Nebraska State League,Kearney,KEA,KEA,KEA
+1915,Nebraska State League,Columbus,COL,COL,COL
+1915,North Carolina State League,Asheville,ASH,ASH,ASH
+1915,North Carolina State League,Durham,DUR,DUR,DUR
+1915,North Carolina State League,Raleigh,RAL,RAL,RAL
+1915,North Carolina State League,Charlotte,CHA,CHA,CHA
+1915,North Carolina State League,Winston-Salem,WS,WS,WS
+1915,North Carolina State League,Greensboro,GRE,GRE,GRE
+1915,Ohio State League,Portsmouth,POR,POR,POR
+1915,Ohio State League,Lexington,LEX,LEX,LEX
+1915,Ohio State League,Chillicothe/Huntington/Maysville,CHI+HUN+MAY,,CHI+HUN+MAY
+1915,Ohio State League,Chillicothe,CHI+HUN+MAY,CHI,CHI+HUN+MAY
+1915,Ohio State League,Huntington,CHI+HUN+MAY,HUN,CHI+HUN+MAY
+1915,Ohio State League,Maysville,CHI+HUN+MAY,MAY,CHI+HUN+MAY
+1915,Ohio State League,Charleston,CHA,CHA,CHA
+1915,Ohio State League,Frankfort,FRA,FRA,FRA
+1915,Ohio State League,Ironton,IRO,IRO,IRO
+1915,Rio Grande Association,Phoenix,PHO,PHO,PHO
+1915,Rio Grande Association,El Paso,EP,EP,EP
+1915,Rio Grande Association,Albuquerque,ALB,ALB,ALB
+1915,Rio Grande Association,Tucson,TUC,TUC,TUC
+1915,Rio Grande Association,Douglas,DOU,DOU,DOU
+1915,Rio Grande Association,Las Cruces,LC,LC,LC
+1915,Western Association,Denison,DEN,DEN,DEN
+1915,Western Association,Oklahoma City,OC,OC,OC
+1915,Western Association,Sherman,SHE,SHE,SHE
+1915,Western Association,Muskogee,MUS,MUS,MUS
+1915,Western Association,Paris,PAR,PAR,PAR
+1915,Western Association,Tulsa,TUL,TUL,TUL
+1915,Western Association,Fort Smith,FS,FS,FS
+1915,Western Association,McAlester,MCA,MCA,MCA
+1915,Buckeye League,Lima,LIM,LIM,LIM
+1915,Buckeye League,Findlay,FIN,FIN,FIN
+1915,Buckeye League,Akron,AKR,AKR,AKR
+1915,Buckeye League,Newark,NEW,NEW,NEW
+1915,Buckeye League,Marion,MAR,APR,MAY
+1915,Buckeye League,Canton,CAR,CAR,CAR
+1915,Colonial League,Hartford,HAR,HAR,HAR
+1915,Colonial League,Brockton,BRO,BRO,BRO
+1915,Colonial League,New Bedford,NB,NB,NB
+1915,Colonial League,New Haven,NH,NH,NH
+1915,Colonial League,Springfield,SPR,SPR,SPR
+1915,Colonial League,Pawtucket,PAW,PAW,PAW
+1915,Colonial League,Fall River,FR,FR,FR
+1915,Colonial League,Taunton,TAU,TAU,TAU
