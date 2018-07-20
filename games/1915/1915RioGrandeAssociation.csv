@@ -1,283 +1,408 @@
 source,league.year,league.name,ident,game.date,game.number,away.name,away.score,home.name,home.score,game.ref
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0427tuc,19150427,0,Phoenix,2,Tucson,10,3aa469cd-9cc4-52e5-98ad-aa8f181ddc83
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0427tuc,19150427,0,Phoenix,2,Tucson,10,0606691a-237c-5d65-9886-835feab58f1e
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0428tuc,19150428,0,Phoenix,,Tucson,,7c0f5d6b-49ec-5cec-a681-63b2d20f3d88
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0428tuc,19150428,0,Phoenix,,Tucson,,971b2dea-774b-5440-a8ef-83150beaf627
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0429tuc,19150429,0,Phoenix,6,Tucson,1,81127600-eebe-518c-920f-2649298213b0
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0429tuc,19150429,0,Phoenix,6,Tucson,1,8d9db958-2197-5b5d-a2e9-0e6e06e9c29b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0430tuc,19150430,0,Phoenix,7,Tucson,3,136fc633-1da5-5543-b111-700ab3d277a5
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0430tuc,19150430,0,Phoenix,7,Tucson,3,68b4f34b-a968-532f-a2e2-6ea021db812a
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0501elp,19150501,0,Las Cruces,8,El Paso,5,abbe4103-f94d-5fbc-8ba1-f56f8d001022
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0501elp,19150501,0,Las Cruces,8,El Paso,5,86d955d9-28ab-5f5a-9645-e094fcd133fe
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0501tuc,19150501,0,Phoenix,,Tucson,,76fcc2d1-4f5c-5490-922c-d298cb4f6b78
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0501tuc,19150501,0,Phoenix,0,Tucson,3,a7041c25-79fa-5624-8f8f-08c5267a76ed
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0502elp,19150502,0,Las Cruces,19,El Paso,20,c2306a1c-e150-549a-bc83-7c146553d8d7
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0502elp,19150502,0,Las Cruces,19,El Paso,20,620b716b-f3e3-5042-9666-c047943ba41a
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0502tuc,19150502,0,Phoenix,5,Tucson,3,9e556ffc-755e-573f-929d-f7a55d859409
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0502tuc,19150502,0,Phoenix,5,Tucson,3,24e14ee0-cada-5eec-9ad4-6ff32c834bc0
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0504alb,19150504,0,Douglas,6,Albuquerque,9,2746b752-8539-5c05-a33b-aa369b11f2fe
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0504alb,19150504,0,Douglas,6,Albuquerque,9,a2f6f354-2c2e-54ab-a98e-a523005a3c35
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0504elp,19150504,0,Las Cruces,12,El Paso,7,9443d9d2-1b9e-5ad5-b1d1-8210cfc3a2ee
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0504elp,19150504,0,Las Cruces,12,El Paso,7,9c8ee522-0974-5ae5-b4e8-902022a42081
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0504pho,19150504,0,Tucson,0,Phoenix,5,ddd37f9c-dbb9-52a0-99fa-ee96eb190f41
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0504tuc,19150504,0,Phoenix,5,Tucson,0,e7209b57-8d2c-51be-8580-66f60776e96a
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0505alb,19150505,0,Douglas,1,Albuquerque,11,20cfb28c-3050-55f3-8f7e-bf18db029613
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0505alb,19150505,0,Douglas,1,Albuquerque,11,6814efc1-7e8d-50f8-a768-8cb49f86ec69
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0505elp,19150505,0,Las Cruces,6,El Paso,11,f79ffdaa-c967-594d-a452-1145bd5aba83
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0505elp,19150505,0,Las Cruces,6,El Paso,11,dd99fe7f-cf6a-5923-be3c-ff4e201794ab
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0505pho,19150505,0,Tucson,1,Phoenix,4,aace94a9-b17b-5770-9730-3f29cce2f516
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0505pho,19150505,0,Tucson,1,Phoenix,4,1b9482b8-5f87-57b0-9a55-49d15ecf9fca
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0506alb,19150506,0,Douglas,,Albuquerque,,3f92c5a1-c741-5b7f-804f-059748cd506d
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0506alb,19150506,0,Douglas,,Albuquerque,,69672112-02f6-50bc-a1c9-bd7aedbeb011
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0506elp,19150506,0,Las Cruces,,El Paso,,b068a87a-bb40-56d8-8265-38d39ba38928
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0506elp,19150506,0,Las Cruces,,El Paso,,fe204161-0ec9-5431-9ad1-1d40f6f14885
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0506pho,19150506,0,Tucson,1,Phoenix,3,49eae268-62a0-505e-bbf4-d344066d58e0
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0506pho,19150506,0,Tucson,1,Phoenix,4,b4b54749-ec76-5c6e-a0eb-fc4deeb4dc3b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0507alb,19150507,0,Douglas,5,Albuquerque,13,9ff0680b-bead-58c8-83b7-ed640a11303e
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0507alb,19150507,0,Douglas,5,Albuquerque,13,b83785d8-d11d-5790-b2ed-d6055a34620f
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0507pho,19150507,0,Tucson,4,Phoenix,6,1b56f339-d689-5a0f-aecb-93f5bfb99372
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0507pho,19150507,0,Tucson,4,Phoenix,6,9c11514d-9901-5639-8ca1-5e082604d4dd
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0508alb,19150508,0,Douglas,5,Albuquerque,17,7e50a233-e194-5248-8245-ab6e628b4d56
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0508alb,19150508,0,Douglas,5,Albuquerque,17,0ff7e1dc-205a-54e5-a585-2a3d68aced5c
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0508elp,19150508,0,Las Cruces,4,El Paso,11,cc830170-c2be-5d4a-808a-b4503ca8382b
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0508elp,19150508,0,Las Cruces,4,El Paso,11,e2ba6927-48af-5a17-9fb8-06a6fa830951
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0508pho,19150508,0,Tucson,1,Phoenix,3,90d2a37a-ab35-5005-9043-e81ab6e65aee
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0508pho,19150508,0,Tucson,1,Phoenix,3,0c1207a6-0439-5fd8-a3d0-fa1346334517
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0509alb1,19150509,1,Douglas,4,Albuquerque,6,db2f7ccb-5bf0-5536-9b36-f95587cb2bda
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0509alb1,19150509,1,Douglas,4,Albuquerque,6,4865dabb-d853-5dbe-a8bf-56fb193ec419
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0509alb2,19150509,2,Douglas,9,Albuquerque,5,77e671d0-2f94-5c6a-9f7d-7bf107c4f2ee
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0509alb2,19150509,2,Douglas,9,Albuquerque,5,3cb57393-fbe6-5134-b180-6dc150086d49
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0509elp1,19150509,1,Las Cruces,,El Paso,,8a55959e-1eee-59f5-8a33-c444147e6f3a
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0509elp1,19150509,1,Las Cruces,5,El Paso,2,472ed72c-b104-5fe3-9e92-3a095cce8346
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0509elp2,19150509,2,Las Cruces,,El Paso,,ec89861f-a9f0-5cf1-9984-ecf5e182a7dd
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0509elp2,19150509,2,Las Cruces,5,El Paso,7,fe985ba3-9baf-52e2-8d6d-5196d4c42783
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0509pho,19150509,0,Tucson,6,Phoenix,7,a9a0d79f-2a00-54d1-8d3f-a82921e5b2dc
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0509pho,19150509,0,Tucson,6,Phoenix,7,6c89a120-6f6c-595e-88b6-b1b9a76eea39
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0511alb,19150511,0,Las Cruces,4,Albuquerque,8,42b03cec-5536-5c7a-906d-57bc8d244aa7
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0511alb,19150511,0,Las Cruces,4,Albuquerque,8,b0ff2012-9ab4-5bae-8e9a-aa01a67ce631
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0511elp,19150511,0,Douglas,,El Paso,,7bdec1ac-70e2-5516-a694-c0b9c72dac2c
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0511elp,19150511,0,Douglas,12,El Paso,13,51d5b9d6-a7a4-520e-bc11-7be010ede798
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0512alb,19150512,0,Las Cruces,3,Albuquerque,12,b4c2d07a-559f-533a-8f32-f2ede9ecbeec
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0512alb,19150512,0,Las Cruces,5,Albuquerque,12,704dd307-751b-5cd5-8d6a-91d598760bd0
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0512elp,19150512,0,Douglas,4,El Paso,8,2133d251-d395-5564-a7a7-26d3aa82e94d
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0512elp,19150512,0,Douglas,4,El Paso,8,12644597-cec2-59e2-9f7c-0bea5fdc425d
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0513alb,19150513,0,Las Cruces,12,Albuquerque,21,878bc6b6-a4c3-5efb-8ef4-98c3515e6062
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0513alb,19150513,0,Las Cruces,12,Albuquerque,21,2e5000c9-9100-59a8-ba18-1f51fb511c11
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0513elp,19150513,0,Douglas,5,El Paso,6,07f38545-fbd6-5c87-8c3c-aa5950785235
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0513elp,19150513,0,Douglas,5,El Paso,6,4ea27515-a8e1-5f53-9842-017bbde46c24
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0514alb,19150514,0,Las Cruces,5,Albuquerque,7,96bab690-96c0-515d-9702-5e17ab0e0632
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0514alb,19150514,0,Las Cruces,5,Albuquerque,7,5b768638-d340-5bba-bfbe-d4750d7cd568
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0515alb,19150515,0,Las Cruces,6,Albuquerque,4,e74d9cc3-88c0-577b-bf7f-9a612c11fd3b
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0515alb,19150515,0,Las Cruces,6,Albuquerque,4,2095afa8-decf-579f-8a3b-36b10daab505
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0515elp,19150515,0,Douglas,3,El Paso,7,20c3504c-72d2-580b-adff-4cf947d536bf
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0515elp,19150515,0,Douglas,3,El Paso,7,bda653a6-3c90-555c-9d63-1455b5fb3b33
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0515tuc,19150515,0,Phoenix,4,Tucson,14,154e81e0-d5a0-5e35-8e3f-98213c88f2f4
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0515tuc,19150515,0,Phoenix,4,Tucson,15,a2e5bd3e-ee9e-541d-8eed-5a81b9589038
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0516alb,19150516,0,Las Cruces,8,Albuquerque,9,17c335ca-9ab2-54a4-a64e-1bb6de43a758
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0516alb,19150516,0,Las Cruces,8,Albuquerque,9,56b4fa83-3f4a-5608-9d9c-e73e23eaeca6
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0516elp1,19150516,1,Douglas,2,El Paso,9,28ec6b7c-bfd9-5c85-8770-6a025d2e00fd
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0516elp1,19150516,1,Douglas,2,El Paso,9,a9f54111-c8b1-5b1d-9999-d210bc05e6db
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0516elp2,19150516,2,Douglas,4,El Paso,0,0e40cc05-c63e-56d6-a2a3-eb5b8501346a
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0516elp2,19150516,2,Douglas,4,El Paso,0,c90b2f02-119b-581b-b097-fa6e43b19992
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0516tuc1,19150516,1,Phoenix,5,Tucson,6,76e446a7-5232-5ba5-bfbd-fe491b9f6d59
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0516tuc1,19150516,1,Phoenix,5,Tucson,6,d298f170-766c-55f4-a6c0-1c00541fdd4a
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0516tuc2,19150516,2,Phoenix,5,Tucson,0,e7961715-3fcf-538b-9a23-665f4bf45dcd
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0516tuc2,19150516,2,Phoenix,5,Tucson,0,1f5c8fb6-c606-5055-9d06-a17657ef6899
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0518dou,19150518,0,El Paso,13,Douglas,10,15bd5290-f36f-5f78-bef8-f159d4ef6e07
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0518dou,19150518,0,El Paso,13,Douglas,10,7640583f-cd6f-5063-a440-c1b1ef7beff0
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0518las,19150518,0,Phoenix,,Las Cruces,,c8dadfd3-dbc5-5423-9a35-66653cb2b6d3
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0518las,19150518,0,Phoenix,,Las Cruces,,4967552e-d3b7-5b65-825f-d4b87102d303
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0518tuc,19150518,0,Albuquerque,6,Tucson,5,d860d578-9ed5-53b8-b9a2-64933d24b547
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0518tuc,19150518,0,Albuquerque,6,Tucson,5,7233572d-a3da-5ac7-b73f-647112692a83
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0519dou,19150519,0,El Paso,9,Douglas,14,8fcd8cf4-88a2-595c-945d-23563862a4aa
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0519dou,19150519,0,El Paso,9,Douglas,14,8496d898-bbf1-5d43-8a95-bbe82160ccd9
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0519las,19150519,0,Phoenix,5,Las Cruces,2,fe321f5b-a183-575a-be67-5426f5df4445
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0519las,19150519,0,Phoenix,5,Las Cruces,2,0949e951-6352-520f-9a63-41b1034f5107
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0519tuc,19150519,0,Albuquerque,5,Tucson,8,ebdf4e16-6049-5e6e-b06f-2fcbf2009010
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0519tuc,19150519,0,Albuquerque,5,Tucson,8,5b861df4-e329-5a7a-b4bf-e2fb7f964e2c
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0520dou,19150520,0,El Paso,14,Douglas,5,d76605cc-85be-57d2-b0ff-83f2fe6bb459
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0520dou,19150520,0,El Paso,14,Douglas,5,bdbff054-875e-5dad-8915-c3806eef4622
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0520las,19150520,0,Phoenix,4,Las Cruces,3,d26cb167-b718-5b5d-a36c-551313b8746b
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0520las,19150520,0,Phoenix,4,Las Cruces,3,d0b2731d-086a-5f66-848f-1a0fda2a0025
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0520tuc,19150520,0,Albuquerque,12,Tucson,14,61fd2fc1-d255-5f2b-86c5-979ff6497e3f
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0520tuc,19150520,0,Albuquerque,12,Tucson,14,76b1edf5-1be8-5aa6-a1a1-737440b76f75
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0521dou,19150521,0,El Paso,16,Douglas,5,4db8b63d-af70-5af0-9185-8b137a12cac7
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0521dou,19150521,0,El Paso,16,Douglas,5,25aaf311-70f0-5984-8f2d-929e7632d01a
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0521las,19150521,0,Phoenix,,Las Cruces,,47b1842a-e755-5bd9-b5bb-338b5a057b34
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0521las,19150521,0,Phoenix,8,Las Cruces,6,7165fbc5-27e1-5ee4-b36c-4703e2bc0c05
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0521tuc,19150521,0,Albuquerque,6,Tucson,8,c76d1e77-9e60-55c3-afa2-32e647ae0681
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0521tuc,19150521,0,Albuquerque,6,Tucson,8,17c09c9c-2d34-5df8-a9e7-27c59c0cc328
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0522dou,19150522,0,El Paso,16,Douglas,17,1c7c9873-186c-5805-92e7-48a1aae30d47
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0522dou,19150522,0,El Paso,16,Douglas,17,8352f65e-b5ca-5d75-83d4-4b89cf0f24e3
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0522las,19150522,0,Phoenix,,Las Cruces,,d06d2d8a-38c9-5561-9509-19709c6810df
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0522las,19150522,0,Phoenix,7,Las Cruces,2,3cdec244-3305-5b1a-95c8-47b2e1cbacac
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0522tuc,19150522,0,Albuquerque,8,Tucson,2,2dc5a816-d440-5a18-a02c-e2c623556611
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0522tuc,19150522,0,Albuquerque,8,Tucson,2,8f09ea6a-f55d-5ac7-8692-03db0d81f1d5
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0523dou,19150523,0,El Paso,4,Douglas,8,a376eea5-a9dd-5838-9a93-69b9b686d523
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0523dou,19150523,0,El Paso,4,Douglas,8,01267486-6d71-5bd1-9cab-b0573af9db9f
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0523las1,19150523,1,Phoenix,8,Las Cruces,2,1dfea18f-1479-5ed5-8975-346aed2a78a1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0523las1,19150523,1,Phoenix,8,Las Cruces,2,430ca8e7-d89c-56e4-8b9a-f81c9700801d
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0523las2,19150523,2,Phoenix,5,Las Cruces,6,1ef36a95-19fe-5308-b26c-db5e123b577f
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0523las2,19150523,2,Phoenix,5,Las Cruces,6,78a626c1-9af7-5dcc-9cf4-57221068b75e
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0523tuc,19150523,0,Albuquerque,7,Tucson,4,d6a15cce-bcc5-575f-aee9-b0dca97d3128
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0523tuc,19150523,0,Albuquerque,7,Tucson,4,fcb1ba43-3fea-5e66-9ea3-595072016388
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0525pho,19150525,0,Albuquerque,3,Phoenix,7,2972c717-8d0f-5bfd-909b-039013d49eea
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0525pho,19150525,0,Albuquerque,3,Phoenix,7,277e99f1-f73c-5cc7-a3a8-a68c7ac9a9e3
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0525tuc,19150525,0,El Paso,4,Tucson,8,06d0058f-3503-5a59-9abb-5b594cec6f95
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0525tuc,19150525,0,El Paso,8,Tucson,7,c560f75a-86c2-5e1a-a869-bb3d2ff203de
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0526pho,19150526,0,Albuquerque,9,Phoenix,6,262e1fc2-f844-5de2-bffa-03d7081e4980
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0526pho,19150526,0,Albuquerque,9,Phoenix,6,320b059c-fcf0-5752-9454-4a2e8767a7e4
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0526tuc,19150526,0,El Paso,5,Tucson,4,895487d1-dce0-56b7-88bd-670da50cc93c
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0526tuc,19150526,0,El Paso,5,Tucson,4,d8b56cde-2afc-5743-b734-d23362eee28a
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0527pho,19150527,0,Albuquerque,5,Phoenix,4,9e1e4b4c-203c-52d2-af39-9c101fd79fb3
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0527pho,19150527,0,Albuquerque,5,Phoenix,4,391fe2ed-7e34-5700-82c6-eda35e786ae1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0527tuc,19150527,0,El Paso,2,Tucson,6,a506cc50-39b7-5572-8fab-22a0511fc91a
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0527tuc,19150527,0,El Paso,2,Tucson,6,4c93dfaa-091e-5076-9bd6-db6d6fd715ca
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0528pho,19150528,0,Albuquerque,5,Phoenix,6,fc759a1d-ef8c-504b-ac46-c4bb1e0be366
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0528pho,19150528,0,Albuquerque,5,Phoenix,6,1fa33af4-6b26-570c-8a66-674a9b5ba329
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0528tuc,19150528,0,El Paso,14,Tucson,4,907af85a-c7d2-51cb-863c-39d1f32d7e06
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0528tuc,19150528,0,El Paso,14,Tucson,4,41445d65-cec1-5ae1-aac5-9275ba0718a0
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0529pho,19150529,0,Albuquerque,6,Phoenix,10,9b16dffb-17bd-5ffe-bea4-a62e0d5f0cd5
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0529pho,19150529,0,Albuquerque,6,Phoenix,10,e4f87852-0866-5d92-821e-86b2979c49d1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0529tuc,19150529,0,El Paso,1,Tucson,0,5c27bf7a-3603-5d06-8690-9b996eb6a317
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0529tuc,19150529,0,El Paso,1,Tucson,0,96315edf-03c9-55a2-8cbe-83b1c0f92cd6
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0530pho,19150530,0,Albuquerque,5,Phoenix,0,9b159028-ad14-5578-977a-012e3928be14
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0530pho,19150530,0,Albuquerque,5,Phoenix,0,eaef93c2-15e1-5fdf-8db1-9649d993e170
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0530tuc,19150530,0,El Paso,4,Tucson,5,f84a061a-a638-5ca4-9776-f2471f040d4d
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0530tuc,19150530,0,El Paso,4,Tucson,5,749d29cd-553e-59a3-9c8a-99fb6e69245a
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0531pho,19150531,0,Albuquerque,5,Phoenix,2,ddb05e78-5a03-5570-afcd-5f1e7df4870c
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0531pho,19150531,0,Albuquerque,5,Phoenix,2,fbf9b61e-2c4d-5736-b852-ea47a92beeb9
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0531tuc,19150531,0,El Paso,5,Tucson,4,8eb6e589-255a-5c65-95a0-d21b3f25d87e
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0531tuc,19150531,0,El Paso,5,Tucson,4,ac106b0e-98b7-5a78-b378-833371ad9d02
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0601pho,19150601,0,El Paso,2,Phoenix,0,4b33e36c-bd85-5b64-83ab-84c20d8d897d
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0601pho,19150601,0,El Paso,2,Phoenix,0,a71685ce-125a-534b-bb29-cf48a33ab114
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0602alb,19150602,0,Tucson,3,Albuquerque,2,1acf81cd-a819-5616-a80e-0a01fcaa3893
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0602alb,19150602,0,Tucson,3,Albuquerque,2,8d73bc4c-69b9-5997-92d2-2ce61a2f58fb
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0602pho,19150602,0,El Paso,2,Phoenix,5,55700ac5-c5d4-512e-a268-9dbea71d5e76
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0602pho,19150602,0,El Paso,2,Phoenix,5,d48c2dd2-4806-50ea-9ac8-df3b55774282
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0603alb,19150603,0,Tucson,4,Albuquerque,3,3c10dac0-77de-5066-9e43-5938e7a26d05
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0603alb,19150603,0,Tucson,4,Albuquerque,3,3982a7d9-a652-52e9-a7fe-23c1db667c12
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0603pho,19150603,0,El Paso,2,Phoenix,1,3745981a-a1c8-58a4-9989-f7fe155989bc
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0603pho,19150603,0,El Paso,2,Phoenix,1,a511585b-d722-558c-92f0-28b3cb728d1e
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0604alb,19150604,0,Tucson,4,Albuquerque,6,6b357b72-5fc1-550a-84f7-bb50d6d8a76a
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0604alb,19150604,0,Tucson,4,Albuquerque,6,7c8dc55f-5355-5252-b266-c39de6a10554
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0604pho,19150604,0,El Paso,0,Phoenix,5,5c6d73d3-bbac-5038-8fef-23005b38ce36
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0604pho,19150604,0,El Paso,0,Phoenix,7,cf7c4606-c686-5b06-9fde-f70f6482f918
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0605alb,19150605,0,Tucson,9,Albuquerque,10,f73c907c-8c8c-5013-85d5-950edee97d11
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0605alb,19150605,0,Tucson,9,Albuquerque,10,289300dc-8251-57b3-b29a-c0420a0a934c
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0605pho,19150605,0,El Paso,0,Phoenix,3,85be1e6b-b7b0-57f8-a440-99efce02ff6a
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0605pho,19150605,0,El Paso,0,Phoenix,3,f09df5f7-d824-5c2e-9172-7d0f6edff6e4
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0606alb,19150606,0,Tucson,11,Albuquerque,1,efada8cb-b115-5bab-a582-c1a1465acd52
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0606alb,19150606,0,Tucson,11,Albuquerque,1,c9de4903-99b6-562e-8912-e8d381a1c6cb
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0606pho,19150606,0,El Paso,2,Phoenix,6,ecd02565-16bc-5c3b-9560-71ce47a97938
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0606pho,19150606,0,El Paso,2,Phoenix,6,63b83cc3-75b0-5a8a-84d3-7a41c0f49d76
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0607alb,19150607,0,Tucson,7,Albuquerque,1,97145cff-c64a-5b5d-8355-39d75a1f8c3b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0608alb,19150608,0,Phoenix,4,Albuquerque,2,97667e01-8e5b-5de1-8b3c-65849dd31f76
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0608alb,19150608,0,Phoenix,4,Albuquerque,2,02e4ed8c-43cb-5d04-894c-7c4cd4fd9627
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0608elp,19150608,0,Tucson,0,El Paso,5,f8694356-4ec1-5707-8327-e55f4925db01
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0608elp,19150608,0,Tucson,0,El Paso,5,3fa7a147-41f9-5774-91d4-a50f968e985f
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0609alb,19150609,0,Phoenix,2,Albuquerque,10,6570052d-0213-5311-9250-cc05d31f3ab3
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0609alb,19150609,0,Phoenix,2,Albuquerque,10,85fef462-489a-55b9-8d88-0169206a9e83
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0609elp,19150609,0,Tucson,3,El Paso,2,1c5fe622-18b3-5377-b067-ee9075e5d6ca
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0609elp,19150609,0,Tucson,3,El Paso,2,e612e2ac-916f-53b7-b02b-0b01894ba639
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0610alb,19150610,0,Phoenix,3,Albuquerque,10,36b0a397-4d49-59a0-a55a-cecab68c8097
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0610alb,19150610,0,Phoenix,3,Albuquerque,10,8d507ec1-082a-5e66-b435-333bfea39959
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0610elp,19150610,0,Tucson,2,El Paso,9,b3e82674-f7ab-564e-a9f4-ee04c3776e76
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0610elp,19150610,0,Tucson,2,El Paso,9,eaa29a15-1b58-5102-861b-f95e27431179
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0611alb,19150611,0,Phoenix,7,Albuquerque,4,e426484d-70f4-5504-805e-e3a7ac18cdfb
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0611alb,19150611,0,Phoenix,7,Albuquerque,4,b53b6b76-de0a-504e-b1cd-fb1fe397f0dd
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0611elp,19150611,0,Tucson,,El Paso,,b773144b-5b61-58f3-9aa6-ed8a72a84b82
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0611elp,19150611,0,Tucson,5,El Paso,6,35dc9461-1b8d-59e2-8ebb-fc80799318bf
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0612alb,19150612,0,Phoenix,5,Albuquerque,6,9f62c8a5-8f0a-5a69-abe6-86c6e6b62d32
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0612alb,19150612,0,Phoenix,5,Albuquerque,6,a7438948-02b8-5e37-989a-930088d23319
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0612elp,19150612,0,Tucson,11,El Paso,8,91599ce5-640d-56c8-a265-cf957d7fefbf
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0612elp,19150612,0,Tucson,11,El Paso,8,919cef11-50af-5b1e-82e2-ec35b62f81e1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0613alb,19150613,0,Phoenix,6,Albuquerque,11,d4f9f8c6-64e9-5873-866c-cd71b3998f3b
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0613alb,19150613,0,Phoenix,6,Albuquerque,11,70d40e21-39d1-5652-93c3-f19d4ca865c6
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0613elp,19150613,0,Tucson,4,El Paso,7,6419069d-d245-508d-898d-e47627dff0c9
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0613elp,19150613,0,Tucson,4,El Paso,7,ad3a705e-1a38-58ef-bed6-8801573f8f28
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0615alb,19150615,0,Tucson,5,Albuquerque,16,0cbf85ca-9c8c-51ba-b2a6-73d558a96e88
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0615alb,19150615,0,Tucson,5,Albuquerque,16,82b369ac-a2a2-567f-9187-ade3f3b547ff
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0615elp,19150615,0,Phoenix,3,El Paso,7,64a6a8d2-3fe9-5141-bdd1-79ccac99e3bf
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0615elp,19150615,0,Phoenix,3,El Paso,7,2af74e2b-27fd-5773-a001-cc2264d1f871
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0616alb,19150616,0,Tucson,19,Albuquerque,5,ee79f71d-ec10-55bf-8be9-7173ebd061c8
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0616alb,19150616,0,Tucson,19,Albuquerque,5,f667bea9-f00b-56f5-8972-a3376974ef62
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0616elp,19150616,0,Phoenix,5,El Paso,0,c2407b8b-5674-54f2-b738-f3969ffe18d5
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0616elp,19150616,0,Phoenix,5,El Paso,0,a4a3fcaf-6529-5208-85d9-92663c31b669
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0617alb,19150617,0,Tucson,1,Albuquerque,5,4054ffef-6c9a-5c40-afd8-8c302c878161
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0617alb,19150617,0,Tucson,1,Albuquerque,5,b660516e-fb0d-5015-a66b-761d876750b4
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0617elp,19150617,0,Phoenix,8,El Paso,19,015a7e76-2e7a-5415-94dd-5df12ff1ea19
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0617elp,19150617,0,Phoenix,8,El Paso,19,c6ade345-c12f-50d8-bfb8-f18fda93261d
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0618alb,19150618,0,Tucson,3,Albuquerque,12,7141d642-1cee-58b7-a396-f0bfd9886796
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0618alb,19150618,0,Tucson,3,Albuquerque,12,512115e8-921b-5c65-a4e7-8e097eeb1b63
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0618elp,19150618,0,Phoenix,6,El Paso,6,32e6a076-009e-5fd8-9a47-91d12d58e5e2
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0618elp,19150618,0,Phoenix,6,El Paso,6,655aa695-a9b6-500a-a214-a9e52803d8a7
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0619alb,19150619,0,Tucson,7,Albuquerque,9,909938b8-c62a-5079-96b4-55fa9d6446b8
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0619alb,19150619,0,Tucson,7,Albuquerque,9,4e698529-57e5-57b5-aca1-226d0e8693a5
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0619elp,19150619,0,Phoenix,,El Paso,,9828ea4b-560e-54ed-b791-7a16a5470e03
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0619elp,19150619,0,Phoenix,2,El Paso,7,4e88aaa2-9e26-59ea-b9a3-b594d6ffe350
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0620alb,19150620,0,Tucson,7,Albuquerque,3,0060d1d6-1d86-5b50-9e70-d76f8fd170de
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0620alb,19150620,0,Tucson,7,Albuquerque,3,af90cb64-c775-541a-a21a-faaf29b4c23f
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0620elp1,19150620,1,Phoenix,11,El Paso,1,18366a02-aca4-5487-8ab4-08ffb23143c6
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0620elp1,19150620,1,Phoenix,11,El Paso,1,fe3b3eca-4e8f-5d5e-8885-f22f66847946
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0620elp2,19150620,2,Phoenix,7,El Paso,8,c3aa2195-cfb8-5944-b11f-7ae35acc7168
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0620elp2,19150620,2,Phoenix,7,El Paso,8,4b2ca615-886f-5de5-b86b-21115ad6a329
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0622alb,19150622,0,El Paso,13,Albuquerque,3,8042771e-982a-5dad-8dba-98f6c122d741
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0622alb,19150622,0,El Paso,13,Albuquerque,3,d0d7341a-c9ac-590e-987c-bf4891c6f6c2
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0622tuc,19150622,0,Phoenix,8,Tucson,6,df5da2e6-e448-544c-b547-8cf8896dde40
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0622tuc,19150622,0,Phoenix,8,Tucson,6,18aa1b51-9313-5b84-85f1-2a176d4000f7
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0623alb,19150623,0,El Paso,9,Albuquerque,4,387199ba-8c67-5593-85cf-7dc644b38802
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0623alb,19150623,0,El Paso,9,Albuquerque,4,7fe033ff-5e70-5000-808f-41e5ff28285f
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0623tuc,19150623,0,Phoenix,4,Tucson,5,6588e6b2-3ff1-5d90-8bf1-4787693643f1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0623tuc,19150623,0,Phoenix,4,Tucson,5,dc1d2da0-93ea-5878-a533-65b6be12d80a
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0624alb,19150624,0,El Paso,6,Albuquerque,10,fede2db4-99bb-5a8d-900c-6020f012bc6b
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0624alb,19150624,0,El Paso,6,Albuquerque,10,e6257405-a798-51fa-9f8f-36eff1d20172
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0624tuc,19150624,0,Phoenix,4,Tucson,2,465927ef-e863-519c-9050-94067b65588d
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0624tuc,19150624,0,Phoenix,4,Tucson,2,34540185-a01b-5b51-b8e7-9ebf574e6959
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0625alb,19150625,0,El Paso,7,Albuquerque,6,308b82dd-ff7a-5a5f-8633-bea97f8bd30f
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0625alb,19150625,0,El Paso,7,Albuquerque,6,a21f4338-f2b8-52d4-9582-f71114e1b856
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0625tuc,19150625,0,Phoenix,6,Tucson,4,a7081ae5-4859-5b8c-8a5d-6305dba70ae3
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0625tuc,19150625,0,Phoenix,6,Tucson,4,5b456854-a5d2-5e30-b79f-c6151d6905e4
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0626alb,19150626,0,El Paso,7,Albuquerque,10,75e05950-f467-527a-b38f-4e013a02849a
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0626alb,19150626,0,El Paso,7,Albuquerque,10,2c516d03-e3b4-574f-8342-dc4602169562
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0626tuc,19150626,0,Phoenix,5,Tucson,3,8f3bc8ba-3519-53ef-8b90-10c5007b19fe
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0626tuc,19150626,0,Phoenix,5,Tucson,3,1a4bef86-6086-561a-bbee-bbbbbcd12de5
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0627alb,19150627,0,El Paso,8,Albuquerque,7,d66e2525-e550-5bf6-bd49-59f155629de1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0627alb,19150627,0,El Paso,8,Albuquerque,7,f879ff50-e2b3-56cd-9e83-42db8857cec4
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0627tuc,19150627,0,Phoenix,6,Tucson,5,438f4820-d399-566c-a078-f2ed4f27cae1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0627tuc,19150627,0,Phoenix,6,Tucson,5,87c94472-d656-5ba5-aa4d-c74aaa15a5b5
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0629elp,19150629,0,Albuquerque,8,El Paso,5,6c0e4691-1f9e-57a5-afdd-13dc5f80b2f2
-boxscores/1915/1915-AR,1915,Rio Grande Association,0629elp,19150629,0,Albuquerque,8,El Paso,5,5d99878f-6d31-5d46-90f0-2ac1dee818e2
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0629elp,19150629,0,Albuquerque,8,El Paso,5,f3111626-6313-52b5-82f2-e337da4de79f
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0629pho,19150629,0,Tucson,1,Phoenix,3,a3057793-a5d7-56b5-a07c-b32b0ddc7a9b
-boxscores/1915/1915-AR,1915,Rio Grande Association,0629pho,19150629,0,Tucson,1,Phoenix,3,298c9650-78bd-54fc-abd4-3ba523a07ef6
-boxscores/1915/1915-EPH,1915,Rio Grande Association,0629pho,19150629,0,Tucson,1,Phoenix,3,a494f8c4-22d4-583b-a5f7-8934db6b9625
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0630elp,19150630,0,Albuquerque,4,El Paso,6,a7d63474-1999-50ab-b126-1ff6f229e4a5
-boxscores/1915/1915-AR,1915,Rio Grande Association,0630elp,19150630,0,Albuquerque,4,El Paso,6,a22cfea1-d64c-5529-920f-a761b9c8da26
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0630pho,19150630,0,Tucson,3,Phoenix,6,b38fc98c-dd11-54eb-bea5-1ec5f4e128f0
-boxscores/1915/1915-AR,1915,Rio Grande Association,0630pho,19150630,0,Tucson,3,Phoenix,6,fd7798d9-d911-577c-9218-e5476cc06c9f
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0701elp,19150701,0,Albuquerque,3,El Paso,2,7dad3271-5e93-5525-b826-3b320ff4cc81
-boxscores/1915/1915-AR,1915,Rio Grande Association,0701elp,19150701,0,Albuquerque,8,El Paso,2,7815e1ed-2626-5340-b0c0-61d1b91b8080
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0701pho,19150701,0,Tucson,3,Phoenix,5,e15f0dec-4332-5a84-b16a-be730cc58ef6
-boxscores/1915/1915-AR,1915,Rio Grande Association,0701pho,19150701,0,Tucson,3,Phoenix,5,358d4587-d23c-55e4-9bcf-f580f604a7e1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0702elp,19150702,0,Albuquerque,0,El Paso,7,c2e070b2-1686-57aa-9834-acc893d5f592
-boxscores/1915/1915-AR,1915,Rio Grande Association,0702elp,19150702,0,Albuquerque,0,El Paso,7,a114908f-c727-54ce-8ca7-b4ff7c593070
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0702pho,19150702,0,Tucson,10,Phoenix,10,1cfbc6d0-5e0d-5ead-90cc-ac65453567c1
-boxscores/1915/1915-AR,1915,Rio Grande Association,0702pho,19150702,0,Tucson,10,Phoenix,10,96bd9fa7-013f-578d-9ece-7d8ac697b4e7
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0703elp,19150703,0,Albuquerque,3,El Paso,13,6c7c97d2-6e13-5c47-8939-09fb96893564
-boxscores/1915/1915-AR,1915,Rio Grande Association,0703elp,19150703,0,Albuquerque,3,El Paso,13,c4fd4113-c654-5c13-a505-69e6866720e2
-boxscores/1915/1915-AR,1915,Rio Grande Association,0703pho,19150703,0,Tucson,5,Phoenix,8,40c16235-b7c2-590b-a0eb-373b530b36d5
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0704elp,19150704,0,Albuquerque,2,El Paso,7,ad68bd22-a03d-5dbf-bad6-dcb933af8b4d
-boxscores/1915/1915-AR,1915,Rio Grande Association,0704elp,19150704,0,Albuquerque,2,El Paso,7,eccaa4a5-d641-5a88-8a88-e96bac8c6c36
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0704pho1,19150704,1,Tucson,1,Phoenix,9,f6d88a00-18b9-5ee1-bc8f-ea391242f27f
-boxscores/1915/1915-AR,1915,Rio Grande Association,0704pho1,19150704,1,Tucson,1,Phoenix,9,b282975e-3f18-5e01-bcbb-0d62da5858ad
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0704pho2,19150704,2,Tucson,2,Phoenix,6,96a96072-b815-593d-b11c-b6caf62856da
-boxscores/1915/1915-AR,1915,Rio Grande Association,0704pho2,19150704,2,Tucson,2,Phoenix,6,f8abddde-9c79-52d7-a1a5-14daba24a6ee
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0705elp1,19150705,1,Albuquerque,0,El Paso,6,c721256d-4a27-56b5-93de-7ae712b9c423
-boxscores/1915/1915-AR,1915,Rio Grande Association,0705elp1,19150705,1,Albuquerque,0,El Paso,6,be02d704-dfb8-5fe3-ab9c-8594a114a975
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0705elp2,19150705,2,Albuquerque,5,El Paso,2,3bd52000-9278-5edd-a915-92329ebd7bc4
-boxscores/1915/1915-AR,1915,Rio Grande Association,0705elp2,19150705,2,Albuquerque,5,El Paso,2,7a6870f6-4678-556a-a4ea-f71ef3bf2cc2
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0705pho1,19150705,1,Tucson,13,Phoenix,5,fae9b428-8933-5b0d-919f-e3db940b2815
-boxscores/1915/1915-AR,1915,Rio Grande Association,0705pho1,19150705,1,Tucson,13,Phoenix,5,aca3051e-ca64-5578-9bf9-1a00bd45d8ea
-boxscores/1915/1915-AJ,1915,Rio Grande Association,0705pho2,19150705,2,Tucson,1,Phoenix,6,f76fd642-78b4-506a-8f5f-469909e11301
-boxscores/1915/1915-AR,1915,Rio Grande Association,0705pho2,19150705,2,Tucson,1,Phoenix,6,35ef8144-46f6-5422-aa79-597b758fb2cc
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0427tuc,19150427,0,Phoenix,2,Tucson,10,LKGZFFM
+boxscores/1915/1915-AR,1915,Rio Grande Association,0427tuc,19150427,0,Phoenix,2,Tucson,10,MDHSKFP
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0427tuc,19150427,0,Phoenix,2,Tucson,10,YHPKHRC
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0428tuc,19150428,0,Phoenix,,Tucson,,KBFWWSZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0428tuc,19150428,0,Phoenix,,Tucson,,DQCWNTG
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0428tuc,19150428,0,Phoenix,,Tucson,,PJLKPJX
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0429tuc,19150429,0,Phoenix,6,Tucson,1,HZZNZNH
+boxscores/1915/1915-AR,1915,Rio Grande Association,0429tuc,19150429,0,Phoenix,6,Tucson,1,SWKHZSK
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0429tuc,19150429,0,Phoenix,6,Tucson,1,CYHRRGV
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0430tuc,19150430,0,Phoenix,7,Tucson,3,SPCPFDZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0430tuc,19150430,0,Phoenix,7,Tucson,3,FFZRGGJ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0430tuc,19150430,0,Phoenix,7,Tucson,3,HVRQBNR
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0501elp,19150501,0,Las Cruces,8,El Paso,5,WLZZSQX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0501elp,19150501,0,Las Cruces,8,El Paso,5,WSFDLLK
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0501elp,19150501,0,Las Cruces,8,El Paso,5,BRFJXWW
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0501tuc,19150501,0,Phoenix,,Tucson,,XGNFRSS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0501tuc,19150501,0,Phoenix,0,Tucson,3,LQFYCBF
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0501tuc,19150501,0,Phoenix,0,Tucson,3,GFTNHBQ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0502elp,19150502,0,Las Cruces,19,El Paso,20,ZBBLDYV
+boxscores/1915/1915-AR,1915,Rio Grande Association,0502elp,19150502,0,Las Cruces,19,El Paso,20,KPDMGHW
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0502elp,19150502,0,Las Cruces,19,El Paso,20,ZPPXXGT
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0502tuc,19150502,0,Phoenix,5,Tucson,3,YZWJRQW
+boxscores/1915/1915-AR,1915,Rio Grande Association,0502tuc,19150502,0,Phoenix,5,Tucson,3,TLCKGMY
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0502tuc,19150502,0,Phoenix,5,Tucson,3,PKPXSJW
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0504alb,19150504,0,Douglas,6,Albuquerque,9,SFNJVTW
+boxscores/1915/1915-AR,1915,Rio Grande Association,0504alb,19150504,0,Douglas,6,Albuquerque,9,BKDRYDX
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0504alb,19150504,0,Douglas,6,Albuquerque,9,JPCJRRW
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0504elp,19150504,0,Las Cruces,12,El Paso,7,XYDFDDV
+boxscores/1915/1915-AR,1915,Rio Grande Association,0504elp,19150504,0,Las Cruces,12,El Paso,7,WRGHCGM
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0504elp,19150504,0,Las Cruces,12,El Paso,7,VJHRXRF
+boxscores/1915/1915-AR,1915,Rio Grande Association,0504pho,19150504,0,Tucson,0,Phoenix,5,HSKSZYY
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0504pho,19150504,0,Tucson,0,Phoenix,5,GWDFRWS
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0504tuc,19150504,0,Phoenix,5,Tucson,0,MWQBKVG
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0505alb,19150505,0,Douglas,1,Albuquerque,11,JYLCVFD
+boxscores/1915/1915-AR,1915,Rio Grande Association,0505alb,19150505,0,Douglas,1,Albuquerque,11,HMZHVTC
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0505alb,19150505,0,Douglas,1,Albuquerque,11,YSRNZRS
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0505elp,19150505,0,Las Cruces,6,El Paso,11,XZTJCBR
+boxscores/1915/1915-AR,1915,Rio Grande Association,0505elp,19150505,0,Las Cruces,6,El Paso,11,DPLNXPR
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0505elp,19150505,0,Las Cruces,6,El Paso,11,YLDSGBL
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0505pho,19150505,0,Tucson,1,Phoenix,4,YSMFMLX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0505pho,19150505,0,Tucson,1,Phoenix,4,LYGCNNJ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0505pho,19150505,0,Tucson,1,Phoenix,4,JZLSCZG
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0506alb,19150506,0,Douglas,,Albuquerque,,MNJWYSC
+boxscores/1915/1915-AR,1915,Rio Grande Association,0506alb,19150506,0,Douglas,,Albuquerque,,ZNJFGRP
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0506alb,19150506,0,Douglas,,Albuquerque,,VXBGYLP
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0506elp,19150506,0,Las Cruces,,El Paso,,JWNZKWK
+boxscores/1915/1915-AR,1915,Rio Grande Association,0506elp,19150506,0,Las Cruces,,El Paso,,DNFFVMZ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0506elp,19150506,0,Las Cruces,,El Paso,,MZYTBYS
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0506pho,19150506,0,Tucson,1,Phoenix,3,VQTXXMX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0506pho,19150506,0,Tucson,1,Phoenix,3,NTQNSHC
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0506pho,19150506,0,Tucson,1,Phoenix,4,PHYCPFB
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0507alb,19150507,0,Douglas,5,Albuquerque,13,MHDXZZM
+boxscores/1915/1915-AR,1915,Rio Grande Association,0507alb,19150507,0,Douglas,5,Albuquerque,13,PDXXMWF
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0507alb,19150507,0,Douglas,5,Albuquerque,13,VVZZTZJ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0507elp,19150507,0,Las Cruces,,El Paso,,FJNNXTH
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0507pho,19150507,0,Tucson,4,Phoenix,6,BSVKWFL
+boxscores/1915/1915-AR,1915,Rio Grande Association,0507pho,19150507,0,Tucson,4,Phoenix,6,WCWPPDD
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0507pho,19150507,0,Tucson,4,Phoenix,6,FCTMGTF
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0508alb,19150508,0,Douglas,5,Albuquerque,17,ZLJKQMW
+boxscores/1915/1915-AR,1915,Rio Grande Association,0508alb,19150508,0,Douglas,5,Albuquerque,17,FPGBSGN
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0508alb,19150508,0,Douglas,5,Albuquerque,17,XQWRVDD
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0508elp,19150508,0,Las Cruces,4,El Paso,11,SWDHTDV
+boxscores/1915/1915-AR,1915,Rio Grande Association,0508elp,19150508,0,Las Cruces,4,El Paso,11,KDJCMXZ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0508elp,19150508,0,Las Cruces,4,El Paso,11,XHVWZTP
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0508pho,19150508,0,Tucson,1,Phoenix,3,KMYHMSM
+boxscores/1915/1915-AR,1915,Rio Grande Association,0508pho,19150508,0,Tucson,1,Phoenix,3,LWQKDZW
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0508pho,19150508,0,Tucson,1,Phoenix,3,MKVZSMR
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0509alb1,19150509,1,Douglas,4,Albuquerque,6,TVRGLHZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0509alb1,19150509,1,Douglas,4,Albuquerque,6,PLYHCJY
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0509alb1,19150509,1,Douglas,4,Albuquerque,6,LXNNCMZ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0509alb2,19150509,2,Douglas,9,Albuquerque,5,FLLPFRR
+boxscores/1915/1915-AR,1915,Rio Grande Association,0509alb2,19150509,2,Douglas,9,Albuquerque,5,DTGBRZJ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0509alb2,19150509,2,Douglas,9,Albuquerque,5,YFZYNFC
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0509elp1,19150509,1,Las Cruces,,El Paso,,FHTSFWR
+boxscores/1915/1915-AR,1915,Rio Grande Association,0509elp1,19150509,1,Las Cruces,,El Paso,,LRQXGLW
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0509elp1,19150509,1,Las Cruces,5,El Paso,2,GRVVZBL
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0509elp2,19150509,2,Las Cruces,,El Paso,,SDKBHQC
+boxscores/1915/1915-AR,1915,Rio Grande Association,0509elp2,19150509,2,Las Cruces,,El Paso,,XQSPJSH
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0509elp2,19150509,2,Las Cruces,5,El Paso,7,TBGGFVK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0509pho,19150509,0,Tucson,6,Phoenix,7,TRXCRYY
+boxscores/1915/1915-AR,1915,Rio Grande Association,0509pho,19150509,0,Tucson,6,Phoenix,7,FKLKZYQ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0509pho,19150509,0,Tucson,6,Phoenix,7,TTBXLLW
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0511alb,19150511,0,Las Cruces,4,Albuquerque,8,WWWCZMX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0511alb,19150511,0,Las Cruces,4,Albuquerque,8,HDGWJSS
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0511alb,19150511,0,Las Cruces,4,Albuquerque,8,NVZWZPK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0511elp,19150511,0,Douglas,,El Paso,,NFMTXMV
+boxscores/1915/1915-AR,1915,Rio Grande Association,0511elp,19150511,0,Douglas,12,El Paso,13,LBWDPFY
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0511elp,19150511,0,Douglas,12,El Paso,13,MZMHLSD
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0512alb,19150512,0,Las Cruces,3,Albuquerque,12,TZYPRPD
+boxscores/1915/1915-AR,1915,Rio Grande Association,0512alb,19150512,0,Las Cruces,5,Albuquerque,12,HQZZKQF
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0512alb,19150512,0,Las Cruces,5,Albuquerque,12,YMFLSYN
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0512elp,19150512,0,Douglas,4,El Paso,8,KDQZHFL
+boxscores/1915/1915-AR,1915,Rio Grande Association,0512elp,19150512,0,Douglas,4,El Paso,8,HRVCDYR
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0512elp,19150512,0,Douglas,4,El Paso,8,LSRSLNJ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0513alb,19150513,0,Las Cruces,12,Albuquerque,21,LWRRGPK
+boxscores/1915/1915-AR,1915,Rio Grande Association,0513alb,19150513,0,Las Cruces,12,Albuquerque,21,GMGGZDZ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0513alb,19150513,0,Las Cruces,12,Albuquerque,21,JGJHRZZ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0513elp,19150513,0,Douglas,5,El Paso,6,CFWJPQF
+boxscores/1915/1915-AR,1915,Rio Grande Association,0513elp,19150513,0,Douglas,5,El Paso,6,JMGSSBM
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0513elp,19150513,0,Douglas,5,El Paso,6,YVWVHZV
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0514alb,19150514,0,Las Cruces,5,Albuquerque,7,MXWKRSX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0514alb,19150514,0,Las Cruces,5,Albuquerque,7,DZWYWWT
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0514alb,19150514,0,Las Cruces,5,Albuquerque,7,HJPDDKX
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0515alb,19150515,0,Las Cruces,6,Albuquerque,4,KYGVNST
+boxscores/1915/1915-AR,1915,Rio Grande Association,0515alb,19150515,0,Las Cruces,6,Albuquerque,4,FWMHHDS
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0515alb,19150515,0,Las Cruces,6,Albuquerque,4,ZZYCDMX
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0515elp,19150515,0,Douglas,3,El Paso,7,WRSBCBB
+boxscores/1915/1915-AR,1915,Rio Grande Association,0515elp,19150515,0,Douglas,3,El Paso,7,KPNZXWP
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0515elp,19150515,0,Douglas,3,El Paso,7,FFTKGFL
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0515tuc,19150515,0,Phoenix,4,Tucson,14,MFVYHPB
+boxscores/1915/1915-AR,1915,Rio Grande Association,0515tuc,19150515,0,Phoenix,4,Tucson,15,CYHNCFT
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0515tuc,19150515,0,Phoenix,4,Tucson,15,VTXHSGH
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0516alb,19150516,0,Las Cruces,8,Albuquerque,9,KZTGSSZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0516alb,19150516,0,Las Cruces,8,Albuquerque,9,CKKNNFQ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0516alb,19150516,0,Las Cruces,8,Albuquerque,9,HLKWSMV
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0516elp1,19150516,1,Douglas,2,El Paso,9,ZBMRTHR
+boxscores/1915/1915-AR,1915,Rio Grande Association,0516elp1,19150516,1,Douglas,2,El Paso,9,VDZSFFC
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0516elp1,19150516,1,Douglas,2,El Paso,9,NPPZMZJ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0516elp2,19150516,2,Douglas,4,El Paso,0,NVVXZCR
+boxscores/1915/1915-AR,1915,Rio Grande Association,0516elp2,19150516,2,Douglas,4,El Paso,0,DVFQDZS
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0516elp2,19150516,2,Douglas,4,El Paso,0,SYBVKDF
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0516tuc1,19150516,1,Phoenix,5,Tucson,6,JMLXPNR
+boxscores/1915/1915-AR,1915,Rio Grande Association,0516tuc1,19150516,1,Phoenix,5,Tucson,6,LGGSBLQ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0516tuc1,19150516,1,Phoenix,5,Tucson,6,MSZNWQL
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0516tuc2,19150516,2,Phoenix,5,Tucson,0,VDWWMTJ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0516tuc2,19150516,2,Phoenix,5,Tucson,0,PWXQKCG
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0516tuc2,19150516,2,Phoenix,5,Tucson,0,LYDXPWY
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0518dou,19150518,0,El Paso,13,Douglas,10,HDMVTFP
+boxscores/1915/1915-AR,1915,Rio Grande Association,0518dou,19150518,0,El Paso,13,Douglas,10,KLWWWTN
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0518dou,19150518,0,El Paso,13,Douglas,10,QYYDHBK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0518las,19150518,0,Phoenix,,Las Cruces,,CLMWMWV
+boxscores/1915/1915-AR,1915,Rio Grande Association,0518las,19150518,0,Phoenix,,Las Cruces,,RXBHMKM
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0518las,19150518,0,Phoenix,,Las Cruces,,DRNNCPK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0518tuc,19150518,0,Albuquerque,6,Tucson,5,ZBVGDBW
+boxscores/1915/1915-AR,1915,Rio Grande Association,0518tuc,19150518,0,Albuquerque,6,Tucson,5,CVLJMSP
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0518tuc,19150518,0,Albuquerque,6,Tucson,5,LQYWHPP
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0519dou,19150519,0,El Paso,9,Douglas,14,DXNZGTZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0519dou,19150519,0,El Paso,9,Douglas,14,FLJHTMX
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0519dou,19150519,0,El Paso,9,Douglas,14,XYCCMNQ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0519las,19150519,0,Phoenix,5,Las Cruces,2,DMCCSHS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0519las,19150519,0,Phoenix,5,Las Cruces,2,GKSGNSY
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0519las,19150519,0,Phoenix,5,Las Cruces,2,DHGYFLW
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0519tuc,19150519,0,Albuquerque,5,Tucson,8,KQJVMPL
+boxscores/1915/1915-AR,1915,Rio Grande Association,0519tuc,19150519,0,Albuquerque,5,Tucson,8,WTVQDFV
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0519tuc,19150519,0,Albuquerque,5,Tucson,8,PSPPWLK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0520dou,19150520,0,El Paso,14,Douglas,5,ZJYHKTV
+boxscores/1915/1915-AR,1915,Rio Grande Association,0520dou,19150520,0,El Paso,14,Douglas,5,PLNZRJM
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0520dou,19150520,0,El Paso,14,Douglas,5,WFFFPDX
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0520las,19150520,0,Phoenix,4,Las Cruces,3,CKFVPMJ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0520las,19150520,0,Phoenix,4,Las Cruces,3,BVNZLFS
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0520las,19150520,0,Phoenix,4,Las Cruces,3,MBRWFYB
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0520tuc,19150520,0,Albuquerque,12,Tucson,14,FLXCHBN
+boxscores/1915/1915-AR,1915,Rio Grande Association,0520tuc,19150520,0,Albuquerque,12,Tucson,14,MFLRPVP
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0520tuc,19150520,0,Albuquerque,12,Tucson,14,YNDJTGB
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0521dou,19150521,0,El Paso,16,Douglas,5,KPQXJCK
+boxscores/1915/1915-AR,1915,Rio Grande Association,0521dou,19150521,0,El Paso,16,Douglas,5,JLZWQKS
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0521dou,19150521,0,El Paso,16,Douglas,5,ZJPVPSZ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0521las,19150521,0,Phoenix,,Las Cruces,,QLRJTYG
+boxscores/1915/1915-AR,1915,Rio Grande Association,0521las,19150521,0,Phoenix,8,Las Cruces,6,RVLFFBB
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0521las,19150521,0,Phoenix,8,Las Cruces,6,ZFHDLPK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0521tuc,19150521,0,Albuquerque,6,Tucson,8,LRTQSYW
+boxscores/1915/1915-AR,1915,Rio Grande Association,0521tuc,19150521,0,Albuquerque,6,Tucson,8,RKHPGBN
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0521tuc,19150521,0,Albuquerque,6,Tucson,8,JPSYHGM
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0522dou,19150522,0,El Paso,16,Douglas,17,BCQPFCV
+boxscores/1915/1915-AR,1915,Rio Grande Association,0522dou,19150522,0,El Paso,16,Douglas,17,LDJPPXG
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0522dou,19150522,0,El Paso,16,Douglas,17,CDLRZKP
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0522las,19150522,0,Phoenix,,Las Cruces,,GGWFMLL
+boxscores/1915/1915-AR,1915,Rio Grande Association,0522las,19150522,0,Phoenix,7,Las Cruces,2,RMLHFYW
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0522las,19150522,0,Phoenix,7,Las Cruces,2,CQHLHBR
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0522tuc,19150522,0,Albuquerque,8,Tucson,2,TRRDXPZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0522tuc,19150522,0,Albuquerque,8,Tucson,2,SBPRWZM
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0522tuc,19150522,0,Albuquerque,8,Tucson,2,KJDFWDB
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0523dou,19150523,0,El Paso,4,Douglas,8,QNYKPSH
+boxscores/1915/1915-AR,1915,Rio Grande Association,0523dou,19150523,0,El Paso,4,Douglas,8,WNHJJHB
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0523dou,19150523,0,El Paso,4,Douglas,8,CDGCWPG
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0523las1,19150523,1,Phoenix,8,Las Cruces,2,DZJHLWL
+boxscores/1915/1915-AR,1915,Rio Grande Association,0523las1,19150523,1,Phoenix,8,Las Cruces,2,TDKSVKK
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0523las1,19150523,1,Phoenix,8,Las Cruces,2,WSSVWLT
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0523las2,19150523,2,Phoenix,5,Las Cruces,6,BSGCWKM
+boxscores/1915/1915-AR,1915,Rio Grande Association,0523las2,19150523,2,Phoenix,5,Las Cruces,6,JHRPFSY
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0523las2,19150523,2,Phoenix,5,Las Cruces,6,XMHPYVT
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0523tuc,19150523,0,Albuquerque,7,Tucson,4,XWTHPDJ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0523tuc,19150523,0,Albuquerque,7,Tucson,4,GCYLJVV
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0523tuc,19150523,0,Albuquerque,7,Tucson,4,TQDFGHN
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0525pho,19150525,0,Albuquerque,3,Phoenix,7,ZLNVCFQ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0525pho,19150525,0,Albuquerque,3,Phoenix,7,YZHCVNY
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0525pho,19150525,0,Albuquerque,3,Phoenix,7,KRHHWRK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0525tuc,19150525,0,El Paso,4,Tucson,8,RTGPBWY
+boxscores/1915/1915-AR,1915,Rio Grande Association,0525tuc,19150525,0,El Paso,4,Tucson,8,FLXNCDW
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0525tuc,19150525,0,El Paso,8,Tucson,7,FMKCBPV
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0526pho,19150526,0,Albuquerque,9,Phoenix,6,GYFSLFB
+boxscores/1915/1915-AR,1915,Rio Grande Association,0526pho,19150526,0,Albuquerque,9,Phoenix,6,YJXZZSP
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0526pho,19150526,0,Albuquerque,9,Phoenix,6,RRTWLGB
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0526tuc,19150526,0,El Paso,5,Tucson,4,KQQYYHC
+boxscores/1915/1915-AR,1915,Rio Grande Association,0526tuc,19150526,0,El Paso,5,Tucson,4,LZSXQQQ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0526tuc,19150526,0,El Paso,5,Tucson,4,GCFXWSN
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0527pho,19150527,0,Albuquerque,5,Phoenix,4,XMBSVRG
+boxscores/1915/1915-AR,1915,Rio Grande Association,0527pho,19150527,0,Albuquerque,5,Phoenix,4,XZBQFTD
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0527pho,19150527,0,Albuquerque,5,Phoenix,4,JSMYMZN
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0527tuc,19150527,0,El Paso,2,Tucson,6,MZVGSLS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0527tuc,19150527,0,El Paso,2,Tucson,6,QRDNJJX
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0527tuc,19150527,0,El Paso,2,Tucson,6,LSRTJSD
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0528pho,19150528,0,Albuquerque,5,Phoenix,6,FKKWVPZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0528pho,19150528,0,Albuquerque,5,Phoenix,6,PWKLYKL
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0528pho,19150528,0,Albuquerque,5,Phoenix,6,JQTRDBB
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0528tuc,19150528,0,El Paso,14,Tucson,4,PZRNKPS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0528tuc,19150528,0,El Paso,14,Tucson,4,HXTFWTG
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0528tuc,19150528,0,El Paso,14,Tucson,4,TJNRHLB
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0529pho,19150529,0,Albuquerque,6,Phoenix,10,FYNDLNK
+boxscores/1915/1915-AR,1915,Rio Grande Association,0529pho,19150529,0,Albuquerque,6,Phoenix,10,KKYCCHK
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0529pho,19150529,0,Albuquerque,6,Phoenix,10,YGMSJWB
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0529tuc,19150529,0,El Paso,1,Tucson,0,TBXSMPB
+boxscores/1915/1915-AR,1915,Rio Grande Association,0529tuc,19150529,0,El Paso,1,Tucson,0,HCYMYQX
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0529tuc,19150529,0,El Paso,1,Tucson,0,HTNPQHJ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0530pho,19150530,0,Albuquerque,5,Phoenix,0,JDZNRLS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0530pho,19150530,0,Albuquerque,5,Phoenix,0,MHTZTSR
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0530pho,19150530,0,Albuquerque,5,Phoenix,0,CHCYVZJ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0530tuc,19150530,0,El Paso,4,Tucson,5,CLQZDZL
+boxscores/1915/1915-AR,1915,Rio Grande Association,0530tuc,19150530,0,El Paso,4,Tucson,5,RNYRLJB
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0530tuc,19150530,0,El Paso,4,Tucson,5,PLVBGWC
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0531pho,19150531,0,Albuquerque,5,Phoenix,2,WXPJGSS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0531pho,19150531,0,Albuquerque,5,Phoenix,2,TRFHXHG
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0531pho,19150531,0,Albuquerque,5,Phoenix,2,PFXQLXK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0531tuc,19150531,0,El Paso,5,Tucson,4,GGBDKSZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0531tuc,19150531,0,El Paso,5,Tucson,4,ZZMGYHF
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0531tuc,19150531,0,El Paso,5,Tucson,4,NDZDGWZ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0601pho,19150601,0,El Paso,2,Phoenix,0,BSKWDBZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0601pho,19150601,0,El Paso,2,Phoenix,0,RPTTRVX
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0601pho,19150601,0,El Paso,2,Phoenix,0,NGTHVKK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0602alb,19150602,0,Tucson,3,Albuquerque,2,YDMWFDW
+boxscores/1915/1915-AR,1915,Rio Grande Association,0602alb,19150602,0,Tucson,3,Albuquerque,2,MYMMJWZ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0602alb,19150602,0,Tucson,3,Albuquerque,2,MXDVBFS
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0602pho,19150602,0,El Paso,2,Phoenix,5,THMNZZB
+boxscores/1915/1915-AR,1915,Rio Grande Association,0602pho,19150602,0,El Paso,2,Phoenix,5,BFDQVZM
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0602pho,19150602,0,El Paso,2,Phoenix,5,TQDPNBN
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0603alb,19150603,0,Tucson,4,Albuquerque,3,JFWQKMF
+boxscores/1915/1915-AR,1915,Rio Grande Association,0603alb,19150603,0,Tucson,4,Albuquerque,3,KLMBFMT
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0603alb,19150603,0,Tucson,4,Albuquerque,3,KFTMYBZ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0603pho,19150603,0,El Paso,2,Phoenix,1,XGPVBMS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0603pho,19150603,0,El Paso,2,Phoenix,1,LQTBSMH
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0603pho,19150603,0,El Paso,2,Phoenix,1,SBDQNFX
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0604alb,19150604,0,Tucson,4,Albuquerque,6,MKLDDWX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0604alb,19150604,0,Tucson,4,Albuquerque,6,MSYDWMH
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0604alb,19150604,0,Tucson,4,Albuquerque,6,HWJDZZP
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0604pho,19150604,0,El Paso,0,Phoenix,5,XRRNYNC
+boxscores/1915/1915-AR,1915,Rio Grande Association,0604pho,19150604,0,El Paso,0,Phoenix,7,GWQBKVD
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0604pho,19150604,0,El Paso,0,Phoenix,7,KNNDMMB
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0605alb,19150605,0,Tucson,9,Albuquerque,10,MTFNNSC
+boxscores/1915/1915-AR,1915,Rio Grande Association,0605alb,19150605,0,Tucson,9,Albuquerque,10,HMZJGXP
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0605alb,19150605,0,Tucson,9,Albuquerque,10,MYRQPFL
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0605pho,19150605,0,El Paso,0,Phoenix,3,YDDRXMR
+boxscores/1915/1915-AR,1915,Rio Grande Association,0605pho,19150605,0,El Paso,0,Phoenix,3,XYDPJJR
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0605pho,19150605,0,El Paso,0,Phoenix,3,ZCYVYXF
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0606alb,19150606,0,Tucson,11,Albuquerque,1,YXYBYSN
+boxscores/1915/1915-AR,1915,Rio Grande Association,0606alb,19150606,0,Tucson,11,Albuquerque,1,ZZMVMFZ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0606alb,19150606,0,Tucson,11,Albuquerque,1,LNZBRDH
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0606pho,19150606,0,El Paso,2,Phoenix,6,ZQTSZMM
+boxscores/1915/1915-AR,1915,Rio Grande Association,0606pho,19150606,0,El Paso,2,Phoenix,6,JGDTCKM
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0606pho,19150606,0,El Paso,2,Phoenix,6,SVFZJKV
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0607alb,19150607,0,Tucson,7,Albuquerque,1,XMTYQFH
+boxscores/1915/1915-AR,1915,Rio Grande Association,0607alb,19150607,0,Tucson,7,Albuquerque,1,HZFYWDP
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0608alb,19150608,0,Phoenix,4,Albuquerque,2,XMJMDXK
+boxscores/1915/1915-AR,1915,Rio Grande Association,0608alb,19150608,0,Phoenix,4,Albuquerque,2,MKRLMCN
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0608alb,19150608,0,Phoenix,4,Albuquerque,2,JRLSKYJ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0608elp,19150608,0,Tucson,0,El Paso,5,NYMPPXR
+boxscores/1915/1915-AR,1915,Rio Grande Association,0608elp,19150608,0,Tucson,0,El Paso,5,GXSZKQY
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0608elp,19150608,0,Tucson,0,El Paso,5,LNKRRLF
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0609alb,19150609,0,Phoenix,2,Albuquerque,10,WCBSJZH
+boxscores/1915/1915-AR,1915,Rio Grande Association,0609alb,19150609,0,Phoenix,2,Albuquerque,10,DVRVVXT
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0609alb,19150609,0,Phoenix,2,Albuquerque,10,RQKVBQN
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0609elp,19150609,0,Tucson,3,El Paso,2,LQSJKBX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0609elp,19150609,0,Tucson,,El Paso,,HTLBGKY
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0609elp,19150609,0,Tucson,3,El Paso,2,WJSLQMR
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0610alb,19150610,0,Phoenix,3,Albuquerque,10,MZBNCRF
+boxscores/1915/1915-AR,1915,Rio Grande Association,0610alb,19150610,0,Phoenix,3,Albuquerque,10,LHDXMBQ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0610alb,19150610,0,Phoenix,3,Albuquerque,10,GJYNFNR
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0610elp,19150610,0,Tucson,2,El Paso,9,GJSZFCS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0610elp,19150610,0,Tucson,2,El Paso,9,SSJGRYZ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0610elp,19150610,0,Tucson,2,El Paso,9,LZWKHVP
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0611alb,19150611,0,Phoenix,7,Albuquerque,4,BYTQFVJ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0611alb,19150611,0,Phoenix,7,Albuquerque,4,VXBRXDV
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0611alb,19150611,0,Phoenix,7,Albuquerque,4,BMHSJMN
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0611elp,19150611,0,Tucson,,El Paso,,ZFNSDVB
+boxscores/1915/1915-AR,1915,Rio Grande Association,0611elp,19150611,0,Tucson,5,El Paso,6,QJJXNSD
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0611elp,19150611,0,Tucson,5,El Paso,6,BSSXPYL
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0612alb,19150612,0,Phoenix,5,Albuquerque,6,JFLLWVX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0612alb,19150612,0,Phoenix,5,Albuquerque,6,WJDBXMM
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0612alb,19150612,0,Phoenix,5,Albuquerque,6,ZTNWTSF
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0612elp,19150612,0,Tucson,11,El Paso,8,TFTJWTN
+boxscores/1915/1915-AR,1915,Rio Grande Association,0612elp,19150612,0,Tucson,11,El Paso,8,XNWSJTG
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0612elp,19150612,0,Tucson,11,El Paso,8,SNKXGYV
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0613alb,19150613,0,Phoenix,6,Albuquerque,11,ZMNWBLP
+boxscores/1915/1915-AR,1915,Rio Grande Association,0613alb,19150613,0,Phoenix,6,Albuquerque,11,TVNKMCK
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0613alb,19150613,0,Phoenix,6,Albuquerque,11,DBMTQWC
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0613elp,19150613,0,Tucson,4,El Paso,7,MWCPBRL
+boxscores/1915/1915-AR,1915,Rio Grande Association,0613elp,19150613,0,Tucson,4,El Paso,7,XRQYKFN
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0613elp,19150613,0,Tucson,4,El Paso,7,QNRSLMG
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0615alb,19150615,0,Tucson,5,Albuquerque,16,RJCZNKX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0615alb,19150615,0,Tucson,5,Albuquerque,16,DBGTRJP
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0615alb,19150615,0,Tucson,5,Albuquerque,16,BCSRGGD
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0615elp,19150615,0,Phoenix,3,El Paso,7,XHTNWMJ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0615elp,19150615,0,Phoenix,3,El Paso,7,BHSMKTN
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0615elp,19150615,0,Phoenix,3,El Paso,7,GFSVFQD
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0616alb,19150616,0,Tucson,19,Albuquerque,5,YFRYMRQ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0616alb,19150616,0,Tucson,19,Albuquerque,5,HKKWWWS
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0616alb,19150616,0,Tucson,19,Albuquerque,5,QGMNKQM
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0616elp,19150616,0,Phoenix,5,El Paso,0,ZGXVZWC
+boxscores/1915/1915-AR,1915,Rio Grande Association,0616elp,19150616,0,Phoenix,5,El Paso,0,JXMGCTV
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0616elp,19150616,0,Phoenix,5,El Paso,0,MBFTHXS
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0617alb,19150617,0,Tucson,1,Albuquerque,5,GFDSDQS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0617alb,19150617,0,Tucson,1,Albuquerque,5,YJRFPDF
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0617alb,19150617,0,Tucson,1,Albuquerque,5,RCXYPDY
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0617elp,19150617,0,Phoenix,8,El Paso,19,GRVRNMB
+boxscores/1915/1915-AR,1915,Rio Grande Association,0617elp,19150617,0,Phoenix,8,El Paso,19,TMQSNJC
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0617elp,19150617,0,Phoenix,8,El Paso,19,GFHDSFG
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0618alb,19150618,0,Tucson,3,Albuquerque,12,XZHJZDY
+boxscores/1915/1915-AR,1915,Rio Grande Association,0618alb,19150618,0,Tucson,3,Albuquerque,12,GCPPCMV
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0618alb,19150618,0,Tucson,3,Albuquerque,12,DKKRWGH
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0618elp,19150618,0,Phoenix,6,El Paso,6,ZFRWJKQ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0618elp,19150618,0,Phoenix,6,El Paso,6,YJYKMDZ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0618elp,19150618,0,Phoenix,6,El Paso,6,CFJJBSR
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0619alb,19150619,0,Tucson,7,Albuquerque,9,HZTTHQL
+boxscores/1915/1915-AR,1915,Rio Grande Association,0619alb,19150619,0,Tucson,7,Albuquerque,9,JZZQLMZ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0619alb,19150619,0,Tucson,7,Albuquerque,9,PGGWPXK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0619elp,19150619,0,Phoenix,,El Paso,,YFMHDPJ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0619elp,19150619,0,Phoenix,2,El Paso,7,NNHKQJT
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0619elp,19150619,0,Phoenix,2,El Paso,7,MNSVNGJ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0620alb,19150620,0,Tucson,7,Albuquerque,3,MHBKVHR
+boxscores/1915/1915-AR,1915,Rio Grande Association,0620alb,19150620,0,Tucson,7,Albuquerque,3,HHXFTDH
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0620alb,19150620,0,Tucson,7,Albuquerque,3,JJTDPFR
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0620elp1,19150620,1,Phoenix,11,El Paso,1,KRQWRHV
+boxscores/1915/1915-AR,1915,Rio Grande Association,0620elp1,19150620,1,Phoenix,11,El Paso,1,KHHLLRR
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0620elp1,19150620,1,Phoenix,11,El Paso,1,QLPBLLR
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0620elp2,19150620,2,Phoenix,7,El Paso,8,GWKRVCP
+boxscores/1915/1915-AR,1915,Rio Grande Association,0620elp2,19150620,2,Phoenix,7,El Paso,8,XPJYCGY
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0620elp2,19150620,2,Phoenix,7,El Paso,8,CHJHSRV
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0622alb,19150622,0,El Paso,13,Albuquerque,3,BBCBHHX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0622alb,19150622,0,El Paso,13,Albuquerque,3,LYBJMSL
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0622alb,19150622,0,El Paso,13,Albuquerque,3,XNJFDZV
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0622tuc,19150622,0,Phoenix,8,Tucson,6,XHPHNWL
+boxscores/1915/1915-AR,1915,Rio Grande Association,0622tuc,19150622,0,Phoenix,8,Tucson,6,LYPZSST
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0622tuc,19150622,0,Phoenix,8,Tucson,6,XRNGZSY
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0623alb,19150623,0,El Paso,9,Albuquerque,4,SPRPZHM
+boxscores/1915/1915-AR,1915,Rio Grande Association,0623alb,19150623,0,El Paso,9,Albuquerque,4,FGRTNNJ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0623alb,19150623,0,El Paso,9,Albuquerque,4,FZVRVHL
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0623tuc,19150623,0,Phoenix,4,Tucson,5,MYQLCGT
+boxscores/1915/1915-AR,1915,Rio Grande Association,0623tuc,19150623,0,Phoenix,4,Tucson,5,SKSSYNL
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0623tuc,19150623,0,Phoenix,4,Tucson,5,RPPZZCR
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0624alb,19150624,0,El Paso,6,Albuquerque,10,XRGLQYG
+boxscores/1915/1915-AR,1915,Rio Grande Association,0624alb,19150624,0,El Paso,6,Albuquerque,10,PBSYXTF
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0624alb,19150624,0,El Paso,6,Albuquerque,10,SJZZTMH
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0624tuc,19150624,0,Phoenix,4,Tucson,2,TSQGKFZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0624tuc,19150624,0,Phoenix,4,Tucson,2,MKFBNTT
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0624tuc,19150624,0,Phoenix,4,Tucson,2,XZSLZWP
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0625alb,19150625,0,El Paso,7,Albuquerque,6,MXSHRSH
+boxscores/1915/1915-AR,1915,Rio Grande Association,0625alb,19150625,0,El Paso,7,Albuquerque,6,XQCKVBX
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0625alb,19150625,0,El Paso,7,Albuquerque,6,GFRPJSN
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0625tuc,19150625,0,Phoenix,6,Tucson,4,GPPVGDZ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0625tuc,19150625,0,Phoenix,6,Tucson,4,NWBPHNG
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0625tuc,19150625,0,Phoenix,6,Tucson,4,YVJZQMK
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0626alb,19150626,0,El Paso,7,Albuquerque,10,XZJNLTY
+boxscores/1915/1915-AR,1915,Rio Grande Association,0626alb,19150626,0,El Paso,7,Albuquerque,10,YRKXVTQ
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0626alb,19150626,0,El Paso,7,Albuquerque,10,FXPJXSW
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0626tuc,19150626,0,Phoenix,5,Tucson,3,HFDTPLT
+boxscores/1915/1915-AR,1915,Rio Grande Association,0626tuc,19150626,0,Phoenix,5,Tucson,3,YXQPQGF
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0626tuc,19150626,0,Phoenix,5,Tucson,3,MWXHFBT
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0627alb,19150627,0,El Paso,8,Albuquerque,7,TPXXKWM
+boxscores/1915/1915-AR,1915,Rio Grande Association,0627alb,19150627,0,El Paso,8,Albuquerque,7,TGRPKJD
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0627alb,19150627,0,El Paso,8,Albuquerque,7,HFZXDJL
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0627tuc,19150627,0,Phoenix,6,Tucson,5,XRHGQHW
+boxscores/1915/1915-AR,1915,Rio Grande Association,0627tuc,19150627,0,Phoenix,6,Tucson,5,FTJQDNV
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0627tuc,19150627,0,Phoenix,6,Tucson,5,ZHNXGMY
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0629elp,19150629,0,Albuquerque,8,El Paso,5,VHRCYBH
+boxscores/1915/1915-AR,1915,Rio Grande Association,0629elp,19150629,0,Albuquerque,8,El Paso,5,HCHPGQV
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0629elp,19150629,0,Albuquerque,8,El Paso,5,HRQXYFG
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0629pho,19150629,0,Tucson,1,Phoenix,3,WVNBRGP
+boxscores/1915/1915-AR,1915,Rio Grande Association,0629pho,19150629,0,Tucson,1,Phoenix,3,NHNQYNB
+boxscores/1915/1915-EPH,1915,Rio Grande Association,0629pho,19150629,0,Tucson,1,Phoenix,3,RPBBTMZ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0630elp,19150630,0,Albuquerque,4,El Paso,6,DVYPQSM
+boxscores/1915/1915-AR,1915,Rio Grande Association,0630elp,19150630,0,Albuquerque,4,El Paso,6,NDJDMXJ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0630pho,19150630,0,Tucson,3,Phoenix,6,RHQTYXC
+boxscores/1915/1915-AR,1915,Rio Grande Association,0630pho,19150630,0,Tucson,3,Phoenix,6,MPVFNTM
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0701elp,19150701,0,Albuquerque,3,El Paso,2,CWSBGZY
+boxscores/1915/1915-AR,1915,Rio Grande Association,0701elp,19150701,0,Albuquerque,8,El Paso,2,FVRHFHZ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0701pho,19150701,0,Tucson,3,Phoenix,5,KQWNJFS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0701pho,19150701,0,Tucson,3,Phoenix,5,VXVVHZV
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0702elp,19150702,0,Albuquerque,0,El Paso,7,NNLZYPP
+boxscores/1915/1915-AR,1915,Rio Grande Association,0702elp,19150702,0,Albuquerque,0,El Paso,7,GYYCKRT
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0702pho,19150702,0,Tucson,10,Phoenix,10,KGWJHXJ
+boxscores/1915/1915-AR,1915,Rio Grande Association,0702pho,19150702,0,Tucson,10,Phoenix,10,ZXTTRCN
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0703elp,19150703,0,Albuquerque,3,El Paso,13,WMFSVMG
+boxscores/1915/1915-AR,1915,Rio Grande Association,0703elp,19150703,0,Albuquerque,3,El Paso,13,JZBSBJY
+boxscores/1915/1915-AR,1915,Rio Grande Association,0703pho,19150703,0,Tucson,5,Phoenix,8,WSDPVKQ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0704elp,19150704,0,Albuquerque,2,El Paso,7,GRZHQCN
+boxscores/1915/1915-AR,1915,Rio Grande Association,0704elp,19150704,0,Albuquerque,2,El Paso,7,JJCWLCB
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0704pho1,19150704,1,Tucson,1,Phoenix,9,YFCPQSX
+boxscores/1915/1915-AR,1915,Rio Grande Association,0704pho1,19150704,1,Tucson,1,Phoenix,9,SBKRYZQ
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0704pho2,19150704,2,Tucson,2,Phoenix,6,TVLWKDS
+boxscores/1915/1915-AR,1915,Rio Grande Association,0704pho2,19150704,2,Tucson,2,Phoenix,6,KNRVXRF
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0705elp1,19150705,1,Albuquerque,0,El Paso,6,TSQVBXR
+boxscores/1915/1915-AR,1915,Rio Grande Association,0705elp1,19150705,1,Albuquerque,0,El Paso,6,KYXDSHC
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0705elp2,19150705,2,Albuquerque,5,El Paso,2,SZYSDQT
+boxscores/1915/1915-AR,1915,Rio Grande Association,0705elp2,19150705,2,Albuquerque,5,El Paso,2,VCNSNDV
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0705pho1,19150705,1,Tucson,13,Phoenix,5,ZPXSKSM
+boxscores/1915/1915-AR,1915,Rio Grande Association,0705pho1,19150705,1,Tucson,13,Phoenix,5,TGTGNSW
+boxscores/1915/1915-AJ,1915,Rio Grande Association,0705pho2,19150705,2,Tucson,1,Phoenix,6,RWYKRSV
+boxscores/1915/1915-AR,1915,Rio Grande Association,0705pho2,19150705,2,Tucson,1,Phoenix,6,DFLWJPK
