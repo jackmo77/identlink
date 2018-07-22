@@ -1,590 +1,590 @@
 source,league.year,league.name,ident,game.date,game.number,away.name,away.score,home.name,home.score,game.ref
-boxscores/1911/1911-SL,1911,Central League,0426eva,19110426,0,Grand Rapids I,6,Evansville,11,ZSPSPDV
-boxscores/1911/1911-SL,1911,Central League,0426ter,19110426,0,South Bend I,3,Terre Haute,5,FLXYVSQ
-boxscores/1911/1911-SL,1911,Central League,0426whe,19110426,0,Fort Wayne,2,Wheeling,1,NFMYCSF
-boxscores/1911/1911-SL,1911,Central League,0426zan,19110426,0,Dayton,2,Zanesville,3,QYPLVYT
-boxscores/1911/1911-SL,1911,Central League,0427gra,19110427,0,Evansville,,Grand Rapids I,,LZHVHHD
-boxscores/1911/1911-SL,1911,Central League,0427ter,19110427,0,South Bend I,4,Terre Haute,1,NFHVHVW
-boxscores/1911/1911-SL,1911,Central League,0427whe,19110427,0,Fort Wayne,7,Wheeling,1,NQYYQZX
-boxscores/1911/1911-SL,1911,Central League,0427zan,19110427,0,Dayton,6,Zanesville,1,HQFZPZW
-boxscores/1911/1911-SL,1911,Central League,0428eva,19110428,0,Grand Rapids I,7,Evansville,8,WPWCWNS
-boxscores/1911/1911-SL,1911,Central League,0428ter,19110428,0,South Bend I,,Terre Haute,,LVJKMML
-boxscores/1911/1911-SL,1911,Central League,0428whe,19110428,0,Fort Wayne,6,Wheeling,4,WKNTDCD
-boxscores/1911/1911-SL,1911,Central League,0428zan,19110428,0,Dayton,2,Zanesville,7,SJSJGMF
-boxscores/1911/1911-SL,1911,Central League,0429eva,19110429,0,Grand Rapids I,,Evansville,,NLQDFPS
-boxscores/1911/1911-SL,1911,Central League,0429ter,19110429,0,South Bend I,1,Terre Haute,3,SSTCTFQ
-boxscores/1911/1911-SL,1911,Central League,0429whe,19110429,0,Fort Wayne,4,Wheeling,0,RGBMRFB
-boxscores/1911/1911-SL,1911,Central League,0429zan,19110429,0,Dayton,2,Zanesville,6,XYSGKMJ
-boxscores/1911/1911-SL,1911,Central League,0430eva,19110430,0,South Bend I,5,Evansville,5,GKLPWGY
-boxscores/1911/1911-SL,1911,Central League,0430ter,19110430,0,Grand Rapids I,7,Terre Haute,5,MXTQJYN
-boxscores/1911/1911-SL,1911,Central League,0430whe,19110430,0,Dayton,1,Wheeling,2,TLQXDXT
-boxscores/1911/1911-SL,1911,Central League,0430zan,19110430,0,Fort Wayne,1,Zanesville,5,LBZBBDW
-boxscores/1911/1911-SL,1911,Central League,0501day,19110501,0,Wheeling,,Dayton,,BHJYBDC
-boxscores/1911/1911-SL,1911,Central League,0501eva,19110501,0,South Bend I,3,Evansville,0,FMJBXDK
-boxscores/1911/1911-SL,1911,Central League,0501ter,19110501,0,Grand Rapids I,,Terre Haute,,HNFDVWL
-boxscores/1911/1911-SL,1911,Central League,0501zan,19110501,0,Fort Wayne,6,Zanesville,7,TPJZMFT
-boxscores/1911/1911-SL,1911,Central League,0502eva,19110502,0,South Bend I,2,Evansville,3,TCRWHRR
-boxscores/1911/1911-SL,1911,Central League,0502ter1,19110502,1,Grand Rapids I,2,Terre Haute,3,YYFYHRM
-boxscores/1911/1911-SL,1911,Central League,0502ter2,19110502,2,Grand Rapids I,5,Terre Haute,3,LRJMMJS
-boxscores/1911/1911-SL,1911,Central League,0502zan,19110502,0,Fort Wayne,1,Zanesville,4,FBTFSCW
-boxscores/1911/1911-SL,1911,Central League,0503eva1,19110503,1,South Bend I,6,Evansville,5,ZBGFTJY
-boxscores/1911/1911-SL,1911,Central League,0503eva2,19110503,2,South Bend I,2,Evansville,3,TWMRPHC
-boxscores/1911/1911-SL,1911,Central League,0503ter,19110503,0,Grand Rapids I,5,Terre Haute,8,TCGVHHT
-boxscores/1911/1911-SL,1911,Central League,0503whe1,19110503,1,Dayton,4,Wheeling,1,CPJDWLW
-boxscores/1911/1911-SL,1911,Central League,0503whe2,19110503,2,Dayton,4,Wheeling,4,GXXFLWT
-boxscores/1911/1911-SL,1911,Central League,0503zan,19110503,0,Fort Wayne,2,Zanesville,1,WMTLSQS
-boxscores/1911/1911-SL,1911,Central League,0504day,19110504,0,Evansville,2,Dayton,3,JFYLFZM
-boxscores/1911/1911-SL,1911,Central League,0504for,19110504,0,Terre Haute,2,Fort Wayne,3,RWSTMXR
-boxscores/1911/1911-SL,1911,Central League,0504gra,19110504,0,Zanesville,2,Grand Rapids I,11,BHFTPKT
-boxscores/1911/1911-SL,1911,Central League,0504sou,19110504,0,Wheeling,4,South Bend I,3,ZPRWKZQ
-boxscores/1911/1911-SL,1911,Central League,0505day,19110505,0,Evansville,2,Dayton,12,MXHRCXT
-boxscores/1911/1911-SL,1911,Central League,0505for,19110505,0,Terre Haute,2,Fort Wayne,6,DKRHKRL
-boxscores/1911/1911-SL,1911,Central League,0505gra,19110505,0,Zanesville,1,Grand Rapids I,2,FLDQRVQ
-boxscores/1911/1911-SL,1911,Central League,0505sou,19110505,0,Wheeling,2,South Bend I,4,KQFYYPJ
-boxscores/1911/1911-SL,1911,Central League,0506day,19110506,0,Evansville,3,Dayton,2,BDTZPKJ
-boxscores/1911/1911-SL,1911,Central League,0506for,19110506,0,Terre Haute,4,Fort Wayne,5,DFLTFLT
-boxscores/1911/1911-SL,1911,Central League,0506gra,19110506,0,Zanesville,8,Grand Rapids I,1,WPJTBMC
-boxscores/1911/1911-SL,1911,Central League,0506sou,19110506,0,Wheeling,0,South Bend I,3,LDPGJCQ
-boxscores/1911/1911-SL,1911,Central League,0507day,19110507,0,Evansville,3,Dayton,5,GPRFGQF
-boxscores/1911/1911-SL,1911,Central League,0507for,19110507,0,Terre Haute,11,Fort Wayne,10,VHFCDSL
-boxscores/1911/1911-SL,1911,Central League,0507gra,19110507,0,Zanesville,9,Grand Rapids I,5,HTCQHVC
-boxscores/1911/1911-SL,1911,Central League,0507sou,19110507,0,Wheeling,4,South Bend I,1,DZSMYGG
-boxscores/1911/1911-SL,1911,Central League,0508day,19110508,0,Terre Haute,1,Dayton,6,PBKPDHJ
-boxscores/1911/1911-SL,1911,Central League,0508for,19110508,0,Evansville,3,Fort Wayne,6,TSCRSLY
-boxscores/1911/1911-SL,1911,Central League,0508gra,19110508,0,Wheeling,5,Grand Rapids I,3,FCBXMGZ
-boxscores/1911/1911-SL,1911,Central League,0508sou,19110508,0,Zanesville,4,South Bend I,5,YXWJQLJ
-boxscores/1911/1911-SL,1911,Central League,0509day,19110509,0,Terre Haute,2,Dayton,8,LLFDHMZ
-boxscores/1911/1911-SL,1911,Central League,0509for,19110509,0,Evansville,3,Fort Wayne,2,FHRSNTN
-boxscores/1911/1911-SL,1911,Central League,0509gra,19110509,0,Wheeling,5,Grand Rapids I,4,FXBRGPR
-boxscores/1911/1911-SL,1911,Central League,0509sou,19110509,0,Zanesville,0,South Bend I,1,PZLDHPG
-boxscores/1911/1911-SL,1911,Central League,0510day,19110510,0,Terre Haute,5,Dayton,10,KWTCFFH
-boxscores/1911/1911-SL,1911,Central League,0510for,19110510,0,Evansville,3,Fort Wayne,7,JNSCHNG
-boxscores/1911/1911-SL,1911,Central League,0510gra,19110510,0,Wheeling,1,Grand Rapids I,2,DTSGGCX
-boxscores/1911/1911-SL,1911,Central League,0510sou,19110510,0,Zanesville,0,South Bend I,1,LKBLKGX
-boxscores/1911/1911-SL,1911,Central League,0511day,19110511,0,Terre Haute,1,Dayton,3,LFBHBRK
-boxscores/1911/1911-SL,1911,Central League,0511for,19110511,0,Evansville,4,Fort Wayne,3,CWDGPBJ
-boxscores/1911/1911-SL,1911,Central League,0511gra,19110511,0,Wheeling,3,Grand Rapids I,2,WVJHGDW
-boxscores/1911/1911-SL,1911,Central League,0511sou,19110511,0,Zanesville,6,South Bend I,0,ZJRKRRW
-boxscores/1911/1911-SL,1911,Central League,0512day,19110512,0,Zanesville,7,Dayton,5,SRGWKRG
-boxscores/1911/1911-SL,1911,Central League,0512for,19110512,0,Wheeling,8,Fort Wayne,11,WZLZCNR
-boxscores/1911/1911-SL,1911,Central League,0512gra,19110512,0,Evansville,3,Grand Rapids I,4,PYNZGKD
-boxscores/1911/1911-SL,1911,Central League,0512sou,19110512,0,Terre Haute,5,South Bend I,1,BZWHWQZ
-boxscores/1911/1911-SL,1911,Central League,0513day,19110513,0,Zanesville,3,Dayton,10,NCHRPHZ
-boxscores/1911/1911-SL,1911,Central League,0513for,19110513,0,Wheeling,9,Fort Wayne,11,LKLPBJD
-boxscores/1911/1911-SL,1911,Central League,0513gra,19110513,0,Evansville,4,Grand Rapids I,3,HNGMZKW
-boxscores/1911/1911-SL,1911,Central League,0513sou,19110513,0,Terre Haute,6,South Bend I,7,YNCLTSM
-boxscores/1911/1911-SL,1911,Central League,0514day,19110514,0,Zanesville,7,Dayton,5,LQCWRZT
-boxscores/1911/1911-SL,1911,Central League,0514for,19110514,0,Wheeling,6,Fort Wayne,7,SGSHYHD
-boxscores/1911/1911-SL,1911,Central League,0514gra,19110514,0,Evansville,1,Grand Rapids I,3,CTPTPJC
-boxscores/1911/1911-SL,1911,Central League,0514sou,19110514,0,Terre Haute,10,South Bend I,5,NGGXXPZ
-boxscores/1911/1911-SL,1911,Central League,0515day,19110515,0,Zanesville,4,Dayton,2,JGCQFCC
-boxscores/1911/1911-SL,1911,Central League,0515for,19110515,0,Wheeling,4,Fort Wayne,6,ZQVPWCH
-boxscores/1911/1911-SL,1911,Central League,0515gra,19110515,0,Evansville,1,Grand Rapids I,3,JNDZZTH
-boxscores/1911/1911-SL,1911,Central League,0515sou,19110515,0,Terre Haute,2,South Bend I,3,QDPSZDR
-boxscores/1911/1911-SL,1911,Central League,0516day,19110516,0,Wheeling,0,Dayton,2,DXKTMTG
-boxscores/1911/1911-SL,1911,Central League,0516for,19110516,0,Zanesville,,Fort Wayne,,ZLDBBYW
-boxscores/1911/1911-SL,1911,Central League,0516gra,19110516,0,Terre Haute,1,Grand Rapids I,5,XNKHKKX
-boxscores/1911/1911-SL,1911,Central League,0516sou,19110516,0,Evansville,5,South Bend I,6,PSSKZJN
-boxscores/1911/1911-SL,1911,Central League,0517day,19110517,0,Wheeling,5,Dayton,7,TKNRNJT
-boxscores/1911/1911-SL,1911,Central League,0517for,19110517,0,Zanesville,6,Fort Wayne,11,XKKHLNR
-boxscores/1911/1911-SL,1911,Central League,0517gra,19110517,0,Terre Haute,3,Grand Rapids I,4,XHGJTGF
-boxscores/1911/1911-SL,1911,Central League,0517sou,19110517,0,Evansville,1,South Bend I,7,WBSZZSH
-boxscores/1911/1911-SL,1911,Central League,0518day,19110518,0,Wheeling,2,Dayton,10,NHGKMFQ
-boxscores/1911/1911-SL,1911,Central League,0518for,19110518,0,Zanesville,7,Fort Wayne,5,SQBZKSH
-boxscores/1911/1911-SL,1911,Central League,0518sou,19110518,0,Evansville,2,South Bend I,1,JPYFZRB
-boxscores/1911/1911-SL,1911,Central League,0519day,19110519,0,Wheeling,3,Dayton,3,YPTRKQL
-boxscores/1911/1911-SL,1911,Central League,0519for,19110519,0,Zanesville,5,Fort Wayne,4,WFMDWHM
-boxscores/1911/1911-SL,1911,Central League,0519gra1,19110519,1,Terre Haute,2,Grand Rapids I,1,VDYGDGC
-boxscores/1911/1911-SL,1911,Central League,0519gra2,19110519,2,Terre Haute,2,Grand Rapids I,7,WRMYDSH
-boxscores/1911/1911-SL,1911,Central League,0519sou,19110519,0,Evansville,8,South Bend I,2,FCZXNXB
-boxscores/1911/1911-SL,1911,Central League,0520eva,19110520,0,Fort Wayne,,Evansville,,MYMLMYJ
-boxscores/1911/1911-SL,1911,Central League,0520ter,19110520,0,Dayton,9,Terre Haute,5,QQNDLXD
-boxscores/1911/1911-SL,1911,Central League,0520whe,19110520,0,South Bend I,7,Wheeling,4,SVJSJTP
-boxscores/1911/1911-SL,1911,Central League,0520zan,19110520,0,Grand Rapids I,3,Zanesville,4,HRNTTWV
-boxscores/1911/1911-SL,1911,Central League,0521eva1,19110521,1,Fort Wayne,2,Evansville,5,BWJTHDF
-boxscores/1911/1911-SL,1911,Central League,0521eva2,19110521,2,Fort Wayne,2,Evansville,0,QWPZXZQ
-boxscores/1911/1911-SL,1911,Central League,0521ter,19110521,0,Dayton,5,Terre Haute,2,SXFPTRK
-boxscores/1911/1911-SL,1911,Central League,0521whe,19110521,0,South Bend I,5,Wheeling,7,GMWYDMT
-boxscores/1911/1911-SL,1911,Central League,0521zan,19110521,0,Grand Rapids I,0,Zanesville,5,QPJLRGR
-boxscores/1911/1911-SL,1911,Central League,0522eva,19110522,0,Fort Wayne,4,Evansville,3,QKPLLWQ
-boxscores/1911/1911-SL,1911,Central League,0522ter,19110522,0,Dayton,,Terre Haute,,HHJDFQC
-boxscores/1911/1911-SL,1911,Central League,0522whe,19110522,0,South Bend I,5,Wheeling,1,KLDHRLK
-boxscores/1911/1911-SL,1911,Central League,0522zan,19110522,0,Grand Rapids I,6,Zanesville,10,LGJLNSF
-boxscores/1911/1911-SL,1911,Central League,0523eva,19110523,0,Fort Wayne,7,Evansville,10,WBDKFXF
-boxscores/1911/1911-SL,1911,Central League,0523ter,19110523,0,Dayton,7,Terre Haute,1,XHNXFSJ
-boxscores/1911/1911-SL,1911,Central League,0523whe,19110523,0,South Bend I,6,Wheeling,8,MJBJYKZ
-boxscores/1911/1911-SL,1911,Central League,0523zan,19110523,0,Grand Rapids I,2,Zanesville,5,ZMSJQPB
-boxscores/1911/1911-SL,1911,Central League,0524eva,19110524,0,Dayton,10,Evansville,1,FPTVTDM
-boxscores/1911/1911-SL,1911,Central League,0524ter,19110524,0,Fort Wayne,1,Terre Haute,4,MVTVHMK
-boxscores/1911/1911-SL,1911,Central League,0524whe,19110524,0,Grand Rapids I,14,Wheeling,4,ZTPFKDZ
-boxscores/1911/1911-SL,1911,Central League,0524zan,19110524,0,South Bend I,1,Zanesville,5,PFHVLXZ
-boxscores/1911/1911-SL,1911,Central League,0525eva,19110525,0,Dayton,5,Evansville,4,CJTTLCX
-boxscores/1911/1911-SL,1911,Central League,0525ter,19110525,0,Fort Wayne,5,Terre Haute,7,YCFFQGX
-boxscores/1911/1911-SL,1911,Central League,0525whe,19110525,0,Grand Rapids I,5,Wheeling,4,VKFFQZM
-boxscores/1911/1911-SL,1911,Central League,0525zan,19110525,0,South Bend I,0,Zanesville,1,BLYFTVM
-boxscores/1911/1911-SL,1911,Central League,0526eva,19110526,0,Dayton,6,Evansville,7,CMKKJRT
-boxscores/1911/1911-SL,1911,Central League,0526ter,19110526,0,Fort Wayne,8,Terre Haute,4,BGYSQZC
-boxscores/1911/1911-SL,1911,Central League,0526whe,19110526,0,Grand Rapids I,4,Wheeling,7,FGDGYSL
-boxscores/1911/1911-SL,1911,Central League,0526zan,19110526,0,South Bend I,3,Zanesville,2,BNHHKSM
-boxscores/1911/1911-SL,1911,Central League,0527eva,19110527,0,Dayton,8,Evansville,11,DXWWVDJ
-boxscores/1911/1911-SL,1911,Central League,0527ter,19110527,0,Fort Wayne,5,Terre Haute,3,BVZCRSH
-boxscores/1911/1911-SL,1911,Central League,0527whe,19110527,0,Grand Rapids I,5,Wheeling,3,XKSSTWG
-boxscores/1911/1911-SL,1911,Central League,0527zan,19110527,0,South Bend I,2,Zanesville,3,MCSZCVK
-boxscores/1911/1911-SL,1911,Central League,0528day,19110528,0,Fort Wayne,12,Dayton,2,ZPHPXZT
-boxscores/1911/1911-SL,1911,Central League,0528eva,19110528,0,Terre Haute,6,Evansville,2,VGSRCPQ
-boxscores/1911/1911-SL,1911,Central League,0528gra,19110528,0,South Bend I,8,Grand Rapids I,7,TBJKKHY
-boxscores/1911/1911-SL,1911,Central League,0528zan,19110528,0,Wheeling,7,Zanesville,4,THMJNTG
-boxscores/1911/1911-SL,1911,Central League,0529day,19110529,0,Fort Wayne,0,Dayton,10,ZVSBZSL
-boxscores/1911/1911-SL,1911,Central League,0529eva,19110529,0,Terre Haute,8,Evansville,3,VGLMQXG
-boxscores/1911/1911-SL,1911,Central League,0529gra,19110529,0,South Bend I,6,Grand Rapids I,7,RQMZBHX
-boxscores/1911/1911-SL,1911,Central League,0529zan,19110529,0,Wheeling,6,Zanesville,5,GMJHGBW
-boxscores/1911/1911-SL,1911,Central League,0530day1,19110530,1,Fort Wayne,2,Dayton,4,CLZNDSW
-boxscores/1911/1911-SL,1911,Central League,0530day2,19110530,2,Fort Wayne,5,Dayton,3,ZNQWGDR
-boxscores/1911/1911-SL,1911,Central League,0530eva,19110530,0,Terre Haute,6,Evansville,13,NWGQQCS
-boxscores/1911/1911-SL,1911,Central League,0530gra1,19110530,1,South Bend I,7,Grand Rapids I,9,FTHZRQW
-boxscores/1911/1911-SL,1911,Central League,0530gra2,19110530,2,South Bend I,2,Grand Rapids I,3,VXBZDBN
-boxscores/1911/1911-SL,1911,Central League,0530zan1,19110530,1,Wheeling,4,Zanesville,5,PCCFZWZ
-boxscores/1911/1911-SL,1911,Central League,0530zan2,19110530,2,Wheeling,9,Zanesville,4,LMGLTBG
-boxscores/1911/1911-SL,1911,Central League,0531eva,19110531,0,Terre Haute,3,Evansville,7,GCSLRCM
-boxscores/1911/1911-SL,1911,Central League,0601for,19110601,0,Dayton,2,Fort Wayne,1,KNNKFQZ
-boxscores/1911/1911-SL,1911,Central League,0601gra,19110601,0,South Bend I,3,Grand Rapids I,5,BDLYTJR
-boxscores/1911/1911-SL,1911,Central League,0601ter,19110601,0,Evansville,4,Terre Haute,6,SQWQKGV
-boxscores/1911/1911-SL,1911,Central League,0601whe,19110601,0,Zanesville,11,Wheeling,9,VZFWGSY
-boxscores/1911/1911-SL,1911,Central League,0602for,19110602,0,Dayton,10,Fort Wayne,3,WNPMDPJ
-boxscores/1911/1911-SL,1911,Central League,0602sou,19110602,0,Grand Rapids I,4,South Bend I,2,KFDLBMQ
-boxscores/1911/1911-SL,1911,Central League,0602ter,19110602,0,Evansville,1,Terre Haute,3,LDWSMLY
-boxscores/1911/1911-SL,1911,Central League,0602whe,19110602,0,Zanesville,2,Wheeling,5,MRNTCWT
-boxscores/1911/1911-SL,1911,Central League,0603for,19110603,0,Dayton,8,Fort Wayne,0,QLYSYWG
-boxscores/1911/1911-SL,1911,Central League,0603sou1,19110603,1,Grand Rapids I,1,South Bend I,2,WLCVCRS
-boxscores/1911/1911-SL,1911,Central League,0603sou2,19110603,2,Grand Rapids I,3,South Bend I,1,NHTJFLJ
-boxscores/1911/1911-SL,1911,Central League,0603ter,19110603,0,Evansville,3,Terre Haute,1,BNKSLZK
-boxscores/1911/1911-SL,1911,Central League,0603whe,19110603,0,Zanesville,4,Wheeling,5,HRMHTHH
-boxscores/1911/1911-SL,1911,Central League,0604for,19110604,0,Dayton,2,Fort Wayne,8,NPBKDRY
-boxscores/1911/1911-SL,1911,Central League,0604sou,19110604,0,Grand Rapids I,1,South Bend I,5,GTTFXDP
-boxscores/1911/1911-SL,1911,Central League,0604ter,19110604,0,Evansville,2,Terre Haute,1,WMWZJZP
-boxscores/1911/1911-SL,1911,Central League,0604zan,19110604,0,Wheeling,3,Zanesville,2,YMXFFBN
-boxscores/1911/1911-SL,1911,Central League,0605for,19110605,0,Grand Rapids I,2,Fort Wayne,0,CZVTTNV
-boxscores/1911/1911-SL,1911,Central League,0605sou,19110605,0,Dayton,7,South Bend I,2,ZBTCBLR
-boxscores/1911/1911-SL,1911,Central League,0605whe,19110605,0,Terre Haute,,Wheeling,,BSDYSRX
-boxscores/1911/1911-SL,1911,Central League,0605zan,19110605,0,Evansville,3,Zanesville,4,XMVLHDV
-boxscores/1911/1911-SL,1911,Central League,0606for,19110606,0,Grand Rapids I,1,Fort Wayne,2,HBXKBRY
-boxscores/1911/1911-SL,1911,Central League,0606sou,19110606,0,Dayton,3,South Bend I,2,XLZZRYP
-boxscores/1911/1911-SL,1911,Central League,0606whe,19110606,0,Terre Haute,,Wheeling,,CTLBNMP
-boxscores/1911/1911-SL,1911,Central League,0606zan,19110606,0,Evansville,1,Zanesville,2,MWKPWMW
-boxscores/1911/1911-SL,1911,Central League,0607for,19110607,0,Grand Rapids I,7,Fort Wayne,2,KMFLSNL
-boxscores/1911/1911-SL,1911,Central League,0607sou,19110607,0,Dayton,1,South Bend I,2,YJVJXVZ
-boxscores/1911/1911-SL,1911,Central League,0607whe1,19110607,1,Terre Haute,2,Wheeling,5,JQVGLFS
-boxscores/1911/1911-SL,1911,Central League,0607whe2,19110607,2,Terre Haute,4,Wheeling,10,LYYNTDM
-boxscores/1911/1911-SL,1911,Central League,0607zan,19110607,0,Evansville,1,Zanesville,12,HVCLXVN
-boxscores/1911/1911-SL,1911,Central League,0608for,19110608,0,Grand Rapids I,0,Fort Wayne,7,RLLVQND
-boxscores/1911/1911-SL,1911,Central League,0608sou,19110608,0,Dayton,2,South Bend I,0,ZWQCWHL
-boxscores/1911/1911-SL,1911,Central League,0608whe1,19110608,1,Terre Haute,4,Wheeling,2,MQKRLWW
-boxscores/1911/1911-SL,1911,Central League,0608whe2,19110608,2,Terre Haute,1,Wheeling,9,YSQQDQN
-boxscores/1911/1911-SL,1911,Central League,0608zan,19110608,0,Evansville,6,Zanesville,3,VNGNVFF
-boxscores/1911/1911-SL,1911,Central League,0609gra,19110609,0,Dayton,,Grand Rapids I,,YNHVTLB
-boxscores/1911/1911-SL,1911,Central League,0609sou,19110609,0,Fort Wayne,0,South Bend I,3,ZBVVKBV
-boxscores/1911/1911-SL,1911,Central League,0609whe,19110609,0,Evansville,1,Wheeling,3,JRNKQQG
-boxscores/1911/1911-SL,1911,Central League,0609zan,19110609,0,Terre Haute,5,Zanesville,7,JPRRMZS
-boxscores/1911/1911-SL,1911,Central League,0610day,19110610,0,Grand Rapids I,3,Dayton,5,XVLQRCR
-boxscores/1911/1911-SL,1911,Central League,0610sou,19110610,0,Fort Wayne,3,South Bend I,6,MRBLGTL
-boxscores/1911/1911-SL,1911,Central League,0610whe,19110610,0,Evansville,10,Wheeling,4,TZDWHWJ
-boxscores/1911/1911-SL,1911,Central League,0610zan,19110610,0,Terre Haute,5,Zanesville,7,SPTYKRZ
-boxscores/1911/1911-SL,1911,Central League,0611day1,19110611,1,Grand Rapids I,2,Dayton,4,MPNLCHY
-boxscores/1911/1911-SL,1911,Central League,0611day2,19110611,2,Grand Rapids I,4,Dayton,8,QZDRHNG
-boxscores/1911/1911-SL,1911,Central League,0611sou,19110611,0,Fort Wayne,3,South Bend I,4,YPWFWQC
-boxscores/1911/1911-SL,1911,Central League,0611whe,19110611,0,Evansville,3,Wheeling,4,CGKRLCW
-boxscores/1911/1911-SL,1911,Central League,0611zan,19110611,0,Terre Haute,6,Zanesville,1,GBWDHQK
-boxscores/1911/1911-SL,1911,Central League,0612day,19110612,0,Grand Rapids I,0,Dayton,14,PPYFKRN
-boxscores/1911/1911-SL,1911,Central League,0612sou,19110612,0,Fort Wayne,3,South Bend I,0,CWHKQKH
-boxscores/1911/1911-SL,1911,Central League,0612whe,19110612,0,Evansville,3,Wheeling,5,TMQHCHD
-boxscores/1911/1911-SL,1911,Central League,0612zan,19110612,0,Terre Haute,9,Zanesville,6,DXCRDZC
-boxscores/1911/1911-SL,1911,Central League,0613day,19110613,0,South Bend I,11,Dayton,16,QYZQMTX
-boxscores/1911/1911-SL,1911,Central League,0613for,19110613,0,Grand Rapids I,4,Fort Wayne,3,PYWMFSZ
-boxscores/1911/1911-SL,1911,Central League,0613ter,19110613,0,Wheeling,15,Terre Haute,9,XHFBBFH
-boxscores/1911/1911-SL,1911,Central League,0613zan,19110613,0,Evansville,3,Zanesville,4,WVSDZTW
-boxscores/1911/1911-SL,1911,Central League,0614day,19110614,0,South Bend I,,Dayton,,PMLYRCQ
-boxscores/1911/1911-SL,1911,Central League,0614eva,19110614,0,Zanesville,3,Evansville,4,HPYMZGX
-boxscores/1911/1911-SL,1911,Central League,0614for,19110614,0,Grand Rapids I,1,Fort Wayne,5,LWTDRSV
-boxscores/1911/1911-SL,1911,Central League,0614ter,19110614,0,Wheeling,9,Terre Haute,14,HBRWCLH
-boxscores/1911/1911-SL,1911,Central League,0615day1,19110615,1,South Bend I,5,Dayton,0,VBPGYHR
-boxscores/1911/1911-SL,1911,Central League,0615day2,19110615,2,South Bend I,0,Dayton,10,MWSHZLF
-boxscores/1911/1911-SL,1911,Central League,0615eva,19110615,0,Zanesville,6,Evansville,3,YQYCRNW
-boxscores/1911/1911-SL,1911,Central League,0615for,19110615,0,Grand Rapids I,0,Fort Wayne,7,DSNXGCM
-boxscores/1911/1911-SL,1911,Central League,0615ter,19110615,0,Wheeling,5,Terre Haute,6,VGZXMJK
-boxscores/1911/1911-SL,1911,Central League,0616eva,19110616,0,Zanesville,,Evansville,,XYYSNHG
-boxscores/1911/1911-SL,1911,Central League,0616for,19110616,0,Grand Rapids I,,Fort Wayne,,HNFDKSJ
-boxscores/1911/1911-SL,1911,Central League,0616gra,19110616,0,South Bend I,,Grand Rapids I,,FBCVDYR
-boxscores/1911/1911-SL,1911,Central League,0616ter,19110616,0,Wheeling,4,Terre Haute,5,SPMNVBQ
-boxscores/1911/1911-SL,1911,Central League,0617day,19110617,0,Grand Rapids I,1,Dayton,3,XRVNXQT
-boxscores/1911/1911-SL,1911,Central League,0617eva,19110617,0,Wheeling,,Evansville,,ZLCFDZS
-boxscores/1911/1911-SL,1911,Central League,0617for,19110617,0,South Bend I,1,Fort Wayne,13,YGKZPGM
-boxscores/1911/1911-SL,1911,Central League,0617ter,19110617,0,Zanesville,10,Terre Haute,5,TJYKYGH
-boxscores/1911/1911-SL,1911,Central League,0618day,19110618,0,Grand Rapids I,0,Dayton,5,HDYYNBX
-boxscores/1911/1911-SL,1911,Central League,0618eva1,19110618,1,Wheeling,0,Evansville,8,DSRKFCQ
-boxscores/1911/1911-SL,1911,Central League,0618eva2,19110618,2,Wheeling,1,Evansville,2,DLDQLCF
-boxscores/1911/1911-SL,1911,Central League,0618for,19110618,0,South Bend I,4,Fort Wayne,3,NJBTKVM
-boxscores/1911/1911-SL,1911,Central League,0618ter,19110618,0,Zanesville,5,Terre Haute,2,LQTXKTB
-boxscores/1911/1911-SL,1911,Central League,0619day,19110619,0,Grand Rapids I,2,Dayton,13,BHBGYTK
-boxscores/1911/1911-SL,1911,Central League,0619eva,19110619,0,Wheeling,1,Evansville,2,SRRXMVS
-boxscores/1911/1911-SL,1911,Central League,0619for,19110619,0,South Bend I,5,Fort Wayne,7,RCTTMKN
-boxscores/1911/1911-SL,1911,Central League,0619ter,19110619,0,Zanesville,7,Terre Haute,4,FGCFBPS
-boxscores/1911/1911-SL,1911,Central League,0620day,19110620,0,Grand Rapids I,7,Dayton,8,BDFXFFV
-boxscores/1911/1911-SL,1911,Central League,0620eva,19110620,0,Wheeling,3,Evansville,8,CMDJBHN
-boxscores/1911/1911-SL,1911,Central League,0620for,19110620,0,South Bend I,11,Fort Wayne,3,YCSTWXP
-boxscores/1911/1911-SL,1911,Central League,0620ter,19110620,0,Zanesville,8,Terre Haute,4,XRVGBYP
-boxscores/1911/1911-SL,1911,Central League,0621day,19110621,0,Evansville,2,Dayton,13,GPLLGHB
-boxscores/1911/1911-SL,1911,Central League,0621for,19110621,0,Terre Haute,0,Fort Wayne,12,RLBXBXV
-boxscores/1911/1911-SL,1911,Central League,0621gra,19110621,0,Zanesville,11,Grand Rapids I,9,KPKFBGY
-boxscores/1911/1911-SL,1911,Central League,0621sou,19110621,0,Wheeling,0,South Bend I,7,HJVQRVZ
-boxscores/1911/1911-SL,1911,Central League,0622day,19110622,0,Evansville,3,Dayton,4,RTRBWHJ
-boxscores/1911/1911-SL,1911,Central League,0622for,19110622,0,Terre Haute,2,Fort Wayne,,PCFTBML
-boxscores/1911/1911-SL,1911,Central League,0622gra,19110622,0,Zanesville,7,Grand Rapids I,2,KDBYTWC
-boxscores/1911/1911-SL,1911,Central League,0622sou,19110622,0,Wheeling,3,South Bend I,2,HVWWTWJ
-boxscores/1911/1911-SL,1911,Central League,0623day,19110623,0,Evansville,5,Dayton,3,NXBHZVK
-boxscores/1911/1911-SL,1911,Central League,0623for,19110623,0,Terre Haute,5,Fort Wayne,13,QTZRPXR
-boxscores/1911/1911-SL,1911,Central League,0623gra,19110623,0,Zanesville,6,Grand Rapids I,3,YGGMXDL
-boxscores/1911/1911-SL,1911,Central League,0623sou,19110623,0,Wheeling,4,South Bend I,14,YVJHHNF
-boxscores/1911/1911-SL,1911,Central League,0624day,19110624,0,Terre Haute,4,Dayton,3,TJGMMKY
-boxscores/1911/1911-SL,1911,Central League,0624for,19110624,0,Evansville,5,Fort Wayne,3,QVHVHTX
-boxscores/1911/1911-SL,1911,Central League,0624gra,19110624,0,Wheeling,,Grand Rapids I,,DTXLZGF
-boxscores/1911/1911-SL,1911,Central League,0624sou,19110624,0,Zanesville,2,South Bend I,3,RKDZMNV
-boxscores/1911/1911-SL,1911,Central League,0625day,19110625,0,Terre Haute,3,Dayton,2,QPGTKNB
-boxscores/1911/1911-SL,1911,Central League,0625for,19110625,0,Evansville,,Fort Wayne,,ZSNWYYM
-boxscores/1911/1911-SL,1911,Central League,0625gra,19110625,0,Wheeling,,Grand Rapids I,,ZWVPPVC
-boxscores/1911/1911-SL,1911,Central League,0625sou,19110625,0,Zanesville,1,South Bend I,2,NLPKZMQ
-boxscores/1911/1911-SL,1911,Central League,0626for1,19110626,1,Evansville,0,Fort Wayne,4,WYSCSJB
-boxscores/1911/1911-SL,1911,Central League,0626for2,19110626,2,Evansville,1,Fort Wayne,3,DGVJVJQ
-boxscores/1911/1911-SL,1911,Central League,0626gra1,19110626,1,Wheeling,3,Grand Rapids I,1,RGQYGPB
-boxscores/1911/1911-SL,1911,Central League,0626gra2,19110626,2,Wheeling,1,Grand Rapids I,3,DVJDCFH
-boxscores/1911/1911-SL,1911,Central League,0626sou,19110626,0,Zanesville,,South Bend I,,LVGCBBX
-boxscores/1911/1911-SL,1911,Central League,0626ter,19110626,0,Dayton,,Terre Haute,,JVNYWNR
-boxscores/1911/1911-SL,1911,Central League,0627eva,19110627,0,South Bend I,2,Evansville,6,PQHVYYX
-boxscores/1911/1911-SL,1911,Central League,0627ter,19110627,0,Grand Rapids I,13,Terre Haute,8,VSNDZTB
-boxscores/1911/1911-SL,1911,Central League,0627whe,19110627,0,Dayton,,Wheeling,,NSSRDBY
-boxscores/1911/1911-SL,1911,Central League,0627zan,19110627,0,Fort Wayne,4,Zanesville,0,BZCVTRJ
-boxscores/1911/1911-SL,1911,Central League,0628eva,19110628,0,South Bend I,4,Evansville,3,FKJJZZB
-boxscores/1911/1911-SL,1911,Central League,0628ter,19110628,0,Newark,6,Terre Haute,3,WKRRYMM
-boxscores/1911/1911-SL,1911,Central League,0628whe1,19110628,1,Dayton,6,Wheeling,0,MFNBJKK
-boxscores/1911/1911-SL,1911,Central League,0628whe2,19110628,2,Dayton,6,Wheeling,2,KBXCNXS
-boxscores/1911/1911-SL,1911,Central League,0628zan,19110628,0,Fort Wayne,2,Zanesville,4,RZCJQTV
-boxscores/1911/1911-SL,1911,Central League,0629eva,19110629,0,South Bend I,5,Evansville,4,FYWKZHF
-boxscores/1911/1911-SL,1911,Central League,0629ter,19110629,0,Newark,2,Terre Haute,5,SMBYJDL
-boxscores/1911/1911-SL,1911,Central League,0629whe1,19110629,1,Dayton,9,Wheeling,2,TBKTYMF
-boxscores/1911/1911-SL,1911,Central League,0629whe2,19110629,2,Dayton,2,Wheeling,0,YXZWLRX
-boxscores/1911/1911-SL,1911,Central League,0629zan,19110629,0,Fort Wayne,1,Zanesville,2,VCXRPNJ
-boxscores/1911/1911-SL,1911,Central League,0630eva1,19110630,1,Newark,6,Evansville,8,ZBQNHZV
-boxscores/1911/1911-SL,1911,Central League,0630eva2,19110630,2,Newark,7,Evansville,3,TFNSVKS
-boxscores/1911/1911-SL,1911,Central League,0630ter,19110630,0,South Bend I,6,Terre Haute,5,WPTSTPN
-boxscores/1911/1911-SL,1911,Central League,0630whe,19110630,0,Fort Wayne,8,Wheeling,10,CWPPDRV
-boxscores/1911/1911-SL,1911,Central League,0630zan,19110630,0,Dayton,4,Zanesville,8,MYVBGJX
-boxscores/1911/1911-SL,1911,Central League,0701eva,19110701,0,Newark,8,Evansville,9,TDKDWZW
-boxscores/1911/1911-SL,1911,Central League,0701ter1,19110701,1,South Bend I,3,Terre Haute,2,GMYGLJQ
-boxscores/1911/1911-SL,1911,Central League,0701ter2,19110701,2,South Bend I,7,Terre Haute,0,QFWLHGM
-boxscores/1911/1911-SL,1911,Central League,0701whe,19110701,0,Fort Wayne,2,Wheeling,1,DGCSGJS
-boxscores/1911/1911-SL,1911,Central League,0701zan,19110701,0,Dayton,8,Zanesville,4,FTKPLGY
-boxscores/1911/1911-SL,1911,Central League,0702eva1,19110702,1,Newark,7,Evansville,3,GLBXFQM
-boxscores/1911/1911-SL,1911,Central League,0702eva2,19110702,2,Newark,3,Evansville,2,FTSDPLV
-boxscores/1911/1911-SL,1911,Central League,0702ter1,19110702,1,South Bend I,1,Terre Haute,2,YBRTHCF
-boxscores/1911/1911-SL,1911,Central League,0702ter2,19110702,2,South Bend I,1,Terre Haute,2,GCHWYWN
-boxscores/1911/1911-SL,1911,Central League,0702whe,19110702,0,Fort Wayne,1,Wheeling,2,BBYXSVS
-boxscores/1911/1911-SL,1911,Central League,0702zan,19110702,0,Dayton,7,Zanesville,4,SYGJDLN
-boxscores/1911/1911-SL,1911,Central League,0703for,19110703,0,Dayton,10,Fort Wayne,5,JHGQTVK
-boxscores/1911/1911-SL,1911,Central League,0703new,19110703,0,South Bend I,9,Newark,4,JNSQTTB
-boxscores/1911/1911-SL,1911,Central League,0703ter,19110703,0,Evansville,3,Terre Haute,6,ZRBBBLD
-boxscores/1911/1911-SL,1911,Central League,0703whe,19110703,0,Zanesville,7,Wheeling,17,DJHGFJL
-boxscores/1911/1911-SL,1911,Central League,0704for1,19110704,1,Dayton,5,Fort Wayne,11,HVKDWQV
-boxscores/1911/1911-SL,1911,Central League,0704for2,19110704,2,Dayton,13,Fort Wayne,6,GVBMZXR
-boxscores/1911/1911-SL,1911,Central League,0704new1,19110704,1,South Bend I,1,Newark,3,MMYLTMK
-boxscores/1911/1911-SL,1911,Central League,0704new2,19110704,2,South Bend I,3,Newark,1,THYQDXV
-boxscores/1911/1911-SL,1911,Central League,0704ter1,19110704,1,Evansville,8,Terre Haute,5,FLRYYXX
-boxscores/1911/1911-SL,1911,Central League,0704ter2,19110704,2,Evansville,1,Terre Haute,7,QXVHNPT
-boxscores/1911/1911-SL,1911,Central League,0704whe1,19110704,1,Zanesville,7,Wheeling,1,ZGQKVBD
-boxscores/1911/1911-SL,1911,Central League,0704whe2,19110704,2,Zanesville,5,Wheeling,5,XRFRTCN
-boxscores/1911/1911-SL,1911,Central League,0705day,19110705,0,Zanesville,0,Dayton,1,GVYHTBB
-boxscores/1911/1911-SL,1911,Central League,0705for,19110705,0,Wheeling,3,Fort Wayne,4,TRLNPHH
-boxscores/1911/1911-SL,1911,Central League,0705new,19110705,0,Evansville,2,Newark,4,PJPRDKF
-boxscores/1911/1911-SL,1911,Central League,0705sou,19110705,0,Terre Haute,4,South Bend I,1,MPPWQKT
-boxscores/1911/1911-SL,1911,Central League,0706day,19110706,0,Zanesville,1,Dayton,0,DRSSNYY
-boxscores/1911/1911-SL,1911,Central League,0706for,19110706,0,Wheeling,3,Fort Wayne,2,ZQXHPWK
-boxscores/1911/1911-SL,1911,Central League,0706new,19110706,0,Evansville,10,Newark,4,FXNTPHH
-boxscores/1911/1911-SL,1911,Central League,0706sou,19110706,0,Terre Haute,0,South Bend I,6,HVFJYVT
-boxscores/1911/1911-SL,1911,Central League,0707day,19110707,0,Zanesville,3,Dayton,7,JVLRDHT
-boxscores/1911/1911-SL,1911,Central League,0707for,19110707,0,Wheeling,0,Fort Wayne,2,KFDVRXQ
-boxscores/1911/1911-SL,1911,Central League,0707new,19110707,0,Evansville,,Newark,,PDCYSSK
-boxscores/1911/1911-SL,1911,Central League,0707sou,19110707,0,Terre Haute,0,South Bend I,3,BGXVFJQ
-boxscores/1911/1911-SL,1911,Central League,0708day1,19110708,1,Wheeling,4,Dayton,3,BXNZNCK
-boxscores/1911/1911-SL,1911,Central League,0708day2,19110708,2,Wheeling,11,Dayton,5,GXZXFML
-boxscores/1911/1911-SL,1911,Central League,0708for,19110708,0,Zanesville,6,Fort Wayne,9,XQLDKRZ
-boxscores/1911/1911-SL,1911,Central League,0708new,19110708,0,Terre Haute,1,Newark,5,QDZRHNM
-boxscores/1911/1911-SL,1911,Central League,0708sou,19110708,0,Evansville,7,South Bend I,2,ZVYJGRX
-boxscores/1911/1911-SL,1911,Central League,0709day1,19110709,1,Wheeling,4,Dayton,5,VVKPRVM
-boxscores/1911/1911-SL,1911,Central League,0709day2,19110709,2,Wheeling,1,Dayton,2,PDCLKXN
-boxscores/1911/1911-SL,1911,Central League,0709for,19110709,0,Zanesville,7,Fort Wayne,4,MVFTJQN
-boxscores/1911/1911-SL,1911,Central League,0709new,19110709,0,Terre Haute,0,Newark,5,JHJDJSR
-boxscores/1911/1911-SL,1911,Central League,0709sou,19110709,0,Evansville,3,South Bend I,7,ZQSXGKS
-boxscores/1911/1911-SL,1911,Central League,0710for,19110710,0,Zanesville,5,Fort Wayne,2,CDMZQPK
-boxscores/1911/1911-SL,1911,Central League,0710new,19110710,0,Terre Haute,0,Newark,2,XZBJYVT
-boxscores/1911/1911-SL,1911,Central League,0710sou,19110710,0,Evansville,3,South Bend I,0,LYKHCQL
-boxscores/1911/1911-SL,1911,Central League,0711new,19110711,0,Dayton,7,Newark,4,XSJRYDK
-boxscores/1911/1911-SL,1911,Central League,0711sou,19110711,0,Fort Wayne,0,South Bend I,2,NWNSXPN
-boxscores/1911/1911-SL,1911,Central League,0711whe,19110711,0,Evansville,1,Wheeling,2,XTGNRNR
-boxscores/1911/1911-SL,1911,Central League,0711zan,19110711,0,Terre Haute,1,Zanesville,3,HNDTHKF
-boxscores/1911/1911-SL,1911,Central League,0712new,19110712,0,Dayton,5,Newark,6,FSVFZTG
-boxscores/1911/1911-SL,1911,Central League,0712sou,19110712,0,Fort Wayne,4,South Bend I,2,GYHYGWS
-boxscores/1911/1911-SL,1911,Central League,0712whe,19110712,0,Evansville,4,Wheeling,3,GJGLPYW
-boxscores/1911/1911-SL,1911,Central League,0712zan,19110712,0,Terre Haute,2,Zanesville,7,RTQPFQZ
-boxscores/1911/1911-SL,1911,Central League,0713new,19110713,0,Dayton,3,Newark,4,ZSSGMVJ
-boxscores/1911/1911-SL,1911,Central League,0713sou,19110713,0,Fort Wayne,4,South Bend I,8,SSJRMXQ
-boxscores/1911/1911-SL,1911,Central League,0713whe,19110713,0,Evansville,9,Wheeling,1,PLTDRXM
-boxscores/1911/1911-SL,1911,Central League,0713zan,19110713,0,Terre Haute,3,Zanesville,8,YBMPKRN
-boxscores/1911/1911-SL,1911,Central League,0714gra,19110714,0,Dayton,6,Grand Rapids II,7,KGRZDVP
-boxscores/1911/1911-SL,1911,Central League,0714new,19110714,0,Fort Wayne,7,Newark,10,CNSBHHX
-boxscores/1911/1911-SL,1911,Central League,0714whe,19110714,0,Terre Haute,11,Wheeling,8,KVJGCVV
-boxscores/1911/1911-SL,1911,Central League,0714zan,19110714,0,Evansville,4,Zanesville,2,MZJKYLH
-boxscores/1911/1911-SL,1911,Central League,0715gra,19110715,0,Dayton,1,Grand Rapids II,3,PRRSNCG
-boxscores/1911/1911-SL,1911,Central League,0715new,19110715,0,Fort Wayne,4,Newark,6,HZWRVDX
-boxscores/1911/1911-SL,1911,Central League,0715whe,19110715,0,Terre Haute,2,Wheeling,3,RRCGHDZ
-boxscores/1911/1911-SL,1911,Central League,0715zan,19110715,0,Evansville,5,Zanesville,10,VCTFZBY
-boxscores/1911/1911-SL,1911,Central League,0716gra,19110716,0,Dayton,3,Grand Rapids II,2,TZMRQYF
-boxscores/1911/1911-SL,1911,Central League,0716new,19110716,0,Fort Wayne,4,Newark,0,PGKNXXC
-boxscores/1911/1911-SL,1911,Central League,0716whe,19110716,0,Terre Haute,2,Wheeling,3,MSNPQRD
-boxscores/1911/1911-SL,1911,Central League,0716zan,19110716,0,Evansville,7,Zanesville,5,ZBTKTMF
-boxscores/1911/1911-SL,1911,Central League,0717day,19110717,0,Fort Wayne,3,Dayton,2,ZDBRCCR
-boxscores/1911/1911-SL,1911,Central League,0717eva,19110717,0,Terre Haute,7,Evansville,2,TJWDGRL
-boxscores/1911/1911-SL,1911,Central League,0717gra,19110717,0,Newark,11,Grand Rapids II,10,GFNXKXS
-boxscores/1911/1911-SL,1911,Central League,0717zan,19110717,0,Wheeling,3,Zanesville,8,VWBYSMT
-boxscores/1911/1911-SL,1911,Central League,0718day,19110718,0,Fort Wayne,2,Dayton,9,LDNCYGR
-boxscores/1911/1911-SL,1911,Central League,0718eva,19110718,0,Terre Haute,5,Evansville,7,BLNNGZS
-boxscores/1911/1911-SL,1911,Central League,0718gra,19110718,0,Newark,3,Grand Rapids II,8,JYBTJMZ
-boxscores/1911/1911-SL,1911,Central League,0718zan1,19110718,1,Wheeling,1,Zanesville,2,HHGYLLQ
-boxscores/1911/1911-SL,1911,Central League,0718zan2,19110718,2,Wheeling,0,Zanesville,3,XKDJNSX
-boxscores/1911/1911-SL,1911,Central League,0719day,19110719,0,Fort Wayne,2,Dayton,5,MFSPXFH
-boxscores/1911/1911-SL,1911,Central League,0719eva,19110719,0,Terre Haute,2,Evansville,10,VDGPYBW
-boxscores/1911/1911-SL,1911,Central League,0719gra,19110719,0,Newark,2,Grand Rapids II,4,HMSHBQC
-boxscores/1911/1911-SL,1911,Central League,0720eva,19110720,0,Fort Wayne,6,Evansville,0,RRSVHBW
-boxscores/1911/1911-SL,1911,Central League,0720ter,19110720,0,Dayton,6,Terre Haute,0,FJMNLXW
-boxscores/1911/1911-SL,1911,Central League,0720whe,19110720,0,Grand Rapids II,6,Wheeling,4,TJQYKRS
-boxscores/1911/1911-SL,1911,Central League,0720zan,19110720,0,Newark,9,Zanesville,2,KCSXGYX
-boxscores/1911/1911-SL,1911,Central League,0721eva,19110721,0,Fort Wayne,4,Evansville,5,YVLTWLN
-boxscores/1911/1911-SL,1911,Central League,0721ter,19110721,0,Dayton,1,Terre Haute,3,ZPHVVKN
-boxscores/1911/1911-SL,1911,Central League,0721whe,19110721,0,Grand Rapids II,8,Wheeling,5,CCZGCLX
-boxscores/1911/1911-SL,1911,Central League,0721zan,19110721,0,Newark,,Zanesville,,XGGCHFT
-boxscores/1911/1911-SL,1911,Central League,0722eva,19110722,0,Fort Wayne,6,Evansville,4,PKTYDNS
-boxscores/1911/1911-SL,1911,Central League,0722ter,19110722,0,Dayton,6,Terre Haute,3,RQLPZDJ
-boxscores/1911/1911-SL,1911,Central League,0722whe,19110722,0,Grand Rapids II,3,Wheeling,8,ZBLKNWS
-boxscores/1911/1911-SL,1911,Central League,0722zan1,19110722,1,Newark,2,Zanesville,3,RKCKPMT
-boxscores/1911/1911-SL,1911,Central League,0722zan2,19110722,2,Newark,2,Zanesville,3,NLQYZDC
-boxscores/1911/1911-SL,1911,Central League,0723eva,19110723,0,Dayton,8,Evansville,6,TWWWWQJ
-boxscores/1911/1911-SL,1911,Central League,0723new1,19110723,1,Wheeling,3,Newark,1,FJRYPVG
-boxscores/1911/1911-SL,1911,Central League,0723new2,19110723,2,Wheeling,8,Newark,4,NZXLCVD
-boxscores/1911/1911-SL,1911,Central League,0723ter,19110723,0,Fort Wayne,2,Terre Haute,0,BTXSTXT
-boxscores/1911/1911-SL,1911,Central League,0723zan1,19110723,1,Grand Rapids II,1,Zanesville,0,PKQWWHD
-boxscores/1911/1911-SL,1911,Central League,0723zan2,19110723,2,Grand Rapids II,0,Zanesville,4,BGRSFJQ
-boxscores/1911/1911-SL,1911,Central League,0724eva,19110724,0,Dayton,4,Evansville,0,ZZSTJML
-boxscores/1911/1911-SL,1911,Central League,0724new,19110724,0,Wheeling,,Newark,,CZDWXVL
-boxscores/1911/1911-SL,1911,Central League,0724ter,19110724,0,Fort Wayne,1,Terre Haute,3,FQNBKTS
-boxscores/1911/1911-SL,1911,Central League,0724zan,19110724,0,Grand Rapids II,1,Zanesville,10,VFKQDQN
-boxscores/1911/1911-SL,1911,Central League,0725eva,19110725,0,Dayton,2,Evansville,3,JXKGCWJ
-boxscores/1911/1911-SL,1911,Central League,0725new1,19110725,1,Wheeling,2,Newark,3,LRZXNYD
-boxscores/1911/1911-SL,1911,Central League,0725new2,19110725,2,Wheeling,3,Newark,1,HSBFHWH
-boxscores/1911/1911-SL,1911,Central League,0725ter,19110725,0,Fort Wayne,3,Terre Haute,4,GRHJDRZ
-boxscores/1911/1911-SL,1911,Central League,0726day,19110726,0,Newark,7,Dayton,3,ZYLNYMN
-boxscores/1911/1911-SL,1911,Central League,0726eva,19110726,0,Wheeling,5,Evansville,6,LRDPGKL
-boxscores/1911/1911-SL,1911,Central League,0726for,19110726,0,Grand Rapids II,1,Fort Wayne,2,DFQPLSW
-boxscores/1911/1911-SL,1911,Central League,0726ter,19110726,0,Zanesville,5,Terre Haute,2,SWRJVMC
-boxscores/1911/1911-SL,1911,Central League,0727day,19110727,0,Newark,4,Dayton,0,BFJDWTR
-boxscores/1911/1911-SL,1911,Central League,0727eva,19110727,0,Wheeling,4,Evansville,7,PCMTJZC
-boxscores/1911/1911-SL,1911,Central League,0727for,19110727,0,Grand Rapids II,2,Fort Wayne,3,LBZMCSR
-boxscores/1911/1911-SL,1911,Central League,0727ter,19110727,0,Zanesville,3,Terre Haute,5,FYPMMQR
-boxscores/1911/1911-SL,1911,Central League,0728day,19110728,0,Newark,1,Dayton,5,XXPWRNS
-boxscores/1911/1911-SL,1911,Central League,0728eva,19110728,0,Wheeling,3,Evansville,4,BKYMKTB
-boxscores/1911/1911-SL,1911,Central League,0728for,19110728,0,Grand Rapids II,5,Fort Wayne,6,VCBZSDR
-boxscores/1911/1911-SL,1911,Central League,0728ter,19110728,0,Zanesville,0,Terre Haute,1,DXLXSHV
-boxscores/1911/1911-SL,1911,Central League,0729day,19110729,0,Grand Rapids II,2,Dayton,3,PPSNZLM
-boxscores/1911/1911-SL,1911,Central League,0729eva,19110729,0,Zanesville,4,Evansville,3,GWRQKZL
-boxscores/1911/1911-SL,1911,Central League,0729for1,19110729,1,Newark,3,Fort Wayne,7,HSGDTWJ
-boxscores/1911/1911-SL,1911,Central League,0729for2,19110729,2,Newark,1,Fort Wayne,7,JYLDWGY
-boxscores/1911/1911-SL,1911,Central League,0729ter,19110729,0,Wheeling,9,Terre Haute,4,VFXVFBY
-boxscores/1911/1911-SL,1911,Central League,0730day1,19110730,1,Grand Rapids II,3,Dayton,4,VWGFXSG
-boxscores/1911/1911-SL,1911,Central League,0730day2,19110730,2,Grand Rapids II,0,Dayton,5,TTVQSRM
-boxscores/1911/1911-SL,1911,Central League,0730eva1,19110730,1,Zanesville,5,Evansville,6,JKWWNLX
-boxscores/1911/1911-SL,1911,Central League,0730eva2,19110730,2,Zanesville,1,Evansville,2,DFMLQRW
-boxscores/1911/1911-SL,1911,Central League,0730for1,19110730,1,Newark,6,Fort Wayne,3,GQXJFHS
-boxscores/1911/1911-SL,1911,Central League,0730for2,19110730,2,Newark,8,Fort Wayne,3,DJFGHRF
-boxscores/1911/1911-SL,1911,Central League,0730ter1,19110730,1,Wheeling,3,Terre Haute,7,KPDWKZG
-boxscores/1911/1911-SL,1911,Central League,0730ter2,19110730,2,Wheeling,5,Terre Haute,4,QBTNWBG
-boxscores/1911/1911-SL,1911,Central League,0731day,19110731,0,Grand Rapids II,1,Dayton,13,PWTZVMZ
-boxscores/1911/1911-SL,1911,Central League,0801gra,19110801,0,Zanesville,,Grand Rapids II,,QPQCDMZ
-boxscores/1911/1911-SL,1911,Central League,0801new,19110801,0,Wheeling,2,Newark,1,MFCJDTR
-boxscores/1911/1911-SL,1911,Central League,0802day,19110802,0,Evansville,3,Dayton,9,NGHFSHF
-boxscores/1911/1911-SL,1911,Central League,0802for,19110802,0,Terre Haute,0,Fort Wayne,10,WVDTWBF
-boxscores/1911/1911-SL,1911,Central League,0802gra,19110802,0,Zanesville,1,Grand Rapids II,2,LBXMBYX
-boxscores/1911/1911-SL,1911,Central League,0802new,19110802,0,Wheeling,,Newark,,NWWTKJW
-boxscores/1911/1911-SL,1911,Central League,0803day,19110803,0,Evansville,2,Dayton,6,KVTKBYC
-boxscores/1911/1911-SL,1911,Central League,0803for,19110803,0,Terre Haute,0,Fort Wayne,10,BXJKPDR
-boxscores/1911/1911-SL,1911,Central League,0803gra1,19110803,1,Zanesville,1,Grand Rapids II,4,TTSKHSJ
-boxscores/1911/1911-SL,1911,Central League,0803gra2,19110803,2,Zanesville,7,Grand Rapids II,5,YGPDZTY
-boxscores/1911/1911-SL,1911,Central League,0803new1,19110803,1,Wheeling,1,Newark,4,DWGBMTH
-boxscores/1911/1911-SL,1911,Central League,0803new2,19110803,2,Wheeling,4,Newark,8,XVWWGCP
-boxscores/1911/1911-SL,1911,Central League,0804day,19110804,0,Evansville,3,Dayton,2,FSSFWCQ
-boxscores/1911/1911-SL,1911,Central League,0804for,19110804,0,Terre Haute,6,Fort Wayne,7,BCTKMYP
-boxscores/1911/1911-SL,1911,Central League,0804gra,19110804,0,Wheeling,2,Grand Rapids II,1,DJKKLXP
-boxscores/1911/1911-SL,1911,Central League,0804new,19110804,0,Zanesville,1,Newark,3,CFGXHGT
-boxscores/1911/1911-SL,1911,Central League,0805day,19110805,0,Terre Haute,6,Dayton,3,CVDFLQX
-boxscores/1911/1911-SL,1911,Central League,0805for,19110805,0,Evansville,5,Fort Wayne,1,QLZXRSN
-boxscores/1911/1911-SL,1911,Central League,0805gra,19110805,0,Wheeling,8,Grand Rapids II,3,RZWCGRN
-boxscores/1911/1911-SL,1911,Central League,0805new,19110805,0,Zanesville,2,Newark,0,CBVPBCS
-boxscores/1911/1911-SL,1911,Central League,0806day1,19110806,1,Terre Haute,3,Dayton,10,ZFBCMHY
-boxscores/1911/1911-SL,1911,Central League,0806day2,19110806,2,Terre Haute,8,Dayton,5,WCRHVSF
-boxscores/1911/1911-SL,1911,Central League,0806for1,19110806,1,Evansville,4,Fort Wayne,0,JBBCCXJ
-boxscores/1911/1911-SL,1911,Central League,0806for2,19110806,2,Evansville,4,Fort Wayne,6,MVWXZHB
-boxscores/1911/1911-SL,1911,Central League,0806gra,19110806,0,Wheeling,2,Grand Rapids II,3,STSNHQX
-boxscores/1911/1911-SL,1911,Central League,0806new,19110806,0,Zanesville,4,Newark,8,VYWZRVH
-boxscores/1911/1911-SL,1911,Central League,0807day,19110807,0,Terre Haute,3,Dayton,10,XYHBYBR
-boxscores/1911/1911-SL,1911,Central League,0808gra,19110808,0,Terre Haute,3,Grand Rapids II,15,LSVPJKN
-boxscores/1911/1911-SL,1911,Central League,0808new,19110808,0,Evansville,8,Newark,5,PJNBWYT
-boxscores/1911/1911-SL,1911,Central League,0808whe,19110808,0,Fort Wayne,5,Wheeling,4,WJKVZLD
-boxscores/1911/1911-SL,1911,Central League,0808zan,19110808,0,Dayton,0,Zanesville,3,MFZQNVD
-boxscores/1911/1911-SL,1911,Central League,0809gra,19110809,0,Terre Haute,5,Grand Rapids II,7,CTMPZBK
-boxscores/1911/1911-SL,1911,Central League,0809new1,19110809,1,Evansville,3,Newark,4,YTKWVJZ
-boxscores/1911/1911-SL,1911,Central League,0809new2,19110809,2,Evansville,13,Newark,3,PXJBRRS
-boxscores/1911/1911-SL,1911,Central League,0809whe,19110809,0,Fort Wayne,7,Wheeling,5,ZLQCKWD
-boxscores/1911/1911-SL,1911,Central League,0809zan,19110809,0,Dayton,5,Zanesville,3,HCQSWCS
-boxscores/1911/1911-SL,1911,Central League,0810gra,19110810,0,Terre Haute,0,Grand Rapids II,1,LPNWRGD
-boxscores/1911/1911-SL,1911,Central League,0810new,19110810,0,Evansville,5,Newark,2,WMNYGPX
-boxscores/1911/1911-SL,1911,Central League,0810whe,19110810,0,Fort Wayne,1,Wheeling,3,GMGGNRS
-boxscores/1911/1911-SL,1911,Central League,0810zan,19110810,0,Dayton,2,Zanesville,8,TFHDLZJ
-boxscores/1911/1911-SL,1911,Central League,0811day,19110811,0,Wheeling,,Dayton,,HGCJYGS
-boxscores/1911/1911-SL,1911,Central League,0811gra,19110811,0,Evansville,0,Grand Rapids II,2,HYMLZJL
-boxscores/1911/1911-SL,1911,Central League,0811new,19110811,0,Terre Haute,4,Newark,10,DKXPDKZ
-boxscores/1911/1911-SL,1911,Central League,0811zan,19110811,0,Fort Wayne,6,Zanesville,2,QLGTXHB
-boxscores/1911/1911-SL,1911,Central League,0812day,19110812,0,Wheeling,6,Dayton,13,XWXPBVY
-boxscores/1911/1911-SL,1911,Central League,0812gra,19110812,0,Evansville,6,Grand Rapids II,4,PXKPBRQ
-boxscores/1911/1911-SL,1911,Central League,0812zan,19110812,0,Fort Wayne,1,Zanesville,0,SLYRCVK
-boxscores/1911/1911-SL,1911,Central League,0813day,19110813,0,Wheeling,4,Dayton,5,SDFZLPJ
-boxscores/1911/1911-SL,1911,Central League,0813gra,19110813,0,South Bend II,0,Grand Rapids II,1,GDWMQWK
-boxscores/1911/1911-SL,1911,Central League,0813new1,19110813,1,Terre Haute,2,Newark,5,KRKFNTZ
-boxscores/1911/1911-SL,1911,Central League,0813new2,19110813,2,Terre Haute,4,Newark,9,DKYBMPH
-boxscores/1911/1911-SL,1911,Central League,0813zan,19110813,0,Fort Wayne,6,Zanesville,0,YNPBSTF
-boxscores/1911/1911-SL,1911,Central League,0814for,19110814,0,Dayton,3,Fort Wayne,6,CNFXCTB
-boxscores/1911/1911-SL,1911,Central League,0814new,19110814,0,Grand Rapids II,5,Newark,6,TMNRJPS
-boxscores/1911/1911-SL,1911,Central League,0814sou,19110814,0,Terre Haute,0,South Bend II,3,NKQPJJH
-boxscores/1911/1911-SL,1911,Central League,0814zan,19110814,0,Wheeling,0,Zanesville,3,CZBBPXH
-boxscores/1911/1911-SL,1911,Central League,0815for,19110815,0,Dayton,1,Fort Wayne,5,LJJRZZC
-boxscores/1911/1911-SL,1911,Central League,0815new,19110815,0,Grand Rapids II,3,Newark,4,RXFXCQF
-boxscores/1911/1911-SL,1911,Central League,0815sou,19110815,0,Terre Haute,7,South Bend II,1,WZZTMYZ
-boxscores/1911/1911-SL,1911,Central League,0815zan,19110815,0,Wheeling,,Zanesville,,KKFGFMW
-boxscores/1911/1911-SL,1911,Central League,0816for,19110816,0,Dayton,5,Fort Wayne,11,HPHMHTL
-boxscores/1911/1911-SL,1911,Central League,0816new,19110816,0,Grand Rapids II,7,Newark,5,WRMLHNV
-boxscores/1911/1911-SL,1911,Central League,0816sou,19110816,0,Terre Haute,6,South Bend II,3,KWQFCHG
-boxscores/1911/1911-SL,1911,Central League,0816zan1,19110816,1,Wheeling,1,Zanesville,2,HCBFZVT
-boxscores/1911/1911-SL,1911,Central League,0816zan2,19110816,2,Wheeling,14,Zanesville,10,JNDQPFF
-boxscores/1911/1911-SL,1911,Central League,0817day,19110817,0,Wheeling,0,Dayton,5,SBSDXWZ
-boxscores/1911/1911-SL,1911,Central League,0817for,19110817,0,Zanesville,2,Fort Wayne,3,DPFHLDF
-boxscores/1911/1911-SL,1911,Central League,0817sou,19110817,0,Newark,2,South Bend II,5,BDVMHJM
-boxscores/1911/1911-SL,1911,Central League,0817ter,19110817,0,Grand Rapids II,6,Terre Haute,0,ZMDCTFJ
-boxscores/1911/1911-SL,1911,Central League,0818day,19110818,0,Wheeling,3,Dayton,2,PXHHYXW
-boxscores/1911/1911-SL,1911,Central League,0818for,19110818,0,Zanesville,1,Fort Wayne,2,FFTWFQK
-boxscores/1911/1911-SL,1911,Central League,0818sou,19110818,0,Newark,4,South Bend II,3,LMMKKZV
-boxscores/1911/1911-SL,1911,Central League,0818ter,19110818,0,Grand Rapids II,2,Terre Haute,0,RZNBMHD
-boxscores/1911/1911-SL,1911,Central League,0819day,19110819,0,Wheeling,6,Dayton,7,NVMVRSL
-boxscores/1911/1911-SL,1911,Central League,0819for,19110819,0,Zanesville,4,Fort Wayne,5,WNCSSDG
-boxscores/1911/1911-SL,1911,Central League,0819sou,19110819,0,Newark,6,South Bend II,9,KKMQBDP
-boxscores/1911/1911-SL,1911,Central League,0819ter,19110819,0,Grand Rapids II,2,Terre Haute,3,XQPXBQB
-boxscores/1911/1911-SL,1911,Central League,0820day,19110820,0,Zanesville,6,Dayton,2,HRZNNLX
-boxscores/1911/1911-SL,1911,Central League,0820for,19110820,0,Wheeling,2,Fort Wayne,5,LXNVHFN
-boxscores/1911/1911-SL,1911,Central League,0820sou,19110820,0,Grand Rapids II,5,South Bend II,3,FFNQCFK
-boxscores/1911/1911-SL,1911,Central League,0820ter,19110820,0,Newark,10,Terre Haute,6,PKGMLVK
-boxscores/1911/1911-SL,1911,Central League,0821day,19110821,0,Zanesville,3,Dayton,8,VWWWLZZ
-boxscores/1911/1911-SL,1911,Central League,0821for,19110821,0,Wheeling,5,Fort Wayne,9,NZHNTWQ
-boxscores/1911/1911-SL,1911,Central League,0821sou,19110821,0,Grand Rapids II,3,South Bend II,1,NXVNBMZ
-boxscores/1911/1911-SL,1911,Central League,0821ter,19110821,0,Newark,4,Terre Haute,1,RWSTBQG
-boxscores/1911/1911-SL,1911,Central League,0822day,19110822,0,Zanesville,1,Dayton,0,VLDCQGQ
-boxscores/1911/1911-SL,1911,Central League,0822for,19110822,0,Wheeling,,Fort Wayne,,DJKRTSM
-boxscores/1911/1911-SL,1911,Central League,0822sou,19110822,0,Grand Rapids II,6,South Bend II,3,HZRWTKN
-boxscores/1911/1911-SL,1911,Central League,0822ter,19110822,0,Newark,0,Terre Haute,6,RPKDKHV
-boxscores/1911/1911-SL,1911,Central League,0823new,19110823,0,Wheeling,3,Newark,4,NBNDVGD
-boxscores/1911/1911-SL,1911,Central League,0823sou,19110823,0,Fort Wayne,8,South Bend II,1,YRRKQZP
-boxscores/1911/1911-SL,1911,Central League,0823ter,19110823,0,Dayton,1,Terre Haute,0,LXXGKCM
-boxscores/1911/1911-SL,1911,Central League,0823zan,19110823,0,Grand Rapids II,14,Zanesville,2,QYVNHTG
-boxscores/1911/1911-SL,1911,Central League,0824new,19110824,0,Wheeling,8,Newark,3,YWVKRPJ
-boxscores/1911/1911-SL,1911,Central League,0824sou,19110824,0,Fort Wayne,,South Bend II,,LKFTFBG
-boxscores/1911/1911-SL,1911,Central League,0824ter,19110824,0,Dayton,,Terre Haute,,HVTQXMY
-boxscores/1911/1911-SL,1911,Central League,0824zan,19110824,0,Grand Rapids II,0,Zanesville,3,GJFYYND
-boxscores/1911/1911-SL,1911,Central League,0825new,19110825,0,Wheeling,,Newark,,SXBYVBQ
-boxscores/1911/1911-SL,1911,Central League,0825sou1,19110825,1,Fort Wayne,2,South Bend II,3,NXRGMKK
-boxscores/1911/1911-SL,1911,Central League,0825sou2,19110825,2,Fort Wayne,3,South Bend II,1,VSGTYQL
-boxscores/1911/1911-SL,1911,Central League,0825ter1,19110825,1,Dayton,4,Terre Haute,3,HKYHDGM
-boxscores/1911/1911-SL,1911,Central League,0825ter2,19110825,2,Dayton,3,Terre Haute,0,JKJZLPV
-boxscores/1911/1911-SL,1911,Central League,0825zan,19110825,0,Grand Rapids II,,Zanesville,,CDTXVXV
-boxscores/1911/1911-SL,1911,Central League,0826sou,19110826,0,Dayton,2,South Bend II,0,XLGQVSY
-boxscores/1911/1911-SL,1911,Central League,0826ter,19110826,0,Fort Wayne,0,Terre Haute,1,BCHTFJW
-boxscores/1911/1911-SL,1911,Central League,0826whe,19110826,0,Grand Rapids II,4,Wheeling,2,MJGCHSD
-boxscores/1911/1911-SL,1911,Central League,0826zan,19110826,0,Newark,3,Zanesville,4,BHCJRFQ
-boxscores/1911/1911-SL,1911,Central League,0827sou,19110827,0,Dayton,18,South Bend II,9,DSJCMSD
-boxscores/1911/1911-SL,1911,Central League,0827ter1,19110827,1,Fort Wayne,3,Terre Haute,2,HDSZCSC
-boxscores/1911/1911-SL,1911,Central League,0827ter2,19110827,2,Fort Wayne,7,Terre Haute,1,BMHXNPM
-boxscores/1911/1911-SL,1911,Central League,0827whe,19110827,0,Grand Rapids II,,Wheeling,,XXTPGRM
-boxscores/1911/1911-SL,1911,Central League,0827zan1,19110827,1,Newark,1,Zanesville,4,DMBZFXB
-boxscores/1911/1911-SL,1911,Central League,0827zan2,19110827,2,Newark,2,Zanesville,1,JVYQPDG
-boxscores/1911/1911-SL,1911,Central League,0828sou,19110828,0,Dayton,13,South Bend II,4,PZBSSBG
-boxscores/1911/1911-SL,1911,Central League,0828whe,19110828,0,Grand Rapids II,0,Wheeling,0,QNYQHGM
-boxscores/1911/1911-SL,1911,Central League,0829gra,19110829,0,Dayton,2,Grand Rapids II,0,PFXTHNR
-boxscores/1911/1911-SL,1911,Central League,0829new,19110829,0,Fort Wayne,5,Newark,6,ZKRNPKJ
-boxscores/1911/1911-SL,1911,Central League,0829whe,19110829,0,Terre Haute,,Wheeling,,YDQPZQK
-boxscores/1911/1911-SL,1911,Central League,0829zan,19110829,0,South Bend II,0,Zanesville,1,KBMMFYG
-boxscores/1911/1911-SL,1911,Central League,0830gra,19110830,0,Dayton,3,Grand Rapids II,5,ZGGDQQP
-boxscores/1911/1911-SL,1911,Central League,0830new,19110830,0,Fort Wayne,5,Newark,0,BVGYMCF
-boxscores/1911/1911-SL,1911,Central League,0830whe,19110830,0,Terre Haute,2,Wheeling,12,WNKTVYY
-boxscores/1911/1911-SL,1911,Central League,0830zan,19110830,0,South Bend II,4,Zanesville,1,DPMCVNR
-boxscores/1911/1911-SL,1911,Central League,0831gra,19110831,0,Dayton,2,Grand Rapids II,4,NNJBSZD
-boxscores/1911/1911-SL,1911,Central League,0831new,19110831,0,Fort Wayne,6,Newark,5,LNQKQGL
-boxscores/1911/1911-SL,1911,Central League,0831whe1,19110831,1,Terre Haute,4,Wheeling,5,TJTQVSP
-boxscores/1911/1911-SL,1911,Central League,0831whe2,19110831,2,Terre Haute,1,Wheeling,4,TFLRLGJ
-boxscores/1911/1911-SL,1911,Central League,0831zan,19110831,0,South Bend II,4,Zanesville,5,YJYBNTG
-boxscores/1911/1911-SL,1911,Central League,0901gra,19110901,0,Fort Wayne,9,Grand Rapids II,3,YGTXBGF
-boxscores/1911/1911-SL,1911,Central League,0901new,19110901,0,Dayton,2,Newark,7,MPPJDRM
-boxscores/1911/1911-SL,1911,Central League,0901whe,19110901,0,South Bend II,7,Wheeling,8,VBJFBRC
-boxscores/1911/1911-SL,1911,Central League,0901zan,19110901,0,Terre Haute,10,Zanesville,9,SGMFTWP
-boxscores/1911/1911-SL,1911,Central League,0902day,19110902,0,Newark,7,Dayton,8,HRBXKPF
-boxscores/1911/1911-SL,1911,Central League,0902gra,19110902,0,Fort Wayne,12,Grand Rapids II,7,PLPZNLM
-boxscores/1911/1911-SL,1911,Central League,0902whe,19110902,0,South Bend II,3,Wheeling,6,VNYWZYL
-boxscores/1911/1911-SL,1911,Central League,0902zan,19110902,0,Terre Haute,5,Zanesville,2,RMGPYJV
-boxscores/1911/1911-SL,1911,Central League,0903day,19110903,0,Newark,2,Dayton,8,CRSYLRH
-boxscores/1911/1911-SL,1911,Central League,0903gra,19110903,0,Fort Wayne,4,Grand Rapids II,0,NCCPSBJ
-boxscores/1911/1911-SL,1911,Central League,0903whe,19110903,0,South Bend II,4,Wheeling,2,TNVLKXC
-boxscores/1911/1911-SL,1911,Central League,0903zan,19110903,0,Terre Haute,3,Zanesville,7,HGDZPVY
-boxscores/1911/1911-SL,1911,Central League,0904day1,19110904,1,Fort Wayne,6,Dayton,3,KBJTXDT
-boxscores/1911/1911-SL,1911,Central League,0904day2,19110904,2,Fort Wayne,3,Dayton,7,ZJVKPLW
-boxscores/1911/1911-SL,1911,Central League,0904gra1,19110904,1,Newark,1,Grand Rapids II,2,CHBZSYF
-boxscores/1911/1911-SL,1911,Central League,0904gra2,19110904,2,Newark,3,Grand Rapids II,4,DWMLRFT
-boxscores/1911/1911-SL,1911,Central League,0904ter1,19110904,1,South Bend II,3,Terre Haute,4,MDZRVNH
-boxscores/1911/1911-SL,1911,Central League,0904ter2,19110904,2,South Bend II,6,Terre Haute,0,YXHKMXQ
-boxscores/1911/1911-SL,1911,Central League,0904whe1,19110904,1,Zanesville,6,Wheeling,7,MHYZHTL
-boxscores/1911/1911-SL,1911,Central League,0904whe2,19110904,2,Zanesville,5,Wheeling,1,SBSXBCY
-boxscores/1911/1911-SL,1911,Central League,0905day,19110905,0,Fort Wayne,0,Dayton,3,JRCTFLF
-boxscores/1911/1911-SL,1911,Central League,0905gra,19110905,0,Newark,3,Grand Rapids II,8,XGKXVCX
-boxscores/1911/1911-SL,1911,Central League,0905ter,19110905,0,South Bend II,,Terre Haute,,ZFNJWVS
-boxscores/1911/1911-SL,1911,Central League,0905whe,19110905,0,Zanesville,,Wheeling,,TZCZRFN
-boxscores/1911/1911-SL,1911,Central League,0906day,19110906,0,Grand Rapids II,4,Dayton,3,MXBNFRN
-boxscores/1911/1911-SL,1911,Central League,0906for,19110906,0,Newark,0,Fort Wayne,5,HTYRMLC
-boxscores/1911/1911-SL,1911,Central League,0906sou,19110906,0,Zanesville,,South Bend II,,YBHHXQP
-boxscores/1911/1911-SL,1911,Central League,0906ter,19110906,0,Wheeling,3,Terre Haute,2,ZGHWTYT
-boxscores/1911/1911-SL,1911,Central League,0907day,19110907,0,Grand Rapids II,6,Dayton,0,KGDHBBP
-boxscores/1911/1911-SL,1911,Central League,0907for,19110907,0,Newark,3,Fort Wayne,4,NPBGGJQ
-boxscores/1911/1911-SL,1911,Central League,0907sou1,19110907,1,Zanesville,1,South Bend II,9,XRWMJKZ
-boxscores/1911/1911-SL,1911,Central League,0907sou2,19110907,2,Zanesville,4,South Bend II,1,TXFMXNN
-boxscores/1911/1911-SL,1911,Central League,0907ter,19110907,0,Wheeling,1,Terre Haute,5,DKXRYCM
-boxscores/1911/1911-SL,1911,Central League,0908day,19110908,0,Grand Rapids II,3,Dayton,0,XZKVDYB
-boxscores/1911/1911-SL,1911,Central League,0908for,19110908,0,Newark,8,Fort Wayne,9,YTSTMNH
-boxscores/1911/1911-SL,1911,Central League,0908sou,19110908,0,Zanesville,,South Bend II,,JKGNMCN
-boxscores/1911/1911-SL,1911,Central League,0908ter,19110908,0,Wheeling,,Terre Haute,,CTLVWJL
-boxscores/1911/1911-SL,1911,Central League,0909day,19110909,0,Newark,2,Dayton,3,YRHVZWS
-boxscores/1911/1911-SL,1911,Central League,0909for,19110909,0,Grand Rapids II,2,Fort Wayne,3,TWFZJRQ
-boxscores/1911/1911-SL,1911,Central League,0909ter,19110909,0,Zanesville,17,Terre Haute,12,RFLKMCB
-boxscores/1911/1911-SL,1911,Central League,0910day1,19110910,1,Newark,1,Dayton,8,KKKHRWB
-boxscores/1911/1911-SL,1911,Central League,0910day2,19110910,2,Newark,4,Dayton,9,CTYLVBK
-boxscores/1911/1911-SL,1911,Central League,0910for1,19110910,1,Grand Rapids II,10,Fort Wayne,7,SLCMMLM
-boxscores/1911/1911-SL,1911,Central League,0910for2,19110910,2,Grand Rapids II,0,Fort Wayne,3,DLSFLYR
-boxscores/1911/1911-SL,1911,Central League,0910sou,19110910,0,Wheeling,,South Bend II,,MCZCGVY
-boxscores/1911/1911-SL,1911,Central League,0910ter,19110910,0,Zanesville,,Terre Haute,,XHRKXKV
+boxscores/1911/1911-SL,1911,Central League,0426-evansville-grandrapidsi-0,19110426,0,Grand Rapids I,6,Evansville,11,ZSPSPDV
+boxscores/1911/1911-SL,1911,Central League,0426-southbendi-terrehaute-0,19110426,0,South Bend I,3,Terre Haute,5,FLXYVSQ
+boxscores/1911/1911-SL,1911,Central League,0426-fortwayne-wheeling-0,19110426,0,Fort Wayne,2,Wheeling,1,NFMYCSF
+boxscores/1911/1911-SL,1911,Central League,0426-dayton-zanesville-0,19110426,0,Dayton,2,Zanesville,3,QYPLVYT
+boxscores/1911/1911-SL,1911,Central League,0427-evansville-grandrapidsi-0,19110427,0,Evansville,,Grand Rapids I,,LZHVHHD
+boxscores/1911/1911-SL,1911,Central League,0427-southbendi-terrehaute-0,19110427,0,South Bend I,4,Terre Haute,1,NFHVHVW
+boxscores/1911/1911-SL,1911,Central League,0427-fortwayne-wheeling-0,19110427,0,Fort Wayne,7,Wheeling,1,NQYYQZX
+boxscores/1911/1911-SL,1911,Central League,0427-dayton-zanesville-0,19110427,0,Dayton,6,Zanesville,1,HQFZPZW
+boxscores/1911/1911-SL,1911,Central League,0428-evansville-grandrapidsi-0,19110428,0,Grand Rapids I,7,Evansville,8,WPWCWNS
+boxscores/1911/1911-SL,1911,Central League,0428-southbendi-terrehaute-0,19110428,0,South Bend I,,Terre Haute,,LVJKMML
+boxscores/1911/1911-SL,1911,Central League,0428-fortwayne-wheeling-0,19110428,0,Fort Wayne,6,Wheeling,4,WKNTDCD
+boxscores/1911/1911-SL,1911,Central League,0428-dayton-zanesville-0,19110428,0,Dayton,2,Zanesville,7,SJSJGMF
+boxscores/1911/1911-SL,1911,Central League,0429-evansville-grandrapidsi-0,19110429,0,Grand Rapids I,,Evansville,,NLQDFPS
+boxscores/1911/1911-SL,1911,Central League,0429-southbendi-terrehaute-0,19110429,0,South Bend I,1,Terre Haute,3,SSTCTFQ
+boxscores/1911/1911-SL,1911,Central League,0429-fortwayne-wheeling-0,19110429,0,Fort Wayne,4,Wheeling,0,RGBMRFB
+boxscores/1911/1911-SL,1911,Central League,0429-dayton-zanesville-0,19110429,0,Dayton,2,Zanesville,6,XYSGKMJ
+boxscores/1911/1911-SL,1911,Central League,0430-evansville-southbendi-0,19110430,0,South Bend I,5,Evansville,5,GKLPWGY
+boxscores/1911/1911-SL,1911,Central League,0430-grandrapidsi-terrehaute-0,19110430,0,Grand Rapids I,7,Terre Haute,5,MXTQJYN
+boxscores/1911/1911-SL,1911,Central League,0430-dayton-wheeling-0,19110430,0,Dayton,1,Wheeling,2,TLQXDXT
+boxscores/1911/1911-SL,1911,Central League,0430-fortwayne-zanesville-0,19110430,0,Fort Wayne,1,Zanesville,5,LBZBBDW
+boxscores/1911/1911-SL,1911,Central League,0501-dayton-wheeling-0,19110501,0,Wheeling,,Dayton,,BHJYBDC
+boxscores/1911/1911-SL,1911,Central League,0501-evansville-southbendi-0,19110501,0,South Bend I,3,Evansville,0,FMJBXDK
+boxscores/1911/1911-SL,1911,Central League,0501-grandrapidsi-terrehaute-0,19110501,0,Grand Rapids I,,Terre Haute,,HNFDVWL
+boxscores/1911/1911-SL,1911,Central League,0501-fortwayne-zanesville-0,19110501,0,Fort Wayne,6,Zanesville,7,TPJZMFT
+boxscores/1911/1911-SL,1911,Central League,0502-evansville-southbendi-0,19110502,0,South Bend I,2,Evansville,3,TCRWHRR
+boxscores/1911/1911-SL,1911,Central League,0502-grandrapidsi-terrehaute-1,19110502,1,Grand Rapids I,2,Terre Haute,3,YYFYHRM
+boxscores/1911/1911-SL,1911,Central League,0502-grandrapidsi-terrehaute-2,19110502,2,Grand Rapids I,5,Terre Haute,3,LRJMMJS
+boxscores/1911/1911-SL,1911,Central League,0502-fortwayne-zanesville-0,19110502,0,Fort Wayne,1,Zanesville,4,FBTFSCW
+boxscores/1911/1911-SL,1911,Central League,0503-evansville-southbendi-1,19110503,1,South Bend I,6,Evansville,5,ZBGFTJY
+boxscores/1911/1911-SL,1911,Central League,0503-evansville-southbendi-2,19110503,2,South Bend I,2,Evansville,3,TWMRPHC
+boxscores/1911/1911-SL,1911,Central League,0503-grandrapidsi-terrehaute-0,19110503,0,Grand Rapids I,5,Terre Haute,8,TCGVHHT
+boxscores/1911/1911-SL,1911,Central League,0503-dayton-wheeling-1,19110503,1,Dayton,4,Wheeling,1,CPJDWLW
+boxscores/1911/1911-SL,1911,Central League,0503-dayton-wheeling-2,19110503,2,Dayton,4,Wheeling,4,GXXFLWT
+boxscores/1911/1911-SL,1911,Central League,0503-fortwayne-zanesville-0,19110503,0,Fort Wayne,2,Zanesville,1,WMTLSQS
+boxscores/1911/1911-SL,1911,Central League,0504-dayton-evansville-0,19110504,0,Evansville,2,Dayton,3,JFYLFZM
+boxscores/1911/1911-SL,1911,Central League,0504-fortwayne-terrehaute-0,19110504,0,Terre Haute,2,Fort Wayne,3,RWSTMXR
+boxscores/1911/1911-SL,1911,Central League,0504-grandrapidsi-zanesville-0,19110504,0,Zanesville,2,Grand Rapids I,11,BHFTPKT
+boxscores/1911/1911-SL,1911,Central League,0504-southbendi-wheeling-0,19110504,0,Wheeling,4,South Bend I,3,ZPRWKZQ
+boxscores/1911/1911-SL,1911,Central League,0505-dayton-evansville-0,19110505,0,Evansville,2,Dayton,12,MXHRCXT
+boxscores/1911/1911-SL,1911,Central League,0505-fortwayne-terrehaute-0,19110505,0,Terre Haute,2,Fort Wayne,6,DKRHKRL
+boxscores/1911/1911-SL,1911,Central League,0505-grandrapidsi-zanesville-0,19110505,0,Zanesville,1,Grand Rapids I,2,FLDQRVQ
+boxscores/1911/1911-SL,1911,Central League,0505-southbendi-wheeling-0,19110505,0,Wheeling,2,South Bend I,4,KQFYYPJ
+boxscores/1911/1911-SL,1911,Central League,0506-dayton-evansville-0,19110506,0,Evansville,3,Dayton,2,BDTZPKJ
+boxscores/1911/1911-SL,1911,Central League,0506-fortwayne-terrehaute-0,19110506,0,Terre Haute,4,Fort Wayne,5,DFLTFLT
+boxscores/1911/1911-SL,1911,Central League,0506-grandrapidsi-zanesville-0,19110506,0,Zanesville,8,Grand Rapids I,1,WPJTBMC
+boxscores/1911/1911-SL,1911,Central League,0506-southbendi-wheeling-0,19110506,0,Wheeling,0,South Bend I,3,LDPGJCQ
+boxscores/1911/1911-SL,1911,Central League,0507-dayton-evansville-0,19110507,0,Evansville,3,Dayton,5,GPRFGQF
+boxscores/1911/1911-SL,1911,Central League,0507-fortwayne-terrehaute-0,19110507,0,Terre Haute,11,Fort Wayne,10,VHFCDSL
+boxscores/1911/1911-SL,1911,Central League,0507-grandrapidsi-zanesville-0,19110507,0,Zanesville,9,Grand Rapids I,5,HTCQHVC
+boxscores/1911/1911-SL,1911,Central League,0507-southbendi-wheeling-0,19110507,0,Wheeling,4,South Bend I,1,DZSMYGG
+boxscores/1911/1911-SL,1911,Central League,0508-dayton-terrehaute-0,19110508,0,Terre Haute,1,Dayton,6,PBKPDHJ
+boxscores/1911/1911-SL,1911,Central League,0508-evansville-fortwayne-0,19110508,0,Evansville,3,Fort Wayne,6,TSCRSLY
+boxscores/1911/1911-SL,1911,Central League,0508-grandrapidsi-wheeling-0,19110508,0,Wheeling,5,Grand Rapids I,3,FCBXMGZ
+boxscores/1911/1911-SL,1911,Central League,0508-southbendi-zanesville-0,19110508,0,Zanesville,4,South Bend I,5,YXWJQLJ
+boxscores/1911/1911-SL,1911,Central League,0509-dayton-terrehaute-0,19110509,0,Terre Haute,2,Dayton,8,LLFDHMZ
+boxscores/1911/1911-SL,1911,Central League,0509-evansville-fortwayne-0,19110509,0,Evansville,3,Fort Wayne,2,FHRSNTN
+boxscores/1911/1911-SL,1911,Central League,0509-grandrapidsi-wheeling-0,19110509,0,Wheeling,5,Grand Rapids I,4,FXBRGPR
+boxscores/1911/1911-SL,1911,Central League,0509-southbendi-zanesville-0,19110509,0,Zanesville,0,South Bend I,1,PZLDHPG
+boxscores/1911/1911-SL,1911,Central League,0510-dayton-terrehaute-0,19110510,0,Terre Haute,5,Dayton,10,KWTCFFH
+boxscores/1911/1911-SL,1911,Central League,0510-evansville-fortwayne-0,19110510,0,Evansville,3,Fort Wayne,7,JNSCHNG
+boxscores/1911/1911-SL,1911,Central League,0510-grandrapidsi-wheeling-0,19110510,0,Wheeling,1,Grand Rapids I,2,DTSGGCX
+boxscores/1911/1911-SL,1911,Central League,0510-southbendi-zanesville-0,19110510,0,Zanesville,0,South Bend I,1,LKBLKGX
+boxscores/1911/1911-SL,1911,Central League,0511-dayton-terrehaute-0,19110511,0,Terre Haute,1,Dayton,3,LFBHBRK
+boxscores/1911/1911-SL,1911,Central League,0511-evansville-fortwayne-0,19110511,0,Evansville,4,Fort Wayne,3,CWDGPBJ
+boxscores/1911/1911-SL,1911,Central League,0511-grandrapidsi-wheeling-0,19110511,0,Wheeling,3,Grand Rapids I,2,WVJHGDW
+boxscores/1911/1911-SL,1911,Central League,0511-southbendi-zanesville-0,19110511,0,Zanesville,6,South Bend I,0,ZJRKRRW
+boxscores/1911/1911-SL,1911,Central League,0512-dayton-zanesville-0,19110512,0,Zanesville,7,Dayton,5,SRGWKRG
+boxscores/1911/1911-SL,1911,Central League,0512-fortwayne-wheeling-0,19110512,0,Wheeling,8,Fort Wayne,11,WZLZCNR
+boxscores/1911/1911-SL,1911,Central League,0512-evansville-grandrapidsi-0,19110512,0,Evansville,3,Grand Rapids I,4,PYNZGKD
+boxscores/1911/1911-SL,1911,Central League,0512-southbendi-terrehaute-0,19110512,0,Terre Haute,5,South Bend I,1,BZWHWQZ
+boxscores/1911/1911-SL,1911,Central League,0513-dayton-zanesville-0,19110513,0,Zanesville,3,Dayton,10,NCHRPHZ
+boxscores/1911/1911-SL,1911,Central League,0513-fortwayne-wheeling-0,19110513,0,Wheeling,9,Fort Wayne,11,LKLPBJD
+boxscores/1911/1911-SL,1911,Central League,0513-evansville-grandrapidsi-0,19110513,0,Evansville,4,Grand Rapids I,3,HNGMZKW
+boxscores/1911/1911-SL,1911,Central League,0513-southbendi-terrehaute-0,19110513,0,Terre Haute,6,South Bend I,7,YNCLTSM
+boxscores/1911/1911-SL,1911,Central League,0514-dayton-zanesville-0,19110514,0,Zanesville,7,Dayton,5,LQCWRZT
+boxscores/1911/1911-SL,1911,Central League,0514-fortwayne-wheeling-0,19110514,0,Wheeling,6,Fort Wayne,7,SGSHYHD
+boxscores/1911/1911-SL,1911,Central League,0514-evansville-grandrapidsi-0,19110514,0,Evansville,1,Grand Rapids I,3,CTPTPJC
+boxscores/1911/1911-SL,1911,Central League,0514-southbendi-terrehaute-0,19110514,0,Terre Haute,10,South Bend I,5,NGGXXPZ
+boxscores/1911/1911-SL,1911,Central League,0515-dayton-zanesville-0,19110515,0,Zanesville,4,Dayton,2,JGCQFCC
+boxscores/1911/1911-SL,1911,Central League,0515-fortwayne-wheeling-0,19110515,0,Wheeling,4,Fort Wayne,6,ZQVPWCH
+boxscores/1911/1911-SL,1911,Central League,0515-evansville-grandrapidsi-0,19110515,0,Evansville,1,Grand Rapids I,3,JNDZZTH
+boxscores/1911/1911-SL,1911,Central League,0515-southbendi-terrehaute-0,19110515,0,Terre Haute,2,South Bend I,3,QDPSZDR
+boxscores/1911/1911-SL,1911,Central League,0516-dayton-wheeling-0,19110516,0,Wheeling,0,Dayton,2,DXKTMTG
+boxscores/1911/1911-SL,1911,Central League,0516-fortwayne-zanesville-0,19110516,0,Zanesville,,Fort Wayne,,ZLDBBYW
+boxscores/1911/1911-SL,1911,Central League,0516-grandrapidsi-terrehaute-0,19110516,0,Terre Haute,1,Grand Rapids I,5,XNKHKKX
+boxscores/1911/1911-SL,1911,Central League,0516-evansville-southbendi-0,19110516,0,Evansville,5,South Bend I,6,PSSKZJN
+boxscores/1911/1911-SL,1911,Central League,0517-dayton-wheeling-0,19110517,0,Wheeling,5,Dayton,7,TKNRNJT
+boxscores/1911/1911-SL,1911,Central League,0517-fortwayne-zanesville-0,19110517,0,Zanesville,6,Fort Wayne,11,XKKHLNR
+boxscores/1911/1911-SL,1911,Central League,0517-grandrapidsi-terrehaute-0,19110517,0,Terre Haute,3,Grand Rapids I,4,XHGJTGF
+boxscores/1911/1911-SL,1911,Central League,0517-evansville-southbendi-0,19110517,0,Evansville,1,South Bend I,7,WBSZZSH
+boxscores/1911/1911-SL,1911,Central League,0518-dayton-wheeling-0,19110518,0,Wheeling,2,Dayton,10,NHGKMFQ
+boxscores/1911/1911-SL,1911,Central League,0518-fortwayne-zanesville-0,19110518,0,Zanesville,7,Fort Wayne,5,SQBZKSH
+boxscores/1911/1911-SL,1911,Central League,0518-evansville-southbendi-0,19110518,0,Evansville,2,South Bend I,1,JPYFZRB
+boxscores/1911/1911-SL,1911,Central League,0519-dayton-wheeling-0,19110519,0,Wheeling,3,Dayton,3,YPTRKQL
+boxscores/1911/1911-SL,1911,Central League,0519-fortwayne-zanesville-0,19110519,0,Zanesville,5,Fort Wayne,4,WFMDWHM
+boxscores/1911/1911-SL,1911,Central League,0519-grandrapidsi-terrehaute-1,19110519,1,Terre Haute,2,Grand Rapids I,1,VDYGDGC
+boxscores/1911/1911-SL,1911,Central League,0519-grandrapidsi-terrehaute-2,19110519,2,Terre Haute,2,Grand Rapids I,7,WRMYDSH
+boxscores/1911/1911-SL,1911,Central League,0519-evansville-southbendi-0,19110519,0,Evansville,8,South Bend I,2,FCZXNXB
+boxscores/1911/1911-SL,1911,Central League,0520-evansville-fortwayne-0,19110520,0,Fort Wayne,,Evansville,,MYMLMYJ
+boxscores/1911/1911-SL,1911,Central League,0520-dayton-terrehaute-0,19110520,0,Dayton,9,Terre Haute,5,QQNDLXD
+boxscores/1911/1911-SL,1911,Central League,0520-southbendi-wheeling-0,19110520,0,South Bend I,7,Wheeling,4,SVJSJTP
+boxscores/1911/1911-SL,1911,Central League,0520-grandrapidsi-zanesville-0,19110520,0,Grand Rapids I,3,Zanesville,4,HRNTTWV
+boxscores/1911/1911-SL,1911,Central League,0521-evansville-fortwayne-1,19110521,1,Fort Wayne,2,Evansville,5,BWJTHDF
+boxscores/1911/1911-SL,1911,Central League,0521-evansville-fortwayne-2,19110521,2,Fort Wayne,2,Evansville,0,QWPZXZQ
+boxscores/1911/1911-SL,1911,Central League,0521-dayton-terrehaute-0,19110521,0,Dayton,5,Terre Haute,2,SXFPTRK
+boxscores/1911/1911-SL,1911,Central League,0521-southbendi-wheeling-0,19110521,0,South Bend I,5,Wheeling,7,GMWYDMT
+boxscores/1911/1911-SL,1911,Central League,0521-grandrapidsi-zanesville-0,19110521,0,Grand Rapids I,0,Zanesville,5,QPJLRGR
+boxscores/1911/1911-SL,1911,Central League,0522-evansville-fortwayne-0,19110522,0,Fort Wayne,4,Evansville,3,QKPLLWQ
+boxscores/1911/1911-SL,1911,Central League,0522-dayton-terrehaute-0,19110522,0,Dayton,,Terre Haute,,HHJDFQC
+boxscores/1911/1911-SL,1911,Central League,0522-southbendi-wheeling-0,19110522,0,South Bend I,5,Wheeling,1,KLDHRLK
+boxscores/1911/1911-SL,1911,Central League,0522-grandrapidsi-zanesville-0,19110522,0,Grand Rapids I,6,Zanesville,10,LGJLNSF
+boxscores/1911/1911-SL,1911,Central League,0523-evansville-fortwayne-0,19110523,0,Fort Wayne,7,Evansville,10,WBDKFXF
+boxscores/1911/1911-SL,1911,Central League,0523-dayton-terrehaute-0,19110523,0,Dayton,7,Terre Haute,1,XHNXFSJ
+boxscores/1911/1911-SL,1911,Central League,0523-southbendi-wheeling-0,19110523,0,South Bend I,6,Wheeling,8,MJBJYKZ
+boxscores/1911/1911-SL,1911,Central League,0523-grandrapidsi-zanesville-0,19110523,0,Grand Rapids I,2,Zanesville,5,ZMSJQPB
+boxscores/1911/1911-SL,1911,Central League,0524-dayton-evansville-0,19110524,0,Dayton,10,Evansville,1,FPTVTDM
+boxscores/1911/1911-SL,1911,Central League,0524-fortwayne-terrehaute-0,19110524,0,Fort Wayne,1,Terre Haute,4,MVTVHMK
+boxscores/1911/1911-SL,1911,Central League,0524-grandrapidsi-wheeling-0,19110524,0,Grand Rapids I,14,Wheeling,4,ZTPFKDZ
+boxscores/1911/1911-SL,1911,Central League,0524-southbendi-zanesville-0,19110524,0,South Bend I,1,Zanesville,5,PFHVLXZ
+boxscores/1911/1911-SL,1911,Central League,0525-dayton-evansville-0,19110525,0,Dayton,5,Evansville,4,CJTTLCX
+boxscores/1911/1911-SL,1911,Central League,0525-fortwayne-terrehaute-0,19110525,0,Fort Wayne,5,Terre Haute,7,YCFFQGX
+boxscores/1911/1911-SL,1911,Central League,0525-grandrapidsi-wheeling-0,19110525,0,Grand Rapids I,5,Wheeling,4,VKFFQZM
+boxscores/1911/1911-SL,1911,Central League,0525-southbendi-zanesville-0,19110525,0,South Bend I,0,Zanesville,1,BLYFTVM
+boxscores/1911/1911-SL,1911,Central League,0526-dayton-evansville-0,19110526,0,Dayton,6,Evansville,7,CMKKJRT
+boxscores/1911/1911-SL,1911,Central League,0526-fortwayne-terrehaute-0,19110526,0,Fort Wayne,8,Terre Haute,4,BGYSQZC
+boxscores/1911/1911-SL,1911,Central League,0526-grandrapidsi-wheeling-0,19110526,0,Grand Rapids I,4,Wheeling,7,FGDGYSL
+boxscores/1911/1911-SL,1911,Central League,0526-southbendi-zanesville-0,19110526,0,South Bend I,3,Zanesville,2,BNHHKSM
+boxscores/1911/1911-SL,1911,Central League,0527-dayton-evansville-0,19110527,0,Dayton,8,Evansville,11,DXWWVDJ
+boxscores/1911/1911-SL,1911,Central League,0527-fortwayne-terrehaute-0,19110527,0,Fort Wayne,5,Terre Haute,3,BVZCRSH
+boxscores/1911/1911-SL,1911,Central League,0527-grandrapidsi-wheeling-0,19110527,0,Grand Rapids I,5,Wheeling,3,XKSSTWG
+boxscores/1911/1911-SL,1911,Central League,0527-southbendi-zanesville-0,19110527,0,South Bend I,2,Zanesville,3,MCSZCVK
+boxscores/1911/1911-SL,1911,Central League,0528-dayton-fortwayne-0,19110528,0,Fort Wayne,12,Dayton,2,ZPHPXZT
+boxscores/1911/1911-SL,1911,Central League,0528-evansville-terrehaute-0,19110528,0,Terre Haute,6,Evansville,2,VGSRCPQ
+boxscores/1911/1911-SL,1911,Central League,0528-grandrapidsi-southbendi-0,19110528,0,South Bend I,8,Grand Rapids I,7,TBJKKHY
+boxscores/1911/1911-SL,1911,Central League,0528-wheeling-zanesville-0,19110528,0,Wheeling,7,Zanesville,4,THMJNTG
+boxscores/1911/1911-SL,1911,Central League,0529-dayton-fortwayne-0,19110529,0,Fort Wayne,0,Dayton,10,ZVSBZSL
+boxscores/1911/1911-SL,1911,Central League,0529-evansville-terrehaute-0,19110529,0,Terre Haute,8,Evansville,3,VGLMQXG
+boxscores/1911/1911-SL,1911,Central League,0529-grandrapidsi-southbendi-0,19110529,0,South Bend I,6,Grand Rapids I,7,RQMZBHX
+boxscores/1911/1911-SL,1911,Central League,0529-wheeling-zanesville-0,19110529,0,Wheeling,6,Zanesville,5,GMJHGBW
+boxscores/1911/1911-SL,1911,Central League,0530-dayton-fortwayne-1,19110530,1,Fort Wayne,2,Dayton,4,CLZNDSW
+boxscores/1911/1911-SL,1911,Central League,0530-dayton-fortwayne-2,19110530,2,Fort Wayne,5,Dayton,3,ZNQWGDR
+boxscores/1911/1911-SL,1911,Central League,0530-evansville-terrehaute-0,19110530,0,Terre Haute,6,Evansville,13,NWGQQCS
+boxscores/1911/1911-SL,1911,Central League,0530-grandrapidsi-southbendi-1,19110530,1,South Bend I,7,Grand Rapids I,9,FTHZRQW
+boxscores/1911/1911-SL,1911,Central League,0530-grandrapidsi-southbendi-2,19110530,2,South Bend I,2,Grand Rapids I,3,VXBZDBN
+boxscores/1911/1911-SL,1911,Central League,0530-wheeling-zanesville-1,19110530,1,Wheeling,4,Zanesville,5,PCCFZWZ
+boxscores/1911/1911-SL,1911,Central League,0530-wheeling-zanesville-2,19110530,2,Wheeling,9,Zanesville,4,LMGLTBG
+boxscores/1911/1911-SL,1911,Central League,0531-evansville-terrehaute-0,19110531,0,Terre Haute,3,Evansville,7,GCSLRCM
+boxscores/1911/1911-SL,1911,Central League,0601-dayton-fortwayne-0,19110601,0,Dayton,2,Fort Wayne,1,KNNKFQZ
+boxscores/1911/1911-SL,1911,Central League,0601-grandrapidsi-southbendi-0,19110601,0,South Bend I,3,Grand Rapids I,5,BDLYTJR
+boxscores/1911/1911-SL,1911,Central League,0601-evansville-terrehaute-0,19110601,0,Evansville,4,Terre Haute,6,SQWQKGV
+boxscores/1911/1911-SL,1911,Central League,0601-wheeling-zanesville-0,19110601,0,Zanesville,11,Wheeling,9,VZFWGSY
+boxscores/1911/1911-SL,1911,Central League,0602-dayton-fortwayne-0,19110602,0,Dayton,10,Fort Wayne,3,WNPMDPJ
+boxscores/1911/1911-SL,1911,Central League,0602-grandrapidsi-southbendi-0,19110602,0,Grand Rapids I,4,South Bend I,2,KFDLBMQ
+boxscores/1911/1911-SL,1911,Central League,0602-evansville-terrehaute-0,19110602,0,Evansville,1,Terre Haute,3,LDWSMLY
+boxscores/1911/1911-SL,1911,Central League,0602-wheeling-zanesville-0,19110602,0,Zanesville,2,Wheeling,5,MRNTCWT
+boxscores/1911/1911-SL,1911,Central League,0603-dayton-fortwayne-0,19110603,0,Dayton,8,Fort Wayne,0,QLYSYWG
+boxscores/1911/1911-SL,1911,Central League,0603-grandrapidsi-southbendi-1,19110603,1,Grand Rapids I,1,South Bend I,2,WLCVCRS
+boxscores/1911/1911-SL,1911,Central League,0603-grandrapidsi-southbendi-2,19110603,2,Grand Rapids I,3,South Bend I,1,NHTJFLJ
+boxscores/1911/1911-SL,1911,Central League,0603-evansville-terrehaute-0,19110603,0,Evansville,3,Terre Haute,1,BNKSLZK
+boxscores/1911/1911-SL,1911,Central League,0603-wheeling-zanesville-0,19110603,0,Zanesville,4,Wheeling,5,HRMHTHH
+boxscores/1911/1911-SL,1911,Central League,0604-dayton-fortwayne-0,19110604,0,Dayton,2,Fort Wayne,8,NPBKDRY
+boxscores/1911/1911-SL,1911,Central League,0604-grandrapidsi-southbendi-0,19110604,0,Grand Rapids I,1,South Bend I,5,GTTFXDP
+boxscores/1911/1911-SL,1911,Central League,0604-evansville-terrehaute-0,19110604,0,Evansville,2,Terre Haute,1,WMWZJZP
+boxscores/1911/1911-SL,1911,Central League,0604-wheeling-zanesville-0,19110604,0,Wheeling,3,Zanesville,2,YMXFFBN
+boxscores/1911/1911-SL,1911,Central League,0605-fortwayne-grandrapidsi-0,19110605,0,Grand Rapids I,2,Fort Wayne,0,CZVTTNV
+boxscores/1911/1911-SL,1911,Central League,0605-dayton-southbendi-0,19110605,0,Dayton,7,South Bend I,2,ZBTCBLR
+boxscores/1911/1911-SL,1911,Central League,0605-terrehaute-wheeling-0,19110605,0,Terre Haute,,Wheeling,,BSDYSRX
+boxscores/1911/1911-SL,1911,Central League,0605-evansville-zanesville-0,19110605,0,Evansville,3,Zanesville,4,XMVLHDV
+boxscores/1911/1911-SL,1911,Central League,0606-fortwayne-grandrapidsi-0,19110606,0,Grand Rapids I,1,Fort Wayne,2,HBXKBRY
+boxscores/1911/1911-SL,1911,Central League,0606-dayton-southbendi-0,19110606,0,Dayton,3,South Bend I,2,XLZZRYP
+boxscores/1911/1911-SL,1911,Central League,0606-terrehaute-wheeling-0,19110606,0,Terre Haute,,Wheeling,,CTLBNMP
+boxscores/1911/1911-SL,1911,Central League,0606-evansville-zanesville-0,19110606,0,Evansville,1,Zanesville,2,MWKPWMW
+boxscores/1911/1911-SL,1911,Central League,0607-fortwayne-grandrapidsi-0,19110607,0,Grand Rapids I,7,Fort Wayne,2,KMFLSNL
+boxscores/1911/1911-SL,1911,Central League,0607-dayton-southbendi-0,19110607,0,Dayton,1,South Bend I,2,YJVJXVZ
+boxscores/1911/1911-SL,1911,Central League,0607-terrehaute-wheeling-1,19110607,1,Terre Haute,2,Wheeling,5,JQVGLFS
+boxscores/1911/1911-SL,1911,Central League,0607-terrehaute-wheeling-2,19110607,2,Terre Haute,4,Wheeling,10,LYYNTDM
+boxscores/1911/1911-SL,1911,Central League,0607-evansville-zanesville-0,19110607,0,Evansville,1,Zanesville,12,HVCLXVN
+boxscores/1911/1911-SL,1911,Central League,0608-fortwayne-grandrapidsi-0,19110608,0,Grand Rapids I,0,Fort Wayne,7,RLLVQND
+boxscores/1911/1911-SL,1911,Central League,0608-dayton-southbendi-0,19110608,0,Dayton,2,South Bend I,0,ZWQCWHL
+boxscores/1911/1911-SL,1911,Central League,0608-terrehaute-wheeling-1,19110608,1,Terre Haute,4,Wheeling,2,MQKRLWW
+boxscores/1911/1911-SL,1911,Central League,0608-terrehaute-wheeling-2,19110608,2,Terre Haute,1,Wheeling,9,YSQQDQN
+boxscores/1911/1911-SL,1911,Central League,0608-evansville-zanesville-0,19110608,0,Evansville,6,Zanesville,3,VNGNVFF
+boxscores/1911/1911-SL,1911,Central League,0609-dayton-grandrapidsi-0,19110609,0,Dayton,,Grand Rapids I,,YNHVTLB
+boxscores/1911/1911-SL,1911,Central League,0609-fortwayne-southbendi-0,19110609,0,Fort Wayne,0,South Bend I,3,ZBVVKBV
+boxscores/1911/1911-SL,1911,Central League,0609-evansville-wheeling-0,19110609,0,Evansville,1,Wheeling,3,JRNKQQG
+boxscores/1911/1911-SL,1911,Central League,0609-terrehaute-zanesville-0,19110609,0,Terre Haute,5,Zanesville,7,JPRRMZS
+boxscores/1911/1911-SL,1911,Central League,0610-dayton-grandrapidsi-0,19110610,0,Grand Rapids I,3,Dayton,5,XVLQRCR
+boxscores/1911/1911-SL,1911,Central League,0610-fortwayne-southbendi-0,19110610,0,Fort Wayne,3,South Bend I,6,MRBLGTL
+boxscores/1911/1911-SL,1911,Central League,0610-evansville-wheeling-0,19110610,0,Evansville,10,Wheeling,4,TZDWHWJ
+boxscores/1911/1911-SL,1911,Central League,0610-terrehaute-zanesville-0,19110610,0,Terre Haute,5,Zanesville,7,SPTYKRZ
+boxscores/1911/1911-SL,1911,Central League,0611-dayton-grandrapidsi-1,19110611,1,Grand Rapids I,2,Dayton,4,MPNLCHY
+boxscores/1911/1911-SL,1911,Central League,0611-dayton-grandrapidsi-2,19110611,2,Grand Rapids I,4,Dayton,8,QZDRHNG
+boxscores/1911/1911-SL,1911,Central League,0611-fortwayne-southbendi-0,19110611,0,Fort Wayne,3,South Bend I,4,YPWFWQC
+boxscores/1911/1911-SL,1911,Central League,0611-evansville-wheeling-0,19110611,0,Evansville,3,Wheeling,4,CGKRLCW
+boxscores/1911/1911-SL,1911,Central League,0611-terrehaute-zanesville-0,19110611,0,Terre Haute,6,Zanesville,1,GBWDHQK
+boxscores/1911/1911-SL,1911,Central League,0612-dayton-grandrapidsi-0,19110612,0,Grand Rapids I,0,Dayton,14,PPYFKRN
+boxscores/1911/1911-SL,1911,Central League,0612-fortwayne-southbendi-0,19110612,0,Fort Wayne,3,South Bend I,0,CWHKQKH
+boxscores/1911/1911-SL,1911,Central League,0612-evansville-wheeling-0,19110612,0,Evansville,3,Wheeling,5,TMQHCHD
+boxscores/1911/1911-SL,1911,Central League,0612-terrehaute-zanesville-0,19110612,0,Terre Haute,9,Zanesville,6,DXCRDZC
+boxscores/1911/1911-SL,1911,Central League,0613-dayton-southbendi-0,19110613,0,South Bend I,11,Dayton,16,QYZQMTX
+boxscores/1911/1911-SL,1911,Central League,0613-fortwayne-grandrapidsi-0,19110613,0,Grand Rapids I,4,Fort Wayne,3,PYWMFSZ
+boxscores/1911/1911-SL,1911,Central League,0613-terrehaute-wheeling-0,19110613,0,Wheeling,15,Terre Haute,9,XHFBBFH
+boxscores/1911/1911-SL,1911,Central League,0613-evansville-zanesville-0,19110613,0,Evansville,3,Zanesville,4,WVSDZTW
+boxscores/1911/1911-SL,1911,Central League,0614-dayton-southbendi-0,19110614,0,South Bend I,,Dayton,,PMLYRCQ
+boxscores/1911/1911-SL,1911,Central League,0614-evansville-zanesville-0,19110614,0,Zanesville,3,Evansville,4,HPYMZGX
+boxscores/1911/1911-SL,1911,Central League,0614-fortwayne-grandrapidsi-0,19110614,0,Grand Rapids I,1,Fort Wayne,5,LWTDRSV
+boxscores/1911/1911-SL,1911,Central League,0614-terrehaute-wheeling-0,19110614,0,Wheeling,9,Terre Haute,14,HBRWCLH
+boxscores/1911/1911-SL,1911,Central League,0615-dayton-southbendi-1,19110615,1,South Bend I,5,Dayton,0,VBPGYHR
+boxscores/1911/1911-SL,1911,Central League,0615-dayton-southbendi-2,19110615,2,South Bend I,0,Dayton,10,MWSHZLF
+boxscores/1911/1911-SL,1911,Central League,0615-evansville-zanesville-0,19110615,0,Zanesville,6,Evansville,3,YQYCRNW
+boxscores/1911/1911-SL,1911,Central League,0615-fortwayne-grandrapidsi-0,19110615,0,Grand Rapids I,0,Fort Wayne,7,DSNXGCM
+boxscores/1911/1911-SL,1911,Central League,0615-terrehaute-wheeling-0,19110615,0,Wheeling,5,Terre Haute,6,VGZXMJK
+boxscores/1911/1911-SL,1911,Central League,0616-evansville-zanesville-0,19110616,0,Zanesville,,Evansville,,XYYSNHG
+boxscores/1911/1911-SL,1911,Central League,0616-fortwayne-grandrapidsi-0,19110616,0,Grand Rapids I,,Fort Wayne,,HNFDKSJ
+boxscores/1911/1911-SL,1911,Central League,0616-grandrapidsi-southbendi-0,19110616,0,South Bend I,,Grand Rapids I,,FBCVDYR
+boxscores/1911/1911-SL,1911,Central League,0616-terrehaute-wheeling-0,19110616,0,Wheeling,4,Terre Haute,5,SPMNVBQ
+boxscores/1911/1911-SL,1911,Central League,0617-dayton-grandrapidsi-0,19110617,0,Grand Rapids I,1,Dayton,3,XRVNXQT
+boxscores/1911/1911-SL,1911,Central League,0617-evansville-wheeling-0,19110617,0,Wheeling,,Evansville,,ZLCFDZS
+boxscores/1911/1911-SL,1911,Central League,0617-fortwayne-southbendi-0,19110617,0,South Bend I,1,Fort Wayne,13,YGKZPGM
+boxscores/1911/1911-SL,1911,Central League,0617-terrehaute-zanesville-0,19110617,0,Zanesville,10,Terre Haute,5,TJYKYGH
+boxscores/1911/1911-SL,1911,Central League,0618-dayton-grandrapidsi-0,19110618,0,Grand Rapids I,0,Dayton,5,HDYYNBX
+boxscores/1911/1911-SL,1911,Central League,0618-evansville-wheeling-1,19110618,1,Wheeling,0,Evansville,8,DSRKFCQ
+boxscores/1911/1911-SL,1911,Central League,0618-evansville-wheeling-2,19110618,2,Wheeling,1,Evansville,2,DLDQLCF
+boxscores/1911/1911-SL,1911,Central League,0618-fortwayne-southbendi-0,19110618,0,South Bend I,4,Fort Wayne,3,NJBTKVM
+boxscores/1911/1911-SL,1911,Central League,0618-terrehaute-zanesville-0,19110618,0,Zanesville,5,Terre Haute,2,LQTXKTB
+boxscores/1911/1911-SL,1911,Central League,0619-dayton-grandrapidsi-0,19110619,0,Grand Rapids I,2,Dayton,13,BHBGYTK
+boxscores/1911/1911-SL,1911,Central League,0619-evansville-wheeling-0,19110619,0,Wheeling,1,Evansville,2,SRRXMVS
+boxscores/1911/1911-SL,1911,Central League,0619-fortwayne-southbendi-0,19110619,0,South Bend I,5,Fort Wayne,7,RCTTMKN
+boxscores/1911/1911-SL,1911,Central League,0619-terrehaute-zanesville-0,19110619,0,Zanesville,7,Terre Haute,4,FGCFBPS
+boxscores/1911/1911-SL,1911,Central League,0620-dayton-grandrapidsi-0,19110620,0,Grand Rapids I,7,Dayton,8,BDFXFFV
+boxscores/1911/1911-SL,1911,Central League,0620-evansville-wheeling-0,19110620,0,Wheeling,3,Evansville,8,CMDJBHN
+boxscores/1911/1911-SL,1911,Central League,0620-fortwayne-southbendi-0,19110620,0,South Bend I,11,Fort Wayne,3,YCSTWXP
+boxscores/1911/1911-SL,1911,Central League,0620-terrehaute-zanesville-0,19110620,0,Zanesville,8,Terre Haute,4,XRVGBYP
+boxscores/1911/1911-SL,1911,Central League,0621-dayton-evansville-0,19110621,0,Evansville,2,Dayton,13,GPLLGHB
+boxscores/1911/1911-SL,1911,Central League,0621-fortwayne-terrehaute-0,19110621,0,Terre Haute,0,Fort Wayne,12,RLBXBXV
+boxscores/1911/1911-SL,1911,Central League,0621-grandrapidsi-zanesville-0,19110621,0,Zanesville,11,Grand Rapids I,9,KPKFBGY
+boxscores/1911/1911-SL,1911,Central League,0621-southbendi-wheeling-0,19110621,0,Wheeling,0,South Bend I,7,HJVQRVZ
+boxscores/1911/1911-SL,1911,Central League,0622-dayton-evansville-0,19110622,0,Evansville,3,Dayton,4,RTRBWHJ
+boxscores/1911/1911-SL,1911,Central League,0622-fortwayne-terrehaute-0,19110622,0,Terre Haute,2,Fort Wayne,,PCFTBML
+boxscores/1911/1911-SL,1911,Central League,0622-grandrapidsi-zanesville-0,19110622,0,Zanesville,7,Grand Rapids I,2,KDBYTWC
+boxscores/1911/1911-SL,1911,Central League,0622-southbendi-wheeling-0,19110622,0,Wheeling,3,South Bend I,2,HVWWTWJ
+boxscores/1911/1911-SL,1911,Central League,0623-dayton-evansville-0,19110623,0,Evansville,5,Dayton,3,NXBHZVK
+boxscores/1911/1911-SL,1911,Central League,0623-fortwayne-terrehaute-0,19110623,0,Terre Haute,5,Fort Wayne,13,QTZRPXR
+boxscores/1911/1911-SL,1911,Central League,0623-grandrapidsi-zanesville-0,19110623,0,Zanesville,6,Grand Rapids I,3,YGGMXDL
+boxscores/1911/1911-SL,1911,Central League,0623-southbendi-wheeling-0,19110623,0,Wheeling,4,South Bend I,14,YVJHHNF
+boxscores/1911/1911-SL,1911,Central League,0624-dayton-terrehaute-0,19110624,0,Terre Haute,4,Dayton,3,TJGMMKY
+boxscores/1911/1911-SL,1911,Central League,0624-evansville-fortwayne-0,19110624,0,Evansville,5,Fort Wayne,3,QVHVHTX
+boxscores/1911/1911-SL,1911,Central League,0624-grandrapidsi-wheeling-0,19110624,0,Wheeling,,Grand Rapids I,,DTXLZGF
+boxscores/1911/1911-SL,1911,Central League,0624-southbendi-zanesville-0,19110624,0,Zanesville,2,South Bend I,3,RKDZMNV
+boxscores/1911/1911-SL,1911,Central League,0625-dayton-terrehaute-0,19110625,0,Terre Haute,3,Dayton,2,QPGTKNB
+boxscores/1911/1911-SL,1911,Central League,0625-evansville-fortwayne-0,19110625,0,Evansville,,Fort Wayne,,ZSNWYYM
+boxscores/1911/1911-SL,1911,Central League,0625-grandrapidsi-wheeling-0,19110625,0,Wheeling,,Grand Rapids I,,ZWVPPVC
+boxscores/1911/1911-SL,1911,Central League,0625-southbendi-zanesville-0,19110625,0,Zanesville,1,South Bend I,2,NLPKZMQ
+boxscores/1911/1911-SL,1911,Central League,0626-evansville-fortwayne-1,19110626,1,Evansville,0,Fort Wayne,4,WYSCSJB
+boxscores/1911/1911-SL,1911,Central League,0626-evansville-fortwayne-2,19110626,2,Evansville,1,Fort Wayne,3,DGVJVJQ
+boxscores/1911/1911-SL,1911,Central League,0626-grandrapidsi-wheeling-1,19110626,1,Wheeling,3,Grand Rapids I,1,RGQYGPB
+boxscores/1911/1911-SL,1911,Central League,0626-grandrapidsi-wheeling-2,19110626,2,Wheeling,1,Grand Rapids I,3,DVJDCFH
+boxscores/1911/1911-SL,1911,Central League,0626-southbendi-zanesville-0,19110626,0,Zanesville,,South Bend I,,LVGCBBX
+boxscores/1911/1911-SL,1911,Central League,0626-dayton-terrehaute-0,19110626,0,Dayton,,Terre Haute,,JVNYWNR
+boxscores/1911/1911-SL,1911,Central League,0627-evansville-southbendi-0,19110627,0,South Bend I,2,Evansville,6,PQHVYYX
+boxscores/1911/1911-SL,1911,Central League,0627-grandrapidsi-terrehaute-0,19110627,0,Grand Rapids I,13,Terre Haute,8,VSNDZTB
+boxscores/1911/1911-SL,1911,Central League,0627-dayton-wheeling-0,19110627,0,Dayton,,Wheeling,,NSSRDBY
+boxscores/1911/1911-SL,1911,Central League,0627-fortwayne-zanesville-0,19110627,0,Fort Wayne,4,Zanesville,0,BZCVTRJ
+boxscores/1911/1911-SL,1911,Central League,0628-evansville-southbendi-0,19110628,0,South Bend I,4,Evansville,3,FKJJZZB
+boxscores/1911/1911-SL,1911,Central League,0628-newark-terrehaute-0,19110628,0,Newark,6,Terre Haute,3,WKRRYMM
+boxscores/1911/1911-SL,1911,Central League,0628-dayton-wheeling-1,19110628,1,Dayton,6,Wheeling,0,MFNBJKK
+boxscores/1911/1911-SL,1911,Central League,0628-dayton-wheeling-2,19110628,2,Dayton,6,Wheeling,2,KBXCNXS
+boxscores/1911/1911-SL,1911,Central League,0628-fortwayne-zanesville-0,19110628,0,Fort Wayne,2,Zanesville,4,RZCJQTV
+boxscores/1911/1911-SL,1911,Central League,0629-evansville-southbendi-0,19110629,0,South Bend I,5,Evansville,4,FYWKZHF
+boxscores/1911/1911-SL,1911,Central League,0629-newark-terrehaute-0,19110629,0,Newark,2,Terre Haute,5,SMBYJDL
+boxscores/1911/1911-SL,1911,Central League,0629-dayton-wheeling-1,19110629,1,Dayton,9,Wheeling,2,TBKTYMF
+boxscores/1911/1911-SL,1911,Central League,0629-dayton-wheeling-2,19110629,2,Dayton,2,Wheeling,0,YXZWLRX
+boxscores/1911/1911-SL,1911,Central League,0629-fortwayne-zanesville-0,19110629,0,Fort Wayne,1,Zanesville,2,VCXRPNJ
+boxscores/1911/1911-SL,1911,Central League,0630-evansville-newark-1,19110630,1,Newark,6,Evansville,8,ZBQNHZV
+boxscores/1911/1911-SL,1911,Central League,0630-evansville-newark-2,19110630,2,Newark,7,Evansville,3,TFNSVKS
+boxscores/1911/1911-SL,1911,Central League,0630-southbendi-terrehaute-0,19110630,0,South Bend I,6,Terre Haute,5,WPTSTPN
+boxscores/1911/1911-SL,1911,Central League,0630-fortwayne-wheeling-0,19110630,0,Fort Wayne,8,Wheeling,10,CWPPDRV
+boxscores/1911/1911-SL,1911,Central League,0630-dayton-zanesville-0,19110630,0,Dayton,4,Zanesville,8,MYVBGJX
+boxscores/1911/1911-SL,1911,Central League,0701-evansville-newark-0,19110701,0,Newark,8,Evansville,9,TDKDWZW
+boxscores/1911/1911-SL,1911,Central League,0701-southbendi-terrehaute-1,19110701,1,South Bend I,3,Terre Haute,2,GMYGLJQ
+boxscores/1911/1911-SL,1911,Central League,0701-southbendi-terrehaute-2,19110701,2,South Bend I,7,Terre Haute,0,QFWLHGM
+boxscores/1911/1911-SL,1911,Central League,0701-fortwayne-wheeling-0,19110701,0,Fort Wayne,2,Wheeling,1,DGCSGJS
+boxscores/1911/1911-SL,1911,Central League,0701-dayton-zanesville-0,19110701,0,Dayton,8,Zanesville,4,FTKPLGY
+boxscores/1911/1911-SL,1911,Central League,0702-evansville-newark-1,19110702,1,Newark,7,Evansville,3,GLBXFQM
+boxscores/1911/1911-SL,1911,Central League,0702-evansville-newark-2,19110702,2,Newark,3,Evansville,2,FTSDPLV
+boxscores/1911/1911-SL,1911,Central League,0702-southbendi-terrehaute-1,19110702,1,South Bend I,1,Terre Haute,2,YBRTHCF
+boxscores/1911/1911-SL,1911,Central League,0702-southbendi-terrehaute-2,19110702,2,South Bend I,1,Terre Haute,2,GCHWYWN
+boxscores/1911/1911-SL,1911,Central League,0702-fortwayne-wheeling-0,19110702,0,Fort Wayne,1,Wheeling,2,BBYXSVS
+boxscores/1911/1911-SL,1911,Central League,0702-dayton-zanesville-0,19110702,0,Dayton,7,Zanesville,4,SYGJDLN
+boxscores/1911/1911-SL,1911,Central League,0703-dayton-fortwayne-0,19110703,0,Dayton,10,Fort Wayne,5,JHGQTVK
+boxscores/1911/1911-SL,1911,Central League,0703-newark-southbendi-0,19110703,0,South Bend I,9,Newark,4,JNSQTTB
+boxscores/1911/1911-SL,1911,Central League,0703-evansville-terrehaute-0,19110703,0,Evansville,3,Terre Haute,6,ZRBBBLD
+boxscores/1911/1911-SL,1911,Central League,0703-wheeling-zanesville-0,19110703,0,Zanesville,7,Wheeling,17,DJHGFJL
+boxscores/1911/1911-SL,1911,Central League,0704-dayton-fortwayne-1,19110704,1,Dayton,5,Fort Wayne,11,HVKDWQV
+boxscores/1911/1911-SL,1911,Central League,0704-dayton-fortwayne-2,19110704,2,Dayton,13,Fort Wayne,6,GVBMZXR
+boxscores/1911/1911-SL,1911,Central League,0704-newark-southbendi-1,19110704,1,South Bend I,1,Newark,3,MMYLTMK
+boxscores/1911/1911-SL,1911,Central League,0704-newark-southbendi-2,19110704,2,South Bend I,3,Newark,1,THYQDXV
+boxscores/1911/1911-SL,1911,Central League,0704-evansville-terrehaute-1,19110704,1,Evansville,8,Terre Haute,5,FLRYYXX
+boxscores/1911/1911-SL,1911,Central League,0704-evansville-terrehaute-2,19110704,2,Evansville,1,Terre Haute,7,QXVHNPT
+boxscores/1911/1911-SL,1911,Central League,0704-wheeling-zanesville-1,19110704,1,Zanesville,7,Wheeling,1,ZGQKVBD
+boxscores/1911/1911-SL,1911,Central League,0704-wheeling-zanesville-2,19110704,2,Zanesville,5,Wheeling,5,XRFRTCN
+boxscores/1911/1911-SL,1911,Central League,0705-dayton-zanesville-0,19110705,0,Zanesville,0,Dayton,1,GVYHTBB
+boxscores/1911/1911-SL,1911,Central League,0705-fortwayne-wheeling-0,19110705,0,Wheeling,3,Fort Wayne,4,TRLNPHH
+boxscores/1911/1911-SL,1911,Central League,0705-evansville-newark-0,19110705,0,Evansville,2,Newark,4,PJPRDKF
+boxscores/1911/1911-SL,1911,Central League,0705-southbendi-terrehaute-0,19110705,0,Terre Haute,4,South Bend I,1,MPPWQKT
+boxscores/1911/1911-SL,1911,Central League,0706-dayton-zanesville-0,19110706,0,Zanesville,1,Dayton,0,DRSSNYY
+boxscores/1911/1911-SL,1911,Central League,0706-fortwayne-wheeling-0,19110706,0,Wheeling,3,Fort Wayne,2,ZQXHPWK
+boxscores/1911/1911-SL,1911,Central League,0706-evansville-newark-0,19110706,0,Evansville,10,Newark,4,FXNTPHH
+boxscores/1911/1911-SL,1911,Central League,0706-southbendi-terrehaute-0,19110706,0,Terre Haute,0,South Bend I,6,HVFJYVT
+boxscores/1911/1911-SL,1911,Central League,0707-dayton-zanesville-0,19110707,0,Zanesville,3,Dayton,7,JVLRDHT
+boxscores/1911/1911-SL,1911,Central League,0707-fortwayne-wheeling-0,19110707,0,Wheeling,0,Fort Wayne,2,KFDVRXQ
+boxscores/1911/1911-SL,1911,Central League,0707-evansville-newark-0,19110707,0,Evansville,,Newark,,PDCYSSK
+boxscores/1911/1911-SL,1911,Central League,0707-southbendi-terrehaute-0,19110707,0,Terre Haute,0,South Bend I,3,BGXVFJQ
+boxscores/1911/1911-SL,1911,Central League,0708-dayton-wheeling-1,19110708,1,Wheeling,4,Dayton,3,BXNZNCK
+boxscores/1911/1911-SL,1911,Central League,0708-dayton-wheeling-2,19110708,2,Wheeling,11,Dayton,5,GXZXFML
+boxscores/1911/1911-SL,1911,Central League,0708-fortwayne-zanesville-0,19110708,0,Zanesville,6,Fort Wayne,9,XQLDKRZ
+boxscores/1911/1911-SL,1911,Central League,0708-newark-terrehaute-0,19110708,0,Terre Haute,1,Newark,5,QDZRHNM
+boxscores/1911/1911-SL,1911,Central League,0708-evansville-southbendi-0,19110708,0,Evansville,7,South Bend I,2,ZVYJGRX
+boxscores/1911/1911-SL,1911,Central League,0709-dayton-wheeling-1,19110709,1,Wheeling,4,Dayton,5,VVKPRVM
+boxscores/1911/1911-SL,1911,Central League,0709-dayton-wheeling-2,19110709,2,Wheeling,1,Dayton,2,PDCLKXN
+boxscores/1911/1911-SL,1911,Central League,0709-fortwayne-zanesville-0,19110709,0,Zanesville,7,Fort Wayne,4,MVFTJQN
+boxscores/1911/1911-SL,1911,Central League,0709-newark-terrehaute-0,19110709,0,Terre Haute,0,Newark,5,JHJDJSR
+boxscores/1911/1911-SL,1911,Central League,0709-evansville-southbendi-0,19110709,0,Evansville,3,South Bend I,7,ZQSXGKS
+boxscores/1911/1911-SL,1911,Central League,0710-fortwayne-zanesville-0,19110710,0,Zanesville,5,Fort Wayne,2,CDMZQPK
+boxscores/1911/1911-SL,1911,Central League,0710-newark-terrehaute-0,19110710,0,Terre Haute,0,Newark,2,XZBJYVT
+boxscores/1911/1911-SL,1911,Central League,0710-evansville-southbendi-0,19110710,0,Evansville,3,South Bend I,0,LYKHCQL
+boxscores/1911/1911-SL,1911,Central League,0711-dayton-newark-0,19110711,0,Dayton,7,Newark,4,XSJRYDK
+boxscores/1911/1911-SL,1911,Central League,0711-fortwayne-southbendi-0,19110711,0,Fort Wayne,0,South Bend I,2,NWNSXPN
+boxscores/1911/1911-SL,1911,Central League,0711-evansville-wheeling-0,19110711,0,Evansville,1,Wheeling,2,XTGNRNR
+boxscores/1911/1911-SL,1911,Central League,0711-terrehaute-zanesville-0,19110711,0,Terre Haute,1,Zanesville,3,HNDTHKF
+boxscores/1911/1911-SL,1911,Central League,0712-dayton-newark-0,19110712,0,Dayton,5,Newark,6,FSVFZTG
+boxscores/1911/1911-SL,1911,Central League,0712-fortwayne-southbendi-0,19110712,0,Fort Wayne,4,South Bend I,2,GYHYGWS
+boxscores/1911/1911-SL,1911,Central League,0712-evansville-wheeling-0,19110712,0,Evansville,4,Wheeling,3,GJGLPYW
+boxscores/1911/1911-SL,1911,Central League,0712-terrehaute-zanesville-0,19110712,0,Terre Haute,2,Zanesville,7,RTQPFQZ
+boxscores/1911/1911-SL,1911,Central League,0713-dayton-newark-0,19110713,0,Dayton,3,Newark,4,ZSSGMVJ
+boxscores/1911/1911-SL,1911,Central League,0713-fortwayne-southbendi-0,19110713,0,Fort Wayne,4,South Bend I,8,SSJRMXQ
+boxscores/1911/1911-SL,1911,Central League,0713-evansville-wheeling-0,19110713,0,Evansville,9,Wheeling,1,PLTDRXM
+boxscores/1911/1911-SL,1911,Central League,0713-terrehaute-zanesville-0,19110713,0,Terre Haute,3,Zanesville,8,YBMPKRN
+boxscores/1911/1911-SL,1911,Central League,0714-dayton-grandrapidsii-0,19110714,0,Dayton,6,Grand Rapids II,7,KGRZDVP
+boxscores/1911/1911-SL,1911,Central League,0714-fortwayne-newark-0,19110714,0,Fort Wayne,7,Newark,10,CNSBHHX
+boxscores/1911/1911-SL,1911,Central League,0714-terrehaute-wheeling-0,19110714,0,Terre Haute,11,Wheeling,8,KVJGCVV
+boxscores/1911/1911-SL,1911,Central League,0714-evansville-zanesville-0,19110714,0,Evansville,4,Zanesville,2,MZJKYLH
+boxscores/1911/1911-SL,1911,Central League,0715-dayton-grandrapidsii-0,19110715,0,Dayton,1,Grand Rapids II,3,PRRSNCG
+boxscores/1911/1911-SL,1911,Central League,0715-fortwayne-newark-0,19110715,0,Fort Wayne,4,Newark,6,HZWRVDX
+boxscores/1911/1911-SL,1911,Central League,0715-terrehaute-wheeling-0,19110715,0,Terre Haute,2,Wheeling,3,RRCGHDZ
+boxscores/1911/1911-SL,1911,Central League,0715-evansville-zanesville-0,19110715,0,Evansville,5,Zanesville,10,VCTFZBY
+boxscores/1911/1911-SL,1911,Central League,0716-dayton-grandrapidsii-0,19110716,0,Dayton,3,Grand Rapids II,2,TZMRQYF
+boxscores/1911/1911-SL,1911,Central League,0716-fortwayne-newark-0,19110716,0,Fort Wayne,4,Newark,0,PGKNXXC
+boxscores/1911/1911-SL,1911,Central League,0716-terrehaute-wheeling-0,19110716,0,Terre Haute,2,Wheeling,3,MSNPQRD
+boxscores/1911/1911-SL,1911,Central League,0716-evansville-zanesville-0,19110716,0,Evansville,7,Zanesville,5,ZBTKTMF
+boxscores/1911/1911-SL,1911,Central League,0717-dayton-fortwayne-0,19110717,0,Fort Wayne,3,Dayton,2,ZDBRCCR
+boxscores/1911/1911-SL,1911,Central League,0717-evansville-terrehaute-0,19110717,0,Terre Haute,7,Evansville,2,TJWDGRL
+boxscores/1911/1911-SL,1911,Central League,0717-grandrapidsii-newark-0,19110717,0,Newark,11,Grand Rapids II,10,GFNXKXS
+boxscores/1911/1911-SL,1911,Central League,0717-wheeling-zanesville-0,19110717,0,Wheeling,3,Zanesville,8,VWBYSMT
+boxscores/1911/1911-SL,1911,Central League,0718-dayton-fortwayne-0,19110718,0,Fort Wayne,2,Dayton,9,LDNCYGR
+boxscores/1911/1911-SL,1911,Central League,0718-evansville-terrehaute-0,19110718,0,Terre Haute,5,Evansville,7,BLNNGZS
+boxscores/1911/1911-SL,1911,Central League,0718-grandrapidsii-newark-0,19110718,0,Newark,3,Grand Rapids II,8,JYBTJMZ
+boxscores/1911/1911-SL,1911,Central League,0718-wheeling-zanesville-1,19110718,1,Wheeling,1,Zanesville,2,HHGYLLQ
+boxscores/1911/1911-SL,1911,Central League,0718-wheeling-zanesville-2,19110718,2,Wheeling,0,Zanesville,3,XKDJNSX
+boxscores/1911/1911-SL,1911,Central League,0719-dayton-fortwayne-0,19110719,0,Fort Wayne,2,Dayton,5,MFSPXFH
+boxscores/1911/1911-SL,1911,Central League,0719-evansville-terrehaute-0,19110719,0,Terre Haute,2,Evansville,10,VDGPYBW
+boxscores/1911/1911-SL,1911,Central League,0719-grandrapidsii-newark-0,19110719,0,Newark,2,Grand Rapids II,4,HMSHBQC
+boxscores/1911/1911-SL,1911,Central League,0720-evansville-fortwayne-0,19110720,0,Fort Wayne,6,Evansville,0,RRSVHBW
+boxscores/1911/1911-SL,1911,Central League,0720-dayton-terrehaute-0,19110720,0,Dayton,6,Terre Haute,0,FJMNLXW
+boxscores/1911/1911-SL,1911,Central League,0720-grandrapidsii-wheeling-0,19110720,0,Grand Rapids II,6,Wheeling,4,TJQYKRS
+boxscores/1911/1911-SL,1911,Central League,0720-newark-zanesville-0,19110720,0,Newark,9,Zanesville,2,KCSXGYX
+boxscores/1911/1911-SL,1911,Central League,0721-evansville-fortwayne-0,19110721,0,Fort Wayne,4,Evansville,5,YVLTWLN
+boxscores/1911/1911-SL,1911,Central League,0721-dayton-terrehaute-0,19110721,0,Dayton,1,Terre Haute,3,ZPHVVKN
+boxscores/1911/1911-SL,1911,Central League,0721-grandrapidsii-wheeling-0,19110721,0,Grand Rapids II,8,Wheeling,5,CCZGCLX
+boxscores/1911/1911-SL,1911,Central League,0721-newark-zanesville-0,19110721,0,Newark,,Zanesville,,XGGCHFT
+boxscores/1911/1911-SL,1911,Central League,0722-evansville-fortwayne-0,19110722,0,Fort Wayne,6,Evansville,4,PKTYDNS
+boxscores/1911/1911-SL,1911,Central League,0722-dayton-terrehaute-0,19110722,0,Dayton,6,Terre Haute,3,RQLPZDJ
+boxscores/1911/1911-SL,1911,Central League,0722-grandrapidsii-wheeling-0,19110722,0,Grand Rapids II,3,Wheeling,8,ZBLKNWS
+boxscores/1911/1911-SL,1911,Central League,0722-newark-zanesville-1,19110722,1,Newark,2,Zanesville,3,RKCKPMT
+boxscores/1911/1911-SL,1911,Central League,0722-newark-zanesville-2,19110722,2,Newark,2,Zanesville,3,NLQYZDC
+boxscores/1911/1911-SL,1911,Central League,0723-dayton-evansville-0,19110723,0,Dayton,8,Evansville,6,TWWWWQJ
+boxscores/1911/1911-SL,1911,Central League,0723-newark-wheeling-1,19110723,1,Wheeling,3,Newark,1,FJRYPVG
+boxscores/1911/1911-SL,1911,Central League,0723-newark-wheeling-2,19110723,2,Wheeling,8,Newark,4,NZXLCVD
+boxscores/1911/1911-SL,1911,Central League,0723-fortwayne-terrehaute-0,19110723,0,Fort Wayne,2,Terre Haute,0,BTXSTXT
+boxscores/1911/1911-SL,1911,Central League,0723-grandrapidsii-zanesville-1,19110723,1,Grand Rapids II,1,Zanesville,0,PKQWWHD
+boxscores/1911/1911-SL,1911,Central League,0723-grandrapidsii-zanesville-2,19110723,2,Grand Rapids II,0,Zanesville,4,BGRSFJQ
+boxscores/1911/1911-SL,1911,Central League,0724-dayton-evansville-0,19110724,0,Dayton,4,Evansville,0,ZZSTJML
+boxscores/1911/1911-SL,1911,Central League,0724-newark-wheeling-0,19110724,0,Wheeling,,Newark,,CZDWXVL
+boxscores/1911/1911-SL,1911,Central League,0724-fortwayne-terrehaute-0,19110724,0,Fort Wayne,1,Terre Haute,3,FQNBKTS
+boxscores/1911/1911-SL,1911,Central League,0724-grandrapidsii-zanesville-0,19110724,0,Grand Rapids II,1,Zanesville,10,VFKQDQN
+boxscores/1911/1911-SL,1911,Central League,0725-dayton-evansville-0,19110725,0,Dayton,2,Evansville,3,JXKGCWJ
+boxscores/1911/1911-SL,1911,Central League,0725-newark-wheeling-1,19110725,1,Wheeling,2,Newark,3,LRZXNYD
+boxscores/1911/1911-SL,1911,Central League,0725-newark-wheeling-2,19110725,2,Wheeling,3,Newark,1,HSBFHWH
+boxscores/1911/1911-SL,1911,Central League,0725-fortwayne-terrehaute-0,19110725,0,Fort Wayne,3,Terre Haute,4,GRHJDRZ
+boxscores/1911/1911-SL,1911,Central League,0726-dayton-newark-0,19110726,0,Newark,7,Dayton,3,ZYLNYMN
+boxscores/1911/1911-SL,1911,Central League,0726-evansville-wheeling-0,19110726,0,Wheeling,5,Evansville,6,LRDPGKL
+boxscores/1911/1911-SL,1911,Central League,0726-fortwayne-grandrapidsii-0,19110726,0,Grand Rapids II,1,Fort Wayne,2,DFQPLSW
+boxscores/1911/1911-SL,1911,Central League,0726-terrehaute-zanesville-0,19110726,0,Zanesville,5,Terre Haute,2,SWRJVMC
+boxscores/1911/1911-SL,1911,Central League,0727-dayton-newark-0,19110727,0,Newark,4,Dayton,0,BFJDWTR
+boxscores/1911/1911-SL,1911,Central League,0727-evansville-wheeling-0,19110727,0,Wheeling,4,Evansville,7,PCMTJZC
+boxscores/1911/1911-SL,1911,Central League,0727-fortwayne-grandrapidsii-0,19110727,0,Grand Rapids II,2,Fort Wayne,3,LBZMCSR
+boxscores/1911/1911-SL,1911,Central League,0727-terrehaute-zanesville-0,19110727,0,Zanesville,3,Terre Haute,5,FYPMMQR
+boxscores/1911/1911-SL,1911,Central League,0728-dayton-newark-0,19110728,0,Newark,1,Dayton,5,XXPWRNS
+boxscores/1911/1911-SL,1911,Central League,0728-evansville-wheeling-0,19110728,0,Wheeling,3,Evansville,4,BKYMKTB
+boxscores/1911/1911-SL,1911,Central League,0728-fortwayne-grandrapidsii-0,19110728,0,Grand Rapids II,5,Fort Wayne,6,VCBZSDR
+boxscores/1911/1911-SL,1911,Central League,0728-terrehaute-zanesville-0,19110728,0,Zanesville,0,Terre Haute,1,DXLXSHV
+boxscores/1911/1911-SL,1911,Central League,0729-dayton-grandrapidsii-0,19110729,0,Grand Rapids II,2,Dayton,3,PPSNZLM
+boxscores/1911/1911-SL,1911,Central League,0729-evansville-zanesville-0,19110729,0,Zanesville,4,Evansville,3,GWRQKZL
+boxscores/1911/1911-SL,1911,Central League,0729-fortwayne-newark-1,19110729,1,Newark,3,Fort Wayne,7,HSGDTWJ
+boxscores/1911/1911-SL,1911,Central League,0729-fortwayne-newark-2,19110729,2,Newark,1,Fort Wayne,7,JYLDWGY
+boxscores/1911/1911-SL,1911,Central League,0729-terrehaute-wheeling-0,19110729,0,Wheeling,9,Terre Haute,4,VFXVFBY
+boxscores/1911/1911-SL,1911,Central League,0730-dayton-grandrapidsii-1,19110730,1,Grand Rapids II,3,Dayton,4,VWGFXSG
+boxscores/1911/1911-SL,1911,Central League,0730-dayton-grandrapidsii-2,19110730,2,Grand Rapids II,0,Dayton,5,TTVQSRM
+boxscores/1911/1911-SL,1911,Central League,0730-evansville-zanesville-1,19110730,1,Zanesville,5,Evansville,6,JKWWNLX
+boxscores/1911/1911-SL,1911,Central League,0730-evansville-zanesville-2,19110730,2,Zanesville,1,Evansville,2,DFMLQRW
+boxscores/1911/1911-SL,1911,Central League,0730-fortwayne-newark-1,19110730,1,Newark,6,Fort Wayne,3,GQXJFHS
+boxscores/1911/1911-SL,1911,Central League,0730-fortwayne-newark-2,19110730,2,Newark,8,Fort Wayne,3,DJFGHRF
+boxscores/1911/1911-SL,1911,Central League,0730-terrehaute-wheeling-1,19110730,1,Wheeling,3,Terre Haute,7,KPDWKZG
+boxscores/1911/1911-SL,1911,Central League,0730-terrehaute-wheeling-2,19110730,2,Wheeling,5,Terre Haute,4,QBTNWBG
+boxscores/1911/1911-SL,1911,Central League,0731-dayton-grandrapidsii-0,19110731,0,Grand Rapids II,1,Dayton,13,PWTZVMZ
+boxscores/1911/1911-SL,1911,Central League,0801-grandrapidsii-zanesville-0,19110801,0,Zanesville,,Grand Rapids II,,QPQCDMZ
+boxscores/1911/1911-SL,1911,Central League,0801-newark-wheeling-0,19110801,0,Wheeling,2,Newark,1,MFCJDTR
+boxscores/1911/1911-SL,1911,Central League,0802-dayton-evansville-0,19110802,0,Evansville,3,Dayton,9,NGHFSHF
+boxscores/1911/1911-SL,1911,Central League,0802-fortwayne-terrehaute-0,19110802,0,Terre Haute,0,Fort Wayne,10,WVDTWBF
+boxscores/1911/1911-SL,1911,Central League,0802-grandrapidsii-zanesville-0,19110802,0,Zanesville,1,Grand Rapids II,2,LBXMBYX
+boxscores/1911/1911-SL,1911,Central League,0802-newark-wheeling-0,19110802,0,Wheeling,,Newark,,NWWTKJW
+boxscores/1911/1911-SL,1911,Central League,0803-dayton-evansville-0,19110803,0,Evansville,2,Dayton,6,KVTKBYC
+boxscores/1911/1911-SL,1911,Central League,0803-fortwayne-terrehaute-0,19110803,0,Terre Haute,0,Fort Wayne,10,BXJKPDR
+boxscores/1911/1911-SL,1911,Central League,0803-grandrapidsii-zanesville-1,19110803,1,Zanesville,1,Grand Rapids II,4,TTSKHSJ
+boxscores/1911/1911-SL,1911,Central League,0803-grandrapidsii-zanesville-2,19110803,2,Zanesville,7,Grand Rapids II,5,YGPDZTY
+boxscores/1911/1911-SL,1911,Central League,0803-newark-wheeling-1,19110803,1,Wheeling,1,Newark,4,DWGBMTH
+boxscores/1911/1911-SL,1911,Central League,0803-newark-wheeling-2,19110803,2,Wheeling,4,Newark,8,XVWWGCP
+boxscores/1911/1911-SL,1911,Central League,0804-dayton-evansville-0,19110804,0,Evansville,3,Dayton,2,FSSFWCQ
+boxscores/1911/1911-SL,1911,Central League,0804-fortwayne-terrehaute-0,19110804,0,Terre Haute,6,Fort Wayne,7,BCTKMYP
+boxscores/1911/1911-SL,1911,Central League,0804-grandrapidsii-wheeling-0,19110804,0,Wheeling,2,Grand Rapids II,1,DJKKLXP
+boxscores/1911/1911-SL,1911,Central League,0804-newark-zanesville-0,19110804,0,Zanesville,1,Newark,3,CFGXHGT
+boxscores/1911/1911-SL,1911,Central League,0805-dayton-terrehaute-0,19110805,0,Terre Haute,6,Dayton,3,CVDFLQX
+boxscores/1911/1911-SL,1911,Central League,0805-evansville-fortwayne-0,19110805,0,Evansville,5,Fort Wayne,1,QLZXRSN
+boxscores/1911/1911-SL,1911,Central League,0805-grandrapidsii-wheeling-0,19110805,0,Wheeling,8,Grand Rapids II,3,RZWCGRN
+boxscores/1911/1911-SL,1911,Central League,0805-newark-zanesville-0,19110805,0,Zanesville,2,Newark,0,CBVPBCS
+boxscores/1911/1911-SL,1911,Central League,0806-dayton-terrehaute-1,19110806,1,Terre Haute,3,Dayton,10,ZFBCMHY
+boxscores/1911/1911-SL,1911,Central League,0806-dayton-terrehaute-2,19110806,2,Terre Haute,8,Dayton,5,WCRHVSF
+boxscores/1911/1911-SL,1911,Central League,0806-evansville-fortwayne-1,19110806,1,Evansville,4,Fort Wayne,0,JBBCCXJ
+boxscores/1911/1911-SL,1911,Central League,0806-evansville-fortwayne-2,19110806,2,Evansville,4,Fort Wayne,6,MVWXZHB
+boxscores/1911/1911-SL,1911,Central League,0806-grandrapidsii-wheeling-0,19110806,0,Wheeling,2,Grand Rapids II,3,STSNHQX
+boxscores/1911/1911-SL,1911,Central League,0806-newark-zanesville-0,19110806,0,Zanesville,4,Newark,8,VYWZRVH
+boxscores/1911/1911-SL,1911,Central League,0807-dayton-terrehaute-0,19110807,0,Terre Haute,3,Dayton,10,XYHBYBR
+boxscores/1911/1911-SL,1911,Central League,0808-grandrapidsii-terrehaute-0,19110808,0,Terre Haute,3,Grand Rapids II,15,LSVPJKN
+boxscores/1911/1911-SL,1911,Central League,0808-evansville-newark-0,19110808,0,Evansville,8,Newark,5,PJNBWYT
+boxscores/1911/1911-SL,1911,Central League,0808-fortwayne-wheeling-0,19110808,0,Fort Wayne,5,Wheeling,4,WJKVZLD
+boxscores/1911/1911-SL,1911,Central League,0808-dayton-zanesville-0,19110808,0,Dayton,0,Zanesville,3,MFZQNVD
+boxscores/1911/1911-SL,1911,Central League,0809-grandrapidsii-terrehaute-0,19110809,0,Terre Haute,5,Grand Rapids II,7,CTMPZBK
+boxscores/1911/1911-SL,1911,Central League,0809-evansville-newark-1,19110809,1,Evansville,3,Newark,4,YTKWVJZ
+boxscores/1911/1911-SL,1911,Central League,0809-evansville-newark-2,19110809,2,Evansville,13,Newark,3,PXJBRRS
+boxscores/1911/1911-SL,1911,Central League,0809-fortwayne-wheeling-0,19110809,0,Fort Wayne,7,Wheeling,5,ZLQCKWD
+boxscores/1911/1911-SL,1911,Central League,0809-dayton-zanesville-0,19110809,0,Dayton,5,Zanesville,3,HCQSWCS
+boxscores/1911/1911-SL,1911,Central League,0810-grandrapidsii-terrehaute-0,19110810,0,Terre Haute,0,Grand Rapids II,1,LPNWRGD
+boxscores/1911/1911-SL,1911,Central League,0810-evansville-newark-0,19110810,0,Evansville,5,Newark,2,WMNYGPX
+boxscores/1911/1911-SL,1911,Central League,0810-fortwayne-wheeling-0,19110810,0,Fort Wayne,1,Wheeling,3,GMGGNRS
+boxscores/1911/1911-SL,1911,Central League,0810-dayton-zanesville-0,19110810,0,Dayton,2,Zanesville,8,TFHDLZJ
+boxscores/1911/1911-SL,1911,Central League,0811-dayton-wheeling-0,19110811,0,Wheeling,,Dayton,,HGCJYGS
+boxscores/1911/1911-SL,1911,Central League,0811-evansville-grandrapidsii-0,19110811,0,Evansville,0,Grand Rapids II,2,HYMLZJL
+boxscores/1911/1911-SL,1911,Central League,0811-newark-terrehaute-0,19110811,0,Terre Haute,4,Newark,10,DKXPDKZ
+boxscores/1911/1911-SL,1911,Central League,0811-fortwayne-zanesville-0,19110811,0,Fort Wayne,6,Zanesville,2,QLGTXHB
+boxscores/1911/1911-SL,1911,Central League,0812-dayton-wheeling-0,19110812,0,Wheeling,6,Dayton,13,XWXPBVY
+boxscores/1911/1911-SL,1911,Central League,0812-evansville-grandrapidsii-0,19110812,0,Evansville,6,Grand Rapids II,4,PXKPBRQ
+boxscores/1911/1911-SL,1911,Central League,0812-fortwayne-zanesville-0,19110812,0,Fort Wayne,1,Zanesville,0,SLYRCVK
+boxscores/1911/1911-SL,1911,Central League,0813-dayton-wheeling-0,19110813,0,Wheeling,4,Dayton,5,SDFZLPJ
+boxscores/1911/1911-SL,1911,Central League,0813-grandrapidsii-southbendii-0,19110813,0,South Bend II,0,Grand Rapids II,1,GDWMQWK
+boxscores/1911/1911-SL,1911,Central League,0813-newark-terrehaute-1,19110813,1,Terre Haute,2,Newark,5,KRKFNTZ
+boxscores/1911/1911-SL,1911,Central League,0813-newark-terrehaute-2,19110813,2,Terre Haute,4,Newark,9,DKYBMPH
+boxscores/1911/1911-SL,1911,Central League,0813-fortwayne-zanesville-0,19110813,0,Fort Wayne,6,Zanesville,0,YNPBSTF
+boxscores/1911/1911-SL,1911,Central League,0814-dayton-fortwayne-0,19110814,0,Dayton,3,Fort Wayne,6,CNFXCTB
+boxscores/1911/1911-SL,1911,Central League,0814-grandrapidsii-newark-0,19110814,0,Grand Rapids II,5,Newark,6,TMNRJPS
+boxscores/1911/1911-SL,1911,Central League,0814-southbendii-terrehaute-0,19110814,0,Terre Haute,0,South Bend II,3,NKQPJJH
+boxscores/1911/1911-SL,1911,Central League,0814-wheeling-zanesville-0,19110814,0,Wheeling,0,Zanesville,3,CZBBPXH
+boxscores/1911/1911-SL,1911,Central League,0815-dayton-fortwayne-0,19110815,0,Dayton,1,Fort Wayne,5,LJJRZZC
+boxscores/1911/1911-SL,1911,Central League,0815-grandrapidsii-newark-0,19110815,0,Grand Rapids II,3,Newark,4,RXFXCQF
+boxscores/1911/1911-SL,1911,Central League,0815-southbendii-terrehaute-0,19110815,0,Terre Haute,7,South Bend II,1,WZZTMYZ
+boxscores/1911/1911-SL,1911,Central League,0815-wheeling-zanesville-0,19110815,0,Wheeling,,Zanesville,,KKFGFMW
+boxscores/1911/1911-SL,1911,Central League,0816-dayton-fortwayne-0,19110816,0,Dayton,5,Fort Wayne,11,HPHMHTL
+boxscores/1911/1911-SL,1911,Central League,0816-grandrapidsii-newark-0,19110816,0,Grand Rapids II,7,Newark,5,WRMLHNV
+boxscores/1911/1911-SL,1911,Central League,0816-southbendii-terrehaute-0,19110816,0,Terre Haute,6,South Bend II,3,KWQFCHG
+boxscores/1911/1911-SL,1911,Central League,0816-wheeling-zanesville-1,19110816,1,Wheeling,1,Zanesville,2,HCBFZVT
+boxscores/1911/1911-SL,1911,Central League,0816-wheeling-zanesville-2,19110816,2,Wheeling,14,Zanesville,10,JNDQPFF
+boxscores/1911/1911-SL,1911,Central League,0817-dayton-wheeling-0,19110817,0,Wheeling,0,Dayton,5,SBSDXWZ
+boxscores/1911/1911-SL,1911,Central League,0817-fortwayne-zanesville-0,19110817,0,Zanesville,2,Fort Wayne,3,DPFHLDF
+boxscores/1911/1911-SL,1911,Central League,0817-newark-southbendii-0,19110817,0,Newark,2,South Bend II,5,BDVMHJM
+boxscores/1911/1911-SL,1911,Central League,0817-grandrapidsii-terrehaute-0,19110817,0,Grand Rapids II,6,Terre Haute,0,ZMDCTFJ
+boxscores/1911/1911-SL,1911,Central League,0818-dayton-wheeling-0,19110818,0,Wheeling,3,Dayton,2,PXHHYXW
+boxscores/1911/1911-SL,1911,Central League,0818-fortwayne-zanesville-0,19110818,0,Zanesville,1,Fort Wayne,2,FFTWFQK
+boxscores/1911/1911-SL,1911,Central League,0818-newark-southbendii-0,19110818,0,Newark,4,South Bend II,3,LMMKKZV
+boxscores/1911/1911-SL,1911,Central League,0818-grandrapidsii-terrehaute-0,19110818,0,Grand Rapids II,2,Terre Haute,0,RZNBMHD
+boxscores/1911/1911-SL,1911,Central League,0819-dayton-wheeling-0,19110819,0,Wheeling,6,Dayton,7,NVMVRSL
+boxscores/1911/1911-SL,1911,Central League,0819-fortwayne-zanesville-0,19110819,0,Zanesville,4,Fort Wayne,5,WNCSSDG
+boxscores/1911/1911-SL,1911,Central League,0819-newark-southbendii-0,19110819,0,Newark,6,South Bend II,9,KKMQBDP
+boxscores/1911/1911-SL,1911,Central League,0819-grandrapidsii-terrehaute-0,19110819,0,Grand Rapids II,2,Terre Haute,3,XQPXBQB
+boxscores/1911/1911-SL,1911,Central League,0820-dayton-zanesville-0,19110820,0,Zanesville,6,Dayton,2,HRZNNLX
+boxscores/1911/1911-SL,1911,Central League,0820-fortwayne-wheeling-0,19110820,0,Wheeling,2,Fort Wayne,5,LXNVHFN
+boxscores/1911/1911-SL,1911,Central League,0820-grandrapidsii-southbendii-0,19110820,0,Grand Rapids II,5,South Bend II,3,FFNQCFK
+boxscores/1911/1911-SL,1911,Central League,0820-newark-terrehaute-0,19110820,0,Newark,10,Terre Haute,6,PKGMLVK
+boxscores/1911/1911-SL,1911,Central League,0821-dayton-zanesville-0,19110821,0,Zanesville,3,Dayton,8,VWWWLZZ
+boxscores/1911/1911-SL,1911,Central League,0821-fortwayne-wheeling-0,19110821,0,Wheeling,5,Fort Wayne,9,NZHNTWQ
+boxscores/1911/1911-SL,1911,Central League,0821-grandrapidsii-southbendii-0,19110821,0,Grand Rapids II,3,South Bend II,1,NXVNBMZ
+boxscores/1911/1911-SL,1911,Central League,0821-newark-terrehaute-0,19110821,0,Newark,4,Terre Haute,1,RWSTBQG
+boxscores/1911/1911-SL,1911,Central League,0822-dayton-zanesville-0,19110822,0,Zanesville,1,Dayton,0,VLDCQGQ
+boxscores/1911/1911-SL,1911,Central League,0822-fortwayne-wheeling-0,19110822,0,Wheeling,,Fort Wayne,,DJKRTSM
+boxscores/1911/1911-SL,1911,Central League,0822-grandrapidsii-southbendii-0,19110822,0,Grand Rapids II,6,South Bend II,3,HZRWTKN
+boxscores/1911/1911-SL,1911,Central League,0822-newark-terrehaute-0,19110822,0,Newark,0,Terre Haute,6,RPKDKHV
+boxscores/1911/1911-SL,1911,Central League,0823-newark-wheeling-0,19110823,0,Wheeling,3,Newark,4,NBNDVGD
+boxscores/1911/1911-SL,1911,Central League,0823-fortwayne-southbendii-0,19110823,0,Fort Wayne,8,South Bend II,1,YRRKQZP
+boxscores/1911/1911-SL,1911,Central League,0823-dayton-terrehaute-0,19110823,0,Dayton,1,Terre Haute,0,LXXGKCM
+boxscores/1911/1911-SL,1911,Central League,0823-grandrapidsii-zanesville-0,19110823,0,Grand Rapids II,14,Zanesville,2,QYVNHTG
+boxscores/1911/1911-SL,1911,Central League,0824-newark-wheeling-0,19110824,0,Wheeling,8,Newark,3,YWVKRPJ
+boxscores/1911/1911-SL,1911,Central League,0824-fortwayne-southbendii-0,19110824,0,Fort Wayne,,South Bend II,,LKFTFBG
+boxscores/1911/1911-SL,1911,Central League,0824-dayton-terrehaute-0,19110824,0,Dayton,,Terre Haute,,HVTQXMY
+boxscores/1911/1911-SL,1911,Central League,0824-grandrapidsii-zanesville-0,19110824,0,Grand Rapids II,0,Zanesville,3,GJFYYND
+boxscores/1911/1911-SL,1911,Central League,0825-newark-wheeling-0,19110825,0,Wheeling,,Newark,,SXBYVBQ
+boxscores/1911/1911-SL,1911,Central League,0825-fortwayne-southbendii-1,19110825,1,Fort Wayne,2,South Bend II,3,NXRGMKK
+boxscores/1911/1911-SL,1911,Central League,0825-fortwayne-southbendii-2,19110825,2,Fort Wayne,3,South Bend II,1,VSGTYQL
+boxscores/1911/1911-SL,1911,Central League,0825-dayton-terrehaute-1,19110825,1,Dayton,4,Terre Haute,3,HKYHDGM
+boxscores/1911/1911-SL,1911,Central League,0825-dayton-terrehaute-2,19110825,2,Dayton,3,Terre Haute,0,JKJZLPV
+boxscores/1911/1911-SL,1911,Central League,0825-grandrapidsii-zanesville-0,19110825,0,Grand Rapids II,,Zanesville,,CDTXVXV
+boxscores/1911/1911-SL,1911,Central League,0826-dayton-southbendii-0,19110826,0,Dayton,2,South Bend II,0,XLGQVSY
+boxscores/1911/1911-SL,1911,Central League,0826-fortwayne-terrehaute-0,19110826,0,Fort Wayne,0,Terre Haute,1,BCHTFJW
+boxscores/1911/1911-SL,1911,Central League,0826-grandrapidsii-wheeling-0,19110826,0,Grand Rapids II,4,Wheeling,2,MJGCHSD
+boxscores/1911/1911-SL,1911,Central League,0826-newark-zanesville-0,19110826,0,Newark,3,Zanesville,4,BHCJRFQ
+boxscores/1911/1911-SL,1911,Central League,0827-dayton-southbendii-0,19110827,0,Dayton,18,South Bend II,9,DSJCMSD
+boxscores/1911/1911-SL,1911,Central League,0827-fortwayne-terrehaute-1,19110827,1,Fort Wayne,3,Terre Haute,2,HDSZCSC
+boxscores/1911/1911-SL,1911,Central League,0827-fortwayne-terrehaute-2,19110827,2,Fort Wayne,7,Terre Haute,1,BMHXNPM
+boxscores/1911/1911-SL,1911,Central League,0827-grandrapidsii-wheeling-0,19110827,0,Grand Rapids II,,Wheeling,,XXTPGRM
+boxscores/1911/1911-SL,1911,Central League,0827-newark-zanesville-1,19110827,1,Newark,1,Zanesville,4,DMBZFXB
+boxscores/1911/1911-SL,1911,Central League,0827-newark-zanesville-2,19110827,2,Newark,2,Zanesville,1,JVYQPDG
+boxscores/1911/1911-SL,1911,Central League,0828-dayton-southbendii-0,19110828,0,Dayton,13,South Bend II,4,PZBSSBG
+boxscores/1911/1911-SL,1911,Central League,0828-grandrapidsii-wheeling-0,19110828,0,Grand Rapids II,0,Wheeling,0,QNYQHGM
+boxscores/1911/1911-SL,1911,Central League,0829-dayton-grandrapidsii-0,19110829,0,Dayton,2,Grand Rapids II,0,PFXTHNR
+boxscores/1911/1911-SL,1911,Central League,0829-fortwayne-newark-0,19110829,0,Fort Wayne,5,Newark,6,ZKRNPKJ
+boxscores/1911/1911-SL,1911,Central League,0829-terrehaute-wheeling-0,19110829,0,Terre Haute,,Wheeling,,YDQPZQK
+boxscores/1911/1911-SL,1911,Central League,0829-southbendii-zanesville-0,19110829,0,South Bend II,0,Zanesville,1,KBMMFYG
+boxscores/1911/1911-SL,1911,Central League,0830-dayton-grandrapidsii-0,19110830,0,Dayton,3,Grand Rapids II,5,ZGGDQQP
+boxscores/1911/1911-SL,1911,Central League,0830-fortwayne-newark-0,19110830,0,Fort Wayne,5,Newark,0,BVGYMCF
+boxscores/1911/1911-SL,1911,Central League,0830-terrehaute-wheeling-0,19110830,0,Terre Haute,2,Wheeling,12,WNKTVYY
+boxscores/1911/1911-SL,1911,Central League,0830-southbendii-zanesville-0,19110830,0,South Bend II,4,Zanesville,1,DPMCVNR
+boxscores/1911/1911-SL,1911,Central League,0831-dayton-grandrapidsii-0,19110831,0,Dayton,2,Grand Rapids II,4,NNJBSZD
+boxscores/1911/1911-SL,1911,Central League,0831-fortwayne-newark-0,19110831,0,Fort Wayne,6,Newark,5,LNQKQGL
+boxscores/1911/1911-SL,1911,Central League,0831-terrehaute-wheeling-1,19110831,1,Terre Haute,4,Wheeling,5,TJTQVSP
+boxscores/1911/1911-SL,1911,Central League,0831-terrehaute-wheeling-2,19110831,2,Terre Haute,1,Wheeling,4,TFLRLGJ
+boxscores/1911/1911-SL,1911,Central League,0831-southbendii-zanesville-0,19110831,0,South Bend II,4,Zanesville,5,YJYBNTG
+boxscores/1911/1911-SL,1911,Central League,0901-fortwayne-grandrapidsii-0,19110901,0,Fort Wayne,9,Grand Rapids II,3,YGTXBGF
+boxscores/1911/1911-SL,1911,Central League,0901-dayton-newark-0,19110901,0,Dayton,2,Newark,7,MPPJDRM
+boxscores/1911/1911-SL,1911,Central League,0901-southbendii-wheeling-0,19110901,0,South Bend II,7,Wheeling,8,VBJFBRC
+boxscores/1911/1911-SL,1911,Central League,0901-terrehaute-zanesville-0,19110901,0,Terre Haute,10,Zanesville,9,SGMFTWP
+boxscores/1911/1911-SL,1911,Central League,0902-dayton-newark-0,19110902,0,Newark,7,Dayton,8,HRBXKPF
+boxscores/1911/1911-SL,1911,Central League,0902-fortwayne-grandrapidsii-0,19110902,0,Fort Wayne,12,Grand Rapids II,7,PLPZNLM
+boxscores/1911/1911-SL,1911,Central League,0902-southbendii-wheeling-0,19110902,0,South Bend II,3,Wheeling,6,VNYWZYL
+boxscores/1911/1911-SL,1911,Central League,0902-terrehaute-zanesville-0,19110902,0,Terre Haute,5,Zanesville,2,RMGPYJV
+boxscores/1911/1911-SL,1911,Central League,0903-dayton-newark-0,19110903,0,Newark,2,Dayton,8,CRSYLRH
+boxscores/1911/1911-SL,1911,Central League,0903-fortwayne-grandrapidsii-0,19110903,0,Fort Wayne,4,Grand Rapids II,0,NCCPSBJ
+boxscores/1911/1911-SL,1911,Central League,0903-southbendii-wheeling-0,19110903,0,South Bend II,4,Wheeling,2,TNVLKXC
+boxscores/1911/1911-SL,1911,Central League,0903-terrehaute-zanesville-0,19110903,0,Terre Haute,3,Zanesville,7,HGDZPVY
+boxscores/1911/1911-SL,1911,Central League,0904-dayton-fortwayne-1,19110904,1,Fort Wayne,6,Dayton,3,KBJTXDT
+boxscores/1911/1911-SL,1911,Central League,0904-dayton-fortwayne-2,19110904,2,Fort Wayne,3,Dayton,7,ZJVKPLW
+boxscores/1911/1911-SL,1911,Central League,0904-grandrapidsii-newark-1,19110904,1,Newark,1,Grand Rapids II,2,CHBZSYF
+boxscores/1911/1911-SL,1911,Central League,0904-grandrapidsii-newark-2,19110904,2,Newark,3,Grand Rapids II,4,DWMLRFT
+boxscores/1911/1911-SL,1911,Central League,0904-southbendii-terrehaute-1,19110904,1,South Bend II,3,Terre Haute,4,MDZRVNH
+boxscores/1911/1911-SL,1911,Central League,0904-southbendii-terrehaute-2,19110904,2,South Bend II,6,Terre Haute,0,YXHKMXQ
+boxscores/1911/1911-SL,1911,Central League,0904-wheeling-zanesville-1,19110904,1,Zanesville,6,Wheeling,7,MHYZHTL
+boxscores/1911/1911-SL,1911,Central League,0904-wheeling-zanesville-2,19110904,2,Zanesville,5,Wheeling,1,SBSXBCY
+boxscores/1911/1911-SL,1911,Central League,0905-dayton-fortwayne-0,19110905,0,Fort Wayne,0,Dayton,3,JRCTFLF
+boxscores/1911/1911-SL,1911,Central League,0905-grandrapidsii-newark-0,19110905,0,Newark,3,Grand Rapids II,8,XGKXVCX
+boxscores/1911/1911-SL,1911,Central League,0905-southbendii-terrehaute-0,19110905,0,South Bend II,,Terre Haute,,ZFNJWVS
+boxscores/1911/1911-SL,1911,Central League,0905-wheeling-zanesville-0,19110905,0,Zanesville,,Wheeling,,TZCZRFN
+boxscores/1911/1911-SL,1911,Central League,0906-dayton-grandrapidsii-0,19110906,0,Grand Rapids II,4,Dayton,3,MXBNFRN
+boxscores/1911/1911-SL,1911,Central League,0906-fortwayne-newark-0,19110906,0,Newark,0,Fort Wayne,5,HTYRMLC
+boxscores/1911/1911-SL,1911,Central League,0906-southbendii-zanesville-0,19110906,0,Zanesville,,South Bend II,,YBHHXQP
+boxscores/1911/1911-SL,1911,Central League,0906-terrehaute-wheeling-0,19110906,0,Wheeling,3,Terre Haute,2,ZGHWTYT
+boxscores/1911/1911-SL,1911,Central League,0907-dayton-grandrapidsii-0,19110907,0,Grand Rapids II,6,Dayton,0,KGDHBBP
+boxscores/1911/1911-SL,1911,Central League,0907-fortwayne-newark-0,19110907,0,Newark,3,Fort Wayne,4,NPBGGJQ
+boxscores/1911/1911-SL,1911,Central League,0907-southbendii-zanesville-1,19110907,1,Zanesville,1,South Bend II,9,XRWMJKZ
+boxscores/1911/1911-SL,1911,Central League,0907-southbendii-zanesville-2,19110907,2,Zanesville,4,South Bend II,1,TXFMXNN
+boxscores/1911/1911-SL,1911,Central League,0907-terrehaute-wheeling-0,19110907,0,Wheeling,1,Terre Haute,5,DKXRYCM
+boxscores/1911/1911-SL,1911,Central League,0908-dayton-grandrapidsii-0,19110908,0,Grand Rapids II,3,Dayton,0,XZKVDYB
+boxscores/1911/1911-SL,1911,Central League,0908-fortwayne-newark-0,19110908,0,Newark,8,Fort Wayne,9,YTSTMNH
+boxscores/1911/1911-SL,1911,Central League,0908-southbendii-zanesville-0,19110908,0,Zanesville,,South Bend II,,JKGNMCN
+boxscores/1911/1911-SL,1911,Central League,0908-terrehaute-wheeling-0,19110908,0,Wheeling,,Terre Haute,,CTLVWJL
+boxscores/1911/1911-SL,1911,Central League,0909-dayton-newark-0,19110909,0,Newark,2,Dayton,3,YRHVZWS
+boxscores/1911/1911-SL,1911,Central League,0909-fortwayne-grandrapidsii-0,19110909,0,Grand Rapids II,2,Fort Wayne,3,TWFZJRQ
+boxscores/1911/1911-SL,1911,Central League,0909-terrehaute-zanesville-0,19110909,0,Zanesville,17,Terre Haute,12,RFLKMCB
+boxscores/1911/1911-SL,1911,Central League,0910-dayton-newark-1,19110910,1,Newark,1,Dayton,8,KKKHRWB
+boxscores/1911/1911-SL,1911,Central League,0910-dayton-newark-2,19110910,2,Newark,4,Dayton,9,CTYLVBK
+boxscores/1911/1911-SL,1911,Central League,0910-fortwayne-grandrapidsii-1,19110910,1,Grand Rapids II,10,Fort Wayne,7,SLCMMLM
+boxscores/1911/1911-SL,1911,Central League,0910-fortwayne-grandrapidsii-2,19110910,2,Grand Rapids II,0,Fort Wayne,3,DLSFLYR
+boxscores/1911/1911-SL,1911,Central League,0910-southbendii-wheeling-0,19110910,0,Wheeling,,South Bend II,,MCZCGVY
+boxscores/1911/1911-SL,1911,Central League,0910-terrehaute-zanesville-0,19110910,0,Zanesville,,Terre Haute,,XHRKXKV

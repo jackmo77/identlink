@@ -1,16 +1,16 @@
 source,league.year,league.name,ident,game.date,game.number,away.name,away.score,home.name,home.score,game.ref
-boxscores/1915/1915-SL,1915,International League,0427ric,19150427,0,Toronto,8,Richmond,11,NDZYLZS
-boxscores/1915/1915-SL,1915,International League,0428pro,19150428,0,Buffalo,3,Providence,0,DPYLWPB
-boxscores/1915/1915-SL,1915,International League,0428ric,19150428,0,Toronto,15,Richmond,4,SGXHPPJ
-boxscores/1915/1915-SL,1915,International League,0429jer,19150429,0,Rochester,0,Jersey City,5,KNMSJJZ
-boxscores/1915/1915-SL,1915,International League,0429new,19150429,0,Montreal,4,Newark,1,CBKNYNK
-boxscores/1915/1915-SL,1915,International League,0429pro,19150429,0,Buffalo,1,Providence,4,XLWZXFT
-boxscores/1915/1915-SL,1915,International League,0429ric,19150429,0,Toronto,5,Richmond,0,SKQRCBF
-boxscores/1915/1915-SL,1915,International League,0430jer,19150430,0,Rochester,,Jersey City,,YTVZJQD
-boxscores/1915/1915-SL,1915,International League,0430new,19150430,0,Montreal,,Newark,,JRHCFQT
-boxscores/1915/1915-SL,1915,International League,0430pro,19150430,0,Buffalo,,Providence,,TQMXHPH
-boxscores/1915/1915-SL,1915,International League,0430ric,19150430,0,Toronto,,Richmond,,KPRCYDC
-boxscores/1915/1915-SL,1915,International League,0501jer,19150501,0,Rochester,1,Jersey City,7,SDYHNZQ
-boxscores/1915/1915-SL,1915,International League,0501new,19150501,0,Montreal,0,Newark,1,PDBMXPG
-boxscores/1915/1915-SL,1915,International League,0501pro,19150501,0,Buffalo,2,Providence,4,HFSQRBS
-boxscores/1915/1915-SL,1915,International League,0501ric,19150501,0,Toronto,2,Richmond,4,VMQFCZS
+boxscores/1915/1915-SL,1915,International League,0427-richmond-toronto-0,19150427,0,Toronto,8,Richmond,11,NDZYLZS
+boxscores/1915/1915-SL,1915,International League,0428-buffalo-providence-0,19150428,0,Buffalo,3,Providence,0,DPYLWPB
+boxscores/1915/1915-SL,1915,International League,0428-richmond-toronto-0,19150428,0,Toronto,15,Richmond,4,SGXHPPJ
+boxscores/1915/1915-SL,1915,International League,0429-jerseycity-rochester-0,19150429,0,Rochester,0,Jersey City,5,KNMSJJZ
+boxscores/1915/1915-SL,1915,International League,0429-montreal-newark-0,19150429,0,Montreal,4,Newark,1,CBKNYNK
+boxscores/1915/1915-SL,1915,International League,0429-buffalo-providence-0,19150429,0,Buffalo,1,Providence,4,XLWZXFT
+boxscores/1915/1915-SL,1915,International League,0429-richmond-toronto-0,19150429,0,Toronto,5,Richmond,0,SKQRCBF
+boxscores/1915/1915-SL,1915,International League,0430-jerseycity-rochester-0,19150430,0,Rochester,,Jersey City,,YTVZJQD
+boxscores/1915/1915-SL,1915,International League,0430-montreal-newark-0,19150430,0,Montreal,,Newark,,JRHCFQT
+boxscores/1915/1915-SL,1915,International League,0430-buffalo-providence-0,19150430,0,Buffalo,,Providence,,TQMXHPH
+boxscores/1915/1915-SL,1915,International League,0430-richmond-toronto-0,19150430,0,Toronto,,Richmond,,KPRCYDC
+boxscores/1915/1915-SL,1915,International League,0501-jerseycity-rochester-0,19150501,0,Rochester,1,Jersey City,7,SDYHNZQ
+boxscores/1915/1915-SL,1915,International League,0501-montreal-newark-0,19150501,0,Montreal,0,Newark,1,PDBMXPG
+boxscores/1915/1915-SL,1915,International League,0501-buffalo-providence-0,19150501,0,Buffalo,2,Providence,4,HFSQRBS
+boxscores/1915/1915-SL,1915,International League,0501-richmond-toronto-0,19150501,0,Toronto,2,Richmond,4,VMQFCZS

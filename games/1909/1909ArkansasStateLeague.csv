@@ -1,119 +1,167 @@
 source,league.year,league.name,ident,game.date,game.number,away.name,away.score,home.name,home.score,game.ref
-boxscores/1909/1909-AG,1909,Arkansas State League,0415arg,19090415,0,Helena,2,Argenta,3,DHBQCDP
-boxscores/1909/1909-MCA,1909,Arkansas State League,0415arg,19090415,0,Helena,2,Argenta,3,FXRRCRV
-boxscores/1909/1909-AG,1909,Arkansas State League,0416ale,19090416,0,Monroe,5,Alexandria,6,TGTCVWF
-boxscores/1909/1909-MCA,1909,Arkansas State League,0416ale,19090416,0,Monroe,5,Alexandria,6,FWHLXWR
-boxscores/1909/1909-AG,1909,Arkansas State League,0416arg,19090416,0,Helena,1,Argenta,3,DGJBBWH
-boxscores/1909/1909-MCA,1909,Arkansas State League,0416arg,19090416,0,Helena,1,Argenta,3,TXVQXRC
-boxscores/1909/1909-AG,1909,Arkansas State League,0416hot,19090416,0,Jonesboro,8,Hot Springs,7,KHKFXPK
-boxscores/1909/1909-MCA,1909,Arkansas State League,0416hot,19090416,0,Jonesboro,8,Hot Springs,7,JNPFZHK
-boxscores/1909/1909-AG,1909,Arkansas State League,0416tex,19090416,0,Fort Smith,4,Texarkana,8,WPZTWNT
-boxscores/1909/1909-MCA,1909,Arkansas State League,0416tex,19090416,0,Fort Smith,4,Texarkana,8,SKTPGCR
-boxscores/1909/1909-AG,1909,Arkansas State League,0417ale,19090417,0,Monroe,12,Alexandria,13,RKDVWFP
-boxscores/1909/1909-MCA,1909,Arkansas State League,0417ale,19090417,0,Monroe,12,Alexandria,13,ZMJGQCN
-boxscores/1909/1909-AG,1909,Arkansas State League,0417arg,19090417,0,Helena,1,Argenta,2,TMRKSFX
-boxscores/1909/1909-MCA,1909,Arkansas State League,0417arg,19090417,0,Helena,1,Argenta,2,SBNGXXK
-boxscores/1909/1909-AG,1909,Arkansas State League,0417hot,19090417,0,Jonesboro,3,Hot Springs,0,THWMJKP
-boxscores/1909/1909-MCA,1909,Arkansas State League,0417hot,19090417,0,Jonesboro,3,Hot Springs,0,VGRYLST
-boxscores/1909/1909-AG,1909,Arkansas State League,0417tex,19090417,0,Fort Smith,5,Texarkana,4,JFNKXTG
-boxscores/1909/1909-MCA,1909,Arkansas State League,0417tex,19090417,0,Fort Smith,5,Texarkana,4,BHTHDSG
-boxscores/1909/1909-AG,1909,Arkansas State League,0418ale,19090418,0,Monroe,1,Alexandria,11,BRVBJDF
-boxscores/1909/1909-MCA,1909,Arkansas State League,0418ale,19090418,0,Monroe,1,Alexandria,11,SNTPCQF
-boxscores/1909/1909-AG,1909,Arkansas State League,0418hot,19090418,0,Jonesboro,1,Hot Springs,3,TVXNZLL
-boxscores/1909/1909-MCA,1909,Arkansas State League,0418hot,19090418,0,Jonesboro,1,Hot Springs,3,GKNTHRY
-boxscores/1909/1909-AG,1909,Arkansas State League,0418tex,19090418,0,Fort Smith,4,Texarkana,1,GRCVKBR
-boxscores/1909/1909-MCA,1909,Arkansas State League,0418tex,19090418,0,Fort Smith,4,Texarkana,1,JSHYPYT
-boxscores/1909/1909-AG,1909,Arkansas State League,0419arg,19090419,0,Hot Springs,0,Argenta,1,SXXVRQG
-boxscores/1909/1909-MCA,1909,Arkansas State League,0419arg,19090419,0,Hot Springs,0,Argenta,1,XQCMJRT
-boxscores/1909/1909-AG,1909,Arkansas State League,0419for,19090419,0,Helena,5,Fort Smith,4,ZNWPGTX
-boxscores/1909/1909-MCA,1909,Arkansas State League,0419for,19090419,0,Helena,5,Fort Smith,4,HGVFVHH
-boxscores/1909/1909-AG,1909,Arkansas State League,0419mon,19090419,0,Alexandria,0,Monroe,5,QRKWYGJ
-boxscores/1909/1909-MCA,1909,Arkansas State League,0419mon,19090419,0,Alexandria,0,Monroe,5,MQGWPKV
-boxscores/1909/1909-AG,1909,Arkansas State League,0419tex,19090419,0,Jonesboro,4,Texarkana,0,HLKWCMZ
-boxscores/1909/1909-MCA,1909,Arkansas State League,0419tex,19090419,0,Jonesboro,4,Texarkana,0,KTRGGSN
-boxscores/1909/1909-AG,1909,Arkansas State League,0420arg,19090420,0,Hot Springs,3,Argenta,4,KJNBNCP
-boxscores/1909/1909-MCA,1909,Arkansas State League,0420arg,19090420,0,Hot Springs,3,Argenta,4,SZNPKLT
-boxscores/1909/1909-AG,1909,Arkansas State League,0420for,19090420,0,Helena,,Fort Smith,,PLTSBGR
-boxscores/1909/1909-MCA,1909,Arkansas State League,0420for,19090420,0,Helena,,Fort Smith,,JMCBHFF
-boxscores/1909/1909-AG,1909,Arkansas State League,0420mon,19090420,0,Alexandria,3,Monroe,4,PZZWNYF
-boxscores/1909/1909-MCA,1909,Arkansas State League,0420mon,19090420,0,Alexandria,3,Monroe,4,TYPFHYX
-boxscores/1909/1909-AG,1909,Arkansas State League,0420tex,19090420,0,Jonesboro,7,Texarkana,1,LXFKKHJ
-boxscores/1909/1909-MCA,1909,Arkansas State League,0420tex,19090420,0,Jonesboro,7,Texarkana,1,CCBBWPK
-boxscores/1909/1909-AG,1909,Arkansas State League,0421arg,19090421,0,Hot Springs,1,Argenta,13,TVYDJNZ
-boxscores/1909/1909-MCA,1909,Arkansas State League,0421arg,19090421,0,Hot Springs,1,Argenta,13,PVGQNPQ
-boxscores/1909/1909-AG,1909,Arkansas State League,0421for,19090421,0,Helena,,Fort Smith,,QLWRNZB
-boxscores/1909/1909-MCA,1909,Arkansas State League,0421for,19090421,0,Helena,,Fort Smith,,ZTHTPZS
-boxscores/1909/1909-AG,1909,Arkansas State League,0421mon,19090421,0,Alexandria,2,Monroe,7,MYGNBMS
-boxscores/1909/1909-MCA,1909,Arkansas State League,0421mon,19090421,0,Alexandria,2,Monroe,7,NBCJHJW
-boxscores/1909/1909-AG,1909,Arkansas State League,0421tex,19090421,0,Jonesboro,7,Texarkana,2,FRYBMYS
-boxscores/1909/1909-MCA,1909,Arkansas State League,0421tex,19090421,0,Jonesboro,7,Texarkana,2,RWYFYNC
-boxscores/1909/1909-AG,1909,Arkansas State League,0422arg,19090422,0,Monroe,0,Argenta,3,ZHJXBHX
-boxscores/1909/1909-MCA,1909,Arkansas State League,0422arg,19090422,0,Monroe,0,Argenta,3,MGVTLZY
-boxscores/1909/1909-AG,1909,Arkansas State League,0422for,19090422,0,Jonesboro,2,Fort Smith,0,SQCXNZH
-boxscores/1909/1909-MCA,1909,Arkansas State League,0422for,19090422,0,Jonesboro,2,Fort Smith,0,GXDVBZY
-boxscores/1909/1909-AG,1909,Arkansas State League,0423arg,19090423,0,Monroe,1,Argenta,3,WLQRMXS
-boxscores/1909/1909-MCA,1909,Arkansas State League,0423arg,19090423,0,Monroe,1,Argenta,3,LZZHVCF
-boxscores/1909/1909-AG,1909,Arkansas State League,0423for,19090423,0,Jonesboro,2,Fort Smith,4,BDFSMWJ
-boxscores/1909/1909-MCA,1909,Arkansas State League,0423for,19090423,0,Jonesboro,2,Fort Smith,4,GGVTTWH
-boxscores/1909/1909-AG,1909,Arkansas State League,0423hot,19090423,0,Alexandria,9,Hot Springs,10,KMHHJPY
-boxscores/1909/1909-MCA,1909,Arkansas State League,0423hot,19090423,0,Alexandria,9,Hot Springs,10,FNRLNLZ
-boxscores/1909/1909-AG,1909,Arkansas State League,0423tex,19090423,0,Helena,1,Texarkana,6,THRNTFW
-boxscores/1909/1909-MCA,1909,Arkansas State League,0423tex,19090423,0,Helena,1,Texarkana,6,CGTWFDL
-boxscores/1909/1909-AG,1909,Arkansas State League,0424arg,19090424,0,Monroe,4,Argenta,7,KLRZNTR
-boxscores/1909/1909-MCA,1909,Arkansas State League,0424arg,19090424,0,Monroe,4,Argenta,7,HSKPXKH
-boxscores/1909/1909-AG,1909,Arkansas State League,0424for,19090424,0,Jonesboro,3,Fort Smith,1,SSJRGKP
-boxscores/1909/1909-MCA,1909,Arkansas State League,0424for,19090424,0,Jonesboro,3,Fort Smith,1,BBVYXBT
-boxscores/1909/1909-AG,1909,Arkansas State League,0424hot,19090424,0,Alexandria,7,Hot Springs,11,WBGMXZP
-boxscores/1909/1909-MCA,1909,Arkansas State League,0424hot,19090424,0,Alexandria,7,Hot Springs,11,PLXDZWJ
-boxscores/1909/1909-AG,1909,Arkansas State League,0424tex,19090424,0,Helena,8,Texarkana,4,WWFVYJL
-boxscores/1909/1909-MCA,1909,Arkansas State League,0424tex,19090424,0,Helena,8,Texarkana,4,GXRRTLT
-boxscores/1909/1909-AG,1909,Arkansas State League,0425hot,19090425,0,Alexandria,3,Hot Springs,4,WBNLJFT
-boxscores/1909/1909-MCA,1909,Arkansas State League,0425hot,19090425,0,Alexandria,3,Hot Springs,4,RGTTYGS
-boxscores/1909/1909-AG,1909,Arkansas State League,0425tex,19090425,0,Helena,3,Texarkana,9,MBGFCQM
-boxscores/1909/1909-MCA,1909,Arkansas State League,0425tex,19090425,0,Helena,3,Texarkana,9,DTCLRDR
-boxscores/1909/1909-AG,1909,Arkansas State League,0426arg,19090426,0,Jonesboro,4,Argenta,0,QWJCHFK
-boxscores/1909/1909-MCA,1909,Arkansas State League,0426arg,19090426,0,Jonesboro,4,Argenta,0,BBWWZMW
-boxscores/1909/1909-AG,1909,Arkansas State League,0426for,19090426,0,Monroe,1,Fort Smith,1,BXGYZKY
-boxscores/1909/1909-MCA,1909,Arkansas State League,0426for,19090426,0,Monroe,1,Fort Smith,1,DGMHFRN
-boxscores/1909/1909-AG,1909,Arkansas State League,0426hot,19090426,0,Helena,5,Hot Springs,3,ZWZFYJD
-boxscores/1909/1909-MCA,1909,Arkansas State League,0426hot,19090426,0,Helena,5,Hot Springs,3,NNQZPSM
-boxscores/1909/1909-AG,1909,Arkansas State League,0426tex,19090426,0,Alexandria,,Texarkana,,SWFJJWG
-boxscores/1909/1909-MCA,1909,Arkansas State League,0426tex,19090426,0,Alexandria,,Texarkana,,HFBJQVQ
-boxscores/1909/1909-AG,1909,Arkansas State League,0427arg,19090427,0,Jonesboro,2,Argenta,0,SHGQNLN
-boxscores/1909/1909-MCA,1909,Arkansas State League,0427arg,19090427,0,Jonesboro,2,Argenta,0,YBVZKWW
-boxscores/1909/1909-AG,1909,Arkansas State League,0427for,19090427,0,Monroe,17,Fort Smith,7,LZDRZQN
-boxscores/1909/1909-MCA,1909,Arkansas State League,0427for,19090427,0,Monroe,17,Fort Smith,7,KBGTNKS
-boxscores/1909/1909-AG,1909,Arkansas State League,0427hot,19090427,0,Helena,2,Hot Springs,1,ZLBHRQV
-boxscores/1909/1909-AG,1909,Arkansas State League,0427hot,19090427,0,Helena,9,Hot Springs,10,VXJVYMP
-boxscores/1909/1909-MCA,1909,Arkansas State League,0427hot,19090427,0,Helena,2,Hot Springs,1,HYCDSXP
-boxscores/1909/1909-AG,1909,Arkansas State League,0427tex,19090427,0,Alexandria,4,Texarkana,8,SQDSVQW
-boxscores/1909/1909-MCA,1909,Arkansas State League,0427tex,19090427,0,Alexandria,4,Texarkana,8,RNFZJPF
-boxscores/1909/1909-AG,1909,Arkansas State League,0428arg,19090428,0,Jonesboro,8,Argenta,5,FVVQHXY
-boxscores/1909/1909-MCA,1909,Arkansas State League,0428arg,19090428,0,Jonesboro,8,Argenta,5,XPXNBMV
-boxscores/1909/1909-AG,1909,Arkansas State League,0428for,19090428,0,Monroe,6,Fort Smith,2,JZGPGKB
-boxscores/1909/1909-MCA,1909,Arkansas State League,0428for,19090428,0,Monroe,6,Fort Smith,2,CPKTDQQ
-boxscores/1909/1909-MCA,1909,Arkansas State League,0428hot,19090428,0,Helena,9,Hot Springs,10,JXLTCZP
-boxscores/1909/1909-AG,1909,Arkansas State League,0428tex,19090428,0,Alexandria,5,Texarkana,6,NSGPKMD
-boxscores/1909/1909-MCA,1909,Arkansas State League,0428tex,19090428,0,Alexandria,5,Texarkana,6,SZRZLYN
-boxscores/1909/1909-AG,1909,Arkansas State League,0429for,19090429,0,Alexandria,,Fort Smith,,LQVZKHJ
-boxscores/1909/1909-MCA,1909,Arkansas State League,0429for,19090429,0,Alexandria,7,Fort Smith,2,LTRLSYF
-boxscores/1909/1909-AG,1909,Arkansas State League,0429hel,19090429,0,Argenta,3,Helena,1,ZPXKXNC
-boxscores/1909/1909-MCA,1909,Arkansas State League,0429hel,19090429,0,Argenta,3,Helena,1,FRKLYLP
-boxscores/1909/1909-AG,1909,Arkansas State League,0429jon,19090429,0,Hot Springs,,Jonesboro,,BVCDFWR
-boxscores/1909/1909-MCA,1909,Arkansas State League,0429jon,19090429,0,Hot Springs,0,Jonesboro,1,CZTLRNN
-boxscores/1909/1909-MCA,1909,Arkansas State League,0430for,19090430,0,Alexandria,3,Fort Smith,1,SCYRSDQ
-boxscores/1909/1909-MCA,1909,Arkansas State League,0430hel,19090430,0,Argenta,,Helena,,PTCQDYY
-boxscores/1909/1909-AG,1909,Arkansas State League,0430jon,19090430,0,Hot Springs,0,Jonesboro,2,RDVJKBJ
-boxscores/1909/1909-MCA,1909,Arkansas State League,0430jon,19090430,0,Hot Springs,0,Jonesboro,2,ZXJYRZD
-boxscores/1909/1909-AG,1909,Arkansas State League,0430tex,19090430,0,Monroe,0,Texarkana,3,KYBNHVS
-boxscores/1909/1909-MCA,1909,Arkansas State League,0430tex,19090430,0,Monroe,0,Texarkana,3,WZDMNWT
-boxscores/1909/1909-AG,1909,Arkansas State League,0501for,19090501,0,Alexandria,3,Fort Smith,8,NJGQTFT
-boxscores/1909/1909-MCA,1909,Arkansas State League,0501for,19090501,0,Alexandria,3,Fort Smith,8,JBBVFGR
-boxscores/1909/1909-AG,1909,Arkansas State League,0501hel,19090501,0,Argenta,1,Helena,4,NGBNMCW
-boxscores/1909/1909-MCA,1909,Arkansas State League,0501hel,19090501,0,Argenta,1,Helena,4,XVCQBPV
-boxscores/1909/1909-AG,1909,Arkansas State League,0501jon,19090501,0,Hot Springs,8,Jonesboro,6,SJPXXZK
-boxscores/1909/1909-MCA,1909,Arkansas State League,0501jon,19090501,0,Hot Springs,8,Jonesboro,6,RYQWYTB
-boxscores/1909/1909-AG,1909,Arkansas State League,0501tex,19090501,0,Monroe,2,Texarkana,6,HGJNYJK
-boxscores/1909/1909-MCA,1909,Arkansas State League,0501tex,19090501,0,Monroe,2,Texarkana,6,GFTQVCX
-boxscores/1909/1909-AG,1909,Arkansas State League,0502tex,19090502,0,Monroe,1,Texarkana,9,HYXZHCV
-boxscores/1909/1909-MCA,1909,Arkansas State League,0502tex,19090502,0,Monroe,1,Texarkana,9,YHTPYHH
+boxscores/1909/1909-AG,1909,Arkansas State League,0415-argenta-helena-0,19090415,0,Helena,2,Argenta,3,DHBQCDP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0415-argenta-helena-0,19090415,0,Helena,2,Argenta,3,FXRRCRV
+boxscores/1909/1909-AG,1909,Arkansas State League,0416-alexandria-monroe-0,19090416,0,Monroe,5,Alexandria,6,TGTCVWF
+boxscores/1909/1909-MCA,1909,Arkansas State League,0416-alexandria-monroe-0,19090416,0,Monroe,5,Alexandria,6,FWHLXWR
+boxscores/1909/1909-AG,1909,Arkansas State League,0416-argenta-helena-0,19090416,0,Helena,1,Argenta,3,DGJBBWH
+boxscores/1909/1909-MCA,1909,Arkansas State League,0416-argenta-helena-0,19090416,0,Helena,1,Argenta,3,TXVQXRC
+boxscores/1909/1909-AG,1909,Arkansas State League,0416-hotsprings-jonesboro-0,19090416,0,Jonesboro,8,Hot Springs,7,KHKFXPK
+boxscores/1909/1909-MCA,1909,Arkansas State League,0416-hotsprings-jonesboro-0,19090416,0,Jonesboro,8,Hot Springs,7,JNPFZHK
+boxscores/1909/1909-AG,1909,Arkansas State League,0416-fortsmith-texarkana-0,19090416,0,Fort Smith,4,Texarkana,8,WPZTWNT
+boxscores/1909/1909-MCA,1909,Arkansas State League,0416-fortsmith-texarkana-0,19090416,0,Fort Smith,4,Texarkana,8,SKTPGCR
+boxscores/1909/1909-AG,1909,Arkansas State League,0417-alexandria-monroe-0,19090417,0,Monroe,12,Alexandria,13,RKDVWFP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0417-alexandria-monroe-0,19090417,0,Monroe,12,Alexandria,13,ZMJGQCN
+boxscores/1909/1909-AG,1909,Arkansas State League,0417-argenta-helena-0,19090417,0,Helena,1,Argenta,2,TMRKSFX
+boxscores/1909/1909-MCA,1909,Arkansas State League,0417-argenta-helena-0,19090417,0,Helena,1,Argenta,2,SBNGXXK
+boxscores/1909/1909-AG,1909,Arkansas State League,0417-hotsprings-jonesboro-0,19090417,0,Jonesboro,3,Hot Springs,0,THWMJKP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0417-hotsprings-jonesboro-0,19090417,0,Jonesboro,3,Hot Springs,0,VGRYLST
+boxscores/1909/1909-AG,1909,Arkansas State League,0417-fortsmith-texarkana-0,19090417,0,Fort Smith,5,Texarkana,4,JFNKXTG
+boxscores/1909/1909-MCA,1909,Arkansas State League,0417-fortsmith-texarkana-0,19090417,0,Fort Smith,5,Texarkana,4,BHTHDSG
+boxscores/1909/1909-AG,1909,Arkansas State League,0418-alexandria-monroe-0,19090418,0,Monroe,1,Alexandria,11,BRVBJDF
+boxscores/1909/1909-MCA,1909,Arkansas State League,0418-alexandria-monroe-0,19090418,0,Monroe,1,Alexandria,11,SNTPCQF
+boxscores/1909/1909-AG,1909,Arkansas State League,0418-hotsprings-jonesboro-0,19090418,0,Jonesboro,1,Hot Springs,3,TVXNZLL
+boxscores/1909/1909-MCA,1909,Arkansas State League,0418-hotsprings-jonesboro-0,19090418,0,Jonesboro,1,Hot Springs,3,GKNTHRY
+boxscores/1909/1909-AG,1909,Arkansas State League,0418-fortsmith-texarkana-0,19090418,0,Fort Smith,4,Texarkana,1,GRCVKBR
+boxscores/1909/1909-MCA,1909,Arkansas State League,0418-fortsmith-texarkana-0,19090418,0,Fort Smith,4,Texarkana,1,JSHYPYT
+boxscores/1909/1909-AG,1909,Arkansas State League,0419-argenta-hotsprings-0,19090419,0,Hot Springs,0,Argenta,1,SXXVRQG
+boxscores/1909/1909-MCA,1909,Arkansas State League,0419-argenta-hotsprings-0,19090419,0,Hot Springs,0,Argenta,1,XQCMJRT
+boxscores/1909/1909-AG,1909,Arkansas State League,0419-fortsmith-helena-0,19090419,0,Helena,5,Fort Smith,4,ZNWPGTX
+boxscores/1909/1909-MCA,1909,Arkansas State League,0419-fortsmith-helena-0,19090419,0,Helena,5,Fort Smith,4,HGVFVHH
+boxscores/1909/1909-AG,1909,Arkansas State League,0419-alexandria-monroe-0,19090419,0,Alexandria,0,Monroe,5,QRKWYGJ
+boxscores/1909/1909-MCA,1909,Arkansas State League,0419-alexandria-monroe-0,19090419,0,Alexandria,0,Monroe,5,MQGWPKV
+boxscores/1909/1909-AG,1909,Arkansas State League,0419-jonesboro-texarkana-0,19090419,0,Jonesboro,4,Texarkana,0,HLKWCMZ
+boxscores/1909/1909-MCA,1909,Arkansas State League,0419-jonesboro-texarkana-0,19090419,0,Jonesboro,4,Texarkana,0,KTRGGSN
+boxscores/1909/1909-AG,1909,Arkansas State League,0420-argenta-hotsprings-0,19090420,0,Hot Springs,3,Argenta,4,KJNBNCP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0420-argenta-hotsprings-0,19090420,0,Hot Springs,3,Argenta,4,SZNPKLT
+boxscores/1909/1909-AG,1909,Arkansas State League,0420-fortsmith-helena-0,19090420,0,Helena,,Fort Smith,,PLTSBGR
+boxscores/1909/1909-MCA,1909,Arkansas State League,0420-fortsmith-helena-0,19090420,0,Helena,,Fort Smith,,JMCBHFF
+boxscores/1909/1909-AG,1909,Arkansas State League,0420-alexandria-monroe-0,19090420,0,Alexandria,3,Monroe,4,PZZWNYF
+boxscores/1909/1909-MCA,1909,Arkansas State League,0420-alexandria-monroe-0,19090420,0,Alexandria,3,Monroe,4,TYPFHYX
+boxscores/1909/1909-AG,1909,Arkansas State League,0420-jonesboro-texarkana-0,19090420,0,Jonesboro,7,Texarkana,1,LXFKKHJ
+boxscores/1909/1909-MCA,1909,Arkansas State League,0420-jonesboro-texarkana-0,19090420,0,Jonesboro,7,Texarkana,1,CCBBWPK
+boxscores/1909/1909-AG,1909,Arkansas State League,0421-argenta-hotsprings-0,19090421,0,Hot Springs,1,Argenta,13,TVYDJNZ
+boxscores/1909/1909-MCA,1909,Arkansas State League,0421-argenta-hotsprings-0,19090421,0,Hot Springs,1,Argenta,13,PVGQNPQ
+boxscores/1909/1909-AG,1909,Arkansas State League,0421-fortsmith-helena-0,19090421,0,Helena,,Fort Smith,,QLWRNZB
+boxscores/1909/1909-MCA,1909,Arkansas State League,0421-fortsmith-helena-0,19090421,0,Helena,,Fort Smith,,ZTHTPZS
+boxscores/1909/1909-AG,1909,Arkansas State League,0421-alexandria-monroe-0,19090421,0,Alexandria,2,Monroe,7,MYGNBMS
+boxscores/1909/1909-MCA,1909,Arkansas State League,0421-alexandria-monroe-0,19090421,0,Alexandria,2,Monroe,7,NBCJHJW
+boxscores/1909/1909-AG,1909,Arkansas State League,0421-jonesboro-texarkana-0,19090421,0,Jonesboro,7,Texarkana,2,FRYBMYS
+boxscores/1909/1909-MCA,1909,Arkansas State League,0421-jonesboro-texarkana-0,19090421,0,Jonesboro,7,Texarkana,2,RWYFYNC
+boxscores/1909/1909-AG,1909,Arkansas State League,0422-argenta-monroe-0,19090422,0,Monroe,0,Argenta,3,ZHJXBHX
+boxscores/1909/1909-MCA,1909,Arkansas State League,0422-argenta-monroe-0,19090422,0,Monroe,0,Argenta,3,MGVTLZY
+boxscores/1909/1909-AG,1909,Arkansas State League,0422-fortsmith-jonesboro-0,19090422,0,Jonesboro,2,Fort Smith,0,SQCXNZH
+boxscores/1909/1909-MCA,1909,Arkansas State League,0422-fortsmith-jonesboro-0,19090422,0,Jonesboro,2,Fort Smith,0,GXDVBZY
+boxscores/1909/1909-AG,1909,Arkansas State League,0423-argenta-monroe-0,19090423,0,Monroe,1,Argenta,3,WLQRMXS
+boxscores/1909/1909-MCA,1909,Arkansas State League,0423-argenta-monroe-0,19090423,0,Monroe,1,Argenta,3,LZZHVCF
+boxscores/1909/1909-AG,1909,Arkansas State League,0423-fortsmith-jonesboro-0,19090423,0,Jonesboro,2,Fort Smith,4,BDFSMWJ
+boxscores/1909/1909-MCA,1909,Arkansas State League,0423-fortsmith-jonesboro-0,19090423,0,Jonesboro,2,Fort Smith,4,GGVTTWH
+boxscores/1909/1909-AG,1909,Arkansas State League,0423-alexandria-hotsprings-0,19090423,0,Alexandria,9,Hot Springs,10,KMHHJPY
+boxscores/1909/1909-MCA,1909,Arkansas State League,0423-alexandria-hotsprings-0,19090423,0,Alexandria,9,Hot Springs,10,FNRLNLZ
+boxscores/1909/1909-AG,1909,Arkansas State League,0423-helena-texarkana-0,19090423,0,Helena,1,Texarkana,6,THRNTFW
+boxscores/1909/1909-MCA,1909,Arkansas State League,0423-helena-texarkana-0,19090423,0,Helena,1,Texarkana,6,CGTWFDL
+boxscores/1909/1909-AG,1909,Arkansas State League,0424-argenta-monroe-0,19090424,0,Monroe,4,Argenta,7,KLRZNTR
+boxscores/1909/1909-MCA,1909,Arkansas State League,0424-argenta-monroe-0,19090424,0,Monroe,4,Argenta,7,HSKPXKH
+boxscores/1909/1909-AG,1909,Arkansas State League,0424-fortsmith-jonesboro-0,19090424,0,Jonesboro,3,Fort Smith,1,SSJRGKP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0424-fortsmith-jonesboro-0,19090424,0,Jonesboro,3,Fort Smith,1,BBVYXBT
+boxscores/1909/1909-AG,1909,Arkansas State League,0424-alexandria-hotsprings-0,19090424,0,Alexandria,7,Hot Springs,11,WBGMXZP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0424-alexandria-hotsprings-0,19090424,0,Alexandria,7,Hot Springs,11,PLXDZWJ
+boxscores/1909/1909-AG,1909,Arkansas State League,0424-helena-texarkana-0,19090424,0,Helena,8,Texarkana,4,WWFVYJL
+boxscores/1909/1909-MCA,1909,Arkansas State League,0424-helena-texarkana-0,19090424,0,Helena,8,Texarkana,4,GXRRTLT
+boxscores/1909/1909-AG,1909,Arkansas State League,0425-alexandria-hotsprings-0,19090425,0,Alexandria,3,Hot Springs,4,WBNLJFT
+boxscores/1909/1909-MCA,1909,Arkansas State League,0425-alexandria-hotsprings-0,19090425,0,Alexandria,3,Hot Springs,4,RGTTYGS
+boxscores/1909/1909-AG,1909,Arkansas State League,0425-helena-texarkana-0,19090425,0,Helena,3,Texarkana,9,MBGFCQM
+boxscores/1909/1909-MCA,1909,Arkansas State League,0425-helena-texarkana-0,19090425,0,Helena,3,Texarkana,9,DTCLRDR
+boxscores/1909/1909-AG,1909,Arkansas State League,0426-argenta-jonesboro-0,19090426,0,Jonesboro,4,Argenta,0,QWJCHFK
+boxscores/1909/1909-MCA,1909,Arkansas State League,0426-argenta-jonesboro-0,19090426,0,Jonesboro,4,Argenta,0,BBWWZMW
+boxscores/1909/1909-AG,1909,Arkansas State League,0426-fortsmith-monroe-0,19090426,0,Monroe,1,Fort Smith,1,BXGYZKY
+boxscores/1909/1909-MCA,1909,Arkansas State League,0426-fortsmith-monroe-0,19090426,0,Monroe,1,Fort Smith,1,DGMHFRN
+boxscores/1909/1909-AG,1909,Arkansas State League,0426-helena-hotsprings-0,19090426,0,Helena,5,Hot Springs,3,ZWZFYJD
+boxscores/1909/1909-MCA,1909,Arkansas State League,0426-helena-hotsprings-0,19090426,0,Helena,5,Hot Springs,3,NNQZPSM
+boxscores/1909/1909-AG,1909,Arkansas State League,0426-alexandria-texarkana-0,19090426,0,Alexandria,,Texarkana,,SWFJJWG
+boxscores/1909/1909-MCA,1909,Arkansas State League,0426-alexandria-texarkana-0,19090426,0,Alexandria,,Texarkana,,HFBJQVQ
+boxscores/1909/1909-AG,1909,Arkansas State League,0427-argenta-jonesboro-0,19090427,0,Jonesboro,2,Argenta,0,SHGQNLN
+boxscores/1909/1909-MCA,1909,Arkansas State League,0427-argenta-jonesboro-0,19090427,0,Jonesboro,2,Argenta,0,YBVZKWW
+boxscores/1909/1909-AG,1909,Arkansas State League,0427-fortsmith-monroe-0,19090427,0,Monroe,17,Fort Smith,7,LZDRZQN
+boxscores/1909/1909-MCA,1909,Arkansas State League,0427-fortsmith-monroe-0,19090427,0,Monroe,17,Fort Smith,7,KBGTNKS
+boxscores/1909/1909-AG,1909,Arkansas State League,0427-helena-hotsprings-0,19090427,0,Helena,2,Hot Springs,1,ZLBHRQV
+boxscores/1909/1909-AG,1909,Arkansas State League,0427-helena-hotsprings-0,19090427,0,Helena,9,Hot Springs,10,VXJVYMP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0427-helena-hotsprings-0,19090427,0,Helena,2,Hot Springs,1,HYCDSXP
+boxscores/1909/1909-AG,1909,Arkansas State League,0427-alexandria-texarkana-0,19090427,0,Alexandria,4,Texarkana,8,SQDSVQW
+boxscores/1909/1909-MCA,1909,Arkansas State League,0427-alexandria-texarkana-0,19090427,0,Alexandria,4,Texarkana,8,RNFZJPF
+boxscores/1909/1909-AG,1909,Arkansas State League,0428-argenta-jonesboro-0,19090428,0,Jonesboro,8,Argenta,5,FVVQHXY
+boxscores/1909/1909-MCA,1909,Arkansas State League,0428-argenta-jonesboro-0,19090428,0,Jonesboro,8,Argenta,5,XPXNBMV
+boxscores/1909/1909-AG,1909,Arkansas State League,0428-fortsmith-monroe-0,19090428,0,Monroe,6,Fort Smith,2,JZGPGKB
+boxscores/1909/1909-MCA,1909,Arkansas State League,0428-fortsmith-monroe-0,19090428,0,Monroe,6,Fort Smith,2,CPKTDQQ
+boxscores/1909/1909-MCA,1909,Arkansas State League,0428-helena-hotsprings-0,19090428,0,Helena,9,Hot Springs,10,JXLTCZP
+boxscores/1909/1909-AG,1909,Arkansas State League,0428-alexandria-texarkana-0,19090428,0,Alexandria,5,Texarkana,6,NSGPKMD
+boxscores/1909/1909-MCA,1909,Arkansas State League,0428-alexandria-texarkana-0,19090428,0,Alexandria,5,Texarkana,6,SZRZLYN
+boxscores/1909/1909-AG,1909,Arkansas State League,0429-alexandria-fortsmith-0,19090429,0,Alexandria,,Fort Smith,,LQVZKHJ
+boxscores/1909/1909-MCA,1909,Arkansas State League,0429-alexandria-fortsmith-0,19090429,0,Alexandria,7,Fort Smith,2,LTRLSYF
+boxscores/1909/1909-AG,1909,Arkansas State League,0429-argenta-helena-0,19090429,0,Argenta,3,Helena,1,ZPXKXNC
+boxscores/1909/1909-MCA,1909,Arkansas State League,0429-argenta-helena-0,19090429,0,Argenta,3,Helena,1,FRKLYLP
+boxscores/1909/1909-AG,1909,Arkansas State League,0429-hotsprings-jonesboro-0,19090429,0,Hot Springs,,Jonesboro,,BVCDFWR
+boxscores/1909/1909-MCA,1909,Arkansas State League,0429-hotsprings-jonesboro-0,19090429,0,Hot Springs,0,Jonesboro,1,CZTLRNN
+boxscores/1909/1909-MCA,1909,Arkansas State League,0430-alexandria-fortsmith-0,19090430,0,Alexandria,3,Fort Smith,1,SCYRSDQ
+boxscores/1909/1909-MCA,1909,Arkansas State League,0430-argenta-helena-0,19090430,0,Argenta,,Helena,,PTCQDYY
+boxscores/1909/1909-AG,1909,Arkansas State League,0430-hotsprings-jonesboro-0,19090430,0,Hot Springs,0,Jonesboro,2,RDVJKBJ
+boxscores/1909/1909-MCA,1909,Arkansas State League,0430-hotsprings-jonesboro-0,19090430,0,Hot Springs,0,Jonesboro,2,ZXJYRZD
+boxscores/1909/1909-AG,1909,Arkansas State League,0430-monroe-texarkana-0,19090430,0,Monroe,0,Texarkana,3,KYBNHVS
+boxscores/1909/1909-MCA,1909,Arkansas State League,0430-monroe-texarkana-0,19090430,0,Monroe,0,Texarkana,3,WZDMNWT
+boxscores/1909/1909-AG,1909,Arkansas State League,0501-alexandria-fortsmith-0,19090501,0,Alexandria,3,Fort Smith,8,NJGQTFT
+boxscores/1909/1909-MCA,1909,Arkansas State League,0501-alexandria-fortsmith-0,19090501,0,Alexandria,3,Fort Smith,8,JBBVFGR
+boxscores/1909/1909-AG,1909,Arkansas State League,0501-argenta-helena-0,19090501,0,Argenta,1,Helena,4,NGBNMCW
+boxscores/1909/1909-MCA,1909,Arkansas State League,0501-argenta-helena-0,19090501,0,Argenta,1,Helena,4,XVCQBPV
+boxscores/1909/1909-AG,1909,Arkansas State League,0501-hotsprings-jonesboro-0,19090501,0,Hot Springs,8,Jonesboro,6,SJPXXZK
+boxscores/1909/1909-MCA,1909,Arkansas State League,0501-hotsprings-jonesboro-0,19090501,0,Hot Springs,8,Jonesboro,6,RYQWYTB
+boxscores/1909/1909-AG,1909,Arkansas State League,0501-monroe-texarkana-0,19090501,0,Monroe,2,Texarkana,6,HGJNYJK
+boxscores/1909/1909-MCA,1909,Arkansas State League,0501-monroe-texarkana-0,19090501,0,Monroe,2,Texarkana,6,GFTQVCX
+boxscores/1909/1909-AG,1909,Arkansas State League,0502-monroe-texarkana-0,19090502,0,Monroe,1,Texarkana,9,HYXZHCV
+boxscores/1909/1909-MCA,1909,Arkansas State League,0502-monroe-texarkana-0,19090502,0,Monroe,1,Texarkana,9,YHTPYHH
+boxscores/1909/1909-AG,1909,Arkansas State League,0503-helena-hotsprings-0,19090503,0,Hot Springs,2,Helena,9,GRKFQYL
+boxscores/1909/1909-MCA,1909,Arkansas State League,0503-helena-hotsprings-0,19090503,0,Hot Springs,2,Helena,9,KFFKQCL
+boxscores/1909/1909-AG,1909,Arkansas State League,0503-argenta-jonesboro-0,19090503,0,Argenta,8,Jonesboro,6,QNKDWTP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0503-argenta-jonesboro-0,19090503,0,Argenta,8,Jonesboro,6,YZKDGPY
+boxscores/1909/1909-AG,1909,Arkansas State League,0504-alexandria-texarkana-0,19090504,0,Texarkana,6,Alexandria,7,FFWXVGP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0504-alexandria-texarkana-0,19090504,0,Texarkana,6,Alexandria,7,QLTJGHX
+boxscores/1909/1909-AG,1909,Arkansas State League,0504-helena-hotsprings-0,19090504,0,Hot Springs,,Helena,,NCTPDXB
+boxscores/1909/1909-MCA,1909,Arkansas State League,0504-helena-hotsprings-0,19090504,0,Hot Springs,,Helena,,CKMYJDH
+boxscores/1909/1909-AG,1909,Arkansas State League,0504-argenta-jonesboro-0,19090504,0,Argenta,2,Jonesboro,3,GYKRJDF
+boxscores/1909/1909-MCA,1909,Arkansas State League,0504-argenta-jonesboro-0,19090504,0,Argenta,2,Jonesboro,3,YQLSTDT
+boxscores/1909/1909-AG,1909,Arkansas State League,0504-fortsmith-monroe-0,19090504,0,Fort Smith,1,Monroe,7,JSXVJBN
+boxscores/1909/1909-MCA,1909,Arkansas State League,0504-fortsmith-monroe-0,19090504,0,Fort Smith,1,Monroe,7,DGWBLTK
+boxscores/1909/1909-AG,1909,Arkansas State League,0505-alexandria-texarkana-0,19090505,0,Texarkana,4,Alexandria,14,LKZSKZP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0505-alexandria-texarkana-0,19090505,0,Texarkana,4,Alexandria,14,JMHVPDQ
+boxscores/1909/1909-AG,1909,Arkansas State League,0505-helena-hotsprings-0,19090505,0,Hot Springs,0,Helena,16,NPRBLBT
+boxscores/1909/1909-MCA,1909,Arkansas State League,0505-helena-hotsprings-0,19090505,0,Hot Springs,0,Helena,16,VTYJWXF
+boxscores/1909/1909-AG,1909,Arkansas State League,0505-argenta-jonesboro-0,19090505,0,Argenta,4,Jonesboro,1,RBGYLFZ
+boxscores/1909/1909-MCA,1909,Arkansas State League,0505-argenta-jonesboro-0,19090505,0,Argenta,4,Jonesboro,1,NGHHZRJ
+boxscores/1909/1909-AG,1909,Arkansas State League,0505-fortsmith-monroe-0,19090505,0,Fort Smith,2,Monroe,5,TFDGWVX
+boxscores/1909/1909-MCA,1909,Arkansas State League,0505-fortsmith-monroe-0,19090505,0,Fort Smith,2,Monroe,5,TYZQKVK
+boxscores/1909/1909-AG,1909,Arkansas State League,0506-alexandria-texarkana-0,19090506,0,Texarkana,2,Alexandria,3,VWSJWMH
+boxscores/1909/1909-MCA,1909,Arkansas State League,0506-alexandria-texarkana-0,19090506,0,Texarkana,2,Alexandria,3,XQNGRLJ
+boxscores/1909/1909-AG,1909,Arkansas State League,0506-helena-jonesboro-0,19090506,0,Helena,7,Jonesboro,6,MPZCHDH
+boxscores/1909/1909-MCA,1909,Arkansas State League,0506-helena-jonesboro-0,19090506,0,Helena,7,Jonesboro,6,DYWMDXZ
+boxscores/1909/1909-AG,1909,Arkansas State League,0506-fortsmith-monroe-0,19090506,0,Fort Smith,0,Monroe,2,KVGGCMH
+boxscores/1909/1909-MCA,1909,Arkansas State League,0506-fortsmith-monroe-0,19090506,0,Fort Smith,0,Monroe,2,SRXNSRY
+boxscores/1909/1909-AG,1909,Arkansas State League,0507-alexandria-fortsmith-0,19090507,0,Fort Smith,2,Alexandria,4,RRQQBDD
+boxscores/1909/1909-MCA,1909,Arkansas State League,0507-alexandria-fortsmith-0,19090507,0,Fort Smith,2,Alexandria,4,DMXCSDW
+boxscores/1909/1909-AG,1909,Arkansas State League,0507-argenta-hotsprings-0,19090507,0,Argenta,5,Hot Springs,3,TXHTVYB
+boxscores/1909/1909-MCA,1909,Arkansas State League,0507-argenta-hotsprings-0,19090507,0,Argenta,5,Hot Springs,3,LBDHLLS
+boxscores/1909/1909-AG,1909,Arkansas State League,0507-helena-jonesboro-0,19090507,0,Helena,8,Jonesboro,1,TYVGBNB
+boxscores/1909/1909-MCA,1909,Arkansas State League,0507-helena-jonesboro-0,19090507,0,Helena,8,Jonesboro,1,RXRDTKK
+boxscores/1909/1909-AG,1909,Arkansas State League,0507-monroe-texarkana-0,19090507,0,Texarkana,6,Monroe,2,NJZYZMN
+boxscores/1909/1909-MCA,1909,Arkansas State League,0507-monroe-texarkana-0,19090507,0,Texarkana,6,Monroe,2,NSRVNPP
+boxscores/1909/1909-AG,1909,Arkansas State League,0508-alexandria-fortsmith-0,19090508,0,Fort Smith,8,Alexandria,12,NQHJYNP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0508-alexandria-fortsmith-0,19090508,0,Fort Smith,8,Alexandria,12,FYCMBVY
+boxscores/1909/1909-AG,1909,Arkansas State League,0508-argenta-hotsprings-0,19090508,0,Argenta,6,Hot Springs,4,GWDXZBN
+boxscores/1909/1909-MCA,1909,Arkansas State League,0508-argenta-hotsprings-0,19090508,0,Argenta,6,Hot Springs,4,CFKMHXJ
+boxscores/1909/1909-AG,1909,Arkansas State League,0508-helena-jonesboro-0,19090508,0,Helena,2,Jonesboro,1,SGNZRRP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0508-helena-jonesboro-0,19090508,0,Helena,2,Jonesboro,1,DPSYLXL
+boxscores/1909/1909-AG,1909,Arkansas State League,0508-monroe-texarkana-0,19090508,0,Texarkana,6,Monroe,7,MZHMMCH
+boxscores/1909/1909-MCA,1909,Arkansas State League,0508-monroe-texarkana-0,19090508,0,Texarkana,6,Monroe,7,WTCXNLP
+boxscores/1909/1909-AG,1909,Arkansas State League,0509-alexandria-fortsmith-0,19090509,0,Fort Smith,3,Alexandria,2,KWRRRHP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0509-alexandria-fortsmith-0,19090509,0,Fort Smith,3,Alexandria,2,JKJFMLP
+boxscores/1909/1909-AG,1909,Arkansas State League,0509-argenta-hotsprings-0,19090509,0,Argenta,5,Hot Springs,10,HWXSQML
+boxscores/1909/1909-MCA,1909,Arkansas State League,0509-argenta-hotsprings-0,19090509,0,Argenta,5,Hot Springs,10,QCYBPLM
+boxscores/1909/1909-AG,1909,Arkansas State League,0509-monroe-texarkana-0,19090509,0,Texarkana,0,Monroe,6,ZSNZFYP
+boxscores/1909/1909-MCA,1909,Arkansas State League,0509-monroe-texarkana-0,19090509,0,Texarkana,0,Monroe,6,YRBLQLP

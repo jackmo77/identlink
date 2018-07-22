@@ -1,27 +1,27 @@
 source,league.year,league.name,ident,game.date,game.number,away.name,away.score,home.name,home.score,game.ref
-boxscores/1915/1915-SL,1915,Western League,0423lin,19150423,0,Denver,6,Lincoln,0,FJYHTZC
-boxscores/1915/1915-SL,1915,Western League,0423sio,19150423,0,Des Moines,10,Sioux City,3,FMWHPXP
-boxscores/1915/1915-SL,1915,Western League,0423st.,19150423,0,Omaha,,St. Joseph,,QXHCWLD
-boxscores/1915/1915-SL,1915,Western League,0423wic,19150423,0,Topeka,4,Wichita,3,CJPQDKC
-boxscores/1915/1915-SL,1915,Western League,0424lin,19150424,0,Denver,2,Lincoln,11,KCCWJZK
-boxscores/1915/1915-SL,1915,Western League,0424sio,19150424,0,Des Moines,5,Sioux City,6,ZPLTMYY
-boxscores/1915/1915-SL,1915,Western League,0424st.,19150424,0,Omaha,4,St. Joseph,3,GGYDJML
-boxscores/1915/1915-SL,1915,Western League,0424wic,19150424,0,Topeka,6,Wichita,1,GGFGHCK
-boxscores/1915/1915-SL,1915,Western League,0425sio,19150425,0,Des Moines,3,Sioux City,2,GTQMSWF
-boxscores/1915/1915-SL,1915,Western League,0425st.,19150425,0,Omaha,0,St. Joseph,1,YDXKLPC
-boxscores/1915/1915-SL,1915,Western League,0426lin,19150426,0,Denver,3,Lincoln,3,ZHPFXRN
-boxscores/1915/1915-SL,1915,Western League,0426sio,19150426,0,Des Moines,3,Sioux City,4,RRWHVTW
-boxscores/1915/1915-SL,1915,Western League,0426st.,19150426,0,Omaha,9,St. Joseph,7,MYXSNRH
-boxscores/1915/1915-SL,1915,Western League,0426wic,19150426,0,Topeka,1,Wichita,4,QDLSSXC
-boxscores/1915/1915-SL,1915,Western League,0427des,19150427,0,St. Joseph,1,Des Moines,5,FNXSCWQ
-boxscores/1915/1915-SL,1915,Western League,0427oma,19150427,0,Sioux City,1,Omaha,4,LVKJQLG
-boxscores/1915/1915-SL,1915,Western League,0427top,19150427,0,Denver,3,Topeka,4,PFNPFNY
-boxscores/1915/1915-SL,1915,Western League,0427wic,19150427,0,Lincoln,2,Wichita,4,ZXRBQQY
-boxscores/1915/1915-SL,1915,Western League,0428des,19150428,0,St. Joseph,3,Des Moines,5,FSWTQQH
-boxscores/1915/1915-SL,1915,Western League,0428oma,19150428,0,Sioux City,2,Omaha,3,RQGQZZM
-boxscores/1915/1915-SL,1915,Western League,0428top,19150428,0,Denver,4,Topeka,2,VNHMSRR
-boxscores/1915/1915-SL,1915,Western League,0428wic,19150428,0,Lincoln,3,Wichita,4,FYHBZNG
-boxscores/1915/1915-SL,1915,Western League,0429des,19150429,0,St. Joseph,3,Des Moines,3,CKNLKRB
-boxscores/1915/1915-SL,1915,Western League,0429oma,19150429,0,Sioux City,4,Omaha,7,GHSZFVQ
-boxscores/1915/1915-SL,1915,Western League,0429top,19150429,0,Denver,4,Topeka,5,DNLWXPK
-boxscores/1915/1915-SL,1915,Western League,0429wic,19150429,0,Lincoln,8,Wichita,9,BXMVSHM
+boxscores/1915/1915-SL,1915,Western League,0423-denver-lincoln-0,19150423,0,Denver,6,Lincoln,0,FJYHTZC
+boxscores/1915/1915-SL,1915,Western League,0423-desmoines-siouxcity-0,19150423,0,Des Moines,10,Sioux City,3,FMWHPXP
+boxscores/1915/1915-SL,1915,Western League,0423-omaha-stjoseph-0,19150423,0,Omaha,,St. Joseph,,QXHCWLD
+boxscores/1915/1915-SL,1915,Western League,0423-topeka-wichita-0,19150423,0,Topeka,4,Wichita,3,CJPQDKC
+boxscores/1915/1915-SL,1915,Western League,0424-denver-lincoln-0,19150424,0,Denver,2,Lincoln,11,KCCWJZK
+boxscores/1915/1915-SL,1915,Western League,0424-desmoines-siouxcity-0,19150424,0,Des Moines,5,Sioux City,6,ZPLTMYY
+boxscores/1915/1915-SL,1915,Western League,0424-omaha-stjoseph-0,19150424,0,Omaha,4,St. Joseph,3,GGYDJML
+boxscores/1915/1915-SL,1915,Western League,0424-topeka-wichita-0,19150424,0,Topeka,6,Wichita,1,GGFGHCK
+boxscores/1915/1915-SL,1915,Western League,0425-desmoines-siouxcity-0,19150425,0,Des Moines,3,Sioux City,2,GTQMSWF
+boxscores/1915/1915-SL,1915,Western League,0425-omaha-stjoseph-0,19150425,0,Omaha,0,St. Joseph,1,YDXKLPC
+boxscores/1915/1915-SL,1915,Western League,0426-denver-lincoln-0,19150426,0,Denver,3,Lincoln,3,ZHPFXRN
+boxscores/1915/1915-SL,1915,Western League,0426-desmoines-siouxcity-0,19150426,0,Des Moines,3,Sioux City,4,RRWHVTW
+boxscores/1915/1915-SL,1915,Western League,0426-omaha-stjoseph-0,19150426,0,Omaha,9,St. Joseph,7,MYXSNRH
+boxscores/1915/1915-SL,1915,Western League,0426-topeka-wichita-0,19150426,0,Topeka,1,Wichita,4,QDLSSXC
+boxscores/1915/1915-SL,1915,Western League,0427-desmoines-stjoseph-0,19150427,0,St. Joseph,1,Des Moines,5,FNXSCWQ
+boxscores/1915/1915-SL,1915,Western League,0427-omaha-siouxcity-0,19150427,0,Sioux City,1,Omaha,4,LVKJQLG
+boxscores/1915/1915-SL,1915,Western League,0427-denver-topeka-0,19150427,0,Denver,3,Topeka,4,PFNPFNY
+boxscores/1915/1915-SL,1915,Western League,0427-lincoln-wichita-0,19150427,0,Lincoln,2,Wichita,4,ZXRBQQY
+boxscores/1915/1915-SL,1915,Western League,0428-desmoines-stjoseph-0,19150428,0,St. Joseph,3,Des Moines,5,FSWTQQH
+boxscores/1915/1915-SL,1915,Western League,0428-omaha-siouxcity-0,19150428,0,Sioux City,2,Omaha,3,RQGQZZM
+boxscores/1915/1915-SL,1915,Western League,0428-denver-topeka-0,19150428,0,Denver,4,Topeka,2,VNHMSRR
+boxscores/1915/1915-SL,1915,Western League,0428-lincoln-wichita-0,19150428,0,Lincoln,3,Wichita,4,FYHBZNG
+boxscores/1915/1915-SL,1915,Western League,0429-desmoines-stjoseph-0,19150429,0,St. Joseph,3,Des Moines,3,CKNLKRB
+boxscores/1915/1915-SL,1915,Western League,0429-omaha-siouxcity-0,19150429,0,Sioux City,4,Omaha,7,GHSZFVQ
+boxscores/1915/1915-SL,1915,Western League,0429-denver-topeka-0,19150429,0,Denver,4,Topeka,5,DNLWXPK
+boxscores/1915/1915-SL,1915,Western League,0429-lincoln-wichita-0,19150429,0,Lincoln,8,Wichita,9,BXMVSHM
