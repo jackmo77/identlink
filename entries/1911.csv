@@ -1,0 +1,362 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1911,American Association,Minneapolis,MIN,MIN,MIN
+1911,American Association,Kansas City,KC,KC,KC
+1911,American Association,Columbus,COL,COL,COL
+1911,American Association,St. Paul,STP,STP,STP
+1911,American Association,Milwaukee,MIL,MIL,MIL
+1911,American Association,Toledo,TOL,TOL,TOL
+1911,American Association,Indianapolis,IND,IND,IND
+1911,American Association,Louisville,LOU,LOU,LOU
+1911,Eastern League,Rochester,ROC,ROC,ROC
+1911,Eastern League,Baltimore,BAL,BAL,BAL
+1911,Eastern League,Toronto,TOR,TOR,TOR
+1911,Eastern League,Buffalo,BUF,BUF,BUF
+1911,Eastern League,Montreal,MON,MON,MON
+1911,Eastern League,Jersey City,JC,JC,JC
+1911,Eastern League,Newark,NEW,NEW,NEW
+1911,Eastern League,Providence,PRO,PRO,PRO
+1911,Pacific Coast League,Portland,POR,POR,POR
+1911,Pacific Coast League,Vernon,VER,VER,VER
+1911,Pacific Coast League,Oakland,OAK,OAK,OAK
+1911,Pacific Coast League,Sacramento,SAC,SAC,SAC
+1911,Pacific Coast League,San Francisco,SF,SF,SF
+1911,Pacific Coast League,Los Angeles,LA,LA,LA
+1911,Southern Association,New Orleans,NO,NO,NO
+1911,Southern Association,Montgomery,MON,TUE,WED
+1911,Southern Association,Birmingham,BIR,BIR,BIR
+1911,Southern Association,Nashville,NAS,NAS,NAS
+1911,Southern Association,Chattanooga,CHA,CHA,CHA
+1911,Southern Association,Memphis,MEM,MEM,MEM
+1911,Southern Association,Mobile,MOB,MOB,MOB
+1911,Southern Association,Atlanta,ATL,ATL,ATL
+1911,Western League,Denver,DEN,DEN,DEN
+1911,Western League,St. Joseph,STJ,STJ,STJ
+1911,Western League,Wichita/Pueblo,WIC+PUE,,WIC+PUE
+1911,Western League,Wichita,WIC+PUE,WIC,WIC+PUE
+1911,Western League,Pueblo,WIC+PUE,PUE,WIC+PUE
+1911,Western League,Omaha,OMA,OMA,OMA
+1911,Western League,Sioux City,SC,SC,SC
+1911,Western League,Lincoln,LIN,LIN,LIN
+1911,Western League,Topeka,TOP,TOP,TOP
+1911,Western League,Des Moines,DM,DM,DM
+1911,Central League,Dayton,DAY,DAY,DAY
+1911,Central League,Fort Wayne,FW,FW,FW
+1911,Central League,Zanesville,ZAN,ZAN,ZAN
+1911,Central League,South Bend/Grand Rapids,SB1+GR2,,SB1+GR2
+1911,Central League,South Bend [I],SB1+GR2,SB1,SB1+GR2
+1911,Central League,Grand Rapids [II],SB1+GR2,GR2,SB1+GR2
+1911,Central League,Evansville/South Bend,EVA+SB2,,EVA+SB2
+1911,Central League,Evansville,EVA+SB2,EVA,EVA+SB2
+1911,Central League,South Bend [II],EVA+SB2,SB2,EVA+SB2
+1911,Central League,Wheeling,WHE,WHE,WHE
+1911,Central League,Grand Rapids/Newark,GR1+NEW,,GR1+NEW
+1911,Central League,Grand Rapids [I],GR1+NEW,GR1,GR1+NEW
+1911,Central League,Newark,GR1+NEW,NEW,GR1+NEW
+1911,Central League,Terre Haute,TH,TH,TH
+1911,Connecticut State League,Springfield,SPR,SPR,SPR
+1911,Connecticut State League,Bridgeport,BRI,BRI,BRI
+1911,Connecticut State League,Hartford,HAR,HAR,HAR
+1911,Connecticut State League,New Haven,NH,NH,NH
+1911,Connecticut State League,New Britain,NB,NB,NB
+1911,Connecticut State League,Waterbury,WAT,WAT,WAT
+1911,Connecticut State League,Northampton,NOR,NOR,NOR
+1911,Connecticut State League,Holyoke,HOL,HOL,HOL
+1911,New England League,Lowell,LOW,LOW,LOW
+1911,New England League,Worcester,WOR,WOR,WOR
+1911,New England League,Lawrence,LAW,LAW,LAW
+1911,New England League,Fall River,FR,FR,FR
+1911,New England League,Lynn,LYN,LYN,LYN
+1911,New England League,Brockton,BRO,BRO,BRO
+1911,New England League,New Bedford,NB,NB,NB
+1911,New England League,Haverhill,HAV,HAV,HAV
+1911,New York State League,Wilkes-Barre,WB,WB,WB
+1911,New York State League,Elmira,ELM,ELM,ELM
+1911,New York State League,Troy,TRO,TRO,TRO
+1911,New York State League,Albany,ALB,ALB,ALB
+1911,New York State League,Utica,UTI,UTI,UTI
+1911,New York State League,Syracuse,SYR,SYR,SYR
+1911,New York State League,Scranton,SCR,SCR,SCR
+1911,New York State League,Binghamton,BIN,BIN,BIN
+1911,Northwestern League,Vancouver,VAN,VAN,VAN
+1911,Northwestern League,Spokane,SPO,SPO,SPO
+1911,Northwestern League,Seattle,SEA,SEA,SEA
+1911,Northwestern League,Portland,POR,POR,POR
+1911,Northwestern League,Tacoma,TAC,TAC,TAC
+1911,Northwestern League,Victoria,VIC,VIC,VIC
+1911,Texas League,Austin,AUS,AUS,AUS
+1911,Texas League,Fort Worth,FW,FW,FW
+1911,Texas League,San Antonio,SA,SA,SA
+1911,Texas League,Dallas,DAL,DAL,DAL
+1911,Texas League,Waco,WAC,WAC,WAC
+1911,Texas League,Houston,HOU,HOU,HOU
+1911,Texas League,Oklahoma City,OKC,OKC,OKC
+1911,Texas League,Galveston,GAL,GAL,GAL
+1911,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1911,Illinois-Indiana-Iowa League,Springfield/Decatur,SPR+DEC,,SPR+DEC
+1911,Illinois-Indiana-Iowa League,Springfield,SPR+DEC,SPR,SPR+DEC
+1911,Illinois-Indiana-Iowa League,Decatur,SPR+DEC,DEC,SPR+DEC
+1911,Illinois-Indiana-Iowa League,Quincy,QUI,QUI,QUI
+1911,Illinois-Indiana-Iowa League,Danville,DAN,DAN,DAN
+1911,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1911,Illinois-Indiana-Iowa League,Dubuque,DUB,DUB,DUB
+1911,Illinois-Indiana-Iowa League,Waterloo,WAT,WAT,WAT
+1911,Illinois-Indiana-Iowa League,Rock Island,RI,RI,RI
+1911,Tri-State League,Reading,REA,REA,REA
+1911,Tri-State League,Trenton,TRE,TRE,TRE
+1911,Tri-State League,Johnstown,JOH,JOH,JOH
+1911,Tri-State League,Lancaster,LAN,LAN,LAN
+1911,Tri-State League,Altoona,ALT,ALT,ALT
+1911,Tri-State League,York,YOR,YOR,YOR
+1911,Tri-State League,Harrisburg,HAR,HAR,HAR
+1911,Tri-State League,Wilmington,WIL,WIL,WIL
+1911,Minnesota-Wisconsin League,Superior,SUP,SUP,SUP
+1911,Minnesota-Wisconsin League,Winona,WIN,WIN,WIN
+1911,Minnesota-Wisconsin League,Duluth,DUL,DUL,DUL
+1911,Minnesota-Wisconsin League,Eau Claire,EC,EC,EC
+1911,Minnesota-Wisconsin League,La Crosse,LAC,LAC,LAC
+1911,Minnesota-Wisconsin League,Rochester,ROC,ROC,ROC
+1911,Minnesota-Wisconsin League,Red Wing,RW,RW,RW
+1911,Minnesota-Wisconsin League,Wausau,WAU,WAU,WAU
+1911,Ohio-Pennsylvania League,Akron,AKR,AKR,AKR
+1911,Ohio-Pennsylvania League,Youngstown,YOU,YOU,YOU
+1911,Ohio-Pennsylvania League,Erie,ERI,ERI,ERI
+1911,Ohio-Pennsylvania League,Canton,CAN,CAN,CAN
+1911,Ohio-Pennsylvania League,Mansfield,MAN,MAN,MAN
+1911,Ohio-Pennsylvania League,New Castle/Sharon,NC+SHA,,NC+SHA
+1911,Ohio-Pennsylvania League,New Castle,NC+SHA,NC,NC+SHA
+1911,Ohio-Pennsylvania League,Sharon,NC+SHA,SHA,NC+SHA
+1911,Ohio-Pennsylvania League,East Liverpool,EL,EL,EL
+1911,Ohio-Pennsylvania League,Steubenville,STE,STE,STE
+1911,South Atlantic League,Columbia,CBA,CBA,CBA
+1911,South Atlantic League,Columbus,CBS,CBS,CBS
+1911,South Atlantic League,Albany,ALB,ALB,ALB
+1911,South Atlantic League,Macon,MAC,MAC,MAC
+1911,South Atlantic League,Jacksonville,JAC,JAC,JAC
+1911,South Atlantic League,Savannah,SAV,SAV,SAV
+1911,South Atlantic League,Augusta/Orphans,AUG+ORP,,AUG+ORP
+1911,South Atlantic League,Augusta,AUG+ORP,AUG,AUG+ORP
+1911,South Atlantic League,Orphans,AUG+ORP,ORP,AUG+ORP
+1911,South Atlantic League,Charleston,CHA,CHA,CHA
+1911,Southern Michigan Association,Kalamazoo,KAL,KAL,KAL
+1911,Southern Michigan Association,Lansing,LAN,LAN,LAN
+1911,Southern Michigan Association,Flint,FLI,FLI,FLI
+1911,Southern Michigan Association,Bay City,BAY,BAY,BAY
+1911,Southern Michigan Association,Saginaw,SAG,SAG,SAG
+1911,Southern Michigan Association,Adrian,ADR,ADR,ADR
+1911,Southern Michigan Association,Battle Creek,BAT,BAT,BAT
+1911,Southern Michigan Association,Jackson,JAC,JAC,JAC
+1911,Virginia League,Petersburg,PET,PET,PET
+1911,Virginia League,Norfolk,NOR,NOR,NOR
+1911,Virginia League,Roanoke,ROA,ROA,ROA
+1911,Virginia League,Richmond,RIC,RIC,RIC
+1911,Virginia League,Lynchburg,LYN,LYN,LYN
+1911,Virginia League,Danville,DAN,DAN,DAN
+1911,Wisconsin-Illinois League,Rockford,ROC,ROC,ROC
+1911,Wisconsin-Illinois League,Madison,MAD,MAD,MAD
+1911,Wisconsin-Illinois League,Green Bay,GB,GB,GB
+1911,Wisconsin-Illinois League,Appleton,APP,APP,APP
+1911,Wisconsin-Illinois League,Oshkosh,OSH,OSH,OSH
+1911,Wisconsin-Illinois League,Racine,RAC,RAC,RAC
+1911,Wisconsin-Illinois League,Aurora,AUR,AUR,AUR
+1911,Wisconsin-Illinois League,Fond du Lac,FDL,FDL,FDL
+1911,Appalachian League,Johnson City,JC,JC,JC
+1911,Appalachian League,Knoxville,KNO,KNO,KNO
+1911,Appalachian League,Asheville,ASH,ASH,ASH
+1911,Appalachian League,Morristown,MOR,MOR,MOR
+1911,Appalachian League,Cleveland,CLE,CLE,CLE
+1911,Appalachian League,Bristol,BRI,BRI,BRI
+1911,Blue Grass League,Paris,PAR,PAR,PAR
+1911,Blue Grass League,Lexington,LEX,LEX,LEX
+1911,Blue Grass League,Winchester,WIN,WIN,WIN
+1911,Blue Grass League,Maysville,MAY,JUNE,JULY
+1911,Blue Grass League,Frankfort,FRA,FRA,FRA
+1911,Blue Grass League,Richmond,RIC,RIC,RIC
+1911,Canadian League,Berlin,BER,BER,BER
+1911,Canadian League,London,LON,LON,LON
+1911,Canadian League,Hamilton,HAM,HAM,HAM
+1911,Canadian League,Brantford,BRA,BRA,BRA
+1911,Canadian League,Guelph,GUE,GUE,GUE
+1911,Canadian League,St. Thomas,ST,ST,ST
+1911,Carolina Association,Winston-Salem,WS,WS,WS
+1911,Carolina Association,Greensboro,GBO,GBO,GBO
+1911,Carolina Association,Charlotte,CHA,CHA,CHA
+1911,Carolina Association,Anderson,AND,AND,AND
+1911,Carolina Association,Spartanburg,SPA,SPA,SPA
+1911,Carolina Association,Greenville,GVL,GVL,GVL
+1911,Central Association,Ottumwa,OTT,OTT,OTT
+1911,Central Association,Burlington,BUR,BUR,BUR
+1911,Central Association,Galesburg,GAL,GAL,GAL
+1911,Central Association,Keokuk,KEO,KEO,KEO
+1911,Central Association,Kewanee,KEW,KEW,KEW
+1911,Central Association,Monmouth,MON,TUE,WED
+1911,Central Association,Muscatine,MUS,MUS,MUS
+1911,Central Association,Hannibal,HAN,HAN,HAN
+1911,Central California League,San Leandro,SL,SL,SL
+1911,Central California League,Alameda,ALA,ALA,ALA
+1911,Central California League,Vallejo,VAL,VAL,VAL
+1911,Central California League,Richmond,RIC,RIC,RIC
+1911,Central California League,Berkeley,BER,BER,BER
+1911,Central California League,Elmhurst/Oakland,ELM+OAK,,ELM+OAK
+1911,Central California League,Elmhurst,ELM+OAK,ELM,ELM+OAK
+1911,Central California League,Oakland,ELM+OAK,OAK,ELM+OAK
+1911,Central California League,Hayward,HAY,HAY,HAY
+1911,Central California League,Fruitvale/Alameda,FRU+AL2,,FRU+AL2
+1911,Central California League,Fruitvale,FRU+AL2,FRU,FRU+AL2
+1911,Central California League,Alameda [II],FRU+AL2,AL2,FRU+AL2
+1911,Central Kansas League,Junction City,JC,JC,JC
+1911,Central Kansas League,Clay Center,CC,CC,CC
+1911,Central Kansas League,Concordia,CON,CON,CON
+1911,Central Kansas League,Manhattan,MAN,MAN,MAN
+1911,Cotton States League,Vicksburg,VIC,VIC,VIC
+1911,Cotton States League,Hattiesburg,HAT,HAT,HAT
+1911,Cotton States League,Yazoo City,YC,YC,YC
+1911,Cotton States League,Jackson,JAC,JAC,JAC
+1911,Cotton States League,Greenwood,GRE,GRE,GRE
+1911,Cotton States League,Meridian,MER,MER,MER
+1911,Ilinois-Missouri League,Clinton,CLI,CLI,CLI
+1911,Ilinois-Missouri League,Pekin,PEK,PEK,PEK
+1911,Ilinois-Missouri League,Champaign-Urbana,CU,CU,CU
+1911,Ilinois-Missouri League,Canton,CAN,CAN,CAN
+1911,Ilinois-Missouri League,Linoln,LIN,LIN,LIN
+1911,Ilinois-Missouri League,Taylorville,TAY,TAY,TAY
+1911,Kansas State League,Great Bend,GB,GB,GB
+1911,Kansas State League,Newton,NEW,NEW,NEW
+1911,Kansas State League,Lyons,LYO,LYO,LYO
+1911,Kansas State League,McPherson,MCP,MCP,MCP
+1911,Kansas State League,Hutchinson,HUT,HUT,HUT
+1911,Kansas State League,Larned,LAR,LAR,LAR
+1911,Kansas State League,El Dorado,ED,ED,ED
+1911,Kansas State League,Wellington/Wichita,WEL+WIC,,WEL+WIC
+1911,Kansas State League,Wellington,WEL+WIC,WEL,WEL+WIC
+1911,Kansas State League,Wichita,WEL+WIC,WIC,WEL+WIC
+1911,Kentucky-Illinois-Tennessee League,Hopkinsville,HOP,HOP,HOP
+1911,Kentucky-Illinois-Tennessee League,Fulton,FUL,FUL,FUL
+1911,Kentucky-Illinois-Tennessee League,McLeansboro/Henderson,MCL+HEN,,MCL+HEN
+1911,Kentucky-Illinois-Tennessee League,McLeansboro,MCL+HEN,MCL,MCL+HEN
+1911,Kentucky-Illinois-Tennessee League,Henderson,MCL+HEN,HEN,MCL+HEN
+1911,Kentucky-Illinois-Tennessee League,Vincennes,VIN,VIN,VIN
+1911,Kentucky-Illinois-Tennessee League,Paducah,PAD,PAD,PAD
+1911,Kentucky-Illinois-Tennessee League,Cairo,CAI,CAI,CAI
+1911,Kentucky-Illinois-Tennessee League,Harrisburg/Jackson,HAR+JAC,,HAR+JAC
+1911,Kentucky-Illinois-Tennessee League,Harrisburg,HAR+JAC,HAR,HAR+JAC
+1911,Kentucky-Illinois-Tennessee League,Jackson,HAR+JAC,JAC,HAR+JAC
+1911,Kentucky-Illinois-Tennessee League,Clarksville,CLA,CLA,CLA
+1911,Michigan State League,Manistee,MAN,MAN,MAN
+1911,Michigan State League,Muskegon,MUS,MUS,MUS
+1911,Michigan State League,Cadillac,CAD,CAD,CAD
+1911,Michigan State League,Traverse City,TC,TC,TC
+1911,Michigan State League,Holland,HOL,HOL,HOL
+1911,Michigan State League,Boyne City,BC,BC,BC
+1911,Minnesota-Iowa-Nebraska-Kansas League,Maryville/Humboldt,MAR+HUM,,MAR+HUM
+1911,Minnesota-Iowa-Nebraska-Kansas League,Maryville,MAR+HUM,MAR,MAR+HUM
+1911,Minnesota-Iowa-Nebraska-Kansas League,Humboldt,MAR+HUM,HUM,MAR+HUM
+1911,Minnesota-Iowa-Nebraska-Kansas League,Falls City,FC,FC,FC
+1911,Minnesota-Iowa-Nebraska-Kansas League,Auburn,AUB,AUB,AUB
+1911,Minnesota-Iowa-Nebraska-Kansas League,Shenandoah,SHE,SHE,SHE
+1911,Minnesota-Iowa-Nebraska-Kansas League,Clarinda,CLA,CLA,CLA
+1911,Minnesota-Iowa-Nebraska-Kansas League,Nebraska City,NC,NC,NC
+1911,Mountain States League,Montgomery,MON,TUE,WED
+1911,Mountain States League,Huntington,HUN,HUN,HUN
+1911,Mountain States League,Ashland-Catlettsburg,AC,AC,AC
+1911,Mountain States League,Point Pleasant-Gallipolis/Middleport-Pomeroy,PPG+MP,,PPG+MP
+1911,Mountain States League,Point Pleasant-Gallipolis,PPG+MP,PPG,PPG+MP
+1911,Mountain States League,Middleport-Pomeroy,PPG+MP,MP,PPG+MP
+1911,Mountain States League,Charleston,CHA,CHA,CHA
+1911,Mountain States League,Ironton,IRO,IRO,IRO
+1911,Nebraska State League,Superior,SUP,SUP,SUP
+1911,Nebraska State League,Fremont,FRE,FRE,FRE
+1911,Nebraska State League,Hastings,HAS,HAS,HAS
+1911,Nebraska State League,Seward,SEW,SEW,SEW
+1911,Nebraska State League,Grand Island,GI,GI,GI
+1911,Nebraska State League,Columbus,COL,COL,COL
+1911,Nebraska State League,Kearney,KEA,KEA,KEA
+1911,Nebraska State League,York,YOR,YOR,YOR
+1911,Northeast Arkansas League,Helena,HEL,HEL,HEL
+1911,Northeast Arkansas League,Blytheville,BLY,BLY,BLY
+1911,Northeast Arkansas League,Paragould,PAR,PAR,PAR
+1911,Northeast Arkansas League,Jonesboro,JON,JON,JON
+1911,Northern State of Indiana League,Marion,MAR,APR,MAY
+1911,Northern State of Indiana League,Huntington,HUN,HUN,HUN
+1911,Northern State of Indiana League,Wabash,WAB,WAB,WAB
+1911,Northern State of Indiana League,Lafayette,LAF,LAF,LAF
+1911,Northern State of Indiana League,Bluffton,BLU,BLU,BLU
+1911,Northern State of Indiana League,Logansport/Anderson,LOG+AND,,LOG+AND
+1911,Northern State of Indiana League,Logansport,LOG+AND,LOG,LOG+AND
+1911,Northern State of Indiana League,Anderson,LOG+AND,AND,LOG+AND
+1911,Ohio State League,Springfield,SPR,SPR,SPR
+1911,Ohio State League,Marion,MAR,APR,MAY
+1911,Ohio State League,Portsmouth,POR,POR,POR
+1911,Ohio State League,Chillicothe,CHI,CHI,CHI
+1911,Ohio State League,Newark/Piqua,NEW+PIQ,,NEW+PIQ
+1911,Ohio State League,Newark,NEW+PIQ,NEW,NEW+PIQ
+1911,Ohio State League,Piqua,NEW+PIQ,PIQ,NEW+PIQ
+1911,Ohio State League,Lima,LIM,LIM,LIM
+1911,Ohio State League,Lancaster,LAN,LAN,LAN
+1911,Ohio State League,Hamilton,HAM,HAM,HAM
+1911,Southeastern League,Anniston,ANN,ANN,ANN
+1911,Southeastern League,Gadsden,GAD,GAD,GAD
+1911,Southeastern League,Selma,SEL,SEL,SEL
+1911,Southeastern League,Rome,ROM,ROM,ROM
+1911,Southeastern League,Huntsville,HUN,HUN,HUN
+1911,Southeastern League,Decatur,DEC,JAN,FEB
+1911,Southwest Texas League,Bay City,BC,BC,BC
+1911,Southwest Texas League,Brownsville,BRO,BRO,BRO
+1911,Southwest Texas League,Beeville,BEE,BEE,BEE
+1911,Southwest Texas League,Laredo,LAR,LAR,LAR
+1911,Southwest Texas League,Victoria,VIC,VIC,VIC
+1911,Southwest Texas League,Corpus Christi,CC,CC,CC
+1911,Texas-Oklahoma League,Wichita Falls,WF,WF,WF
+1911,Texas-Oklahoma League,Durant,DUR,DUR,DUR
+1911,Texas-Oklahoma League,Cleburne,CLE,CLE,CLE
+1911,Texas-Oklahoma League,Bonham,BON,BON,BON
+1911,Texas-Oklahoma League,Ardmore,ARD,ARD,ARD
+1911,Texas-Oklahoma League,Altus,ALT,ALT,ALT
+1911,Texas-Oklahoma League,Gainesville,GAI,GAI,GAI
+1911,Texas-Oklahoma League,Lawton,LAW,LAW,LAW
+1911,Union Association,Great Falls,GF,GF,GF
+1911,Union Association,Salt Lake City,SLC,SLC,SLC
+1911,Union Association,Butte,BUT,BUT,BUT
+1911,Union Association,Boise,BOI,BOI,BOI
+1911,Union Association,Helena,HEL,HEL,HEL
+1911,Union Association,Missoula,MIS,MIS,MIS
+1911,Washington State League,Centralia,CEN,CEN,CEN
+1911,Washington State League,Chehalis,CHE,CHE,CHE
+1911,Washington State League,Raymond,RAY,RAY,RAY
+1911,Washington State League,South Bend,SB,SB,SB
+1911,Western Association,Fort Smith,FS,FS,FS
+1911,Western Association,Muskogee,MUS,MUS,MUS
+1911,Western Association,Sapulpa,SAP,SAP,SAP
+1911,Western Association,Tulsa,TUL,TUL,TUL
+1911,Western Association,Independence,IND,IND,IND
+1911,Western Association,Coffeyville,COF,COF,COF
+1911,Western Association,Joplin,JOP,JOP,JOP
+1911,Western Association,Springfield,SPR,SPR,SPR
+1911,Western Canada League,Moose Jaw,MJ,MJ,MJ
+1911,Western Canada League,Calgary,CAL,CAL,CAL
+1911,Western Canada League,Edmonton,EDM,EDM,EDM
+1911,Western Canada League,Winnipeg,WIN,WIN,WIN
+1911,Western Canada League,Saskatoon,SAS,SAS,SAS
+1911,Western Canada League,Brandon,BRA,BRA,BRA
+1911,Missouri State League,Sedalia/Brookfield,SED+BR2,,SED+BR2
+1911,Missouri State League,Sedalia,SED+BR2,SED,SED+BR2
+1911,Missouri State League,Brookfield [II],SED+BR2,BR2,SED+BR2
+1911,Missouri State League,Macon,MAC,MAC,MAC
+1911,Missouri State League,Jefferson City,JC,JC,JC
+1911,Missouri State League,Kirksville,KIR,KIR,KIR
+1911,Missouri State League,Brookfield [I],BR1,BR1,BR1
+1911,San Joaquin Valley League,Tulare,TUL,TUL,TUL
+1911,San Joaquin Valley League,Coalinga,COA,COA,COA
+1911,San Joaquin Valley League,Lemoore,LEM,LEM,LEM
+1911,San Joaquin Valley League,Hanford,HAN,HAN,HAN
+1911,San Joaquin Valley League,Visalia,VIS,VIS,VIS
+1911,San Joaquin Valley League,Porterville,POR,POR,POR
+1911,Tidewater League,Suffolk,SUF,SUF,SUF
+1911,Tidewater League,Hampton,HAM,HAM,HAM
+1911,Tidewater League,Newport News,NN,NN,NN
+1911,Tidewater League,Old Point Comfort,OPC,OPC,OPC
+1911,Tidewater League,Portsmouth,POR,POR,POR
+1911,Tidewater League,Elizabeth City,EC,EC,EC
+1911,Twin States League,Brattleboro,BRA,BRA,BRA
+1911,Twin States League,Keene,KEE,KEE,KEE
+1911,Twin States League,Bellows Falls,BF,BF,BF
+1911,Twin States League,Springfield-Charlestown,SC,SC,SC

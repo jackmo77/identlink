@@ -1,0 +1,275 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1909,American Association,Louisville,LOU,LOU,LOU
+1909,American Association,Milwaukee,MIL,MIL,MIL
+1909,American Association,Minneapolis,MIN,MIN,MIN
+1909,American Association,Indianapolis,IND,IND,IND
+1909,American Association,St. Paul,STP,STP,STP
+1909,American Association,Toledo,TOL,TOL,TOL
+1909,American Association,Columbus,COL,COL,COL
+1909,American Association,Kansas City,KC,KC,KC
+1909,Eastern League,Rochester,ROC,ROC,ROC
+1909,Eastern League,Newark,NEW,NEW,NEW
+1909,Eastern League,Providence,PRO,PRO,PRO
+1909,Eastern League,Toronto,TOR,TOR,TOR
+1909,Eastern League,Buffalo,BUF,BUF,BUF
+1909,Eastern League,Montreal,MON,TUE,WED
+1909,Eastern League,Baltimore,BAL,BAL,BAL
+1909,Eastern League,Jersey City,JC,JC,JC
+1909,Pacific Coast League,San Francisco,SF,SF,SF
+1909,Pacific Coast League,Portland,POR,POR,POR
+1909,Pacific Coast League,Los Angeles,LA,LA,LA
+1909,Pacific Coast League,Sacramento,SAC,SAC,SAC
+1909,Pacific Coast League,Oakland,OAK,OAK,OAK
+1909,Pacific Coast League,Vernon,VER,VER,VER
+1909,Southern Association,Atlanta,ATL,ATL,ATL
+1909,Southern Association,Nashville,NAS,NAS,NAS
+1909,Southern Association,Montgomery,MON,TUE,WED
+1909,Southern Association,New Orleans,NO,NO,NO
+1909,Southern Association,Mobile,MOB,MOB,MOB
+1909,Southern Association,Birmingham,BIR,BIR,BIR
+1909,Southern Association,Little Rock,LR,LR,LR
+1909,Southern Association,Memphis,MEM,MEM,MEM
+1909,Western League,Des Moines,DM,DM,DM
+1909,Western League,Sioux City,SC,SC,SC
+1909,Western League,Omaha,OMA,OMA,OMA
+1909,Western League,Topeka,TOP,TOP,TOP
+1909,Western League,Wichita,WIC,WIC,WIC
+1909,Western League,Denver,DEN,DEN,DEN
+1909,Western League,Lincoln,LIN,LIN,LIN
+1909,Western League,Pueblo,PUE,PUE,PUE
+1909,Central League,Wheeling,WHE,WHE,WHE
+1909,Central League,Zanesville,ZAN,ZAN,ZAN
+1909,Central League,Fort Wayne,FW,FW,FW
+1909,Central League,Grand Rapids,GR,GR,GR
+1909,Central League,Terre Haute,TH,TH,TH
+1909,Central League,South Bend,SB,SB,SB
+1909,Central League,Evansville,EVA,EVA,EVA
+1909,Central League,Dayton,DAY,DAY,DAY
+1909,Connecticut State League,Hartford,HAR,HAR,HAR
+1909,Connecticut State League,Holyoke,HOL,HOL,HOL
+1909,Connecticut State League,New Britain,NB,NB,NB
+1909,Connecticut State League,Waterbury,WAT,WAT,WAT
+1909,Connecticut State League,Springfield,SPR,SPR,SPR
+1909,Connecticut State League,New Haven,NH,NH,NH
+1909,Connecticut State League,Northampton,NOR,NOR,NOR
+1909,Connecticut State League,Bridgeport,BRI,BRI,BRI
+1909,New England League,Worcester,WOR,WOR,WOR
+1909,New England League,Brockton,BRO,BRO,BRO
+1909,New England League,Lynn,LYN,LYN,LYN
+1909,New England League,Fall River,FR,FR,FR
+1909,New England League,Haverhill,HAV,HAV,HAV
+1909,New England League,New Bedford,NB,NB,NB
+1909,New England League,Lowell,LOW,LOW,LOW
+1909,New England League,Lawrence,LAW,LAW,LAW
+1909,New York State League,Wilkes-Barre,WB,WB,WB
+1909,New York State League,Utica,UTI,UTI,UTI
+1909,New York State League,Albany,ALB,ALB,ALB
+1909,New York State League,Elmira,ELM,ELM,ELM
+1909,New York State League,Binghamton,BIN,BIN,BIN
+1909,New York State League,Troy,TRO,TRO,TRO
+1909,New York State League,Syracuse,SYR,SYR,SYR
+1909,New York State League,Scranton,SCR,SCR,SCR
+1909,Northwestern League,Seattle,SEA,SEA,SEA
+1909,Northwestern League,Spokane,SPO,SPO,SPO
+1909,Northwestern League,Aberdeen,ABE,ABE,ABE
+1909,Northwestern League,Portland,POR,POR,POR
+1909,Northwestern League,Vancouver,VAN,VAN,VAN
+1909,Northwestern League,Tacoma,TAC,TAC,TAC
+1909,Illinois-Indiana-Iowa League,Rock Island,RI,RI,RI
+1909,Illinois-Indiana-Iowa League,Springfield,SPR,SPR,SPR
+1909,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1909,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
+1909,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1909,Illinois-Indiana-Iowa League,Dubuque,DUB,DUB,DUB
+1909,Illinois-Indiana-Iowa League,Decatur,DEC,JAN,FEB
+1909,Illinois-Indiana-Iowa League,Cedar Rapids,CR,CR,CR
+1909,Tri-State League,Lancaster,LAN,LAN,LAN
+1909,Tri-State League,Reading,REA,REA,REA
+1909,Tri-State League,Williamsport,WIL,WIL,WIL
+1909,Tri-State League,Altoona,ALT,ALT,ALT
+1909,Tri-State League,Johnstown,JOH,JOH,JOH
+1909,Tri-State League,Harrisburg,HAR,HAR,HAR
+1909,Tri-State League,Trenton,TRE,TRE,TRE
+1909,Tri-State League,York,YOR,YOR,YOR
+1909,Ohio-Pennsylvania League,Akron,AKR,AKR,AKR
+1909,Ohio-Pennsylvania League,East Liverpool,EL,EL,EL
+1909,Ohio-Pennsylvania League,McKeesport,MCK,MCK,MCK
+1909,Ohio-Pennsylvania League,New Castle,NC,NC,NC
+1909,Ohio-Pennsylvania League,Canton,CAN,CAN,CAN
+1909,Ohio-Pennsylvania League,Erie,ERI,ERI,ERI
+1909,Ohio-Pennsylvania League,Steubenville,STE,STE,STE
+1909,Ohio-Pennsylvania League,Youngstown,YOU,YOU,YOU
+1909,South Atlantic League,Chattanooga,CHA,CHA,CHA
+1909,South Atlantic League,Columbus,CBS,CBS,CBS
+1909,South Atlantic League,Augusta,AUG,SEP,OCT
+1909,South Atlantic League,Savannah,SAV,SAV,SAV
+1909,South Atlantic League,Charleston/Knoxville,CHA+KNO,,CHA+KNO
+1909,South Atlantic League,Charleston,CHA+KNO,CHA,CHA+KNO
+1909,South Atlantic League,Knoxville,CHA+KNO,KNO,CHA+KNO
+1909,South Atlantic League,Macon,MAC,MAC,MAC
+1909,South Atlantic League,Jacksonville,JAC,JAC,JAC
+1909,South Atlantic League,Columbia,CBA,CBA,CBA
+1909,Texas League,Houston,HOU,HOU,HOU
+1909,Texas League,Oklahoma City,OKC,OKC,OKC
+1909,Texas League,San Antonio,SA,SA,SA
+1909,Texas League,Dallas,DAL,DAL,DAL
+1909,Texas League,Shreveport,SHR,SHR,SHR
+1909,Texas League,Fort Worth,FW,FW,FW
+1909,Texas League,Galveston,GAL,GAL,GAL
+1909,Texas League,Waco,WAC,WAC,WAC
+1909,Virginia League,Roanoke,ROA,ROA,ROA
+1909,Virginia League,Norfolk,NOR,NOR,NOR
+1909,Virginia League,Richmond,RIC,RIC,RIC
+1909,Virginia League,Danville,DAN,DAN,DAN
+1909,Virginia League,Portsmouth,POR,POR,POR
+1909,Virginia League,Lynchburg,LYN,LYN,LYN
+1909,Western Association,Enid,ENI,ENI,ENI
+1909,Western Association,Muskogee,MUS,MUS,MUS
+1909,Western Association,Guthrie,GUT,GUT,GUT
+1909,Western Association,Bartlesville,BAR,BAR,BAR
+1909,Western Association,Webb City/Sapulpa,WC+SAP,,WC+SAP
+1909,Western Association,Webb City,WC+SAP,WC,WC+SAP
+1909,Western Association,Sapulpa,WC+SAP,SAP,WC+SAP
+1909,Western Association,Springfield,SPR,SPR,SPR
+1909,Western Association,Pittsburg,PIT,PIT,PIT
+1909,Western Association,Joplin/El Reno,JOP+ER,,JOP+ER
+1909,Western Association,Joplin,JOP+ER,JOP,JOP+ER
+1909,Western Association,El Reno,JOP+ER,ER,JOP+ER
+1909,Western Canada League,Medicine Hat,MH,MH,MH
+1909,Western Canada League,Winnipeg,WIN,WIN,WIN
+1909,Western Canada League,Calgary,CAL,CAL,CAL
+1909,Western Canada League,Lethbridge,LET,LET,LET
+1909,Western Canada League,Moose Jaw,MJ,MJ,MJ
+1909,Western Canada League,Regina,REG,REG,REG
+1909,Western Canada League,Brandon,BRA,BRA,BRA
+1909,Western Canada League,Edmonton,EDM,EDM,EDM
+1909,Arkansas State League,Helena,HEL,HEL,HEL
+1909,Arkansas State League,Jonesboro,JON,JON,JON
+1909,Arkansas State League,Texarkana,TEX,TEX,TEX
+1909,Arkansas State League,Hot Springs,HS,HS,HS
+1909,Arkansas State League,Monroe/Newport-Batesville,MON+NB,,MON+NB
+1909,Arkansas State League,Monroe,MON+NB,MON,MON+NB
+1909,Arkansas State League,Newport-Batesville,MON+NB,NB,MON+NB
+1909,Arkansas State League,Fort Smith,FS,FS,FS
+1909,Arkansas State League,Argenta,ARG,ARG,ARG
+1909,Arkansas State League,Alexandria,ALE,ALE,ALE
+1909,Blue Grass League,Winchester,WIN,WIN,WIN
+1909,Blue Grass League,Richmond,RIC,RIC,RIC
+1909,Blue Grass League,Paris,PAR,PAR,PAR
+1909,Blue Grass League,Frankfort,FRA,FRA,FRA
+1909,Blue Grass League,Lexington,LEX,LEX,LEX
+1909,Blue Grass League,Shelbyville,SHE,SHE,SHE
+1909,Carolina Association,Greensboro,GBO,GBO,GBO
+1909,Carolina Association,Anderson,AND,AND,AND
+1909,Carolina Association,Greenville,GVL,GVL,GVL
+1909,Carolina Association,Winston-Salem,WS,WS,WS
+1909,Carolina Association,Charlotte,CHA,CHA,CHA
+1909,Carolina Association,Spartanburg,SPA,SPA,SPA
+1909,Central Association,Burlington,BUR,BUR,BUR
+1909,Central Association,Hannibal,HAN,HAN,HAN
+1909,Central Association,Keokuk,KEO,KEO,KEO
+1909,Central Association,Kewanee,KEW,KEW,KEW
+1909,Central Association,Waterloo,WAT,WAT,WAT
+1909,Central Association,Quincy,QUI,QUI,QUI
+1909,Central Association,Jacksonville,JAC,JAC,JAC
+1909,Central Association,Ottumwa,OTT,OTT,OTT
+1909,Central Kansas League,Ellsworth,ELL,ELL,ELL
+1909,Central Kansas League,Salina,SAL,SAL,SAL
+1909,Central Kansas League,Abilene,ABI,ABI,ABI
+1909,Central Kansas League,Minneapolis,MIN,MIN,MIN
+1909,Central Kansas League,Junction City,JC,JC,JC
+1909,Central Kansas League,Beloit,BEL,BEL,BEL
+1909,Central Kansas League,Clay Center,CC,CC,CC
+1909,Central Kansas League,Manhattan,MAN,MAN,MAN
+1909,Eastern Carolina League,Wilson,WSN,WSN,WSN
+1909,Eastern Carolina League,Wilmington,WMG,WMG,WMG
+1909,Eastern Carolina League,Fayetteville,FAY,FAY,FAY
+1909,Eastern Carolina League,Raleigh,RAL,RAL,RAL
+1909,Eastern Carolina League,Goldsboro,GOL,GOL,GOL
+1909,Eastern Carolina League,Rocky Mount,RM,RM,RM
+1909,Illinois-Missouri League,Monmouth,MON,TUE,WED
+1909,Illinois-Missouri League,Beardstown,BEA,BEA,BEA
+1909,Illinois-Missouri League,Pekin,PEK,PEK,PEK
+1909,Illinois-Missouri League,Macomb,MAC,MAC,MAC
+1909,Illinois-Missouri League,Canton,CAN,CAN,CAN
+1909,Illinois-Missouri League,Galesburg,GAL,GAL,GAL
+1909,Inter-Mountain League,Helena,HEL,HEL,HEL
+1909,Inter-Mountain League,Salt Lake City/Livingston,SLC+LIV,,SLC+LIV
+1909,Inter-Mountain League,Salt Lake City,SLC+LIV,SLC,SLC+LIV
+1909,Inter-Mountain League,Livingston,SLC+LIV,LIV,SLC+LIV
+1909,Inter-Mountain League,Butte,BUT,BUT,BUT
+1909,Inter-Mountain League,Boise/Bozeman,BOI+BOZ,,BOI+BOZ
+1909,Inter-Mountain League,Boise,BOI+BOZ,BOI,BOI+BOZ
+1909,Inter-Mountain League,Bozeman,BOI+BOZ,BOZ,BOI+BOZ
+1909,Kansas State League,Lyons,LYO,LYO,LYO
+1909,Kansas State League,Hutchinson,HUT,HUT,HUT
+1909,Kansas State League,McPherson,MCP,MCP,MCP
+1909,Kansas State League,Great Bend,GB,GB,GB
+1909,Kansas State League,Wellington,WEL,WEL,WEL
+1909,Kansas State League,Newton,NEW,NEW,NEW
+1909,Kansas State League,Arkansas City-Winfield,ACW,ACW,ACW
+1909,Kansas State League,Strong City-Cottonwood Falls/Larned,SCC+LAR,,SCC+LAR
+1909,Kansas State League,Strong City-Cottonwood Falls,SCC+LAR,SCC,SCC+LAR
+1909,Kansas State League,Larned,SCC+LAR,LAR,SCC+LAR
+1909,Minnesota-Wisconsin League,Duluth,DUL,DUL,DUL
+1909,Minnesota-Wisconsin League,Eau Claire,EC,EC,EC
+1909,Minnesota-Wisconsin League,La Crosse,LAC,LAC,LAC
+1909,Minnesota-Wisconsin League,Winona,WIN,WIN,WIN
+1909,Minnesota-Wisconsin League,Wausau,WAU,WAU,WAU
+1909,Minnesota-Wisconsin League,Superior,SUP,SUP,SUP
+1909,Northeast Arkansas League,Jonesboro,JON,JON,JON
+1909,Northeast Arkansas League,Newport,NEW,NEW,NEW
+1909,Northeast Arkansas League,Marianna,MAR,APR,MAY
+1909,Northeast Arkansas League,Paragould,PAR,PAR,PAR
+1909,Northern State of Indiana League,Bluffton,BLU,BLU,BLU
+1909,Northern State of Indiana League,Lafayette,LAF,LAF,LAF
+1909,Northern State of Indiana League,Huntington,HUN,HUN,HUN
+1909,Northern State of Indiana League,Kokomo,KOK,KOK,KOK
+1909,Northern State of Indiana League,Marion,MAR,MAR,MAR
+1909,Northern State of Indiana League,Wabash,WAB,WAB,WAB
+1909,Ohio State League,Lima,LIM,LIM,LIM
+1909,Ohio State League,Marion,MAR,APR,MAY
+1909,Ohio State League,Mansfield,MAN,MAN,MAN
+1909,Ohio State League,Portsmouth,POR,POR,POR
+1909,Ohio State League,Newark,NEW,NEW,NEW
+1909,Ohio State League,Lancaster,LAN,LAN,LAN
+1909,Pennsylvania-West Virginia League,Uniontown,UNI,UNI,UNI
+1909,Pennsylvania-West Virginia League,Fairmont,FAI,FAI,FAI
+1909,Pennsylvania-West Virginia League,Grafton,GRA,GRA,GRA
+1909,Pennsylvania-West Virginia League,Connellsville,CON,CON,CON
+1909,Pennsylvania-West Virginia League,Clarksburg,CLA,CLA,CLA
+1909,Pennsylvania-West Virginia League,Charleroi/Parkersburg,CHA+PAR,,CHA+PAR
+1909,Pennsylvania-West Virginia League,Charleroi,CHA+PAR,CHA,CHA+PAR
+1909,Pennsylvania-West Virginia League,Parkersburg,CHA+PAR,PAR,CHA+PAR
+1909,Southern Michigan Association,Saginaw,SAG,SAG,SAG
+1909,Southern Michigan Association,Flint,FLI,FLI,FLI
+1909,Southern Michigan Association,Jackson,JAC,JAC,JAC
+1909,Southern Michigan Association,Kalamazoo,KAL,KAL,KAL
+1909,Southern Michigan Association,Bay City,BAY,BAY,BAY
+1909,Southern Michigan Association,Lansing,LAN,LAN,LAN
+1909,Southern Michigan Association,Adrian,ADR,ADR,ADR
+1909,Southern Michigan Association,Battle Creek,BAT,BAT,BAT
+1909,Wisconsin-Illinois League,Madison,MAD,MAD,MAD
+1909,Wisconsin-Illinois League,Green Bay,GB,GB,GB
+1909,Wisconsin-Illinois League,Appleton,APP,APP,APP
+1909,Wisconsin-Illinois League,Racine,RAC,RAC,RAC
+1909,Wisconsin-Illinois League,Rockford,ROC,ROC,ROC
+1909,Wisconsin-Illinois League,Fond du Lac,FDL,FDL,FDL
+1909,Wisconsin-Illinois League,Oshkosh,OSH,OSH,OSH
+1909,Wisconsin-Illinois League,Freeport,FRE,FRE,FRE
+1909,California State League,Oakland,OAK,OAK,OAK
+1909,California State League,Stockton,STO,STO,STO
+1909,California State League,Fresno,FRE,FRE,FRE
+1909,California State League,San Francisco/Sacramento,SF+SAC,,SF+SAC
+1909,California State League,San Francisco,SF+SAC,SF,SF+SAC
+1909,California State League,Sacramento,SF+SAC,SAC,SF+SAC
+1909,California State League,Santa Cruz,SC,SC,SC
+1909,California State League,San Jose,SJ,SJ,SJ
+1909,Eastern Association,Newburgh,NEW,NEW,NEW
+1909,Eastern Association,Amsterdam,AMS,AMS,AMS
+1909,Eastern Association,Johnstown,JOH,JOH,JOH
+1909,Eastern Association,Kingston,KIN,KIN,KIN
+1909,Eastern Association,Gloversville,GLO,GLO,GLO
+1909,Eastern Association,Middletown,MID,MID,MID
+1909,Eastern Association,Poughkeepsie,POU,POU,POU
+1909,Eastern Association,Schenectady,SCH,SCH,SCH

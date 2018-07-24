@@ -1,0 +1,148 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1908,American Association,Indianapolis,IND,IND,IND
+1908,American Association,Louisville,LOU,LOU,LOU
+1908,American Association,Columbus,COL,COL,COL
+1908,American Association,Toledo,TOL,TOL,TOL
+1908,American Association,Minneapolis,MIN,MIN,MIN
+1908,American Association,Milwaukee,MIL,MIL,MIL
+1908,American Association,Kansas City,KC,KC,KC
+1908,American Association,St. Paul,STP,STP,STP
+1908,Eastern League,Baltimore,BAL,BAL,BAL
+1908,Eastern League,Providence,PRO,PRO,PRO
+1908,Eastern League,Newark,NEW,NEW,NEW
+1908,Eastern League,Buffalo,BUF,BUF,BUF
+1908,Eastern League,Montreal,MON,TUE,WED
+1908,Eastern League,Toronto,TOR,TOR,TOR
+1908,Eastern League,Jersey City,JC,JC,JC
+1908,Eastern League,Rochester,ROC,ROC,ROC
+1908,Pacific Coast League,Los Angeles,LA,LA,LA
+1908,Pacific Coast League,Portland,POR,POR,POR
+1908,Pacific Coast League,San Francisco,SF,SF,SF
+1908,Pacific Coast League,Oakland,OAK,OAK,OAK
+1908,Southern Association,Nashville,NAS,NAS,NAS
+1908,Southern Association,New Orleans,NO,NO,NO
+1908,Southern Association,Memphis,MEM,MEM,MEM
+1908,Southern Association,Montgomery,MON,TUE,WED
+1908,Southern Association,Mobile,MOB,MOB,MOB
+1908,Southern Association,Atlanta,ATL,ATL,ATL
+1908,Southern Association,Little Rock,LR,LR,LR
+1908,Southern Association,Birmingham,BIR,BIR,BIR
+1908,Western League,Sioux City,SC,SC,SC
+1908,Western League,Omaha,OMA,OMA,OMA
+1908,Western League,Lincoln,LIN,LIN,LIN
+1908,Western League,Denver,DEN,DEN,DEN
+1908,Western League,Pueblo,PUE,PUE,PUE
+1908,Western League,Des Moines,DM,DM,DM
+1908,Central League,Evansville,EVA,EVA,EVA
+1908,Central League,South Bend,SB,SB,SB
+1908,Central League,Dayton,DAY,DAY,DAY
+1908,Central League,Fort Wayne,FW,FW,FW
+1908,Central League,Grand Rapids,GR,GR,GR
+1908,Central League,Zanesville,ZAN,ZAN,ZAN
+1908,Central League,Terre Haute,TH,TH,TH
+1908,Central League,Wheeling,WHE,WHE,WHE
+1908,Connecticut State League,Springfield,SPR,SPR,SPR
+1908,Connecticut State League,Hartford,HAR,HAR,HAR
+1908,Connecticut State League,New Haven,NH,NH,NH
+1908,Connecticut State League,New Britain,NB,NB,NB
+1908,Connecticut State League,Holyoke,HOL,HOL,HOL
+1908,Connecticut State League,Bridgeport,BRI,BRI,BRI
+1908,Connecticut State League,Meriden,MER,MER,MER
+1908,Connecticut State League,Waterbury,WAT,WAT,WAT
+1908,New England League,Worcester,WOR,WOR,WOR
+1908,New England League,Lawrence,LAW,LAW,LAW
+1908,New England League,Haverhill,HAV,HAV,HAV
+1908,New England League,Brockton,BRO,BRO,BRO
+1908,New England League,Lynn,LYN,LYN,LYN
+1908,New England League,Fall River,FR,FR,FR
+1908,New England League,Lowell,LOW,LOW,LOW
+1908,New England League,New Bedford,NB,NB,NB
+1908,New York State League,Scranton,SCR,SCR,SCR
+1908,New York State League,Binghamton,BIN,BIN,BIN
+1908,New York State League,Troy,TRO,TRO,TRO
+1908,New York State League,Syracuse,SYR,SYR,SYR
+1908,New York State League,Utica,UTI,UTI,UTI
+1908,New York State League,Albany,ALB,ALB,ALB
+1908,New York State League,Wilkes-Barre,WB,WB,WB
+1908,New York State League,Gloversville-Johnstown/Elmira,GJ+ELM,,GJ+ELM
+1908,New York State League,Gloversville-Johnstown,GJ+ELM,GJ,GJ+ELM
+1908,New York State League,Elmira,GJ+ELM,ELM,GJ+ELM
+1908,Northwestern League,Vancouver,VAN,VAN,VAN
+1908,Northwestern League,Tacoma,TAC,TAC,TAC
+1908,Northwestern League,Aberdeen,ABE,ABE,ABE
+1908,Northwestern League,Spokane,SPO,SPO,SPO
+1908,Northwestern League,Butte,BUT,BUT,BUT
+1908,Northwestern League,Seattle,SEA,SEA,SEA
+1908,Illinois-Indiana-Iowa League,Springfield,SPR,SPR,SPR
+1908,Illinois-Indiana-Iowa League,Decatur,DEC,JAN,FEB
+1908,Illinois-Indiana-Iowa League,Cedar Rapids,CR,CR,CR
+1908,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1908,Illinois-Indiana-Iowa League,Dubuque,DUB,DUB,DUB
+1908,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
+1908,Illinois-Indiana-Iowa League,Rock Island,RI,RI,RI
+1908,Illinois-Indiana-Iowa League,Clinton,CLI,CLI,CLI
+1908,Tri-State League,Williamsport,WPT,WPT,WPT
+1908,Tri-State League,Harrisburg,HAR,HAR,HAR
+1908,Tri-State League,Lancaster,LAN,LAN,LAN
+1908,Tri-State League,Reading,REA,REA,REA
+1908,Tri-State League,Johnstown,JOH,JOH,JOH
+1908,Tri-State League,Trenton,TRE,TRE,TRE
+1908,Tri-State League,Altoona,ALT,ALT,ALT
+1908,Tri-State League,Wilmington,WMG,WMG,WMG
+1908,Northern League,Brandon,BRA,BRA,BRA
+1908,Northern League,Winnipeg,WIN,WIN,WIN
+1908,Northern League,Duluth,DUL,DUL,DUL
+1908,Northern League,Fargo,FAR,FAR,FAR
+1908,Ohio-Pennsylvania League,Akron,AKR,AKR,AKR
+1908,Ohio-Pennsylvania League,East Liverpool,EL,EL,EL
+1908,Ohio-Pennsylvania League,Canton,CAN,CAN,CAN
+1908,Ohio-Pennsylvania League,Sharon,SHA,SHA,SHA
+1908,Ohio-Pennsylvania League,Youngstown,YOU,YOU,YOU
+1908,Ohio-Pennsylvania League,New Castle,NC,NC,NC
+1908,Ohio-Pennsylvania League,McKeesport,MCK,MCK,MCK
+1908,Ohio-Pennsylvania League,Girard/Butler/Erie,GIR+BUT+ERI,,GIR+BUT+ERI
+1908,Ohio-Pennsylvania League,Girard,GIR+BUT+ERI,GIR,GIR+BUT+ERI
+1908,Ohio-Pennsylvania League,Butler,GIR+BUT+ERI,BUT,GIR+BUT+ERI
+1908,Ohio-Pennsylvania League,Erie,GIR+BUT+ERI,ERI,GIR+BUT+ERI
+1908,South Atlantic League,Jacksonville,JAC,JAC,JAC
+1908,South Atlantic League,Savannah,SAV,SAV,SAV
+1908,South Atlantic League,Augusta,AUG,SEP,OCT
+1908,South Atlantic League,Columbia,COL,COL,COL
+1908,South Atlantic League,Macon,MAC,MAC,MAC
+1908,South Atlantic League,Charleston,CHA,CHA,CHA
+1908,Texas League,San Antonio,SA,SA,SA
+1908,Texas League,Dallas,DAL,DAL,DAL
+1908,Texas League,Houston,HOU,HOU,HOU
+1908,Texas League,Waco,WAC,WAC,WAC
+1908,Texas League,Fort Worth,FW,FW,FW
+1908,Texas League,Shreveport,SHR,SHR,SHR
+1908,Texas League,Galveston,GAL,GAL,GAL
+1908,Texas League,Austin,AUS,AUS,AUS
+1908,Virginia League,Richmond,RIC,RIC,RIC
+1908,Virginia League,Danville,DAN,DAN,DAN
+1908,Virginia League,Roanoke,ROA,ROA,ROA
+1908,Virginia League,Portsmouth,POR,POR,POR
+1908,Virginia League,Lynchburg,LYN,LYN,LYN
+1908,Virginia League,Norfolk,NOR,NOR,NOR
+1908,Western Association,Topeka,TOP,TOP,TOP
+1908,Western Association,Wichita,WIC,WIC,WIC
+1908,Western Association,Oklahoma City,OKC,OKC,OKC
+1908,Western Association,Joplin,JOP,JOP,JOP
+1908,Western Association,Hutchinson,HUT,HUT,HUT
+1908,Western Association,Webb City,WC,WC,WC
+1908,Western Association,Springfield,SPR,SPR,SPR
+1908,Western Association,Enid,ENI,ENI,ENI
+1908,Arkansas State League,Hot Springs,HS,HS,HS
+1908,Arkansas State League,Newport,NEW,NEW,NEW
+1908,Arkansas State League,Helena,HEL,HEL,HEL
+1908,Arkansas State League,Pine Bluff,PIN,PIN,PIN
+1908,Arkansas State League,Argenta,ARG,ARG,ARG
+1908,Arkansas State League,Poplar Bluff/Brinkley,POP+BRI,,POP+BRI
+1908,Arkansas State League,Poplar Bluff,POP+BRI,POP,POP+BRI
+1908,Arkansas State League,Brinkley,POP+BRI,BRI,POP+BRI
+1908,Cotton States League,Jackson,JAC,JAC,JAC
+1908,Cotton States League,Vicksburg,VIC,VIC,VIC
+1908,Cotton States League,Gulfport-Biloxi,GUL,GUL,GUL
+1908,Cotton States League,Columbus,COL,COL,COL
+1908,Cotton States League,Meridian,MER,MER,MER
+1908,Cotton States League,Monroe,MON,TUE,WED
