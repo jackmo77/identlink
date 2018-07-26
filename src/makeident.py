@@ -1,3 +1,7 @@
+import sys
+import os
+import glob
+
 import pandas as pd
 
 def collect_from_averages(path):
@@ -40,6 +44,27 @@ def collect_from_boxscores(path):
             print "  Warning: did not find people file"
     print
     return dflist
+
+
+def collect_umpires_from_boxscores(path):
+    """Collect umpire entries from boxscores repository.
+    """
+    print "Collecting umpires from boxscores dataset."
+    dflist = []
+    for sourcepath in glob.glob("%s/processed/*/*" % path):
+        source = "/".join(sourcepath.split("/")[-2:])
+        print "Collecting source %s" % source
+        try:
+            dflist.append(pd.read_csv("%s/umpires.csv" % sourcepath,
+                                      dtype=str, encoding='utf-8'))
+            dflist[-1]['source'] = "boxscores/%s" % source
+            dflist[-1]['entry.name'] = "#umpire"
+        except IOError:
+            print "  Warning: did not find umpires file"
+    print
+    return dflist
+
+
 
 def collect_from_retrosheet(path):
     """Collect playing entries from retrosplits repository.
@@ -99,18 +124,16 @@ def collect_from_researchers(path):
     df = df[~df['person.name.last'].isnull()].copy()
     return [df]
 
-if __name__ == '__main__':
-    import sys
-    import os
-    import glob
-
+def main():
     retrolist = collect_from_retrosheet("..")
     avglist = collect_from_averages("../minoraverages")
     boxlist = collect_from_boxscores("../boxscores")
+    umplist = collect_umpires_from_boxscores("../boxscores")
     reslist = collect_from_researchers("../researchers")
     
     print "Concatenating files..."
-    df = pd.concat(retrolist + avglist + boxlist + reslist, ignore_index=True)
+    df = pd.concat(retrolist + avglist + boxlist + umplist + reslist,
+                   ignore_index=True)
 
     # Fill in an indicator for records which indicate a position played
     # but not games at that position
@@ -177,3 +200,7 @@ if __name__ == '__main__':
                                              group[1].replace(" ", "").replace("-", "")),
                     index=False,
                     encoding='utf-8')
+
+
+if __name__ == '__main__':
+    main()
