@@ -37,7 +37,7 @@ def collect_from_boxscores(path):
         print "Collecting source %s" % source
 
         try:
-            dflist.append(pd.read_csv("%s/people.csv" % sourcepath,
+            dflist.append(pd.read_csv("%s/players.csv" % sourcepath,
                                       dtype=str, encoding='utf-8'))
             dflist[-1]['source'] = "boxscores/%s" % source
         except IOError:
