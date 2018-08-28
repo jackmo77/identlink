@@ -17,12 +17,15 @@ def main():
     df = pd.merge(df, seasons, how='left', on=['league.year', 'league.name'])
     df['mentions'] = df.groupby(['source', 'person.ref'])['league.key'].transform(lambda x: x.nunique())
     df = df[df['mentions']>=2].copy()
-    df['ident'] = df['league.key']+":"+df['ident']
+    df['ident'] = (df['league.key']+":"+df['ident']).fillna("")
     df['person.ref'] = df['source']+":"+df['person.ref']
     df.sort_values(['person.name.last', 'person.name.given', 'person.ref',
                     'league.key'],
                    inplace=True)
+    df['person.name.given'] = df['person.name.given'].fillna("")
     print df[['person.ref', 'ident', 'person.name.last', 'person.name.given']].drop_duplicates().to_string()
+
+    df[['person.ref', 'ident', 'person.name.last', 'person.name.given']].drop_duplicates().to_csv("links.csv", index=False)
 
 
 if __name__ == '__main__':
