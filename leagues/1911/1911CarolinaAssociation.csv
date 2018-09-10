@@ -1,5 +1,6 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
 boxscores/1911/1911-CN,1911,Carolina Association,aaranson,P7439356,Aaranson,,,Winston-Salem,19110706,19110706,2,0,0,0,0,0,2,0,2,0,0,0,
+researchers/morris,1911,Carolina Association,,MYQTJCB,Aaronson,Archie,,Winston-Salem,,,,,,,,,,,,,,,
 boxscores/1911/1911-CEC,1911,Carolina Association,agnew,P2201258,Agnew,,,Charlotte,19110729,19110902,2,0,1,1,0,0,0,0,0,0,0,0,
 boxscores/1911/1911-CN,1911,Carolina Association,agnew,P5549328,Agnew,,,Charlotte,19110603,19110901,73,0,0,73,0,0,0,0,0,0,0,0,
 minoraverages/1912Reach,1911,Carolina Association,agnew,B00898,Agnew,,0,Charlotte,,,78,,,,,,,,,,,,
@@ -77,6 +78,7 @@ boxscores/1911/1911-CN,1911,Carolina Association,brown-spa,P3087273,Brown,,,Spar
 boxscores/1911/1911-CN,1911,Carolina Association,brown@of-ws,P3834705,Brown,,,Winston-Salem,19110804,19110901,14,0,0,0,0,0,14,0,0,14,0,0,
 minoraverages/1912Reach,1911,Carolina Association,brown@of-ws,B00264,Brown,,0,Winston-Salem,,,25,,,,,,,,,,,,
 minoraverages/1912Reach,1911,Carolina Association,brown@of-ws,F20449,Brown,,0,Winston-Salem,,,,,,,,,25,,,,,,
+researchers/morris,1911,Carolina Association,,LJPVJFZ,Brown,Bob,,Winston-Salem,,,,,,,,,,,,,,,
 boxscores/1911/1911-CEC,1911,Carolina Association,brown@3b-ws,P1180952,Brown [3b],,,Winston-Salem,19110501,19110501,1,0,0,0,1,0,0,0,0,0,0,0,
 boxscores/1911/1911-CN,1911,Carolina Association,brown@3b-ws,P7961662,Brown [3b],,,Winston-Salem,19110502,19110502,1,0,0,0,1,0,0,0,0,0,0,0,
 boxscores/1911/1911-CO,1911,Carolina Association,brown@3b-ws,P6165823,Brown [3b],,,Winston-Salem,19110429,19110429,1,0,0,0,1,0,0,0,0,0,0,0,
