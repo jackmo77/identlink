@@ -1,6 +1,8 @@
-import sys
+"""Update person ident lists from source records.
+"""
 import os
 import glob
+import argparse
 
 import pandas as pd
 
@@ -9,15 +11,13 @@ def collect_from_averages(path):
     minoraverages repository.
     """
     print "Collecting items from minoraverages dataset."
-    dflist = [ ]
+    dflist = []
     for sourcepath in glob.glob("%s/processed/*" % path):
         source = sourcepath.split("/")[-1]
         print "Collecting source %s" % source
-        
         dflist.append(pd.read_csv("%s/playing_individual.csv" % sourcepath,
                                   dtype=str, encoding='utf-8'))
         dflist[-1]['source'] = "minoraverages/%s" % source
-
         try:
             dflist.append(pd.read_csv("%s/managing_individual.csv" % sourcepath,
                                       dtype=str, encoding='utf-8'))
@@ -31,7 +31,7 @@ def collect_from_boxscores(path):
     """Collect people entries from boxscores repository.
     """
     print "Collecting items from boxscores dataset."
-    dflist = [ ]
+    dflist = []
     for sourcepath in glob.glob("%s/processed/*/*" % path):
         source = "/".join(sourcepath.split("/")[-2:])
         print "Collecting source %s" % source
@@ -95,11 +95,10 @@ def collect_from_retrosheet(path):
                                                 'team.key', 'pos'])
                              for fn in glob.glob("%s/retrosheet/rosters/*%s.ROS" %
                                                  (path, year))],
-                             ignore_index=True)
+                            ignore_index=True)
         df = pd.merge(df, rosters[['person.ref', 'team.key',
                                    'person.name.last', 'person.name.given']],
                       how='left', on=['person.ref', 'team.key'])
-        
         dflist.append(df[['source', 'league.year', 'league.name',
                           'person.ref',
                           'person.name.last', 'person.name.given',
@@ -125,54 +124,62 @@ def collect_from_researchers(path):
     return [df]
 
 def main():
+    """Update person ident lists from source records.
+    """
+    parser = argparse.ArgumentParser(description="Update person ident lists "
+                                                 "from source records")
+    parser.parse_args()
+
     retrolist = collect_from_retrosheet("..")
     avglist = collect_from_averages("../minoraverages")
     boxlist = collect_from_boxscores("../boxscores")
     umplist = collect_umpires_from_boxscores("../boxscores")
     reslist = collect_from_researchers("../researchers")
-    
     print "Concatenating files..."
     df = pd.concat(retrolist + avglist + boxlist + umplist + reslist,
                    ignore_index=True)
 
     # Fill in an indicator for records which indicate a position played
     # but not games at that position
-    for pos in [ "P", "C", "1B", "2B", "3B", "SS", "OF", "LF", "CF", "RF" ]:
+    for pos in ["P", "C", "1B", "2B", "3B", "SS", "OF", "LF", "CF", "RF"]:
         if "F_%s_G" % pos in df and "F_%s_POS" % pos in df:
-            df["F_%s_G" % pos] = df["F_%s_G" % pos].fillna(df["F_%s_POS" % pos].apply(lambda x: "yes" if not pd.isnull(x) and int(x) > 0 else None))
+            df["F_%s_G" % pos] = df["F_%s_G" % pos] \
+                                 .fillna(df["F_%s_POS" % pos] \
+                                 .apply(lambda x:
+                                        "yes" if not pd.isnull(x) and int(x) > 0
+                                        else None))
 
-    idents = [ ]
+    idents = []
     for identfile in glob.glob("leagues/*/*.csv"):
         print "Collecting identfile %s" % identfile
         idents.append(pd.read_csv(identfile, dtype=str, encoding='utf-8'))
     print
-    if len(idents) > 0:
+    if idents:
         idents = pd.concat(idents, ignore_index=True)
 
         df['person.name.given'] = df['person.name.given'].fillna("")
         idents['person.name.given'] = idents['person.name.given'].fillna("")
         df['S_STINT'] = df['S_STINT'].fillna("")
         idents['S_STINT'] = idents['S_STINT'].fillna("")
-    
         df = pd.merge(df,
-                      idents[[ 'ident', 'source', 'league.year', 'league.name', 
-                               'person.ref', 'person.name.last', 'person.name.given',
-                               'S_STINT', 'entry.name' ]],
+                      idents[['ident', 'source', 'league.year', 'league.name',
+                              'person.ref', 'person.name.last', 'person.name.given',
+                              'S_STINT', 'entry.name']],
                       how='left',
-                      on=[ 'source', 'league.year', 'league.name', 
-                           'person.ref', 'person.name.last', 'person.name.given',
-                           'S_STINT', 'entry.name' ])
+                      on=['source', 'league.year', 'league.name',
+                          'person.ref', 'person.name.last', 'person.name.given',
+                          'S_STINT', 'entry.name'])
     else:
         df['ident'] = None
-    df = df[[ 'source', 'league.year', 'league.name', 'ident', 'person.ref',
-              'person.name.last', 'person.name.given',
+    df = df[['source', 'league.year', 'league.name', 'ident', 'person.ref',
+             'person.name.last', 'person.name.given',
              'S_STINT', 'entry.name',
              'S_FIRST', 'S_LAST',
              'B_G', 'P_G', 'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
              'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G', 'F_C_G', 'F_P_G',
-             'F_ALL_G' ]] 
-    df.sort_values([ 'league.year', 'league.name',
-                     'person.name.last', 'source', 'person.ref' ],
+             'F_ALL_G']]
+    df.sort_values(['league.year', 'league.name',
+                    'person.name.last', 'source', 'person.ref'],
                    inplace=True)
 
     # We convert dates to YYYYMMDD. This way, ident files can be loaded
@@ -181,14 +188,14 @@ def main():
     df['S_FIRST'] = df['S_FIRST'].str.replace("-", "")
     df['S_LAST'] = df['S_LAST'].str.replace("-", "")
 
-    print "Writing ident files..."  
-    for (group, data) in df.groupby([ 'league.year', 'league.name' ]):
+    print "Writing ident files..."
+    for (group, data) in df.groupby(['league.year', 'league.name']):
         # We only generate ident files for leagues where we have
         # either an averages compilation or boxscore data
         sample = data[data['source'].str.startswith('retrosheet/') |
                       data['source'].str.startswith('minoraverages/') |
                       data['source'].str.startswith('boxscores/')]
-        if len(sample) == 0:
+        if not sample:
             continue
         print group[0], group[1]
         try:
