@@ -1,5 +1,8 @@
+"""Update game ident lists from source records.
+"""
 import os
 import glob
+import argparse
 
 import pandas as pd
 
@@ -22,10 +25,18 @@ def collect_from_boxscores(path):
     return dflist
 
 def main():
+    """Update game ident lists from source records.
+    """
+    parser = argparse.ArgumentParser(description="Update game ident lists "
+                                                 "from source records")
+    parser.parse_args()
+
     games = pd.concat(collect_from_boxscores("../boxscores"),
                       ignore_index=True)
     games['league.year'] = games['date'].str[:4]
-    games['league'] = games['league'].apply(lambda x: x + " League" if "Association" not in x else x)
+    games['league'] = games['league'] \
+                      .apply(lambda x:
+                             x + " League" if "Association" not in x else x)
     games.rename(inplace=True,
                  columns={'league':  'league.name',
                           'date':    'game.date',
@@ -35,7 +46,7 @@ def main():
                           'key':     'game.ref'})
     games.sort_values(['league.year', 'league.name',
                        'game.date', 'home.name', 'game.number'],
-                       inplace=True)
+                      inplace=True)
     # We convert dates to YYYYMMDD. This way, ident files can be loaded
     # into e.g. Excel for editing, without messing up the formatting.
     # YYYYMMDD is considered a valid ISO date format as well.
@@ -46,7 +57,7 @@ def main():
         print "Collecting identfile %s" % identfile
         idents.append(pd.read_csv(identfile, dtype=str))
     print
-    if len(idents) > 0:
+    if idents:
         idents = pd.concat(idents, ignore_index=True)
 
         # This merge is somewhat simpler than the people merge right
@@ -56,7 +67,7 @@ def main():
                          how='left', on='game.ref')
     else:
         games['ident'] = None
-    
+
     games = games[['source', 'league.year', 'league.name', 'ident',
                    'game.date', 'game.number',
                    'away.name', 'away.score', 'home.name', 'home.score',
@@ -76,6 +87,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    
-
-    
