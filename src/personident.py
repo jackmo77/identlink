@@ -32,7 +32,7 @@ def collect_from_boxscores(path):
     """
     print "Collecting items from boxscores dataset."
     dflist = []
-    for sourcepath in glob.glob("%s/processed/*/*" % path):
+    for sourcepath in glob.glob("%s/data/boxscores/processed/*/*" % path):
         source = "/".join(sourcepath.split("/")[-2:])
         print "Collecting source %s" % source
 
@@ -51,7 +51,7 @@ def collect_umpires_from_boxscores(path):
     """
     print "Collecting umpires from boxscores dataset."
     dflist = []
-    for sourcepath in glob.glob("%s/processed/*/*" % path):
+    for sourcepath in glob.glob("%s/data/boxscores/processed/*/*" % path):
         source = "/".join(sourcepath.split("/")[-2:])
         print "Collecting source %s" % source
         try:
