@@ -53,7 +53,7 @@ def main():
     games['game.date'] = games['game.date'].str.replace("-", "")
 
     idents = []
-    for identfile in glob.glob("games/*/*.csv"):
+    for identfile in glob.glob("data/ident/games/*/*.csv"):
         print "Collecting identfile %s" % identfile
         idents.append(pd.read_csv(identfile, dtype=str))
     print
@@ -77,10 +77,10 @@ def main():
     for ((year, league), data) in games.groupby(['league.year', 'league.name']):
         print year, league
         try:
-            os.makedirs("games/%s" % year)
+            os.makedirs("data/ident/games/%s" % year)
         except os.error:
             pass
-        data.to_csv("games/%s/%s%s.csv" %
+        data.to_csv("data/ident/games/%s/%s%s.csv" %
                     (year, year,
                      league.replace(" ", "").replace("-", "")),
                     index=False)

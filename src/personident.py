@@ -150,7 +150,7 @@ def main():
                                         else None))
 
     idents = []
-    for identfile in glob.glob("leagues/*/*.csv"):
+    for identfile in glob.glob("data/ident/people/*/*.csv"):
         print "Collecting identfile %s" % identfile
         idents.append(pd.read_csv(identfile, dtype=str, encoding='utf-8'))
     print
@@ -195,16 +195,17 @@ def main():
         sample = data[data['source'].str.startswith('retrosheet/') |
                       data['source'].str.startswith('minoraverages/') |
                       data['source'].str.startswith('boxscores/')]
-        if not sample:
+        if sample.empty:
             continue
         print group[0], group[1]
         try:
-            os.makedirs("leagues/%s" % group[0])
+            os.makedirs("data/ident/people/%s" % group[0])
         except os.error:
             pass
         data = data.drop_duplicates()
-        data.to_csv("leagues/%s/%s%s.csv" % (group[0], group[0],
-                                             group[1].replace(" ", "").replace("-", "")),
+        data.to_csv("data/ident/people/%s/%s%s.csv" %
+                    (group[0], group[0],
+                     group[1].replace(" ", "").replace("-", "")),
                     index=False,
                     encoding='utf-8')
 
