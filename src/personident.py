@@ -95,7 +95,7 @@ def collect_from_retrosheet(path):
                                                 'team.key', 'pos'])
                              for fn in glob.glob("%s/retrosheet/rosters/*%s.ROS" %
                                                  (path, year))],
-                            ignore_index=True)
+                            sort=False, ignore_index=True)
         df = pd.merge(df, rosters[['person.ref', 'team.key',
                                    'person.name.last', 'person.name.given']],
                       how='left', on=['person.ref', 'team.key'])
@@ -137,7 +137,7 @@ def main():
     reslist = collect_from_researchers("../researchers")
     print "Concatenating files..."
     df = pd.concat(retrolist + avglist + boxlist + umplist + reslist,
-                   ignore_index=True)
+                   sort=False, ignore_index=True)
 
     # Fill in an indicator for records which indicate a position played
     # but not games at that position
@@ -155,7 +155,7 @@ def main():
         idents.append(pd.read_csv(identfile, dtype=str, encoding='utf-8'))
     print
     if idents:
-        idents = pd.concat(idents, ignore_index=True)
+        idents = pd.concat(idents, sort=False, ignore_index=True)
 
         df['person.name.given'] = df['person.name.given'].fillna("")
         idents['person.name.given'] = idents['person.name.given'].fillna("")

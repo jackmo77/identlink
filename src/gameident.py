@@ -24,6 +24,22 @@ def collect_from_boxscores(path):
     print
     return dflist
 
+
+def add_default_idents(df):
+    """Fill in a default ident for a game based on teams and date.
+    """
+    replacechars = [" ", ".", "&", "-"]
+    team0 = df[['away.name', 'home.name']].min(axis=1).str.lower()
+    team1 = df[['away.name', 'home.name']].max(axis=1).str.lower()
+    for char in replacechars:
+        team0 = team0.str.replace(char, "")
+        team1 = team1.str.replace(char, "")
+    ident = (df['game.date'].str[-4:] + "-" +
+             team0 + "-" + team1 + "-" + df['game.number'])
+    df['ident'] = df['ident'].fillna(ident)
+    return df
+
+
 def main():
     """Update game ident lists from source records.
     """
@@ -32,7 +48,7 @@ def main():
     parser.parse_args()
 
     games = pd.concat(collect_from_boxscores("../boxscores"),
-                      ignore_index=True)
+                      sort=False, ignore_index=True)
     games['league.year'] = games['date'].str[:4]
     games['league'] = games['league'] \
                       .apply(lambda x:
@@ -58,7 +74,7 @@ def main():
         idents.append(pd.read_csv(identfile, dtype=str))
     print
     if idents:
-        idents = pd.concat(idents, ignore_index=True)
+        idents = pd.concat(idents, sort=False, ignore_index=True)
 
         # This merge is somewhat simpler than the people merge right
         # now, because we rely on all these data being from the
@@ -72,6 +88,7 @@ def main():
                    'game.date', 'game.number',
                    'away.name', 'away.score', 'home.name', 'home.score',
                    'game.ref']]
+    games = add_default_idents(games)
 
     print "Writing ident files..."
     for ((year, league), data) in games.groupby(['league.year', 'league.name']):
