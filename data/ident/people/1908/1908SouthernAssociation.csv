@@ -1,6 +1,6 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
 boxscores/1908/1908-MCA,1908,Southern Association,ables,P2379870,Ables,,,Birmingham,19080423,19080502,2,2,0,0,0,0,0,0,0,0,0,2,
-boxscores/1908/1908-MCA,1908,Southern Association,becker-alt,P4474177,B'ker,J.,,Atlanta,19080716,19080718,2,0,0,0,0,0,2,0,0,2,0,0,
+boxscores/1908/1908-MCA,1908,Southern Association,becker-atl,P4474177,B'ker,J.,,Atlanta,19080716,19080718,2,0,0,0,0,0,2,0,0,2,0,0,
 boxscores/1908/1908-MCA,1908,Southern Association,becker-lr,P7301649,B'ker,B.,,Little Rock,19080718,19080725,2,0,0,0,0,0,2,0,0,2,0,0,
 boxscores/1908/1908-MCA,1908,Southern Association,baerwald,P9242516,B'rwaeld,,,Memphis,19080605,19080605,1,0,0,0,0,0,1,0,0,1,0,0,
 boxscores/1908/1908-MCA,1908,Southern Association,baerwald,P1522397,B'wald,,,Memphis,19080712,19080712,1,0,0,0,0,0,1,0,0,1,0,0,
