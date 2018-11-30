@@ -1,4 +1,12 @@
 league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1914,American Association,Milwaukee,MIL,MIL,MIL
+1914,American Association,Louisville,LOU,LOU,LOU
+1914,American Association,Indianapolis,IND,IND,IND
+1914,American Association,Columbus,COL,COL,COL
+1914,American Association,Cleveland,CLE,CLE,CLE
+1914,American Association,Kansas City,KC,KC,KC
+1914,American Association,Minneapolis,MIN,MIN,MIN
+1914,American Association,St. Paul,STP,STP,STP
 1914,International League,Buffalo,BUF,BUF,BUF
 1914,International League,Providence,PRO,PRO,PRO
 1914,International League,Toronto,TOR,TOR,TOR
@@ -7,3 +15,303 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1914,International League,Newark,NEW,NEW,NEW
 1914,International League,Baltimore,BAL,BAL,BAL
 1914,International League,Jersey City,JC,JC,JC
+1914,Pacific Coast League,Portland,POR,POR,POR
+1914,Pacific Coast League,Los Angeles,LA,LA,LA
+1914,Pacific Coast League,San Francisco,SF,SF,SF
+1914,Pacific Coast League,Venice,VEN,VEN,VEN
+1914,Pacific Coast League,Sacramento/Mission,SAC+MIS,,SAC+MIS
+1914,Pacific Coast League,Sacramento,SAC+MIS,SAC,SAC+MIS
+1914,Pacific Coast League,Mission,SAC+MIS,MIS,SAC+MIS
+1914,Pacific Coast League,Oakland,OAK,OAK,OAK
+1914,Southern Association,Birmingham,BIR,BIR,BIR
+1914,Southern Association,Mobile,MOB,MOB,MOB
+1914,Southern Association,New Orleans,NO,NO,NO
+1914,Southern Association,Atlanta,ATL,ATL,ATL
+1914,Southern Association,Nashville,NAS,NAS,NAS
+1914,Southern Association,Chattanooga,CHA,CHA,CHA
+1914,Southern Association,Memphis,MEM,MEM,MEM
+1914,Southern Association,Montgomery,MON,MON,MON
+1914,Western League,Sioux City,SC,SC,SC
+1914,Western League,Denver,DEN,DEN,DEN
+1914,Western League,St. Joseph,STJ,STJ,STJ
+1914,Western League,Des Moines,DM,DM,DM
+1914,Western League,Lincoln,LIN,LIN,LIN
+1914,Western League,Omaha,OMA,OMA,OMA
+1914,Western League,Topeka,TOP,TOP,TOP
+1914,Western League,Wichita,WIC,WIC,WIC
+1914,Canadian League,Ottawa,OTT,OTT,OTT
+1914,Canadian League,London,LON,LON,LON
+1914,Canadian League,Erie,ERI,ERI,ERI
+1914,Canadian League,Toronto,TOR,TOR,TOR
+1914,Canadian League,St. Thmas,ST,ST,ST
+1914,Canadian League,Peterborough,PET,PET,PET
+1914,Canadian League,Hamilton,HAM,HAM,HAM
+1914,Canadian League,Brantford,BRA,BRA,BRA
+1914,Central League,Dayton,DAY,DAY,DAY
+1914,Central League,Evansville,EVA,EVA,EVA
+1914,Central League,Fort Wayne,FW,FW,FW
+1914,Central League,Terre Haute,TH,TH,TH
+1914,Central League,Grand Rapids,GR,GR,GR
+1914,Central League,Springfield,SPR,SPR,SPR
+1914,Eastern Association,New London,NL,NL,NL
+1914,Eastern Association,Waterbury,WAT,WAT,WAT
+1914,Eastern Association,Bridgeport,BRI,BRI,BRI
+1914,Eastern Association,Hartford,HAR,HAR,HAR
+1914,Eastern Association,Springfield,SPR,SPR,SPR
+1914,Eastern Association,Pittsfield,PIT,PIT,PIT
+1914,Eastern Association,New Haven,NH,NH,NH
+1914,Eastern Association,New Britain,NB,NB,NB
+1914,New England League,Lawrence,LAW,LAW,LAW
+1914,New England League,Worcester,WOR,WOR,WOR
+1914,New England League,Portland,POR,POR,POR
+1914,New England League,Lynn,LYN,LYN,LYN
+1914,New England League,Lewiston,LEW,LEW,LEW
+1914,New England League,Lowell,LOW,LOW,LOW
+1914,New England League,Haverhill,HAV,HAV,HAV
+1914,New England League,Fitchburg/Manchester,FIT+MAN,,FIT+MAN
+1914,New England League,Fitchburg,FIT+MAN,FIT,FIT+MAN
+1914,New England League,Manchester,FIT+MAN,MAN,FIT+MAN
+1914,New York State League,Elmira,ELM,ELM,ELM
+1914,New York State League,Wilkes-Barre,WB,WB,WB
+1914,New York State League,Utica,UTI,UTI,UTI
+1914,New York State League,Binghamton,BIN,BIN,BIN
+1914,New York State League,Albany,ALB,ALB,ALB
+1914,New York State League,Troy,TRO,TRO,TRO
+1914,New York State League,Syracuse,SYR,SYR,SYR
+1914,New York State League,Scranton,SCR,SCR,SCR
+1914,Northwestern League,Vancouver,VAN,VAN,VAN
+1914,Northwestern League,Seattle,SEA,SEA,SEA
+1914,Northwestern League,Spokane,SPO,SPO,SPO
+1914,Northwestern League,Victoria,VIC,VIC,VIC
+1914,Northwestern League,Tacoma,TAC,TAC,TAC
+1914,Northwestern League,Portland/Ballard,POR+BAL,,POR+BAL
+1914,Northwestern League,Portland,POR+BAL,POR,POR+BAL
+1914,Northwestern League,Ballard,POR+BAL,BAL,POR+BAL
+1914,Texas League,Houston,HOU,HOU,HOU
+1914,Texas League,Waco,WAC,WAC,WAC
+1914,Texas League,Beaumont,BEA,BEA,BEA
+1914,Texas League,Galveston,GAL,GAL,GAL
+1914,Texas League,Fort Worth,FW,FW,FW
+1914,Texas League,Dallas,DAL,DAL,DAL
+1914,Texas League,San Antonio,SA,SA,SA
+1914,Texas League,Austin,AUS,AUS,AUS
+1914,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1914,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1914,Illinois-Indiana-Iowa League,Springfield,SPR,SPR,SPR
+1914,Illinois-Indiana-Iowa League,Decatur,DEC,DEC,DEC
+1914,Illinois-Indiana-Iowa League,Dubuque,DUB,DUB,DUB
+1914,Illinois-Indiana-Iowa League,Quincy,QUI,QUI,QUI
+1914,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
+1914,Illinois-Indiana-Iowa League,Danville/Moline,DAN+MOL,,DAN+MOL
+1914,Illinois-Indiana-Iowa League,Danville,DAN+MOL,DAN,DAN+MOL
+1914,Illinois-Indiana-Iowa League,Moline,DAN+MOL,MOL,DAN+MOL
+1914,Tri-State League,Harrisburg,HAR,HAR,HAR
+1914,Tri-State League,Allentown,ALL,ALL,ALL
+1914,Tri-State League,Reading,REA,REA,REA
+1914,Tri-State League,Wilmington,WIL,WIL,WIL
+1914,Tri-State League,Trenton,TRE,TRE,TRE
+1914,Tri-State League,York/Lancaster,YOR+LAN,,YOR+LAN
+1914,Tri-State League,York,YOR+LAN,YOR,YOR+LAN
+1914,Tri-State League,Lancaster,YOR+LAN,LAN,YOR+LAN
+1914,Colonial League,Fall River,FR,FR,FR
+1914,Colonial League,New Bedford,NB,NB,NB
+1914,Colonial League,Woonsocket,WOO,WOO,WOO
+1914,Colonial League,Taunton,TAU,TAU,TAU
+1914,Colonial League,Pawtucket,PAW,PAW,PAW
+1914,Colonial League,Brockton,BRO,BRO,BRO
+1914,Northern League,Duluth,DUL,DUL,DUL
+1914,Northern League,Winnipeg,WPG,WPG,WPG
+1914,Northern League,Grand Forks,GF,GF,GF
+1914,Northern League,Winona,WNA,WNA,WNA
+1914,Northern League,Virginia,VIR,VIR,VIR
+1914,Northern League,Fargo-Moorhead,FM,FM,FM
+1914,Northern League,Superior,SUP,SUP,SUP
+1914,Northern League,Fort William,FW,FW,FW
+1914,South Atlantic League,Charleston,CHA,CHA,CHA
+1914,South Atlantic League,Savannah,SAV,SAV,SAV
+1914,South Atlantic League,Albany,ALB,ALB,ALB
+1914,South Atlantic League,Columbia,CBA,CBA,CBA
+1914,South Atlantic League,Jacksonville,JAX,JAX,JAX
+1914,South Atlantic League,Columbus,CBS,CBS,CBS
+1914,South Atlantic League,Macon,MAC,MAC,MAC
+1914,South Atlantic League,Augusta,AUG,AUG,AUG
+1914,Southern Michigan Association,Bay City,BAY,BAY,BAY
+1914,Southern Michigan Association,Saginaw,SAG,SAG,SAG
+1914,Southern Michigan Association,Battle Creek,BAT,BAT,BAT
+1914,Southern Michigan Association,South Bend,SB,SB,SB
+1914,Southern Michigan Association,Flint,FLI,FLI,FLI
+1914,Southern Michigan Association,Jacksonville,JAX,JAX,JAX
+1914,Southern Michigan Association,Lansing/Mount Clemens,LAN+MC,,LAN+MC
+1914,Southern Michigan Association,Lansing,LAN+MC,LAN,LAN+MC
+1914,Southern Michigan Association,Mount Clemens,LAN+MC,MC,LAN+MC
+1914,Southern Michigan Association,Toledo,TOL,TOL,TOL
+1914,Southern Michigan Association,Adrian,ADR,ADR,ADR
+1914,Southern Michigan Association,Kalamazoo,KAL,KAL,KAL
+1914,Virginia League,Norfolk,NOR,NOR,NOR
+1914,Virginia League,Richmond,RIC,RIC,RIC
+1914,Virginia League,Newport News,NN,NN,NN
+1914,Virginia League,Roanoke,ROA,ROA,ROA
+1914,Virginia League,Petersburg,PET,PET,PET
+1914,Virginia League,Portsmouth,POR,POR,POR
+1914,Wisconsin-Illinois League,Oshkosh,OSH,OSH,OSH
+1914,Wisconsin-Illinois League,Green Bay,GB,GB,GB
+1914,Wisconsin-Illinois League,Appleton,APP,APP,APP
+1914,Wisconsin-Illinois League,Racine,RAC,RAC,RAC
+1914,Wisconsin-Illinois League,Marinette-Menominee,MM,MM,MM
+1914,Wisconsin-Illinois League,Madison,MAD,MAD,MAD
+1914,Wisconsin-Illinois League,Rockford,ROC,ROC,ROC
+1914,Wisconsin-Illinois League,Wausau,WAU,WAU,WAU
+1914,Appalachian League,Middlesboro,MID,MID,MID
+1914,Appalachian League,Morristown,MOR,MOR,MOR
+1914,Appalachian League,Harriman,HAR,HAR,HAR
+1914,Appalachian League,Knoxville,KNO,KNO,KNO
+1914,Atlantic League,Poughkeepsie,POU,POU,POU
+1914,Atlantic League,Newark/Long Branch,NEW+LB,,NEW+LB
+1914,Atlantic League,Newark,NEW+LB,NEW,NEW+LB
+1914,Atlantic League,Long Branch,NEW+LB,LB,NEW+LB
+1914,Atlantic League,Middletown,MID,MID,MID
+1914,Atlantic League,Danbury,DAN,DAN,DAN
+1914,Atlantic League,Perth Amboy,PER,PER,PER
+1914,Atlantic League,Newburgh,NBG,NBG,NBG
+1914,Atlantic League,Paterson,PAT,PAT,PAT
+1914,Atlantic League,Bloomfield-Long Branch/Asbury Park,BLO+AP,,BLO+AP
+1914,Atlantic League,Bloomfield-Long Branch,BLO+AP,BLO,BLO+AP
+1914,Atlantic League,Asbury Park,BLO+AP,AP,BLO+AP
+1914,California State League,Fresno,FRE,FRE,FRE
+1914,California State League,San Jose,SJ,SJ,SJ
+1914,California State League,Stockton,STO,STO,STO
+1914,California State League,Modesto,MOD,MOD,MOD
+1914,Central Association,Waterloo,WAT,WAT,WAT
+1914,Central Association,Burlington,BUR,BUR,BUR
+1914,Central Association,Muscatine,MUS,MUS,MUS
+1914,Central Association,Clinton,CLI,CLI,CLI
+1914,Central Association,Cedar Rapids,CR,CR,CR
+1914,Central Association,Keokuk,KEO,KEO,KEO
+1914,Central Association,Marshalltown,MAR,MAR,MAR
+1914,Central Association,Ottumwa/Rock Island/Galesburg,OTT+RI+GAL,,OTT+RI+GAL
+1914,Central Association,Ottumwa,OTT+RI+GAL,OTT,OTT+RI+GAL
+1914,Central Association,Rock Island,OTT+RI+GAL,RI,OTT+RI+GAL
+1914,Central Association,Galesburg,OTT+RI+GAL,GAL,OTT+RI+GAL
+1914,Central Texas League,Waxahachie,WAX,WAX,WAX
+1914,Central Texas League,West,WES,WES,WES
+1914,Central Texas League,Ennis,ENN,ENN,ENN
+1914,Central Texas League,Italy,ITA,ITA,ITA
+1914,Central Texas League,Corsicana,COR,COR,COR
+1914,Central Texas League,Hillsboro,HIL,HIL,HIL
+1914,Georgia State League,Cordele,COR,COR,COR
+1914,Georgia State League,Americus,AME,AME,AME
+1914,Georgia State League,Thomasville,THO,THO,THO
+1914,Georgia State League,Brunswick,BRU,BRU,BRU
+1914,Georgia State League,Waycross,WAY,WAY,WAY
+1914,Georgia State League,Valdosta,VAL,VAL,VAL
+1914,Georgia-Alabama League,Selma,SEL,SEL,SEL
+1914,Georgia-Alabama League,Newnan,NEW,NEW,NEW
+1914,Georgia-Alabama League,La Grange,LG,LG,LG
+1914,Georgia-Alabama League,Opelika,OPE,OPE,OPE
+1914,Georgia-Alabama League,Rome,ROM,ROM,ROM
+1914,Georgia-Alabama League,Anniston,ANN,ANN,ANN
+1914,Georgia-Alabama League,Talladega,TAL,TAL,TAL
+1914,Georgia-Alabama League,Gadsden,GAD,GAD,GAD
+1914,Illinois-Missouri League,Champaign-Urbana,CHA,CHA,CHA
+1914,Illinois-Missouri League,Ottawa,OTT,OTT,OTT
+1914,Illinois-Missouri League,Streator,STR,STR,STR
+1914,Illinois-Missouri League,La Salle,LAS,LAS,LAS
+1914,Illinois-Missouri League,Lincoln,LIN,LIN,LIN
+1914,Illinois-Missouri League,Kankakee,KAN,KAN,KAN
+1914,Interstate League,Jamestown,JAM,JAM,JAM
+1914,Interstate League,Bradford,BRA,BRA,BRA
+1914,Interstate League,Warren,WAR,WAR,WAR
+1914,Interstate League,Olean,OLE,OLE,OLE
+1914,Interstate League,Wellsville,WEL,WEL,WEL
+1914,Interstate League,Hornell,HOR,HOR,HOR
+1914,Kansas State League,Emporia,EMP,EMP,EMP
+1914,Kansas State League,Salina,SAL,SAL,SAL
+1914,Kansas State League,Hutchinson,HUT,HUT,HUT
+1914,Kansas State League,Great Bend/Minnepolis,GB+MIN,,GB+MIN
+1914,Kansas State League,Great Bend,GB+MIN,GB,GB+MIN
+1914,Kansas State League,Minneapolis,GB+MIN,MIN,GB+MIN
+1914,Kentucky-Illinois-Tennessee League,Cairo,CAI,CAI,CAI
+1914,Kentucky-Illinois-Tennessee League,Owensboro,OWE,OWE,OWE
+1914,Kentucky-Illinois-Tennessee League,Henderson,HEN,HEN,HEN
+1914,Kentucky-Illinois-Tennessee League,Paducah,PAD,PAD,PAD
+1914,Kentucky-Illinois-Tennessee League,Clarksville,CLA,CLA,CLA
+1914,Kentucky-Illinois-Tennessee League,Hopkinsville,HOP,HOP,HOP
+1914,Michigan State League,Muskegon,MUS,MUS,MUS
+1914,Michigan State League,Ludington,LUD,LUD,LUD
+1914,Michigan State League,Cadillac,CAD,CAD,CAD
+1914,Michigan State League,Manistee/Belding,MAN+BEL,,MAN+BEL
+1914,Michigan State League,Manistee,MAN+BEL,MAN,MAN+BEL
+1914,Michigan State League,Belding,MAN+BEL,BEL,MAN+BEL
+1914,Michigan State League,Boyne City,BOY,BOY,BOY
+1914,Michigan State League,Traverse City,TC,TC,TC
+1914,Middle Texas League,Temple,TEM,TEM,TEM
+1914,Middle Texas League,Georgetown,GEO,GEO,GEO
+1914,Middle Texas League,Brenham,BRE,BRE,BRE
+1914,Middle Texas League,Belton,BEL,BEL,BEL
+1914,Middle Texas League,Lampasas,LAM,LAM,LAM
+1914,Middle Texas League,Bartlett,BAR,BAR,BAR
+1914,Nebraska State League,Grand Island,GI,GI,GI
+1914,Nebraska State League,Beatrice,BEA,BEA,BEA
+1914,Nebraska State League,Hastings,HAS,HAS,HAS
+1914,Nebraska State League,York,YOR,YOR,YOR
+1914,Nebraska State League,Superior,SUP,SUP,SUP
+1914,Nebraska State League,Norfolk,NOR,NOR,NOR
+1914,Nebraska State League,Columbus,COL,COL,COL
+1914,Nebraska State League,Kearney,KEA,KEA,KEA
+1914,North Carolina State League,Winston-Salem,WS,WS,WS
+1914,North Carolina State League,Charlotte,CHA,CHA,CHA
+1914,North Carolina State League,Durham,DUR,DUR,DUR
+1914,North Carolina State League,Raleigh,RAL,RAL,RAL
+1914,North Carolina State League,Greensboro,GBO,GBO,GBO
+1914,North Carolina State League,Asheville,ASH,ASH,ASH
+1914,Ohio State League,Portsmouth,POR,POR,POR
+1914,Ohio State League,Charleston,CHA,CHA,CHA
+1914,Ohio State League,Chillicothe,CHI,CHI,CHI
+1914,Ohio State League,Lexington,LEX,LEX,LEX
+1914,Ohio State League,Ironton,IRO,IRO,IRO
+1914,Ohio State League,Huntington,HUN,HUN,HUN
+1914,Ohio State League,Maysville,MAY,MAY,MAY
+1914,Ohio State League,Newport/Paris,NEW+PAR,,NEW+PAR
+1914,Ohio State League,Newport,NEW+PAR,NEW,NEW+PAR
+1914,Ohio State League,Paris,NEW+PAR,PAR,NEW+PAR
+1914,Texas-Oklahoma League,Paris,PAR,PAR,PAR
+1914,Texas-Oklahoma League,Texarkana,TEX,TEX,TEX
+1914,Texas-Oklahoma League,Denison,DEN,DEN,DEN
+1914,Texas-Oklahoma League,Durant,DUR,DUR,DUR
+1914,Texas-Oklahoma League,Bonham,BON,BON,BON
+1914,Texas-Oklahoma League,Sherman,SHE,SHE,SHE
+1914,Texas-Oklahoma League,Ardmore,ARD,ARD,ARD
+1914,Texas-Oklahoma League,Hugo,HUG,HUG,HUG
+1914,Union Association,Ogden,OGD,OGD,OGD
+1914,Union Association,Salt Lake City,SLC,SLC,SLC
+1914,Union Association,Butte,BUT,BUT,BUT
+1914,Union Association,Helena,HEL,HEL,HEL
+1914,Union Association,Boise,BOI,BOI,BOI
+1914,Union Association,Murray,MUR,MUR,MUR
+1914,Virginia Mountain League,Covington,COV,COV,COV
+1914,Virginia Mountain League,Charlottesville,CHA,CHA,CHA
+1914,Virginia Mountain League,Clifton Forge,CF,CF,CF
+1914,Virginia Mountain League,Staunton/Harrisonsburg,STA+HAR,,STA+HAR
+1914,Virginia Mountain League,Staunton,STA+HAR,STA,STA+HAR
+1914,Virginia Mountain League,Harrisonburg,STA+HAR,HAR,STA+HAR
+1914,Western Association,Tulsa,TUL,TUL,TUL
+1914,Western Association,Oklahoma City,OKC,OKC,OKC
+1914,Western Association,Fort Smith,FS,FS,FS
+1914,Western Association,Muskogee,MUS,MUS,MUS
+1914,Western Association,McAlester,MCA,MCA,MCA
+1914,Western Canada League,Saskatoon,SAS,SAS,SAS
+1914,Western Canada League,Moose Jaw,MJ,MJ,MJ
+1914,Western Canada League,Regina,REG,REG,REG
+1914,Western Canada League,Medicine Hat,MH,MH,MH
+1914,Western Canada League,Edmonton,EDM,EDM,EDM
+1914,Western Canada League,Calgary,CAL,CAL,CAL
+1914,Western Tri-State League,Pendleton,PEN,PEN,PEN
+1914,Western Tri-State League,Walla Walla,WW,WW,WW
+1914,Western Tri-State League,Baker,BAK,BAK,BAK
+1914,Western Tri-State League,North Yakima,NY,NY,NY
+1914,Pennsylvania-West Virginia League,Connellsville,CON,CON,CON
+1914,Pennsylvania-West Virginia League,Fairmont,FAI,FAI,FAI
+1914,Pennsylvania-West Virginia League,McKeesport,MCK,MCK,MCK
+1914,Pennsylvania-West Virginia League,Clarksburg,CLA,CLA,CLA
+1914,Pennsylvania-West Virginia League,Charleroi,CHA,CHA,CHA
+1914,Pennsylvania-West Virginia League,Uniontown,UNI,UNI,UNI

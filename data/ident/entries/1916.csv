@@ -1,0 +1,193 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1916,American Association,Louisville,LOU,LOU,LOU
+1916,American Association,Indianapolis,IND,IND,IND
+1916,American Association,Minneapolis,MIN,MIN,MIN
+1916,American Association,St. Paul,STP,STP,STP
+1916,American Association,Kansas City,KC,KC,KC
+1916,American Association,Toledo,TOL,TOL,TOL
+1916,American Association,Columbus,COL,COL,COL
+1916,American Association,Milwaukee,MIL,MIL,MIL
+1916,International League,Buffalo,BUF,BUF,BUF
+1916,International League,Providence,PRO,PRO,PRO
+1916,International League,Montreal,MON,MON,MON
+1916,International League,Baltimore,BAL,BAL,BAL
+1916,International League,Toronto,TOR,TOR,TOR
+1916,International League,Richmond,RIC,RIC,RIC
+1916,International League,Rochester,ROC,ROC,ROC
+1916,International League,Newark,NEW,NEW,NEW
+1916,Pacific Coast League,Los Angeles,LA,LA,LA
+1916,Pacific Coast League,Vernon,VER,VER,VER
+1916,Pacific Coast League,Salt Lake City,SLC,SLC,SLC
+1916,Pacific Coast League,San Francisco,SF,SF,SF
+1916,Pacific Coast League,Portland,POR,POR,POR
+1916,Pacific Coast League,Oakland,OAK,OAK,OAK
+1916,Southern Association,Nashville,NAS,NAS,NAS
+1916,Southern Association,New Orleans,NO,NO,NO
+1916,Southern Association,Birmingham,BIR,BIR,BIR
+1916,Southern Association,Little Rock,LR,LR,LR
+1916,Southern Association,Atlanta,ATL,ATL,ATL
+1916,Southern Association,Memphis,MEM,MEM,MEM
+1916,Southern Association,Chattanooga,CHA,CHA,CHA
+1916,Southern Association,Mobile,MOB,MOB,MOB
+1916,Western League,Omaha,OMA,OMA,OMA
+1916,Western League,Lincoln,LIN,LIN,LIN
+1916,Western League,Sioux City,SC,SC,SC
+1916,Western League,Denver,DEN,DEN,DEN
+1916,Western League,Des Moines,DM,DM,DM
+1916,Western League,Topeka,TOP,TOP,TOP
+1916,Western League,St. Joseph,STJ,STJ,STJ
+1916,Western League,Wichita/Colorado Springs,WIC+CS,,WIC+CS
+1916,Western League,Wichita,WIC+CS,WIC,WIC+CS
+1916,Western League,Colorado Springs,WIC+CS,CS,WIC+CS
+1916,Central League,Grand Rapids,GR,GR,GR
+1916,Central League,Dayton,DAY,DAY,DAY
+1916,Central League,Springfield,SPR,SPR,SPR
+1916,Central League,Wheeling,WHE,WHE,WHE
+1916,Central League,Evansville,EVA,EVA,EVA
+1916,Central League,Terre Haute,TH,TH,TH
+1916,Central League,South Bend,SB,SB,SB
+1916,Central League,Muskegon,MUS,MUS,MUS
+1916,Eastern League,New London,NL,NL,NL
+1916,Eastern League,Portland,POR,POR,POR
+1916,Eastern League,Springfield,SPR,SPR,SPR
+1916,Eastern League,Lynn,LYN,LYN,LYN
+1916,Eastern League,Worcester,WOR,WOR,WOR
+1916,Eastern League,New Haven,NH,NH,NH
+1916,Eastern League,Bridgeport,BRI,BRI,BRI
+1916,Eastern League,Hartford,HAR,HAR,HAR
+1916,Eastern League,Lawrence,LAW,LAW,LAW
+1916,Eastern League,Lowell,LOW,LOW,LOW
+1916,New York State League,Syracuse,SYR,SYR,SYR
+1916,New York State League,Scranton,SCR,SCR,SCR
+1916,New York State League,Binghamton,BIN,BIN,BIN
+1916,New York State League,Wilkes-Barre,WB,WB,WB
+1916,New York State League,Utica,UTI,UTI,UTI
+1916,New York State League,Albany/Reading,ALB+REA,,ALB+REA
+1916,New York State League,Albany,ALB+REA,ALB,ALB+REA
+1916,New York State League,Reading,ALB+REA,REA,ALB+REA
+1916,New York State League,Elmira,ELM,ELM,ELM
+1916,New York State League,Troy/Harrisburg,TRO+HAR,,TRO+HAR
+1916,New York State League,Troy,TRO+HAR,TRO,TRO+HAR
+1916,New York State League,Harrisburg,TRO+HAR,HAR,TRO+HAR
+1916,Northwestern League,Spokane,SPO,SPO,SPO
+1916,Northwestern League,Butte,BUT,BUT,BUT
+1916,Northwestern League,Tacoma,TAC,TAC,TAC
+1916,Northwestern League,Great Falls,GF,GF,GF
+1916,Northwestern League,Seattle,SEA,SEA,SEA
+1916,Northwestern League,Vancouver,VAN,VAN,VAN
+1916,Texas League,Waco,WAC,WAC,WAC
+1916,Texas League,Shreveport,SHR,SHR,SHR
+1916,Texas League,Galveston,GAL,GAL,GAL
+1916,Texas League,Houston,HOU,HOU,HOU
+1916,Texas League,Fort Worth,FW,FW,FW
+1916,Texas League,Beaumont,BEA,BEA,BEA
+1916,Texas League,San Antonio,SA,SA,SA
+1916,Texas League,Dallas,DAL,DAL,DAL
+1916,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1916,Illinois-Indiana-Iowa League,Hannibal,HAN,HAN,HAN
+1916,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
+1916,Illinois-Indiana-Iowa League,Rockford,ROC,ROC,ROC
+1916,Illinois-Indiana-Iowa League,Moline,MOL,MOL,MOL
+1916,Illinois-Indiana-Iowa League,Rock Island,RI,RI,RI
+1916,Illinois-Indiana-Iowa League,Quincy,QUI,QUI,QUI
+1916,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1916,Northern League,Winnipeg,WIN,WIN,WIN
+1916,Northern League,Fargo-Moorhead,FM,FM,FM
+1916,Northern League,Duluth,DUL,DUL,DUL
+1916,Northern League,Superior,SUP,SUP,SUP
+1916,Northern League,Virginia,VIR,VIR,VIR
+1916,Northern League,Fort William-Port Arthur,FW,FW,FW
+1916,South Atlantic League,Columbia,CBA,CBA,CBA
+1916,South Atlantic League,Charleston,CHA,CHA,CHA
+1916,South Atlantic League,Augusta,AUG,AUG,AUG
+1916,South Atlantic League,Columbus,CBS,CBS,CBS
+1916,South Atlantic League,Jacksonville,JAX,JAX,JAX
+1916,South Atlantic League,Macon,MAC,MAC,MAC
+1916,South Atlantic League,Montgomery,MON,MON,MON
+1916,South Atlantic League,Albany,ALB,ALB,ALB
+1916,Virginia League,Newport News,NN,NN,NN
+1916,Virginia League,Portsmouth,POR,POR,POR
+1916,Virginia League,Rocky Mount,RM,RM,RM
+1916,Virginia League,Petersburg,PET,PET,PET
+1916,Virginia League,Norfolk,NOR,NOR,NOR
+1916,Virginia League,Hopewell,HOP,HOP,HOP
+1916,Blue Ridge League,Chambersburg,CHA,CHA,CHA
+1916,Blue Ridge League,Martinsburg,MAR,MAR,MAR
+1916,Blue Ridge League,Hagerstown,HAG,HAG,HAG
+1916,Blue Ridge League,Hanover,HAN,HAN,HAN
+1916,Blue Ridge League,Frederick,FRE,FRE,FRE
+1916,Blue Ridge League,Gettysburg,GET,GET,GET
+1916,Central Association,Marshalltown,MAR,MAR,MAR
+1916,Central Association,Clinton,CLI,CLI,CLI
+1916,Central Association,Cedar Rapids,CR,CR,CR
+1916,Central Association,Burlington/Ottumwa,BUR+OTT,,BUR+OTT
+1916,Central Association,Burlington,BUR+OTT,BUR,BUR+OTT
+1916,Central Association,Ottumwa,BUR+OTT,OTT,BUR+OTT
+1916,Central Association,Waterloo,WAT,WAT,WAT
+1916,Central Association,Mason City,MC,MC,MC
+1916,Central Association,Fort Dodge,FD,FD,FD
+1916,Central Association,Muscatine,MUS,MUS,MUS
+1916,Central Texas League,Temple,TEM,TEM,TEM
+1916,Central Texas League,Ennis,ENN,ENN,ENN
+1916,Central Texas League,Mexia,MEX,MEX,MEX
+1916,Central Texas League,Terrell,TER,TER,TER
+1916,Central Texas League,Waxahachie,WAX,WAX,WAX
+1916,Central Texas League,Marlin,MAR,MAR,MAR
+1916,Dixie League,Dothan,DOT,DOT,DOT
+1916,Dixie League,Eufaula,EUF,EUF,EUF
+1916,Dixie League,Bainbridge,BAI,BAI,BAI
+1916,Dixie League,Moultrie,MOU,MOU,MOU
+1916,Dixie League,Valdosta,VAL,VAL,VAL
+1916,Dixie League,Quitman,QUI,QUI,QUI
+1916,East Texas League,Palestine,PAL,PAL,PAL
+1916,East Texas League,Lufkin,LUF,LUF,LUF
+1916,East Texas League,Nacogdoches,NAC,NAC,NAC
+1916,East Texas League,Crockett,CRO,CRO,CRO
+1916,East Texas League,Rusk,RUS,RUS,RUS
+1916,East Texas League,Jacksonville,JAX,JAX,JAX
+1916,Georgia-Alabama League,Rome,ROM,ROM,ROM
+1916,Georgia-Alabama League,Newnan,NEW,NEW,NEW
+1916,Georgia-Alabama League,La Grange,LAG,LAG,LAG
+1916,Georgia-Alabama League,Talladega,TAL,TAL,TAL
+1916,Georgia-Alabama League,Anniston,ANN,ANN,ANN
+1916,Georgia-Alabama League,Griffin,GRI,GRI,GRI
+1916,Interstate League,Ridgway,RID,RID,RID
+1916,Interstate League,St. Marys,STM,STM,STM
+1916,Interstate League,Bradford,BRA,BRA,BRA
+1916,Interstate League,Wellsville,WEL,WEL,WEL
+1916,Interstate League,Johnsonburg,JOH,JOH,JOH
+1916,Interstate League,Olean,OLE,OLE,OLE
+1916,Interstate League,Erie,ERI,ERI,ERI
+1916,Interstate League,Warren,WAR,WAR,WAR
+1916,Kentucky-Illinois-Tennessee League,Clarksville,CLA,CLA,CLA
+1916,Kentucky-Illinois-Tennessee League,Henderson,HEN,HEN,HEN
+1916,Kentucky-Illinois-Tennessee League,Owensboro,OWE,OWE,OWE
+1916,Kentucky-Illinois-Tennessee League,Dawson Springs,DS,DS,DS
+1916,Kentucky-Illinois-Tennessee League,Madisonville,MAD,MAD,MAD
+1916,Kentucky-Illinois-Tennessee League,Hopkinsville,HOP,HOP,HOP
+1916,North Carolina State League,Charlotte,CHA,CHA,CHA
+1916,North Carolina State League,Winston-Salem,WS,WS,WS
+1916,North Carolina State League,Durham,DUR,DUR,DUR
+1916,North Carolina State League,Asheville,ASH,ASH,ASH
+1916,North Carolina State League,Greensboro,GBO,GBO,GBO
+1916,North Carolina State League,Raleigh,RAL,RAL,RAL
+1916,Ohio State League,Portsmouth,POR,POR,POR
+1916,Ohio State League,Lexington,LEX,LEX,LEX
+1916,Ohio State League,Charleston/Chillicothe,CHA+CHI,,CHA+CHI
+1916,Ohio State League,Charleston,CHA+CHI,CHA,CHA+CHI
+1916,Ohio State League,Chillicothe,CHA+CHI,CHI,CHA+CHI
+1916,Ohio State League,Maysville,MAY,MAY,MAY
+1916,Ohio State League,Frankfort,FRA,FRA,FRA
+1916,Ohio State League,Huntington,HUN,HUN,HUN
+1916,Potomac League,Frostburg,FRO,FRO,FRO
+1916,Potomac League,Piedmont,PIE,PIE,PIE
+1916,Potomac League,Cumberland,CUM,CUM,CUM
+1916,Potomac League,Lonaconing,LON,LON,LON
+1916,Western Association,Denison,DEN,DEN,DEN
+1916,Western Association,Tulsa,TUL,TUL,TUL
+1916,Western Association,McAlester,MCA,MCA,MCA
+1916,Western Association,Oklahoma City,OKC,OKC,OKC
+1916,Western Association,Muskogee,MUS,MUS,MUS
+1916,Western Association,Fort Smith,FS,FS,FS
+1916,Western Association,Sherman,SHE,SHE,SHE
+1916,Western Association,Paris,PAR,PAR,PAR
