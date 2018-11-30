@@ -112,12 +112,12 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1915,South Atlantic League,Albany,ALB,ALB,ALB
 1915,South Atlantic League,Jacksonville,JAC,JAC,JAC
 1915,South Atlantic League,Savannah,SAV,SAV,SAV
-1915,Southern Michigan Association,South Bend,SB,SB,SB
-1915,Southern Michigan Association,Battle Creek,BCK,BCK,BCK
-1915,Southern Michigan Association,Jackson,JAC,JAC,JAC
-1915,Southern Michigan Association,Bay City,BAY,BAY,BAY
-1915,Southern Michigan Association,Saginaw,SAG,SAG,SAG
-1915,Southern Michigan Association,Flint,FLI,FLI,FLI
+1915,Southern Michigan League,South Bend,SB,SB,SB
+1915,Southern Michigan League,Battle Creek,BCK,BCK,BCK
+1915,Southern Michigan League,Jackson,JAC,JAC,JAC
+1915,Southern Michigan League,Bay City,BAY,BAY,BAY
+1915,Southern Michigan League,Saginaw,SAG,SAG,SAG
+1915,Southern Michigan League,Flint,FLI,FLI,FLI
 1915,Virginia League,Rocky Mount,RM,RM,RM
 1915,Virginia League,Portsmouth,POR,POR,POR
 1915,Virginia League,Norfolk,NOR,NOR,NOR
@@ -229,8 +229,8 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1915,Buckeye League,Findlay,FIN,FIN,FIN
 1915,Buckeye League,Akron,AKR,AKR,AKR
 1915,Buckeye League,Newark,NEW,NEW,NEW
-1915,Buckeye League,Marion,MAR,APR,MAY
-1915,Buckeye League,Canton,CAR,CAR,CAR
+1915,Buckeye League,Marion,MAR,MAR,MAR
+1915,Buckeye League,Canton,CAN,CAN,CAN
 1915,Colonial League,Hartford,HAR,HAR,HAR
 1915,Colonial League,Brockton,BRO,BRO,BRO
 1915,Colonial League,New Bedford,NB,NB,NB

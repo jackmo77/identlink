@@ -267,14 +267,14 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1908,South Carolina League,Chester,CHE,CHE,CHE
 1908,South Carolina League,Rock Hill,RH,RH,RH
 1908,South Carolina League,Orangeburg,ORA,ORA,ORA
-1908,Southern Michigan Association,Saginaw,SAG,SAG,SAG
-1908,Southern Michigan Association,Kalamazoo,KAL,KAL,KAL
-1908,Southern Michigan Association,Jackson,JAC,JAC,JAC
-1908,Southern Michigan Association,Tecumseh,TEC,TEC,TEC
-1908,Southern Michigan Association,Battle Creek,BCR,BCR,BCR
-1908,Southern Michigan Association,Lansing,LAN,LAN,LAN
-1908,Southern Michigan Association,Flint,FLI,FLI,FLI
-1908,Southern Michigan Association,Bay City,BAY,BAY,BAY
+1908,Southern Michigan League,Saginaw,SAG,SAG,SAG
+1908,Southern Michigan League,Kalamazoo,KAL,KAL,KAL
+1908,Southern Michigan League,Jackson,JAC,JAC,JAC
+1908,Southern Michigan League,Tecumseh,TEC,TEC,TEC
+1908,Southern Michigan League,Battle Creek,BCR,BCR,BCR
+1908,Southern Michigan League,Lansing,LAN,LAN,LAN
+1908,Southern Michigan League,Flint,FLI,FLI,FLI
+1908,Southern Michigan League,Bay City,BAY,BAY,BAY
 1908,Wisconsin-Illinois League,Wausau,WAU,WAU,WAU
 1908,Wisconsin-Illinois League,Madison,MAD,MAD,MAD
 1908,Wisconsin-Illinois League,La Crosse,LC,LC,LC
@@ -305,3 +305,14 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1908,Pennsylvania-New Jersey League,Coatesville,COA,COA,COA
 1908,Pennsylvania-New Jersey League,York,YOR,YOR,YOR
 1908,Pennsylvania-New Jersey League,Newark,NEW,NEW,NEW
+1908,Union Association,Washington,WAS,WAS,WAS
+1908,Union Association,Reading,REA,REA,REA
+1908,Union Association,Elizabeth,ELI,ELI,ELI
+1908,Union Association,Brooklyn,BRO,BRO,BRO
+1908,Union Association,Philadelphia,PHI,PHI,PHI
+1908,Union Association,Paterson/Allentown,PAT+ALL,,PAT+ALL
+1908,Union Association,Paterson,PAT+ALL,PAT,PAT+ALL
+1908,Union Association,Allentown,PAT+ALL,ALL,PAT+ALL
+1908,Union Association,Baltimore,BAL,BAL,BAL
+1908,Union Association,Wilmington,WIL,WIL,WIL
+
