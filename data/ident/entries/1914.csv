@@ -43,7 +43,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1914,Canadian League,London,LON,LON,LON
 1914,Canadian League,Erie,ERI,ERI,ERI
 1914,Canadian League,Toronto,TOR,TOR,TOR
-1914,Canadian League,St. Thmas,ST,ST,ST
+1914,Canadian League,St. Thomas,ST,ST,ST
 1914,Canadian League,Peterborough,PET,PET,PET
 1914,Canadian League,Hamilton,HAM,HAM,HAM
 1914,Canadian League,Brantford,BRA,BRA,BRA
@@ -135,18 +135,18 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1914,South Atlantic League,Columbus,CBS,CBS,CBS
 1914,South Atlantic League,Macon,MAC,MAC,MAC
 1914,South Atlantic League,Augusta,AUG,AUG,AUG
-1914,Southern Michigan Association,Bay City,BAY,BAY,BAY
-1914,Southern Michigan Association,Saginaw,SAG,SAG,SAG
-1914,Southern Michigan Association,Battle Creek,BAT,BAT,BAT
-1914,Southern Michigan Association,South Bend,SB,SB,SB
-1914,Southern Michigan Association,Flint,FLI,FLI,FLI
-1914,Southern Michigan Association,Jacksonville,JAX,JAX,JAX
-1914,Southern Michigan Association,Lansing/Mount Clemens,LAN+MC,,LAN+MC
-1914,Southern Michigan Association,Lansing,LAN+MC,LAN,LAN+MC
-1914,Southern Michigan Association,Mount Clemens,LAN+MC,MC,LAN+MC
-1914,Southern Michigan Association,Toledo,TOL,TOL,TOL
-1914,Southern Michigan Association,Adrian,ADR,ADR,ADR
-1914,Southern Michigan Association,Kalamazoo,KAL,KAL,KAL
+1914,Southern Michigan League,Bay City,BAY,BAY,BAY
+1914,Southern Michigan League,Saginaw,SAG,SAG,SAG
+1914,Southern Michigan League,Battle Creek,BAT,BAT,BAT
+1914,Southern Michigan League,South Bend,SB,SB,SB
+1914,Southern Michigan League,Flint,FLI,FLI,FLI
+1914,Southern Michigan League,Jackson,JAC,JAC,JAC
+1914,Southern Michigan League,Lansing/Mount Clemens,LAN+MC,,LAN+MC
+1914,Southern Michigan League,Lansing,LAN+MC,LAN,LAN+MC
+1914,Southern Michigan League,Mount Clemens,LAN+MC,MC,LAN+MC
+1914,Southern Michigan League,Toledo,TOL,TOL,TOL
+1914,Southern Michigan League,Adrian,ADR,ADR,ADR
+1914,Southern Michigan League,Kalamazoo,KAL,KAL,KAL
 1914,Virginia League,Norfolk,NOR,NOR,NOR
 1914,Virginia League,Richmond,RIC,RIC,RIC
 1914,Virginia League,Newport News,NN,NN,NN
@@ -212,7 +212,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1914,Georgia-Alabama League,Anniston,ANN,ANN,ANN
 1914,Georgia-Alabama League,Talladega,TAL,TAL,TAL
 1914,Georgia-Alabama League,Gadsden,GAD,GAD,GAD
-1914,Illinois-Missouri League,Champaign-Urbana,CHA,CHA,CHA
+1914,Illinois-Missouri League,Champaign,CHA,CHA,CHA
 1914,Illinois-Missouri League,Ottawa,OTT,OTT,OTT
 1914,Illinois-Missouri League,Streator,STR,STR,STR
 1914,Illinois-Missouri League,La Salle,LAS,LAS,LAS
@@ -299,6 +299,10 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1914,Western Association,Fort Smith,FS,FS,FS
 1914,Western Association,Muskogee,MUS,MUS,MUS
 1914,Western Association,McAlester,MCA,MCA,MCA
+1914,Western Association,Joplin-Webb City/Guthrie/Henryetta,JWC+GUT+HEN,,JWC+GUT+HEN
+1914,Western Association,Joplin-Webb City,JWC+GUT+HEN,JWC,JWC+GUT+HEN
+1914,Western Association,Guthrie,JWC+GUT+HEN,GUT,JWC+GUT+HEN
+1914,Western Association,Henryetta,JWC+GUT+HEN,HEN,JWC+GUT+HEN
 1914,Western Canada League,Saskatoon,SAS,SAS,SAS
 1914,Western Canada League,Moose Jaw,MJ,MJ,MJ
 1914,Western Canada League,Regina,REG,REG,REG
