@@ -1,16 +1,16 @@
 import glob
 
 import pandas as pd
-
+import tabulate
 
 
 def main():
     seasons = pd.concat([pd.read_csv(fn, dtype=str)
-                         for fn in glob.glob("seasons/*.csv")],
+                         for fn in glob.glob("data/ident/seasons/*.csv")],
                         ignore_index=True)
     seasons.rename(inplace=True, columns={'league.name.full': 'league.name'})
     df = pd.concat([pd.read_csv(fn, dtype=str)
-                    for fn in glob.glob("leagues/19[01]?/*.csv")],
+                    for fn in glob.glob("data/ident/people/19[01]?/*.csv")],
                    ignore_index=True)
     df = df[df['source'].str.startswith("researchers")].copy()
     df = df[~df['ident'].isnull()].copy()
@@ -23,7 +23,8 @@ def main():
                     'league.key'],
                    inplace=True)
     df['person.name.given'] = df['person.name.given'].fillna("")
-    print df[['person.ref', 'ident', 'person.name.last', 'person.name.given']].drop_duplicates().to_string()
+    print tabulate.tabulate(df[['person.ref', 'ident', 'person.name.last', 'person.name.given']].drop_duplicates(),
+                            showindex=False, headers='keys')
 
     df[['person.ref', 'ident', 'person.name.last', 'person.name.given']].drop_duplicates().to_csv("links.csv", index=False)
 
