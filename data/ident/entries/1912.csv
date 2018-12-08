@@ -1,0 +1,358 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1912,American League,Boston,BOS,BOS,BOS
+1912,American League,Washington,WS1,WS1,WS1
+1912,American League,Philadelphia,PHA,PHA,PHA
+1912,American League,Chicago,CHA,CHA,CHA
+1912,American League,Cleveland,CLE,CLE,CLE
+1912,American League,Detroit,DET,DET,DET
+1912,American League,St. Louis,SLA,SLA,SLA
+1912,American League,New York,NYA,NYA,NYA
+1912,National League,New York,NY1,NY1,NY1
+1912,National League,Pittsburgh,PIT,PIT,PIT
+1912,National League,Chicago,CHN,CHN,CHN
+1912,National League,Cincinnati,CIN,CIN,CIN
+1912,National League,Philadelphia,PHI,PHI,PHI
+1912,National League,St. Louis,SLN,SLN,SLN
+1912,National League,Brooklyn,BRO,BRO,BRO
+1912,National League,Boston,BSN,BSN,BSN
+1912,American Association,Minneapolis,MIN,MIN,MIN
+1912,American Association,Toledo,TOL,TOL,TOL
+1912,American Association,Columbus,COL,COL,COL
+1912,American Association,Kansas City,KC,KC,KC
+1912,American Association,Milwaukee,MIL,MIL,MIL
+1912,American Association,St. Paul,STP,STP,STP
+1912,American Association,Louisville,LOU,LOU,LOU
+1912,American Association,Indianapolis,IND,IND,IND
+1912,International League,Toronto,TOR,TOR,TOR
+1912,International League,Rochester,ROC,ROC,ROC
+1912,International League,Newark,NEW,NEW,NEW
+1912,International League,Baltimore,BAL,BAL,BAL
+1912,International League,Buffalo,BUF,BUF,BUF
+1912,International League,Montreal,MON,MON,MON
+1912,International League,Jersey City,JC,JC,JC
+1912,International League,Providence,PRO,PRO,PRO
+1912,Pacific Coast League,Oakland,OAK,OAK,OAK
+1912,Pacific Coast League,Vernon,VER,VER,VER
+1912,Pacific Coast League,Los Angeles,LA,LA,LA
+1912,Pacific Coast League,Portland,POR,POR,POR
+1912,Pacific Coast League,San Francisco,SF,SF,SF
+1912,Pacific Coast League,Sacramento,SAC,SAC,SAC
+1912,Southern Association,Birmingham,BIR,BIR,BIR
+1912,Southern Association,Mobile,MOB,MOB,MOB
+1912,Southern Association,New Orleans,NO,NO,NO
+1912,Southern Association,Nashville,NAS,NAS,NAS
+1912,Southern Association,Memphis,MEM,MEM,MEM
+1912,Southern Association,Montgomery,MON,MON,MON
+1912,Southern Association,Chattanooga,CHA,CHA,CHA
+1912,Southern Association,Atlanta,ATL,ATL,ATL
+1912,Western League,Denver,DEN,DEN,DEN
+1912,Western League,St. Joseph,STJ,STJ,STJ
+1912,Western League,Omaha,OMA,OMA,OMA
+1912,Western League,Des Moines,DM,DM,DM
+1912,Western League,Lincoln,LIN,LIN,LIN
+1912,Western League,Sioux City,SC,SC,SC
+1912,Western League,Wichita,WIC,WIC,WIC
+1912,Western League,Topeka,TOP,TOP,TOP
+1912,Central League,Fort Wayne,FW,FW,FW
+1912,Central League,Youngstown,YOU,YOU,YOU
+1912,Central League,Erie,ERI,ERI,ERI
+1912,Central League,Springfield,SPR,SPR,SPR
+1912,Central League,Dayton,DAY,DAY,DAY
+1912,Central League,Wheeling,WHE,WHE,WHE
+1912,Central League,Canton,CAN,CAN,CAN
+1912,Central League,Akron,AKR,AKR,AKR
+1912,Central League,Grand Rapids,GR,GR,GR
+1912,Central League,Terre Haute,TH,TH,TH
+1912,Central League,Zanesville,ZAN,ZAN,ZAN
+1912,Central League,South Bend,SB,SB,SB
+1912,Connecticut State League,New Haven,NH,NH,NH
+1912,Connecticut State League,Hartford,HAR,HAR,HAR
+1912,Connecticut State League,Bridgeport,BRI,BRI,BRI
+1912,Connecticut State League,Holyoke,HOL,HOL,HOL
+1912,Connecticut State League,Springfield,SPR,SPR,SPR
+1912,Connecticut State League,New Britain/Waterbury,NB+WAT,,NB+WAT
+1912,Connecticut State League,New Britain,NB+WAT,NB,NB+WAT
+1912,Connecticut State League,Waterbury,NB+WAT,WAT,NB+WAT
+1912,New England League,Lawrence,LAW,LAW,LAW
+1912,New England League,Lowell,LOW,LOW,LOW
+1912,New England League,Worcester,WOR,WOR,WOR
+1912,New England League,Lynn,LYN,LYN,LYN
+1912,New England League,Brockton,BRO,BRO,BRO
+1912,New England League,New Bedford,NB,NB,NB
+1912,New England League,Haverhill,HAV,HAV,HAV
+1912,New England League,Fall River,FR,FR,FR
+1912,New York State League,Utica,UTI,UTI,UTI
+1912,New York State League,Wilkes-Barre,WB,WB,WB
+1912,New York State League,Elmira,ELM,ELM,ELM
+1912,New York State League,Troy,TRO,TRO,TRO
+1912,New York State League,Scranton,SCR,SCR,SCR
+1912,New York State League,Albany,ALB,ALB,ALB
+1912,New York State League,Syracuse,SYR,SYR,SYR
+1912,New York State League,Binghamton,BIN,BIN,BIN
+1912,Northwestern League,Seattle,SEA,SEA,SEA
+1912,Northwestern League,Spokane,SPO,SPO,SPO
+1912,Northwestern League,Vancouver,VAN,VAN,VAN
+1912,Northwestern League,Portland,POR,POR,POR
+1912,Northwestern League,Victoria,VIC,VIC,VIC
+1912,Northwestern League,Tacoma,TAC,TAC,TAC
+1912,Texas League,Houston,HOU,HOU,HOU
+1912,Texas League,San Antonio,SA,SA,SA
+1912,Texas League,Waco,WAC,WAC,WAC
+1912,Texas League,Dallas,DAL,DAL,DAL
+1912,Texas League,Austin,AUS,AUS,AUS
+1912,Texas League,Galveston,GAL,GAL,GAL
+1912,Texas League,Fort Worth,FW,FW,FW
+1912,Texas League,Beaumont,BEA,BEA,BEA
+1912,Illinois-Indiana-Iowa League,Springfield,SPR,SPR,SPR
+1912,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1912,Illinois-Indiana-Iowa League,Decatur,DEC,DEC,DEC
+1912,Illinois-Indiana-Iowa League,Quincy,QUI,QUI,QUI
+1912,Illinois-Indiana-Iowa League,Dubuque,DUB,DUB,DUB
+1912,Illinois-Indiana-Iowa League,Danville,DAN,DAN,DAN
+1912,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
+1912,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1912,Tri-State League,Harrisburg,HAR,HAR,HAR
+1912,Tri-State League,Allentown,ALL,ALL,ALL
+1912,Tri-State League,Trenton,TRE,TRE,TRE
+1912,Tri-State League,Lancaster/Atlantic City,LAN+ACY,,LAN+ACY
+1912,Tri-State League,Lancaster,LAN+ACY,LAN,LAN+ACY
+1912,Tri-State League,Atlantic City,LAN+ACY,ACY,LAN+ACY
+1912,Tri-State League,Wilmington,WIL,WIL,WIL
+1912,Tri-State League,Altoona/Reading,ALT+REA,,ALT+REA
+1912,Tri-State League,Altoona,ALT+REA,ALT,ALT+REA
+1912,Tri-State League,Reading,ALT+REA,REA,ALT+REA
+1912,Tri-State League,York,YOR,YOR,YOR
+1912,Tri-State League,Johnstown,JOH,JOH,JOH
+1912,Canadian League,Ottawa,OTT,OTT,OTT
+1912,Canadian League,Brantford,BRA,BRA,BRA
+1912,Canadian League,Hamilton,HAM,HAM,HAM
+1912,Canadian League,London,LON,LON,LON
+1912,Canadian League,St. Thomas,ST,ST,ST
+1912,Canadian League,Berlin,BER,BER,BER
+1912,Canadian League,Guelph,GUE,GUE,GUE
+1912,Canadian League,Peterborough,PET,PET,PET
+1912,Central International League,Duluth,DUL,DUL,DUL
+1912,Central International League,Superior,SUP,SUP,SUP
+1912,Central International League,Grand Forks,GF,GF,GF
+1912,Central International League,Winnipeg,WIN,WIN,WIN
+1912,South Atlantic League,Jacksonville,JAX,JAX,JAX
+1912,South Atlantic League,Savannah,SAV,SAV,SAV
+1912,South Atlantic League,Columbus,CBS,CBS,CBS
+1912,South Atlantic League,Albany,ALB,ALB,ALB
+1912,South Atlantic League,Macon,MAC,MAC,MAC
+1912,South Atlantic League,Columbia,CBA,CBA,CBA
+1912,Southern Michigan League,Adrian,ADR,ADR,ADR
+1912,Southern Michigan League,Jackson,JAC,JAC,JAC
+1912,Southern Michigan League,Flint,FLI,FLI,FLI
+1912,Southern Michigan League,Lansing,LAN,LAN,LAN
+1912,Southern Michigan League,Kalamazoo,KAL,KAL,KAL
+1912,Southern Michigan League,Battle Creek,BAT,BAT,BAT
+1912,Southern Michigan League,Bay City,BAY,BAY,BAY
+1912,Southern Michigan League,Saginaw,SAG,SAG,SAG
+1912,Virginia League,Roanoke,ROA,ROA,ROA
+1912,Virginia League,Petersburg,PET,PET,PET
+1912,Virginia League,Richmond,RIC,RIC,RIC
+1912,Virginia League,Portsmouth,POR,POR,POR
+1912,Virginia League,Norfolk,NOR,NOR,NOR
+1912,Virginia League,Newport News,NN,NN,NN
+1912,Virginia League,Danville,DAN,DAN,DAN
+1912,Virginia League,Lynchburg,LYN,LYN,LYN
+1912,Wisconsin-Illinois League,Oshkosh,OSH,OSH,OSH
+1912,Wisconsin-Illinois League,Racine,RAC,RAC,RAC
+1912,Wisconsin-Illinois League,Appleton,APP,APP,APP
+1912,Wisconsin-Illinois League,Wausau,WAU,WAU,WAU
+1912,Wisconsin-Illinois League,Green Bay,GB,GB,GB
+1912,Wisconsin-Illinois League,Rockford,ROC,ROC,ROC
+1912,Wisconsin-Illinois League,Aurora,AUR,AUR,AUR
+1912,Wisconsin-Illinois League,Madison,MAD,MAD,MAD
+1912,Appalachian League,Bristol,BRI,BRI,BRI
+1912,Appalachian League,Knoxville,KNO,KNO,KNO
+1912,Appalachian League,Johnson City,JC,JC,JC
+1912,Appalachian League,Cleveland,CLE,CLE,CLE
+1912,Appalachian League,Asheville,ASH,ASH,ASH
+1912,Appalachian League,Morristown,MOR,MOR,MOR
+1912,Blue Grass League,Frankfort,FRA,FRA,FRA
+1912,Blue Grass League,Maysville,MAY,MAY,MAY
+1912,Blue Grass League,Richmond,RIC,RIC,RIC
+1912,Blue Grass League,Lexington,LEX,LEX,LEX
+1912,Blue Grass League,Paris,PAR,PAR,PAR
+1912,Blue Grass League,Winchester/Nicholasville/Mount Sterling,WIN+NIC+MS,,WIN+NIC+MS
+1912,Blue Grass League,Winchester,WIN+NIC+MS,WIN,WIN+NIC+MS
+1912,Blue Grass League,Nicholasville,WIN+NIC+MS,NIC,WIN+NIC+MS
+1912,Blue Grass League,Mount Sterling,WIN+NIC+MS,MS,WIN+NIC+MS
+1912,Border League,Wyandotte,WYD,WYD,WYD
+1912,Border League,Pontiac,PON,PON,PON
+1912,Border League,Mount Clemens,MC,MC,MC
+1912,Border League,Windsor,WIN,WIN,WIN
+1912,Border League,Port Huron,PH,PH,PH
+1912,Carolina Association,Anderson,AND,AND,AND
+1912,Carolina Association,Winston-Salem,WS,WS,WS
+1912,Carolina Association,Charlotte,CHA,CHA,CHA
+1912,Carolina Association,Spartanburg,SPA,SPA,SPA
+1912,Carolina Association,Greensboro,GBO,GBO,GBO
+1912,Carolina Association,Greenville,GVL,GVL,GVL
+1912,Central Association,Ottumwa,OTT,OTT,OTT
+1912,Central Association,Kewanee,KEW,KEW,KEW
+1912,Central Association,Burlington,BUR,BUR,BUR
+1912,Central Association,Monmouth,MON,MON,MON
+1912,Central Association,Hannibal,HAN,HAN,HAN
+1912,Central Association,Galesburg,GAL,GAL,GAL
+1912,Central Association,Keokuk,KEO,KEO,KEO
+1912,Central Association,Muscatine,MUS,MUS,MUS
+1912,Central Kansas League,Great Bend,GB,GB,GB
+1912,Central Kansas League,Manhattan,MAN,MAN,MAN
+1912,Central Kansas League,Newton/Minneapolis,NEW+MIN,,NEW+MIN
+1912,Central Kansas League,Newton,NEW+MIN,NEW,NEW+MIN
+1912,Central Kansas League,Minneapolis,NEW+MIN,MIN,NEW+MIN
+1912,Central Kansas League,Junction City,JC,JC,JC
+1912,Central Kansas League,Lyons,LYO,LYO,LYO
+1912,Central Kansas League,Salina,SAL,SAL,SAL
+1912,Cotton States League,Jackson,JAC,JAC,JAC
+1912,Cotton States League,Hattiesburg/Columbus,HAT+CBS,,HAT+CBS
+1912,Cotton States League,Hattiesburg,HAT+CBS,HAT,HAT+CBS
+1912,Cotton States League,Columbus,HAT+CBS,CBS,HAT+CBS
+1912,Cotton States League,Greenwood,GWD,GWD,GWD
+1912,Cotton States League,Vicksburg,VIC,VIC,VIC
+1912,Cotton States League,Meridian,MER,MER,MER
+1912,Cotton States League,New Orleans/Yazoo City,NO+YC,,NO+YC
+1912,Cotton States League,New Orleans,NO+YC,NO,NO+YC
+1912,Cotton States League,Yazoo City,NO+YC,YC,NO+YC
+1912,illinois-Missouri League,Lincoln,LIN,LIN,LIN
+1912,illinois-Missouri League,Pekin,PEK,PEK,PEK
+1912,illinois-Missouri League,Canton,CAN,CAN,CAN
+1912,illinois-Missouri League,Clinton/Kankakee,CLI+KAN,,CLI+KAN
+1912,illinois-Missouri League,Clinton,CLI+KAN,CLI,CLI+KAN
+1912,illinois-Missouri League,Kankakee,CLI+KAN,KAN,CLI+KAN
+1912,illinois-Missouri League,Champaign,CHA,CHA,CHA
+1912,illinois-Missouri League,Streator,STR,STR,STR
+1912,Kentucky-Illinois-Tennessee League,Clarksville,CLA,CLA,CLA
+1912,Kentucky-Illinois-Tennessee League,Henderson,HEN,HEN,HEN
+1912,Kentucky-Illinois-Tennessee League,Evansville,EVA,EVA,EVA
+1912,Kentucky-Illinois-Tennessee League,Paducah,PAD,PAD,PAD
+1912,Kentucky-Illinois-Tennessee League,Hopkinsville,HOP,HOP,HOP
+1912,Kentucky-Illinois-Tennessee League,Cairo,CAI,CAI,CAI
+1912,Michigan State League,Manistee,MAN,MAN,MAN
+1912,Michigan State League,Traverse City,TC,TC,TC
+1912,Michigan State League,Ludington,LUD,LUD,LUD
+1912,Michigan State League,Boyne City,BC,BC,BC
+1912,Michigan State League,Muskegon,MUS,MUS,MUS
+1912,Michigan State League,Cadillac,CAD,CAD,CAD
+1912,Minnesota-Iowa-Nebraska-Kansas League,Nebraska City,NC,NC,NC
+1912,Minnesota-Iowa-Nebraska-Kansas League,Falls City,FC,FC,FC
+1912,Minnesota-Iowa-Nebraska-Kansas League,Auburn,AUB,AUB,AUB
+1912,Minnesota-Iowa-Nebraska-Kansas League,Humboldt,HUM,HUM,HUM
+1912,Minnesota-Iowa-Nebraska-Kansas League,Beatrice-Fairbury,BEA,BEA,BEA
+1912,Minnesota-Iowa-Nebraska-Kansas League,Hiawatha,HIA,HIA,HIA
+1912,Minnesota-Wisconsin League,Winona,WIN,WIN,WIN
+1912,Minnesota-Wisconsin League,Eau Claire,EC,EC,EC
+1912,Minnesota-Wisconsin League,La Crosse,LC,LC,LC
+1912,Minnesota-Wisconsin League,Rochester,ROC,ROC,ROC
+1912,Mountain States League,Ironton,IRO,IRO,IRO
+1912,Mountain States League,Ashland-Catlettsburg,ASH,ASH,ASH
+1912,Mountain States League,Huntington,HUN,HUN,HUN
+1912,Mountain States League,Williamson,WIL,WIL,WIL
+1912,Mountain States League,Charleston,CHA,CHA,CHA
+1912,Mountain States League,Middleport-Pomeroy/Montgomery,MID+MON,,MID+MON
+1912,Mountain States League,Middleport-Pomeroy,MID+MON,MID,MID+MON
+1912,Mountain States League,Montgomery,MID+MON,MON,MID+MON
+1912,Nebraska State League,Hastings,HAS,HAS,HAS
+1912,Nebraska State League,Fremont,FRE,FRE,FRE
+1912,Nebraska State League,Kearney,KEA,KEA,KEA
+1912,Nebraska State League,Columbus,COL,COL,COL
+1912,Nebraska State League,Seward,SEW,SEW,SEW
+1912,Nebraska State League,Grand Island,GI,GI,GI
+1912,Nebraska State League,York,YOR,YOR,YOR
+1912,Nebraska State League,Superior,SUP,SUP,SUP
+1912,Ohio State League,Portsmouth,POR,POR,POR
+1912,Ohio State League,Mansfield,MAN,MAN,MAN
+1912,Ohio State League,Newark,NEW,NEW,NEW
+1912,Ohio State League,Marion/Ironton,MAR+IRO,MAR+IRO,MAR+IRO
+1912,Ohio State League,Marion,MAR+IRO,MAR+IRO,MAR+IRO
+1912,Ohio State League,Ironton,MAR+IRO,MAR+IRO,MAR+IRO
+1912,Ohio State League,Lima,LIM,LIM,LIM
+1912,Ohio State League,Chillicothe,CHI,CHI,CHI
+1912,Ohio-Pennsylvania League,Salem/Fairmont,SAL+FAI,,SAL+FAI
+1912,Ohio-Pennsylvania League,Salem,SAL+FAI,SAL,SAL+FAI
+1912,Ohio-Pennsylvania League,Fairmont,SAL+FAI,FAI,SAL+FAI
+1912,Ohio-Pennsylvania League,Steubenville-Follansbee,STE,STE,STE
+1912,Ohio-Pennsylvania League,East Liverpool/Pittsburgh/New Martinsville,EL+PIT+NM,,EL+PIT+NM
+1912,Ohio-Pennsylvania League,East Liverpool,EL+PIT+NM,EL,EL+PIT+NM
+1912,Ohio-Pennsylvania League,Pittsburgh,EL+PIT+NM,PIT,EL+PIT+NM
+1912,Ohio-Pennsylvania League,New Martinsville,EL+PIT+NM,NM,EL+PIT+NM
+1912,Ohio-Pennsylvania League,Sharon/Bridgeport,SHA+BRI,,SHA+BRI
+1912,Ohio-Pennsylvania League,Sharon,SHA+BRI,SHA,SHA+BRI
+1912,Ohio-Pennsylvania League,Bridgeport,SHA+BRI,BRI,SHA+BRI
+1912,Ohio-Pennsylvania League,McKeesport,MCK,MCK,MCK
+1912,Ohio-Pennsylvania League,Alliance-Sebring,ALL,ALL,ALL
+1912,Ohio-Pennsylvania League,Connellsville,CON,CON,CON
+1912,Ohio-Pennsylvania League,New Castle,NC,NC,NC
+1912,Oklahoma State League,Okmulgee,OKM,OKM,OKM
+1912,Oklahoma State League,Tulsa,TUL,TUL,TUL
+1912,Oklahoma State League,Anadarko,ANA,ANA,ANA
+1912,Oklahoma State League,Holdenville,HOL,HOL,HOL
+1912,Oklahoma State League,McAlester,MCA,MCA,MCA
+1912,Oklahoma State League,Muskogee,MUS,MUS,MUS
+1912,Oklahoma State League,Oklahoma City,OKC,OKC,OKC
+1912,Oklahoma State League,Guthrie,GUT,GUT,GUT
+1912,Rocky Mountain League,Pueblo/Trinidad/Cheyenne,PUE+TRI+CHE,,PUE+TRI+CHE
+1912,Rocky Mountain League,Pueblo,PUE+TRI+CHE,PUE,PUE+TRI+CHE
+1912,Rocky Mountain League,Trinidad,PUE+TRI+CHE,TRI,PUE+TRI+CHE
+1912,Rocky Mountain League,Cheyenne,PUE+TRI+CHE,CHE,PUE+TRI+CHE
+1912,Rocky Mountain League,Canon City,CAN,CAN,CAN
+1912,Rocky Mountain League,Colorado Springs/Dawson,CS+DAW,,CS+DAW
+1912,Rocky Mountain League,Colorado Springs,CS+DAW,CS,CS+DAW
+1912,Rocky Mountain League,Dawson,CS+DAW,DAW,CS+DAW
+1912,Rocky Mountain League,La Junta,LJ,LJ,LJ
+1912,South Central League,Longview,LON,LON,LON
+1912,South Central League,Marshall,MAR,MAR,MAR
+1912,South Central League,Paris,PAR,PAR,PAR
+1912,South Central League,Texarkana,TEX,TEX,TEX
+1912,South Central League,Cleburne,CLE,CLE,CLE
+1912,South Central League,Tyler,TYL,TYL,TYL
+1912,Southeastern League,Gadsden,GAD,GAD,GAD
+1912,Southeastern League,Selma,SEL,SEL,SEL
+1912,Southeastern League,Anniston,ANN,ANN,ANN
+1912,Southeastern League,Rome,ROM,ROM,ROM
+1912,Southeastern League,Huntsville/Talladega,HUN+TAL,,HUN+TAL
+1912,Southeastern League,Huntsville,HUN+TAL,HUN,HUN+TAL
+1912,Southeastern League,Talladega,HUN+TAL,TAL,HUN+TAL
+1912,Southeastern League,Bessemer,BES,BES,BES
+1912,Texas-Oklahoma League,Ardmore,ARD,ARD,ARD
+1912,Texas-Oklahoma League,Bonham,BON,BON,BON
+1912,Texas-Oklahoma League,Sherman,SHE,SHE,SHE
+1912,Texas-Oklahoma League,Wichita Falls,WF,WF,WF
+1912,Texas-Oklahoma League,Denison,DEN,DEN,DEN
+1912,Texas-Oklahoma League,Durant,DUR,DUR,DUR
+1912,Texas-Oklahoma League,Greenville,GRE,GRE,GRE
+1912,Texas-Oklahoma League,McKinney,MCK,MCK,MCK
+1912,Union Association,Missoula,MIS,MIS,MIS
+1912,Union Association,Salt Lake City,SLC,SLC,SLC
+1912,Union Association,Great Falls,GF,GF,GF
+1912,Union Association,Ogden,OGD,OGD,OGD
+1912,Union Association,Butte,BUT,BUT,BUT
+1912,Union Association,Helena,HEL,HEL,HEL
+1912,Washington State League,Chehalis,CHE,CHE,CHE
+1912,Washington State League,Centralia,CEN,CEN,CEN
+1912,Washington State League,Hoquiam,HOQ,HOQ,HOQ
+1912,Washington State League,Aberdeen,ABE,ABE,ABE
+1912,Western Canada League,Calgary,CAL,CAL,CAL
+1912,Western Canada League,Bassano,BAS,BAS,BAS
+1912,Western Canada League,Red Deer,RD,RD,RD
+1912,Western Canada League,Edmonton,EDM,EDM,EDM
+1912,Western Tri-State League,Walla Walla,WW,WW,WW
+1912,Western Tri-State League,Boise,BOI,BOI,BOI
+1912,Western Tri-State League,Pendleton,PEN,PEN,PEN
+1912,Western Tri-State League,La Grande,LG,LG,LG
+1912,Iowa State League,Mason City,MC,MC,MC
+1912,Iowa State League,Fort Dodge,FD,FD,FD
+1912,Iowa State League,Esterville,EST,EST,EST
+1912,Iowa State League,Emmetsburg,EMM,EMM,EMM
+1912,Iowa State League,Clear Lake,CL,CL,CL
+1912,United States League,Pittsburgh,PIT,PIT,PIT
+1912,United States League,Richmond,RIC,RIC,RIC
+1912,United States League,Chicago,CHI,CHI,CHI
+1912,United States League,Cincinnati,CIN,CIN,CIN
+1912,United States League,Reading,REA,REA,REA
+1912,United States League,Washington,WAS,WAS,WAS
+1912,United States League,Cleveland,CLE,CLE,CLE
+1912,United States League,New York,NY,NY,NY

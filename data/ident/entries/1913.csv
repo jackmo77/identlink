@@ -1,0 +1,323 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1913,American League,Philadelphia,PHA,PHA,PHA
+1913,American League,Washington,WS1,WS1,WS1
+1913,American League,Cleveland,CLE,CLE,CLE
+1913,American League,Boston,BOS,BOS,BOS
+1913,American League,Chicago,CHA,CHA,CHA
+1913,American League,Detroit,DET,DET,DET
+1913,American League,New York,NYA,NYA,NYA
+1913,American League,St. Louis,SLA,SLA,SLA
+1913,National League,New York,NYN,NYN,NYN
+1913,National League,Philadelphia,PHI,PHI,PHI
+1913,National League,Chicago,CHN,CHN,CHN
+1913,National League,Pittsburgh,PIT,PIT,PIT
+1913,National League,Boston,BSN,BSN,BSN
+1913,National League,Brooklyn,BRO,BRO,BRO
+1913,National League,Cincinnati,CIN,CIN,CIN
+1913,National League,St. Louis,SLN,SLN,SLN
+1913,American Association,Milwaukee,MIL,MIL,MIL
+1913,American Association,Minneapolis,MIN,MIN,MIN
+1913,American Association,Louisville,LOU,LOU,LOU
+1913,American Association,Columbus,COL,COL,COL
+1913,American Association,St. Paul,STP,STP,STP
+1913,American Association,Toledo,TOL,TOL,TOL
+1913,American Association,Kansas City,KC,KC,KC
+1913,American Association,Indianapolis,IND,IND,IND
+1913,International League,Newark,NEW,NEW,NEW
+1913,International League,Rochester,ROC,ROC,ROC
+1913,International League,Baltimore,BAL,BAL,BAL
+1913,International League,Buffalo,BUF,BUF,BUF
+1913,International League,Montreal,MON,MON,MON
+1913,International League,Providence,PRO,PRO,PRO
+1913,International League,Toronto,TOR,TOR,TOR
+1913,International League,Jersey City,JC,JC,JC
+1913,Pacific Coast League,Portland,POR,POR,POR
+1913,Pacific Coast League,Sacramento,SAC,SAC,SAC
+1913,Pacific Coast League,Venice,VEN,VEN,VEN
+1913,Pacific Coast League,San Francisco,SF,SF,SF
+1913,Pacific Coast League,Los Angeles,LA,LA,LA
+1913,Pacific Coast League,Oakland,OAK,OAK,OAK
+1913,Southern Association,Atlanta,ATL,ATL,ATL
+1913,Southern Association,Mobile,MOB,MOB,MOB
+1913,Southern Association,Birmingham,BIR,BIR,BIR
+1913,Southern Association,Chattanooga,CHA,CHA,CHA
+1913,Southern Association,Montgomery,MON,MON,MON
+1913,Southern Association,Memphis,MEM,MEM,MEM
+1913,Southern Association,Nashville,NAS,NAS,NAS
+1913,Southern Association,New Orleans,NO,NO,NO
+1913,Western League,Denver,DEN,DEN,DEN
+1913,Western League,Des Moines,DM,DM,DM
+1913,Western League,St. Joseph,STJ,STJ,STJ
+1913,Western League,Lincoln,LIN,LIN,LIN
+1913,Western League,Omaha,OMA,OMA,OMA
+1913,Western League,Sioux City,SC,SC,SC
+1913,Western League,Topeka,TOP,TOP,TOP
+1913,Western League,Wichita,WIC,WIC,WIC
+1913,Central League,Grand Rapids,GR,GR,GR
+1913,Central League,Fort Wayne,FW,FW,FW
+1913,Central League,Springfield,SPR,SPR,SPR
+1913,Central League,Dayton,DAY,DAY,DAY
+1913,Central League,Terre Haute,TH,TH,TH
+1913,Central League,Evansville,EVA,EVA,EVA
+1913,Eastern Association,Hartford,HAR,HAR,HAR
+1913,Eastern Association,New Haven,NH,NH,NH
+1913,Eastern Association,Waterbury,WAT,WAT,WAT
+1913,Eastern Association,Bridgeport,BRI,BRI,BRI
+1913,Eastern Association,New London,NL,NL,NL
+1913,Eastern Association,Springfield,SPR,SPR,SPR
+1913,Eastern Association,Pittsfield,PIT,PIT,PIT
+1913,Eastern Association,Holyoke/Meriden,HOL+MER,,HOL+MER
+1913,Eastern Association,Holyoke,HOL+MER,HOL,HOL+MER
+1913,Eastern Association,Meriden,HOL+MER,MER,HOL+MER
+1913,Interstate League,Erie,ERI,ERI,ERI
+1913,Interstate League,Akron,AKR,AKR,AKR
+1913,Interstate League,Youngstown,YOU,YOU,YOU
+1913,Interstate League,Columbus,COL,COL,COL
+1913,Interstate League,Steubenville,STE,STE,STE
+1913,Interstate League,Wheeling,WHE,WHE,WHE
+1913,Interstate League,Canton,CAN,CAN,CAN
+1913,Interstate League,Zanesville,ZAN,ZAN,ZAN
+1913,New England League,Lowell,LOW,LOW,LOW
+1913,New England League,Portland,POR,POR,POR
+1913,New England League,Worcester,WOR,WOR,WOR
+1913,New England League,Lawrence,LAW,LAW,LAW
+1913,New England League,Lynn,LYN,LYN,LYN
+1913,New England League,New Bedford,NB,NB,NB
+1913,New England League,Fall River,FR,FR,FR
+1913,New England League,Brockton,BRO,BRO,BRO
+1913,New York State League,Binghamton,BIN,BIN,BIN
+1913,New York State League,Wilkes-Barre,WB,WB,WB
+1913,New York State League,Troy,TRO,TRO,TRO
+1913,New York State League,Utica,UTI,UTI,UTI
+1913,New York State League,Albany,ALB,ALB,ALB
+1913,New York State League,Syracuse,SYR,SYR,SYR
+1913,New York State League,Elmira,ELM,ELM,ELM
+1913,New York State League,Scranton,SCR,SCR,SCR
+1913,Northwestern League,Vancouver,VAN,VAN,VAN
+1913,Northwestern League,Portland,POR,POR,POR
+1913,Northwestern League,Seattle,SEA,SEA,SEA
+1913,Northwestern League,Victoria,VIC,VIC,VIC
+1913,Northwestern League,Tacoma,TAC,TAC,TAC
+1913,Northwestern League,Spokane,SPO,SPO,SPO
+1913,Texas League,Houston,HOU,HOU,HOU
+1913,Texas League,Dallas,DAL,DAL,DAL
+1913,Texas League,Waco,WAC,WAC,WAC
+1913,Texas League,San Antonio,SA,SA,SA
+1913,Texas League,Austin,AUS,AUS,AUS
+1913,Texas League,Fort Worth,FW,FW,FW
+1913,Texas League,Galveston,GAL,GAL,GAL
+1913,Texas League,Beaumont,BEA,BEA,BEA
+1913,Illinois-Indiana-Iowa League,Quincy,QUI,QUI,QUI
+1913,Illinois-Indiana-Iowa League,Dubuque,DUB,DUB,DUB
+1913,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1913,Illinois-Indiana-Iowa League,Danville,DAN,DAN,DAN
+1913,Illinois-Indiana-Iowa League,Decatur,DEC,DEC,DEC
+1913,Illinois-Indiana-Iowa League,Springfield,SPR,SPR,SPR
+1913,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
+1913,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1913,Tri-State League,Wilmington,WIL,WIL,WIL
+1913,Tri-State League,Allentown,ALL,ALL,ALL
+1913,Tri-State League,Harrisburg,HAR,HAR,HAR
+1913,Tri-State League,York,YOR,YOR,YOR
+1913,Tri-State League,Trenton,TRE,TRE,TRE
+1913,Tri-State League,Atlantic City,ACY,ACY,ACY
+1913,Canadian League,Ottawa,OTT,OTT,OTT
+1913,Canadian League,London,LON,LON,LON
+1913,Canadian League,St. Thomas,ST,ST,ST
+1913,Canadian League,Peterborough,PET,PET,PET
+1913,Canadian League,Guelph,GUE,GUE,GUE
+1913,Canadian League,Hamilton,HAM,HAM,HAM
+1913,Canadian League,Berlin,BER,BER,BER
+1913,Canadian League,Brantford,BRA,BRA,BRA
+1913,Northern League,Winona,WIN,WIN,WIN
+1913,Northern League,Superior,SUP,SUP,SUP
+1913,Northern League,Winnipeg,WPG,WPG,WPG
+1913,Northern League,Duluth,DUL,DUL,DUL
+1913,Northern League,Minneapolis,MIN,MIN,MIN
+1913,Northern League,Grand Forks,GF,GF,GF
+1913,Northern League,St. Paul/La Crosse,STP+LC,,STP+LC
+1913,Northern League,St. Paul,STP+LC,STP,STP+LC
+1913,Northern League,La Crosse,STP+LC,LC,STP+LC
+1913,Northern League,Virginia,VIR,VIR,VIR
+1913,South Atlantic League,Savannah,SAV,SAV,SAV
+1913,South Atlantic League,Columbus,COL,COL,COL
+1913,South Atlantic League,Jacksonville,JAX,JAX,JAX
+1913,South Atlantic League,Macon,MAC,MAC,MAC
+1913,South Atlantic League,Charleston,CHA,CHA,CHA
+1913,South Atlantic League,Albany,ALB,ALB,ALB
+1913,Southern Michigan League,Battle Creek,BAT,BAT,BAT
+1913,Southern Michigan League,Adrian,ADR,ADR,ADR
+1913,Southern Michigan League,Jackson,JAC,JAC,JAC
+1913,Southern Michigan League,Saginaw,SAG,SAG,SAG
+1913,Southern Michigan League,Flint,FLI,FLI,FLI
+1913,Southern Michigan League,Kalamazoo,KAL,KAL,KAL
+1913,Southern Michigan League,Lansing,LAN,LAN,LAN
+1913,Southern Michigan League,Bay City,BAY,BAY,BAY
+1913,Virginia League,Petersburg,PET,PET,PET
+1913,Virginia League,Roanoke,ROA,ROA,ROA
+1913,Virginia League,Richmond,RIC,RIC,RIC
+1913,Virginia League,Portsmouth,POR,POR,POR
+1913,Virginia League,Newport News,NN,NN,NN
+1913,Virginia League,Norfolk,NOR,NOR,NOR
+1913,Wisconsin-Illinois League,Oshkosh,OSH,OSH,OSH
+1913,Wisconsin-Illinois League,Racine,RAC,RAC,RAC
+1913,Wisconsin-Illinois League,Green Bay,GB,GB,GB
+1913,Wisconsin-Illinois League,Rockford,ROC,ROC,ROC
+1913,Wisconsin-Illinois League,Milwaukee/Fond du Lac,MIL+FDL,,MIL+FDL
+1913,Wisconsin-Illinois League,Milwaukee,MIL+FDL,MIL,MIL+FDL
+1913,Wisconsin-Illinois League,Fond du Lac,MIL+FDL,FDL,MIL+FDL
+1913,Wisconsin-Illinois League,Madison,MAD,MAD,MAD
+1913,Wisconsin-Illinois League,Wausau,WAU,WAU,WAU
+1913,Wisconsin-Illinois League,Appleton,APP,APP,APP
+1913,Appalachian League,Johnson City,JC,JC,JC
+1913,Appalachian League,Knoxville,KNO,KNO,KNO
+1913,Appalachian League,Cleveland/Morristown,CLE+MOR,,CLE+MOR
+1913,Appalachian League,Cleveland,CLE+MOR,CLE,CLE+MOR
+1913,Appalachian League,Morristown,CLE+MOR,MOR,CLE+MOR
+1913,Appalachian League,Bristol,BRI,BRI,BRI
+1913,Appalachian League,Rome,ROM,ROM,ROM
+1913,Appalachian League,Middlesboro,MID,MID,MID
+1913,Border League,Ypsilanti,YPS,YPS,YPS
+1913,Border League,Wyandotte,WAY,WAY,WAY
+1913,Border League,Port Huron,PH,PH,PH
+1913,Border League,Pontiac,PON,PON,PON
+1913,Border League,Windsor,WIN,WIN,WIN
+1913,Border League,Mount Clemens,MC,MC,MC
+1913,California State League,Stockton,STO,STO,STO
+1913,California State League,Fresno,FRE,FRE,FRE
+1913,California State League,Vallejo/Watsonville,VAL+WAT,,VAL+WAT
+1913,California State League,Vallejo,VAL+WAT,VAL,VAL+WAT
+1913,California State League,Watsonville,VAL+WAT,WAT,VAL+WAT
+1913,California State League,San Jose,SJ,SJ,SJ
+1913,Central Association,Ottumwa,OTT,OTT,OTT
+1913,Central Association,Muscatine,MUS,MUS,MUS
+1913,Central Association,Monmouth,MON,MON,MON
+1913,Central Association,Keokuk,KEO,KEO,KEO
+1913,Central Association,Burlington,BUR,BUR,BUR
+1913,Central Association,Cedar Rapids,CR,CR,CR
+1913,Central Association,Kewanee,KEW,KEW,KEW
+1913,Central Association,Waterloo,WAT,WAT,WAT
+1913,Cotton States League,Jackson,JAC,JAC,JAC
+1913,Cotton States League,Pensacola,PEN,PEN,PEN
+1913,Cotton States League,Selma,SEL,SEL,SEL
+1913,Cotton States League,Columbus,COL,COL,COL
+1913,Cotton States League,Clarksdale,CLA,CLA,CLA
+1913,Cotton States League,Meridian,MER,MER,MER
+1913,Empire State League,Valdosta,VAL,VAL,VAL
+1913,Empire State League,Thomasville,THO,THO,THO
+1913,Empire State League,Cordele,COR,COR,COR
+1913,Empire State League,Americus,AME,AME,AME
+1913,Empire State League,Waycross,WAY,WAY,WAY
+1913,Empire State League,Brunswick,BRU,BRU,BRU
+1913,Georgia-Alabama League,Gadsden,GAD,GAD,GAD
+1913,Georgia-Alabama League,Newnan,NEW,NEW,NEW
+1913,Georgia-Alabama League,Opelika,OPE,OPE,OPE
+1913,Georgia-Alabama League,Anniston,ANN,ANN,ANN
+1913,Georgia-Alabama League,La Grange,LAG,LAG,LAG
+1913,Georgia-Alabama League,Talladega,TAL,TAL,TAL
+1913,Illinois-Missouri League,Lincoln,LIN,LIN,LIN
+1913,Illinois-Missouri League,Champaign,CHA,CHA,CHA
+1913,Illinois-Missouri League,Kankakee,KAN,KAN,KAN
+1913,Illinois-Missouri League,Streator,STR,STR,STR
+1913,Illinois-Missouri League,Pekin,PEK,PEK,PEK
+1913,Illinois-Missouri League,Canton,CAN,CAN,CAN
+1913,Kansas State League,Great Bend,GB,GB,GB
+1913,Kansas State League,Clay Center,CC,CC,CC
+1913,Kansas State League,Lyons,LYO,LYO,LYO
+1913,Kansas State League,Salina,SAL,SAL,SAL
+1913,Kansas State League,Manhattan,MAN,MAN,MAN
+1913,Kansas State League,Junction City,JC,JC,JC
+1913,Kentucky-Illinois-Tennessee League,Paducah,PAD,PAD,PAD
+1913,Kentucky-Illinois-Tennessee League,Clarksville,CLA,CLA,CLA
+1913,Kentucky-Illinois-Tennessee League,Hopkinsville,HOP,HOP,HOP
+1913,Kentucky-Illinois-Tennessee League,Henderson,HEN,HEN,HEN
+1913,Kentucky-Illinois-Tennessee League,Owensboro,OWE,OWE,OWE
+1913,Kentucky-Illinois-Tennessee League,Cairo,CAI,CAI,CAI
+1913,Kentucky-Illinois-Tennessee League,Harrisburg,HAR,HAR,HAR
+1913,Kentucky-Illinois-Tennessee League,Vincennes,VIN,VIN,VIN
+1913,Michigan State League,Manistee,MAN,MAN,MAN
+1913,Michigan State League,Traverse City,TC,TC,TC
+1913,Michigan State League,Muskegon,MUS,MUS,MUS
+1913,Michigan State League,Boyne City,BC,BC,BC
+1913,Michigan State League,Cadillac,CAD,CAD,CAD
+1913,Michigan State League,Ludington,LUD,LUD,LUD
+1913,Minnesota-Iowa-Nebraska-Kansas League,Auburn,AUB,AUB,AUB
+1913,Minnesota-Iowa-Nebraska-Kansas League,Nebraska City,NC,NC,NC
+1913,Minnesota-Iowa-Nebraska-Kansas League,Falls City,FC,FC,FC
+1913,Minnesota-Iowa-Nebraska-Kansas League,Humboldt,HUM,HUM,HUM
+1913,Nebraska State League,Kearney,KEA,KEA,KEA
+1913,Nebraska State League,Hastings,HAS,HAS,HAS
+1913,Nebraska State League,York,YOR,YOR,YOR
+1913,Nebraska State League,Fremont,FRE,FRE,FRE
+1913,Nebraska State League,Superior,SUP,SUP,SUP
+1913,Nebraska State League,Columbus,COL,COL,COL
+1913,Nebraska State League,Seward/Beatrice,SEW+BEA,,SEW+BEA
+1913,Nebraska State League,Seward,SEW+BEA,SEW,SEW+BEA
+1913,Nebraska State League,Beatrice,SEW+BEA,BEA,SEW+BEA
+1913,Nebraska State League,Grand Island,GI,GI,GI
+1913,New Brunswick-Maine League,Fredericton,FRE,FRE,FRE
+1913,New Brunswick-Maine League,St. John,STJ,STJ,STJ
+1913,New Brunswick-Maine League,St. Croix,STC,STC,STC
+1913,New Brunswick-Maine League,Bangor,BAN,BAN,BAN
+1913,New York-New Jersey League,Long Branch,LB,LB,LB
+1913,New York-New Jersey League,Poughkeepsie,POU,POU,POU
+1913,New York-New Jersey League,Kingston,KIN,KIN,KIN
+1913,New York-New Jersey League,Middletown,MID,MID,MID
+1913,New York-New Jersey League,Danbury,DAN,DAN,DAN
+1913,New York-New Jersey League,Newburgh,NEW,NEW,NEW
+1913,North Carolina State League,Winston-Salem,WS,WS,WS
+1913,North Carolina State League,Durham,DUR,DUR,DUR
+1913,North Carolina State League,Raleigh,RAL,RAL,RAL
+1913,North Carolina State League,Asheville,ASH,ASH,ASH
+1913,North Carolina State League,Charlotte,CHA,CHA,CHA
+1913,North Carolina State League,Greensboro,GBO,GBO,GBO
+1913,Ohio State League,Chillicothe,CHI,CHI,CHI
+1913,Ohio State League,Charleston,CHA,CHA,CHA
+1913,Ohio State League,Portsmouth,POR,POR,POR
+1913,Ohio State League,Huntington,HUN,HUN,HUN
+1913,Ohio State League,Lexington,LEX,LEX,LEX
+1913,Ohio State League,Ironton,IRO,IRO,IRO
+1913,Ohio State League,Hamilton,HAM,HAM,HAM
+1913,Ohio State League,Maysville,MAY,MAY,MAY
+1913,Southern California League,San Diego,SD,SD,SD
+1913,Southern California League,San Bernardino,SBE,SBE,SBE
+1913,Southern California League,Long Beach,LB,LB,LB
+1913,Southern California League,Pasadena/Santa Barbara,PAS+SBA,,PAS+SBA
+1913,Southern California League,Pasadena,PAS+SBA,PAS,PAS+SBA
+1913,Southern California League,Santa Barbara,PAS+SBA,SBA,PAS+SBA
+1913,Texas-Oklahoma League,Denison,DEN,DEN,DEN
+1913,Texas-Oklahoma League,Paris,PAR,PAR,PAR
+1913,Texas-Oklahoma League,Texarkana,TEX,TEX,TEX
+1913,Texas-Oklahoma League,Sherman,SHE,SHE,SHE
+1913,Texas-Oklahoma League,Bonham,BON,BON,BON
+1913,Texas-Oklahoma League,Wichita Falls/Hugo,WF+HUG,,WF+HUG
+1913,Texas-Oklahoma League,Wichita Falls,WF+HUG,WF,WF+HUG
+1913,Texas-Oklahoma League,Hugo,WF+HUG,HUG,WF+HUG
+1913,Texas-Oklahoma League,Ardmore,ARD,ARD,ARD
+1913,Texas-Oklahoma League,Durant,DUR,DUR,DUR
+1913,Union Association,Great Falls,GF,GF,GF
+1913,Union Association,Salt Lake City,SLC,SLC,SLC
+1913,Union Association,Butte,BUT,BUT,BUT
+1913,Union Association,Missoula,MIS,MIS,MIS
+1913,Union Association,Helena,HEL,HEL,HEL
+1913,Union Association,Ogden,OGD,OGD,OGD
+1913,Western Canada League,Moose Jaw,MJ,MJ,MJ
+1913,Western Canada League,Saskatoon,SAS,SAS,SAS
+1913,Western Canada League,Medicine Hat,MH,MH,MH
+1913,Western Canada League,Calgary,CAL,CAL,CAL
+1913,Western Canada League,Edmonton,EDM,EDM,EDM
+1913,Western Canada League,Regina,REG,REG,REG
+1913,Western Tri-State League,Boise,BOI,BOI,BOI
+1913,Western Tri-State League,Walla Walla,WW,WW,WW
+1913,Western Tri-State League,North Yakima,NY,NY,NY
+1913,Western Tri-State League,Pendleton,PEN,PEN,PEN
+1913,Western Tri-State League,Baker,BAK,BAK,BAK
+1913,Western Tri-State League,La Grande,LAG,LAG,LAG
+1913,Federal League,Indianapolis,IND,IND,IND
+1913,Federal League,Cleveland,CLE,CLE,CLE
+1913,Federal League,St. Louis,STL,STL,STL
+1913,Federal League,Chicago,CHI,CHI,CHI
+1913,Federal League,Covington/Kansas City,COV+KC,,COV+KC
+1913,Federal League,Covington,COV+KC,COV,COV+KC
+1913,Federal League,Kansas City,COV+KC,KC,COV+KC
+1913,Federal League,Pittsburgh,PIT,PIT,PIT
