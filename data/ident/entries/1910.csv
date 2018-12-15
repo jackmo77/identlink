@@ -1,7 +1,383 @@
 league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1910,American League,Philadelphia,PHA,PHA,PHA
+1910,American League,New York,NYA,NYA,NYA
+1910,American League,Detroit,DET,DET,DET
+1910,American League,Boston,BOS,BOS,BOS
+1910,American League,Cleveland,CLE,CLE,CLE
+1910,American League,Chicago,CHA,CHA,CHA
+1910,American League,Washington,WS1,WS1,WS1
+1910,American League,St. Louis,SLA,SLA,SLA
+1910,National League,Chicago,CHN,CHN,CHN
+1910,National League,New York,NY1,NY1,NY1
+1910,National League,Pittsburgh,PIT,PIT,PIT
+1910,National League,Philadelphia,PHI,PHI,PHI
+1910,National League,Cincinnati,CIN,CIN,CIN
+1910,National League,Brooklyn,BRO,BRO,BRO
+1910,National League,St. Louis,SLN,SLN,SLN
+1910,National League,Boston,BSN,BSN,BSN
+1910,American Association,Minneapolis,MIN,MIN,MIN
+1910,American Association,Toledo,TOL,TOL,TOL
+1910,American Association,Columbus,COL,COL,COL
+1910,American Association,St. Paul,STP,STP,STP
+1910,American Association,Kansas City,KC,KC,KC
+1910,American Association,Milwaukee,MIL,MIL,MIL
+1910,American Association,Indianapolis,IND,IND,IND
+1910,American Association,Louisville,LOU,LOU,LOU
+1910,Eastern League,Rochester,ROC,ROC,ROC
+1910,Eastern League,Newark,NEW,NEW,NEW
+1910,Eastern League,Baltimore,BAL,BAL,BAL
+1910,Eastern League,Toronto,TOR,TOR,TOR
+1910,Eastern League,Montreal,MON,MON,MON
+1910,Eastern League,Buffalo,BUF,BUF,BUF
+1910,Eastern League,Jersey City,JC,JC,JC
+1910,Eastern League,Providence,PRO,PRO,PRO
+1910,Pacific Coast League,Portland,POR,POR,POR
+1910,Pacific Coast League,Oakland,OAK,OAK,OAK
+1910,Pacific Coast League,San Francisco,SF,SF,SF
+1910,Pacific Coast League,Vernon,VER,VER,VER
+1910,Pacific Coast League,Los Angeles,LA,LA,LA
+1910,Pacific Coast League,Sacramento,SAC,SAC,SAC
+1910,Southern Association,New Orleans,NO,NO,NO
+1910,Southern Association,Birmingham,BIR,BIR,BIR
+1910,Southern Association,Atlanta,ATL,ATL,ATL
+1910,Southern Association,Chattanooga,CHA,CHA,CHA
+1910,Southern Association,Nashville,NAS,NAS,NAS
+1910,Southern Association,Mobile,MOB,MOB,MOB
+1910,Southern Association,Memphis,MEM,MEM,MEM
+1910,Southern Association,Montgomery,MON,MON,MON
+1910,Western League,Sioux City,SC,SC,SC
+1910,Western League,Denver,DEN,DEN,DEN
+1910,Western League,Lincoln,LIN,LIN,LIN
+1910,Western League,Wichita,WIC,WIC,WIC
+1910,Western League,Omaha,OMA,OMA,OMA
+1910,Western League,St. Joseph,STJ,STJ,STJ
+1910,Western League,Des Moines,DM,DM,DM
+1910,Western League,Topeka,TOP,TOP,TOP
+1910,Central League,South Bend,SB,SB,SB
+1910,Central League,Fort Wayne,FW,FW,FW
+1910,Central League,Dayton,DAY,DAY,DAY
+1910,Central League,Evansville,EVA,EVA,EVA
+1910,Central League,Terre Haute,TH,TH,TH
+1910,Central League,Zanesville,ZAN,ZAN,ZAN
+1910,Central League,Grand Rapids,GR,GR,GR
+1910,Central League,Wheeling,WHE,WHE,WHE
+1910,Connecticut State League,Waterbury,WAT,WAT,WAT
+1910,Connecticut State League,Bridgeport,BRI,BRI,BRI
+1910,Connecticut State League,New Britain,NB,NB,NB
+1910,Connecticut State League,New Haven,NH,NH,NH
+1910,Connecticut State League,Hartford,HAR,HAR,HAR
+1910,Connecticut State League,Springfield,SPR,SPR,SPR
+1910,Connecticut State League,Northampton,NOR,NOR,NOR
+1910,Connecticut State League,Holyoke,HOL,HOL,HOL
+1910,New England League,New Bedford,NB,NB,NB
+1910,New England League,Lynn,LYN,LYN,LYN
+1910,New England League,Worcester,WOR,WOR,WOR
+1910,New England League,Lowell,LOW,LOW,LOW
+1910,New England League,Fall River,FR,FR,FR
+1910,New England League,Lawrence,LAW,LAW,LAW
+1910,New England League,Haverhill,HAV,HAV,HAV
+1910,New England League,Brockton,BRO,BRO,BRO
+1910,New York State League,Wilkes-Barre,WB,WB,WB
+1910,New York State League,Syracuse,SYR,SYR,SYR
+1910,New York State League,Elmira,ELM,ELM,ELM
+1910,New York State League,Scranton,SCR,SCR,SCR
+1910,New York State League,Albany,ALB,ALB,ALB
+1910,New York State League,Utica,UTI,UTI,UTI
+1910,New York State League,Troy,TRO,TRO,TRO
+1910,New York State League,Binghamton,BIN,BIN,BIN
+1910,Northwestern League,Spokane,SPO,SPO,SPO
+1910,Northwestern League,Vancouver,VAN,VAN,VAN
+1910,Northwestern League,Tacoma,TAC,TAC,TAC
+1910,Northwestern League,Seattle,SEA,SEA,SEA
+1910,Illinois-Indiana-Iowa League,Springfield,SPR,SPR,SPR
+1910,Illinois-Indiana-Iowa League,Rock Island,RI,RI,RI
+1910,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1910,Illinois-Indiana-Iowa League,Waterloo,WAT,WAT,WAT
+1910,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
+1910,Illinois-Indiana-Iowa League,Dubuque,DUB,DUB,DUB
+1910,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1910,Illinois-Indiana-Iowa League,Danville,DAN,DAN,DAN
+1910,Tri-State League,Altoona,ALT,ALT,ALT
+1910,Tri-State League,Lancaster,LAN,LAN,LAN
+1910,Tri-State League,Williamsport,WPT,WPT,WPT
+1910,Tri-State League,Trenton,TRE,TRE,TRE
+1910,Tri-State League,Johnstown,JOH,JOH,JOH
+1910,Tri-State League,Harrisburg,HAR,HAR,HAR
+1910,Tri-State League,Reading,REA,REA,REA
+1910,Tri-State League,York,YOR,YOR,YOR
+1910,Ohio-Pennsylvania League,Akron,AKR,AKR,AKR
+1910,Ohio-Pennsylvania League,Canton,CAN,CAN,CAN
+1910,Ohio-Pennsylvania League,East Liverpool,EL,EL,EL
+1910,Ohio-Pennsylvania League,McKeesport,MCK,MCK,MCK
+1910,Ohio-Pennsylvania League,Mansfield,MAN,MAN,MAN
+1910,Ohio-Pennsylvania League,New Castle,NC,NC,NC
+1910,Ohio-Pennsylvania League,Youngstown,YOU,YOU,YOU
+1910,Ohio-Pennsylvania League,Erie,ERI,ERI,ERI
+1910,South Atlantic League,Columbus,CBS,CBS,CBS
+1910,South Atlantic League,Macon,MAC,MAC,MAC
+1910,South Atlantic League,Jacksonville,JAX,JAX,JAX
+1910,South Atlantic League,Savannah,SAV,SAV,SAV
+1910,South Atlantic League,Augusta,AUG,AUG,AUG
+1910,South Atlantic League,Columbia,CBA,CBA,CBA
+1910,Texas League,Dallas,DAL,DAL,DAL
+1910,Texas League,Houston,HOU,HOU,HOU
+1910,Texas League,Fort Worth,FW,FW,FW
+1910,Texas League,San Antonio,SA,SA,SA
+1910,Texas League,Shreveport,SHR,SHR,SHR
+1910,Texas League,Galveston,GAL,GAL,GAL
+1910,Texas League,Oklahoma City,OKC,OKC,OKC
+1910,Texas League,Waco,WAC,WAC,WAC
+1910,Virginia League,Danville,DAN,DAN,DAN
+1910,Virginia League,Roanoke,ROA,ROA,ROA
+1910,Virginia League,Norfolk,NOR,NOR,NOR
+1910,Virginia League,Lynchburg,LYN,LYN,LYN
+1910,Virginia League,Richmond,RIC,RIC,RIC
+1910,Virginia League,Portsmouth/Petersburg,POR+PET,,POR+PET
+1910,Virginia League,Portsmouth,POR+PET,POR,POR+PET
+1910,Virginia League,Petersburg,POR+PET,PET,POR+PET
+1910,Western Association,Joplin,JOP,JOP,JOP
+1910,Western Association,Enid,ENI,ENI,ENI
+1910,Western Association,Sapulpa,SAP,SAP,SAP
+1910,Western Association,Guthrie,GUT,GUT,GUT
+1910,Western Association,El Reno,ER,ER,ER
+1910,Western Association,Bartlesville,BAR,BAR,BAR
+1910,Western Association,Muskogee/Okmulgee,MUS+OKM,,MUS+OKM
+1910,Western Association,Muskogee,MUS+OKM,MUS,MUS+OKM
+1910,Western Association,Okmulgee,MUS+OKM,OKM,MUS+OKM
+1910,Western Association,Tulsa,TUL,TUL,TUL
+1910,Western Canada League,Calgary,CAL,CAL,CAL
+1910,Western Canada League,Edmonton,EDM,EDM,EDM
+1910,Western Canada League,Moose Jaw,MJ,MJ,MJ
+1910,Western Canada League,Winnipeg,WIN,WIN,WIN
+1910,Western Canada League,Medicine Hat/Saskatoon,MH+SAS,,MH+SAS
+1910,Western Canada League,Medicine Hat,MH+SAS,MH,MH+SAS
+1910,Western Canada League,Saskatoon,MH+SAS,SAS,MH+SAS
+1910,Western Canada League,Lethbridge,LET,LET,LET
+1910,Western Canada League,Brandon,BRA,BRA,BRA
+1910,Western Canada League,Regina,REG,REG,REG
+1910,Blue Grass League,Paris,PAR,PAR,PAR
+1910,Blue Grass League,Lexington,LEX,LEX,LEX
+1910,Blue Grass League,Winchester,WIN,WIN,WIN
+1910,Blue Grass League,Richmond,RIC,RIC,RIC
+1910,Blue Grass League,Frankfort,FRA,FRA,FRA
+1910,Blue Grass League,Shelbyville/Maysville,SHE+MAY,,SHE+MAY
+1910,Blue Grass League,Shelbyville,SHE+MAY,SHE,SHE+MAY
+1910,Blue Grass League,Maysville,SHE+MAY,MAY,SHE+MAY
+1910,California State League,Stockton,STO,STO,STO
+1910,California State League,Fresno,FRE,FRE,FRE
+1910,California State League,Oakland/Merced,OAK+MER,,OAK+MER
+1910,California State League,Oakland,OAK+MER,OAK,OAK+MER
+1910,California State League,Merced,OAK+MER,MER,OAK+MER
+1910,California State League,San Jose,SJ,SJ,SJ
+1910,California State League,Sacramento,SAC,SAC,SAC
+1910,California State League,San Francisco,SF,SF,SF
 1910,Carolina Association,Greenville,GVL,GVL,GVL
 1910,Carolina Association,Charlotte,CHA,CHA,CHA
 1910,Carolina Association,Anderson,AND,AND,AND
 1910,Carolina Association,Winston-Salem,WS,WS,WS
 1910,Carolina Association,Spartanburg,SPA,SPA,SPA
 1910,Carolina Association,Greensboro,GBO,GBO,GBO
+1910,Central Association,Quincy,QUI,QUI,QUI
+1910,Central Association,Ottumwa,OTT,OTT,OTT
+1910,Central Association,Hannibal,HAN,HAN,HAN
+1910,Central Association,Galesburg,GAL,GAL,GAL
+1910,Central Association,Keokuk,KEO,KEO,KEO
+1910,Central Association,Monmouth,MON,MON,MON
+1910,Central Association,Burlington,BUR,BUR,BUR
+1910,Central Association,Kewanee,KEW,KEW,KEW
+1910,Central California League,Richmond,RIC,RIC,RIC
+1910,Central California League,Healdsburg/San Leandro,HEA+SL,,HEA+SL
+1910,Central California League,Healdsburg,HEA+SL,HEA,HEA+SL
+1910,Central California League,San Leandro,HEA+SL,SL,HEA+SL
+1910,Central California League,St. Helena/Fruitvale/Alameda,SH+FV1+AL2,,SH+FV1+AL2
+1910,Central California League,St. Helena,SH+FV1+AL2,SH,SH+FV1+AL2
+1910,Central California League,Fruitvale I,SH+FV1+AL2,FV1,SH+FV1+AL2
+1910,Central California League,Alameda II,SH+FV1+AL2,AL2,SH+FV1+AL2
+1910,Central California League,Santa Rosa/Alameda/Oakland/Berkeley,SR+AL1+OAK+BER,,SR+AL1+OAK+BER
+1910,Central California League,Santa Rosa,SR+AL1+OAK+BER,SR,SR+AL1+OAK+BER
+1910,Central California League,Alameda I,SR+AL1+OAK+BER,AL1,SR+AL1+OAK+BER
+1910,Central California League,Oakland,SR+AL1+OAK+BER,OAK,SR+AL1+OAK+BER
+1910,Central California League,Berkeley,SR+AL1+OAK+BER,BER,SR+AL1+OAK+BER
+1910,Central California League,Petaluma/Elmhurst,PET+ELM,,PET+ELM
+1910,Central California League,Petaluma,PET+ELM,PET,PET+ELM
+1910,Central California League,Elmhurst,PET+ELM,ELM,PET+ELM
+1910,Central California League,San Rafael/Hayward/Fruitvale,SR+HAY+FV2,,SR+HAY+FV2
+1910,Central California League,San Rafael,SR+HAY+FV2,SR,SR+HAY+FV2
+1910,Central California League,Hayward,SR+HAY+FV2,HAY,SR+HAY+FV2
+1910,Central California League,Fruitvale II,SR+HAY+FV2,FV2,SR+HAY+FV2
+1910,Central California League,Vallejo,VAL,VAL,VAL
+1910,Central California League,Napa,NAP,NAP,NAP
+1910,Central Kansas League,Ellsworth,ELL,ELL,ELL
+1910,Central Kansas League,Clay Center,CC,CC,CC
+1910,Central Kansas League,Abilene,ABI,ABI,ABI
+1910,Central Kansas League,Salina,SAL,SAL,SAL
+1910,Central Kansas League,Concordia,CON,CON,CON
+1910,Central Kansas League,Manhattan,MAN,MAN,MAN
+1910,Central Kansas League,Junction City,JC,JC,JC
+1910,Central Kansas League,Beloit/Chapman,BEL+CHA,,BEL+CHA
+1910,Central Kansas League,Beloit,BEL+CHA,BEL,BEL+CHA
+1910,Central Kansas League,Chapman,BEL+CHA,CHA,BEL+CHA
+1910,Connecticut Association,New London,NL,NL,NL
+1910,Connecticut Association,Middletown,MID,MID,MID
+1910,Connecticut Association,Norwich/Meriden,NOR+MER,,NOR+MER
+1910,Connecticut Association,Norwich,NOR+MER,NOR,NOR+MER
+1910,Connecticut Association,Meriden,NOR+MER,MER,NOR+MER
+1910,Connecticut Association,Willimantic,WIL,WIL,WIL
+1910,Cotton States League,Greenwood,GWD,GWD,GWD
+1910,Cotton States League,Jackson,JAC,JAC,JAC
+1910,Cotton States League,Hattiesburg,HAT,HAT,HAT
+1910,Cotton States League,Yazoo City,YC,YC,YC
+1910,Cotton States League,Vicksburg,VIC,VIC,VIC
+1910,Cotton States League,Meridian,MER,MER,MER
+1910,Eastern Carolina League,Fayetteville,FAY,FAY,FAY
+1910,Eastern Carolina League,Wilson,WSN,WSN,WSN
+1910,Eastern Carolina League,Wilmington,WMG,WMG,WMG
+1910,Eastern Carolina League,Rocky Mount,RM,RM,RM
+1910,Eastern Carolina League,Goldsboro,GOL,GOL,GOL
+1910,Eastern Carolina League,Raleigh,RAL,RAL,RAL
+1910,Eastern Kansas League,Sabetha,SAB,SAB,SAB
+1910,Eastern Kansas League,Seneca,SEN,SEN,SEN
+1910,Eastern Kansas League,Hiawatha,HIA,HIA,HIA
+1910,Eastern Kansas League,Marysville,MAR,MAR,MAR
+1910,Eastern Kansas League,Horton,HOR,HOR,HOR
+1910,Eastern Kansas League,Holton/Blue Rapids,HOL+BR,,HOL+BR
+1910,Eastern Kansas League,Holton,HOL+BR,HOL,HOL+BR
+1910,Eastern Kansas League,Blue Rapids,HOL+BR,BR,HOL+BR
+1910,Illinois-Missouri League,Pekin,PEK,PEK,PEK
+1910,Illinois-Missouri League,Clinton,CLI,CLI,CLI
+1910,Illinois-Missouri League,Canton,CAN,CAN,CAN
+1910,Illinois-Missouri League,Lincoln,LIN,LIN,LIN
+1910,Illinois-Missouri League,Macomb,MAC,MAC,MAC
+1910,Illinois-Missouri League,Beardstown/Jacksonville,BEA+JAX,,BEA+JAX
+1910,Illinois-Missouri League,Beardstown,BEA+JAX,BEA,BEA+JAX
+1910,Illinois-Missouri League,Jacksonville,BEA+JAX,JAX,BEA+JAX
+1910,Indiana-Michigan League,Berrien,BER,BER,BER
+1910,Indiana-Michigan League,Elkhart,ELK,ELK,ELK
+1910,Indiana-Michigan League,Niles,NIL,NIL,NIL
+1910,Indiana-Michigan League,Dowagiac,DOW,DOW,DOW
+1910,Indiana-Michigan League,Gary,GAR,GAR,GAR
+1910,Indiana-Michigan League,Ligonier,LIG,LIG,LIG
+1910,Kansas State League,Hutchinson,HUT,HUT,HUT
+1910,Kansas State League,McPherson,MCP,MCP,MCP
+1910,Kansas State League,Lyons,LYO,LYO,LYO
+1910,Kansas State League,Newton,NEW,NEW,NEW
+1910,Kansas State League,Great Bend,GB,GB,GB
+1910,Kansas State League,Wellington,WEL,WEL,WEL
+1910,Kansas State League,Larned,LAR,LAR,LAR
+1910,Kansas State League,Arkansas City,AC,AC,AC
+1910,Kentucky-Illinois-Tennessee League,Vincennes,VIN,VIN,VIN
+1910,Kentucky-Illinois-Tennessee League,Clarksville,CLA,CLA,CLA
+1910,Kentucky-Illinois-Tennessee League,Paducah,PAD,PAD,PAD
+1910,Kentucky-Illinois-Tennessee League,Hopkinsville,HOP,HOP,HOP
+1910,Kentucky-Illinois-Tennessee League,McLeansboro,MCL,MCL,MCL
+1910,Kentucky-Illinois-Tennessee League,Harrisburg,HAR,HAR,HAR
+1910,Michigan State League,Cadillac,CAD,CAD,CAD
+1910,Michigan State League,Traverse City,TC,TC,TC
+1910,Michigan State League,Muskegon,MUS,MUS,MUS
+1910,Michigan State League,Holland,HOL,HOL,HOL
+1910,Minnesota-Iowa-Nebraska-Kansas League,Falls City,FC,FC,FC
+1910,Minnesota-Iowa-Nebraska-Kansas League,Clarinda,CLA,CLA,CLA
+1910,Minnesota-Iowa-Nebraska-Kansas League,Shenandoah,SHE,SHE,SHE
+1910,Minnesota-Iowa-Nebraska-Kansas League,Auburn,AUB,AUB,AUB
+1910,Minnesota-Iowa-Nebraska-Kansas League,Marysville,MAR,MAR,MAR
+1910,Minnesota-Iowa-Nebraska-Kansas League,Nebraska City,NC,NC,NC
+1910,Minnesota-Wisconsin League,Eau Claire,EC,EC,EC
+1910,Minnesota-Wisconsin League,Winona,WIN,WIN,WIN
+1910,Minnesota-Wisconsin League,Wausau,WAU,WAU,WAU
+1910,Minnesota-Wisconsin League,Superior,SUP,SUP,SUP
+1910,Minnesota-Wisconsin League,La Crosse,LAC,LAC,LAC
+1910,Minnesota-Wisconsin League,Red Wing,RW,RW,RW
+1910,Minnesota-Wisconsin League,Duluth,DUL,DUL,DUL
+1910,Minnesota-Wisconsin League,Rochester,ROC,ROC,ROC
+1910,Nebraska State League,Fremont,FRE,FRE,FRE
+1910,Nebraska State League,Columbus,COL,COL,COL
+1910,Nebraska State League,Kearney,KEA,KEA,KEA
+1910,Nebraska State League,Grand Island,GI,GI,GI
+1910,Nebraska State League,Superior,SUP,SUP,SUP
+1910,Nebraska State League,Seward,SEW,SEW,SEW
+1910,Nebraska State League,Red Cloud,RC,RC,RC
+1910,Nebraska State League,Hastings,HAS,HAS,HAS
+1910,Northeast Arkansas League,Caruthersville,CAR,CAR,CAR
+1910,Northeast Arkansas League,Paragould,PAR,PAR,PAR
+1910,Northeast Arkansas League,Jonesboro,JON,JON,JON
+1910,Northeast Arkansas League,Blytheville,BLY,BLY,BLY
+1910,Northern Association,Elgin,ELG,ELG,ELG
+1910,Northern Association,Muscatine,MUS,MUS,MUS
+1910,Northern Association,Kankakee,KAN,KAN,KAN
+1910,Northern Association,Jacksonville,JAX,JAX,JAX
+1910,Northern Association,Decatur,DEC,DEC,DEC
+1910,Northern Association,Joliet/Sterling,JOL+STE,,JOL+STE
+1910,Northern Association,Joliet,JOL+STE,JOL,JOL+STE
+1910,Northern Association,Sterling,JOL+STE,STE,JOL+STE
+1910,Northern Association,Freeport,FRE,FRE,FRE
+1910,Northern Association,Clinton,CLI,CLI,CLI
+1910,Northern State of Indiana League,Wabash,WAB,WAB,WAB
+1910,Northern State of Indiana League,Bluffton,BLU,BLU,BLU
+1910,Northern State of Indiana League,Lafayette,LAF,LAF,LAF
+1910,Northern State of Indiana League,Marion,MAR,MAR,MAR
+1910,Northern State of Indiana League,Huntington,HUN,HUN,HUN
+1910,Northern State of Indiana League,Logansport,LOG,LOG,LOG
+1910,Ohio State League,Portsmouth,POR,POR,POR
+1910,Ohio State League,Lima,LIM,LIM,LIM
+1910,Ohio State League,Marion,MAR,MAR,MAR
+1910,Ohio State League,Newark,NEW,NEW,NEW
+1910,Ohio State League,Lancaster,LAN,LAN,LAN
+1910,Ohio State League,Chillicothe,CHI,CHI,CHI
+1910,San Joaquin Valley League,Bakersfield,BAK,BAK,BAK
+1910,San Joaquin Valley League,Visalia,VIS,VIS,VIS
+1910,San Joaquin Valley League,Tulare,TUL,TUL,TUL
+1910,San Joaquin Valley League,Coalinga,COA,COA,COA
+1910,Southeastern League,Knoxville,KNO,KNO,KNO
+1910,Southeastern League,Morristown,MOR,MOR,MOR
+1910,Southeastern League,Johnson City,JC,JC,JC
+1910,Southeastern League,Asheville,ASH,ASH,ASH
+1910,Southeastern League,Rome,ROM,ROM,ROM
+1910,Southeastern League,Gadsden,GAD,GAD,GAD
+1910,Southern California Trolley League,Redondo Beach,RB,RB,RB
+1910,Southern California Trolley League,Santa Ana,SA,SA,SA
+1910,Southern California Trolley League,Long Beach,LB,LB,LB
+1910,Southern California Trolley League,Los Angeles McCormick,MCC,MCC,MCC
+1910,Southern California Trolley League,Los Angeles Maiers,MAI,MAI,MAI
+1910,Southern California Trolley League,Pasadena,PAS,PAS,PAS
+1910,Southern Illinois League,McLeansboro,MCL,MCL,MCL
+1910,Southern Illinois League,Eldorado,ELD,ELD,ELD
+1910,Southern Illinois League,Herrin,HER,HER,HER
+1910,Southern Illinois League,Mount Vernon,MV,MV,MV
+1910,Southern Illinois League,Harrisburg,HAR,HAR,HAR
+1910,Southern Michigan League,Kalamazoo,KAL,KAL,KAL
+1910,Southern Michigan League,Lansing,LAN,LAN,LAN
+1910,Southern Michigan League,Adrian,ADR,ADR,ADR
+1910,Southern Michigan League,Battle Creek,BAT,BAT,BAT
+1910,Southern Michigan League,Flint,FLI,FLI,FLI
+1910,Southern Michigan League,Bay City,BCY,BCY,BCY
+1910,Southern Michigan League,Jackson,JAC,JAC,JAC
+1910,Southern Michigan League,Saginaw,SAG,SAG,SAG
+1910,Southwest Texas League,Victoria,VIC,VIC,VIC
+1910,Southwest Texas League,Brownsville,BRO,BRO,BRO
+1910,Southwest Texas League,Bay City,BAY,BAY,BAY
+1910,Southwest Texas League,Laredo,LAR,LAR,LAR
+1910,Southwest Texas League,Beeville,BEE,BEE,BEE
+1910,Southwest Texas League,Corpus Christi,CC,CC,CC
+1910,Virginia Valley League,Huntington,HUN,HUN,HUN
+1910,Virginia Valley League,Charleston,CHA,CHA,CHA
+1910,Virginia Valley League,Point Pleasant-Gallipolis,PPG,PPG,PPG
+1910,Virginia Valley League,Ashland-Catlettsburg,ASH,ASH,ASH
+1910,Virginia Valley League,Parkersburg,PAR,PAR,PAR
+1910,Virginia Valley League,Montgomery,MON,MON,MON
+1910,Washington State League,Raymond,RAY,RAY,RAY
+1910,Washington State League,Chehalis,CHE,CHE,CHE
+1910,Washington State League,Aberdeen,ABE,ABE,ABE
+1910,Washington State League,Montesano,MON,MON,MON
+1910,Washington State League,Hoquiam,HOQ,HOQ,HOQ
+1910,Washington State League,Tacoma,TAC,TAC,TAC
+1910,West Virginia League,Fairmont,FAI,FAI,FAI
+1910,West Virginia League,Mannington,MAN,MAN,MAN
+1910,West Virginia League,Grafton,GRA,GRA,GRA
+1910,West Virginia League,Clarksburg,CLA,CLA,CLA
+1910,Wisconsin-Illinois League,Appleton,APP,APP,APP
+1910,Wisconsin-Illinois League,Rockford,ROC,ROC,ROC
+1910,Wisconsin-Illinois League,Fond du Lac,FDL,FDL,FDL
+1910,Wisconsin-Illinois League,Madison,MAD,MAD,MAD
+1910,Wisconsin-Illinois League,Green Bay,GB,GB,GB
+1910,Wisconsin-Illinois League,Racine,RAC,RAC,RAC
+1910,Wisconsin-Illinois League,Oshkosh,OSH,OSH,OSH
