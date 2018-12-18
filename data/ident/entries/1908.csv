@@ -11,7 +11,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1908,Eastern League,Providence,PRO,PRO,PRO
 1908,Eastern League,Newark,NEW,NEW,NEW
 1908,Eastern League,Buffalo,BUF,BUF,BUF
-1908,Eastern League,Montreal,MON,TUE,WED
+1908,Eastern League,Montreal,MON,MON,MON
 1908,Eastern League,Toronto,TOR,TOR,TOR
 1908,Eastern League,Jersey City,JC,JC,JC
 1908,Eastern League,Rochester,ROC,ROC,ROC
@@ -22,7 +22,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1908,Southern Association,Nashville,NAS,NAS,NAS
 1908,Southern Association,New Orleans,NO,NO,NO
 1908,Southern Association,Memphis,MEM,MEM,MEM
-1908,Southern Association,Montgomery,MON,TUE,WED
+1908,Southern Association,Montgomery,MON,MON,MON
 1908,Southern Association,Mobile,MOB,MOB,MOB
 1908,Southern Association,Atlanta,ATL,ATL,ATL
 1908,Southern Association,Little Rock,LR,LR,LR
@@ -74,7 +74,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1908,Northwestern League,Butte,BUT,BUT,BUT
 1908,Northwestern League,Seattle,SEA,SEA,SEA
 1908,Illinois-Indiana-Iowa League,Springfield,SPR,SPR,SPR
-1908,Illinois-Indiana-Iowa League,Decatur,DEC,JAN,FEB
+1908,Illinois-Indiana-Iowa League,Decatur,DEC,DEC,DEC
 1908,Illinois-Indiana-Iowa League,Cedar Rapids,CR,CR,CR
 1908,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
 1908,Illinois-Indiana-Iowa League,Dubuque,DUB,DUB,DUB
@@ -106,7 +106,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1908,Ohio-Pennsylvania League,Erie,GIR+BUT+ERI,ERI,GIR+BUT+ERI
 1908,South Atlantic League,Jacksonville,JAC,JAC,JAC
 1908,South Atlantic League,Savannah,SAV,SAV,SAV
-1908,South Atlantic League,Augusta,AUG,SEP,OCT
+1908,South Atlantic League,Augusta,AUG,AUG,AUG
 1908,South Atlantic League,Columbia,COL,COL,COL
 1908,South Atlantic League,Macon,MAC,MAC,MAC
 1908,South Atlantic League,Charleston,CHA,CHA,CHA
@@ -182,7 +182,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1908,Cotton States League,Gulfport-Biloxi,GUL,GUL,GUL
 1908,Cotton States League,Columbus,COL,COL,COL
 1908,Cotton States League,Meridian,MER,MER,MER
-1908,Cotton States League,Monroe,MON,TUE,WED
+1908,Cotton States League,Monroe,MON,MON,MON
 1908,Eastern Carolina League,Wilson,WIL,WIL,WIL
 1908,Eastern Carolina League,Wilmington,WMG,WMG,WMG
 1908,Eastern Carolina League,Goldsboro,GOL,GOL,GOL
@@ -211,7 +211,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1908,Illinois-Missouri League,Macomb,MAC,MAC,MAC
 1908,Illinois-Missouri League,Havana,HAV,HAV,HAV
 1908,Illinois-Missouri League,Canton,CAN,CAN,CAN
-1908,Illinois-Missouri League,Monmouth,MON,TUE,WED
+1908,Illinois-Missouri League,Monmouth,MON,MON,MON
 1908,Illinois-Missouri League,Galesburg,GAL,GAL,GAL
 1908,Indiana-Ohio League,Huntington,HUN,HUN,HUN
 1908,Indiana-Ohio League,Van Wert,VW,VW,VW
@@ -243,7 +243,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1908,Maine State League,York Beach,YB,YB,YB
 1908,Ohio State League,Lancaster,LAN,LAN,LAN
 1908,Ohio State League,Lima,LIM,LIM,LIM
-1908,Ohio State League,Marion,MAR,APR,MAY
+1908,Ohio State League,Marion,MAR,MAR,MAR
 1908,Ohio State League,Mansfield,MAN,MAN,MAN
 1908,Ohio State League,Newark,NEW,NEW,NEW
 1908,Ohio State League,Springfield/Portsmouth,SPR+POR,,SPR+POR

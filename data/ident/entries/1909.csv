@@ -12,7 +12,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1909,Eastern League,Providence,PRO,PRO,PRO
 1909,Eastern League,Toronto,TOR,TOR,TOR
 1909,Eastern League,Buffalo,BUF,BUF,BUF
-1909,Eastern League,Montreal,MON,TUE,WED
+1909,Eastern League,Montreal,MON,MON,MON
 1909,Eastern League,Baltimore,BAL,BAL,BAL
 1909,Eastern League,Jersey City,JC,JC,JC
 1909,Pacific Coast League,San Francisco,SF,SF,SF
@@ -23,7 +23,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1909,Pacific Coast League,Vernon,VER,VER,VER
 1909,Southern Association,Atlanta,ATL,ATL,ATL
 1909,Southern Association,Nashville,NAS,NAS,NAS
-1909,Southern Association,Montgomery,MON,TUE,WED
+1909,Southern Association,Montgomery,MON,MON,MON
 1909,Southern Association,New Orleans,NO,NO,NO
 1909,Southern Association,Mobile,MOB,MOB,MOB
 1909,Southern Association,Birmingham,BIR,BIR,BIR
@@ -81,7 +81,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1909,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
 1909,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
 1909,Illinois-Indiana-Iowa League,Dubuque,DUB,DUB,DUB
-1909,Illinois-Indiana-Iowa League,Decatur,DEC,JAN,FEB
+1909,Illinois-Indiana-Iowa League,Decatur,DEC,DEC,DEC
 1909,Illinois-Indiana-Iowa League,Cedar Rapids,CR,CR,CR
 1909,Tri-State League,Lancaster,LAN,LAN,LAN
 1909,Tri-State League,Reading,REA,REA,REA
@@ -101,7 +101,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1909,Ohio-Pennsylvania League,Youngstown,YOU,YOU,YOU
 1909,South Atlantic League,Chattanooga,CHA,CHA,CHA
 1909,South Atlantic League,Columbus,CBS,CBS,CBS
-1909,South Atlantic League,Augusta,AUG,SEP,OCT
+1909,South Atlantic League,Augusta,AUG,AUG,AUG
 1909,South Atlantic League,Savannah,SAV,SAV,SAV
 1909,South Atlantic League,Charleston/Knoxville,CHA+KNO,,CHA+KNO
 1909,South Atlantic League,Charleston,CHA+KNO,CHA,CHA+KNO
@@ -187,7 +187,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1909,Eastern Carolina League,Raleigh,RAL,RAL,RAL
 1909,Eastern Carolina League,Goldsboro,GOL,GOL,GOL
 1909,Eastern Carolina League,Rocky Mount,RM,RM,RM
-1909,Illinois-Missouri League,Monmouth,MON,TUE,WED
+1909,Illinois-Missouri League,Monmouth,MON,MON,MON
 1909,Illinois-Missouri League,Beardstown,BEA,BEA,BEA
 1909,Illinois-Missouri League,Pekin,PEK,PEK,PEK
 1909,Illinois-Missouri League,Macomb,MAC,MAC,MAC
@@ -219,7 +219,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1909,Minnesota-Wisconsin League,Superior,SUP,SUP,SUP
 1909,Northeast Arkansas League,Jonesboro,JON,JON,JON
 1909,Northeast Arkansas League,Newport,NEW,NEW,NEW
-1909,Northeast Arkansas League,Marianna,MAR,APR,MAY
+1909,Northeast Arkansas League,Marianna,MAR,MAR,MAR
 1909,Northeast Arkansas League,Paragould,PAR,PAR,PAR
 1909,Northern State of Indiana League,Bluffton,BLU,BLU,BLU
 1909,Northern State of Indiana League,Lafayette,LAF,LAF,LAF
@@ -228,7 +228,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1909,Northern State of Indiana League,Marion,MAR,MAR,MAR
 1909,Northern State of Indiana League,Wabash,WAB,WAB,WAB
 1909,Ohio State League,Lima,LIM,LIM,LIM
-1909,Ohio State League,Marion,MAR,APR,MAY
+1909,Ohio State League,Marion,MAR,MAR,MAR
 1909,Ohio State League,Mansfield,MAN,MAN,MAN
 1909,Ohio State League,Portsmouth,POR,POR,POR
 1909,Ohio State League,Newark,NEW,NEW,NEW

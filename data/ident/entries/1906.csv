@@ -1,0 +1,272 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1906,American League,Chicago,CHA,CHA,CHA
+1906,American League,New York,NYA,NYA,NYA
+1906,American League,Cleveland,CLE,CLE,CLE
+1906,American League,Philadelphia,PHA,PHA,PHA
+1906,American League,St. Louis,SLA,SLA,SLA
+1906,American League,Detroit,DET,DET,DET
+1906,American League,Washington,WS1,WS1,WS1
+1906,American League,Boston,BOS,BOS,BOS
+1906,National League,Chicago,CHN,CHN,CHN
+1906,National League,New York,NY1,NY1,NY1
+1906,National League,Pittsburgh,PIT,PIT,PIT
+1906,National League,Philadelphia,PHI,PHI,PHI
+1906,National League,Brooklyn,BRO,BRO,BRO
+1906,National League,Cincinnati,CIN,CIN,CIN
+1906,National League,St. Louis,SLN,SLN,SLN
+1906,National League,Boston,BSN,BSN,BSN
+1906,American Association,Columbus,COL,COL,COL
+1906,American Association,Milwaukee,MIL,MIL,MIL
+1906,American Association,Minneapolis,MIN,MIN,MIN
+1906,American Association,Toledo,TOL,TOL,TOL
+1906,American Association,Louisville,LOU,LOU,LOU
+1906,American Association,Kansas City,KC,KC,KC
+1906,American Association,St. Paul,STP,STP,STP
+1906,American Association,Indianapolis,IND,IND,IND
+1906,Eastern League,Buffalo,BUF,BUF,BUF
+1906,Eastern League,Jersey City,JC,JC,JC
+1906,Eastern League,Baltimore,BAL,BAL,BAL
+1906,Eastern League,Rochester,ROC,ROC,ROC
+1906,Eastern League,Newark,NEW,NEW,NEW
+1906,Eastern League,Providence,PRO,PRO,PRO
+1906,Eastern League,Montreal,MON,MON,MON
+1906,Eastern League,Toronto,TOR,TOR,TOR
+1906,Pacific Coast League,Portland,POR,POR,POR
+1906,Pacific Coast League,Seattle,SEA,SEA,SEA
+1906,Pacific Coast League,San Francisco,SF,SF,SF
+1906,Pacific Coast League,Los Angeles,LA,LA,LA
+1906,Pacific Coast League,Oakland,OAK,OAK,OAK
+1906,Pacific Coast League,Fresno,FRE,FRE,FRE
+1906,Southern Association,Birmingham,BIR,BIR,BIR
+1906,Southern Association,Memphis,MEM,MEM,MEM
+1906,Southern Association,Atlanta,ATL,ATL,ATL
+1906,Southern Association,New Orleans,NO,NO,NO
+1906,Southern Association,Shreveport,SHR,SHR,SHR
+1906,Southern Association,Montgomery,MON,MON,MON
+1906,Southern Association,Nashville,NAS,NAS,NAS
+1906,Southern Association,Little Rock,LR,LR,LR
+1906,Western League,Des Moines,DM,DM,DM
+1906,Western League,Lincoln,LIN,LIN,LIN
+1906,Western League,Omaha,OMA,OMA,OMA
+1906,Western League,Sioux City,SC,SC,SC
+1906,Western League,Denver,DEN,DEN,DEN
+1906,Western League,Pueblo,PUE,PUE,PUE
+1906,Central League,Grand Rapids,GR,GR,GR
+1906,Central League,Springfield,SPR,SPR,SPR
+1906,Central League,Canton,CAN,CAN,CAN
+1906,Central League,Dayton,DAY,DAY,DAY
+1906,Central League,Wheeling,WHE,WHE,WHE
+1906,Central League,Evansville,EVA,EVA,EVA
+1906,Central League,South Bend,SB,SB,SB
+1906,Central League,Terre Haute,TH,TH,TH
+1906,Connecticut State League,Norwich,NOR,NOR,NOR
+1906,Connecticut State League,Springfield,SPR,SPR,SPR
+1906,Connecticut State League,New Haven,NH,NH,NH
+1906,Connecticut State League,Hartford,HAR,HAR,HAR
+1906,Connecticut State League,Waterbury,WAT,WAT,WAT
+1906,Connecticut State League,Holyoke,HOL,HOL,HOL
+1906,Connecticut State League,Bridgeport,BRI,BRI,BRI
+1906,Connecticut State League,New London,NL,NL,NL
+1906,New England League,Worcester,WOR,WOR,WOR
+1906,New England League,Lynn,LYN,LYN,LYN
+1906,New England League,Lawrence,LAW,LAW,LAW
+1906,New England League,New Bedford,NB,NB,NB
+1906,New England League,Manchester,MAN,MAN,MAN
+1906,New England League,Fall River,FR,FR,FR
+1906,New England League,Haverhill,HAV,HAV,HAV
+1906,New England League,Lowell,LOW,LOW,LOW
+1906,New York State League,Scranton,SCR,SCR,SCR
+1906,New York State League,Albany,ALB,ALB,ALB
+1906,New York State League,Syracuse,SYR,SYR,SYR
+1906,New York State League,Troy,TRO,TRO,TRO
+1906,New York State League,Amsterdam-Johnstown-Gloversville,AJG,AJG,AJG
+1906,New York State League,Utica,UTI,UTI,UTI
+1906,New York State League,Binghamton,BIN,BIN,BIN
+1906,New York State League,Wilkes-Barre,WB,WB,WB
+1906,Northwestern League,Tacoma,TAC,TAC,TAC
+1906,Northwestern League,Butte,BUT,BUT,BUT
+1906,Northwestern League,Grays Harbor,GH,GH,GH
+1906,Northwestern League,Spokane,SPO,SPO,SPO
+1906,Illinois-Indiana-Iowa League,Cedar Rapids,CR,CR,CR
+1906,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1906,Illinois-Indiana-Iowa League,Dubuque,DUB,DUB,DUB
+1906,Illinois-Indiana-Iowa League,Springfield,SPR,SPR,SPR
+1906,Illinois-Indiana-Iowa League,Rock Island,RI,RI,RI
+1906,Illinois-Indiana-Iowa League,Decatur,DEC,DEC,DEC
+1906,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
+1906,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1906,Hudson River League,Paterson,PAT,PAT,PAT
+1906,Hudson River League,Poughkeepsie,POU,POU,POU
+1906,Hudson River League,Kingston,KIN,KIN,KIN
+1906,Hudson River League,Hudson,HUD,HUD,HUD
+1906,Hudson River League,Newburgh,NEW,NEW,NEW
+1906,Hudson River League,Glens Falls-Saratoga,GFS,GFS,GFS
+1906,Interstate Association,Fort Wayne,FW,FW,FW
+1906,Interstate Association,Marion,MIN,MIN,MIN
+1906,Interstate Association,Flint,FLI,FLI,FLI
+1906,Interstate Association,Anderson,AND,AND,AND
+1906,Interstate Association,Lima,LIM,LIM,LIM
+1906,Interstate Association,Saginaw/Marion OH,SAG+MOH,,SAG+MOH
+1906,Interstate Association,Saginaw,SAG+MOH,SAG,SAG+MOH
+1906,Interstate Association,Marion OH,SAG+MOH,MOH,SAG+MOH
+1906,Interstate Association,Bay City,BC,BC,BC
+1906,Interstate Association,Muncie,MUN,MUN,MUN
+1906,Northern-Copper Country League,Calumet,CAL,CAL,CAL
+1906,Northern-Copper Country League,Houghton,HOU,HOU,HOU
+1906,Northern-Copper Country League,Winnipeg,WIN,WIN,WIN
+1906,Northern-Copper Country League,Duluth,DUL,DUL,DUL
+1906,Northern-Copper Country League,Lake Linden,LL,LL,LL
+1906,Northern-Copper Country League,Fargo,FAR,FAR,FAR
+1906,Northern-Copper Country League,Hancock,HAN,HAN,HAN
+1906,Northern-Copper Country League,Grand Forks,GF,GF,GF
+1906,Ohio-Pennsylvania League,Youngstown,YOU,YOU,YOU
+1906,Ohio-Pennsylvania League,Akron,AKR,AKR,AKR
+1906,Ohio-Pennsylvania League,Lancaster,LAN,LAN,LAN
+1906,Ohio-Pennsylvania League,New Castle,NC,NC,NC
+1906,Ohio-Pennsylvania League,Zanesville/Marion,ZAN+MAR,,ZAN+MAR
+1906,Ohio-Pennsylvania League,Zanesville,ZAN+MAR,ZAN,ZAN+MAR
+1906,Ohio-Pennsylvania League,Marion,ZAN+MAR,MAR,ZAN+MAR
+1906,Ohio-Pennsylvania League,Newark,NEW,NEW,NEW
+1906,Ohio-Pennsylvania League,Mansfield,MAN,MAN,MAN
+1906,Ohio-Pennsylvania League,Sharon,SHA,SHA,SHA
+1906,South Atlantic League,Savannah,SAV,SAV,SAV
+1906,South Atlantic League,Augusta,AUG,AUG,AUG
+1906,South Atlantic League,Macon,MAC,MAC,MAC
+1906,South Atlantic League,Columbia,COL,COL,COL
+1906,South Atlantic League,Charleston,CHA,CHA,CHA
+1906,South Atlantic League,Jacksonville,JAX,JAX,JAX
+1906,South Texas League,Houston,HOU,HOU,HOU
+1906,South Texas League,Austin,AUS,AUS,AUS
+1906,South Texas League,Beaumont,BEA,BEA,BEA
+1906,South Texas League,Galveston,GAL,GAL,GAL
+1906,South Texas League,San Antonio,SA,SA,SA
+1906,South Texas League,Lake Charles,LC,LC,LC
+1906,Virginia League,Lynchburg,LYN,LYN,LYN
+1906,Virginia League,Norfolk,NOR,NOR,NOR
+1906,Virginia League,Richmond,RIC,RIC,RIC
+1906,Virginia League,Danville,DAN,DAN,DAN
+1906,Virginia League,Portsmouth,POR,POR,POR
+1906,Virginia League,Roanoke,ROA,ROA,ROA
+1906,Western Association,Topeka,TOP,TOP,TOP
+1906,Western Association,Joplin,JOP,JOP,JOP
+1906,Western Association,Wichita,WIC,WIC,WIC
+1906,Western Association,Springfield,SPR,SPR,SPR
+1906,Western Association,Oklahoma City,OKC,OKC,OKC
+1906,Western Association,Leavenworth,LEA,LEA,LEA
+1906,Western Association,Webb City,WC,WC,WC
+1906,Western Association,St. Joseph/Hutchinson,STJ+HUT,,STJ+HUT
+1906,Western Association,St. Joseph,STJ+HUT,STJ,STJ+HUT
+1906,Western Association,Hutchinson,STJ+HUT,HUT,STJ+HUT
+1906,Arkansas-Texas League,Pine Bluff,PB,PB,PB
+1906,Arkansas-Texas League,Camden,CAM,CAM,CAM
+1906,Arkansas-Texas League,Texarkana/Hope,TEX+HOP,,TEX+HOP
+1906,Arkansas-Texas League,Texarkana,TEX+HOP,TEX,TEX+HOP
+1906,Arkansas-Texas League,Hope,TEX+HOP,HOP,TEX+HOP
+1906,Arkansas-Texas League,Hot Springs,HS,HS,HS
+1906,Cotton States League,Mobile,MOB,MOB,MOB
+1906,Cotton States League,Meridian,MER,MER,MER
+1906,Cotton States League,Jackson,JAC,JAC,JAC
+1906,Cotton States League,Gulfport,GUL,GUL,GUL
+1906,Cotton States League,Baton Rouge,BR,BR,BR
+1906,Cotton States League,Vicksburg,VIC,VIC,VIC
+1906,Georgia State League,Waycross,WAY,WAY,WAY
+1906,Georgia State League,Columbus/Brunswick,COL+BRU,,COL+BRU
+1906,Georgia State League,Columbus,COL+BRU,COL,COL+BRU
+1906,Georgia State League,Brunswick,COL+BRU,BRU,COL+BRU
+1906,Georgia State League,Cordele,COR,COR,COR
+1906,Georgia State League,Valdosta,VAL,VAL,VAL
+1906,Georgia State League,Albany,ALB,ALB,ALB
+1906,Georgia State League,Americus,AME,AME,AME
+1906,Interstate League,Erie,ERI,ERI,ERI
+1906,Interstate League,Punxsutawney,PUN,PUN,PUN
+1906,Interstate League,Bradford,BRA,BRA,BRA
+1906,Interstate League,DuBois,DUB,DUB,DUB
+1906,Interstate League,Kane,KAN,KAN,KAN
+1906,Interstate League,Hornell/Patton,HOR+PAT,,HOR+PAT
+1906,Interstate League,Hornell,HOR+PAT,HOR,HOR+PAT
+1906,Interstate League,Patton,HOR+PAT,PAT,HOR+PAT
+1906,Interstate League,Olean,OLE,OLE,OLE
+1906,Interstate League,Oil City-Jamestown,OCJ,OCJ,OCJ
+1906,Iowa League of Professional Baseball Clubs,Burlington,BUR,BUR,BUR
+1906,Iowa League of Professional Baseball Clubs,Oskaloosa,OSK,OSK,OSK
+1906,Iowa League of Professional Baseball Clubs,Fort Dodge,FD,FD,FD
+1906,Iowa League of Professional Baseball Clubs,Marshalltown,MAR,MAR,MAR
+1906,Iowa League of Professional Baseball Clubs,Keokuk,KEO,KEO,KEO
+1906,Iowa League of Professional Baseball Clubs,Boone/Clinton,BOO+CLI,,BOO+CLI
+1906,Iowa League of Professional Baseball Clubs,Boone,BOO+CLI,BOO+CLI,BOO+CLI
+1906,Iowa League of Professional Baseball Clubs,Clinton,BOO+CLI,BOO+CLI,BOO+CLI
+1906,Iowa League of Professional Baseball Clubs,Waterloo,WAT,WAT,WAT
+1906,Iowa League of Professional Baseball Clubs,Ottumwa,OTT,OTT,OTT
+1906,Kansas State League,Independence,IND,IND,IND
+1906,Kansas State League,Iola/Cherryvale,IOL+CHE,,IOL+CHE
+1906,Kansas State League,Iola,IOL+CHE,IOL,IOL+CHE
+1906,Kansas State League,Cherryvale,IOL+CHE,CHE,IOL+CHE
+1906,Kansas State League,Parsons,PAR,PAR,PAR
+1906,Kansas State League,Coffeyville,COF,COF,COF
+1906,Kansas State League,Bartlesville,BAR,BAR,BAR
+1906,Kansas State League,Chanute,CHA,CHA,CHA
+1906,Kansas State League,Pittsburg/Vinita,PIT+VIN,,PIT+VIN
+1906,Kansas State League,Pittsburg,PIT+VIN,PIT,PIT+VIN
+1906,Kansas State League,Vinita,PIT+VIN,VIN,PIT+VIN
+1906,Kansas State League,Fort Scott,FS,FS,FS
+1906,Kentucky-Illinois-Tennessee League,Vincennes,VIN,VIN,VIN
+1906,Kentucky-Illinois-Tennessee League,Jacksonville,JAX,JAX,JAX
+1906,Kentucky-Illinois-Tennessee League,Cairo,CAI,CAI,CAI
+1906,Kentucky-Illinois-Tennessee League,Danville,DAN,DAN,DAN
+1906,Kentucky-Illinois-Tennessee League,Paducah,PAD,PAD,PAD
+1906,Kentucky-Illinois-Tennessee League,Mattoon-Charleston,MAT,MAT,MAT
+1906,Pennsylvania-Ohio-Maryland League,Uniontown,UNI,UNI,UNI
+1906,Pennsylvania-Ohio-Maryland League,Washington,WAS,WAS,WAS
+1906,Pennsylvania-Ohio-Maryland League,Braddock,BRA,BRA,BRA
+1906,Pennsylvania-Ohio-Maryland League,East Liverpool,EL,EL,EL
+1906,Pennsylvania-Ohio-Maryland League,Cumberland,CUM,CUM,CUM
+1906,Pennsylvania-Ohio-Maryland League,Waynesville,WAY,WAY,WAY
+1906,Pennsylvania-Ohio-Maryland League,Steubenville,STE,STE,STE
+1906,Pennsylvania-Ohio-Maryland League,Butler/Piedmont/Charleroi,BUT+PIE+CHA,,BUT+PIE+CHA
+1906,Pennsylvania-Ohio-Maryland League,Butler,BUT+PIE+CHA,BUT,BUT+PIE+CHA
+1906,Pennsylvania-Ohio-Maryland League,Piedmont,BUT+PIE+CHA,PIE,BUT+PIE+CHA
+1906,Pennsylvania-Ohio-Maryland League,Charleroi,BUT+PIE+CHA,CHA,BUT+PIE+CHA
+1906,South Central League,McAlester,MCA,MCA,MCA
+1906,South Central League,Muskogee,MUS,MUS,MUS
+1906,South Central League,Fort Smith,FS,FS,FS
+1906,South Central League,Tulsa,TUL,TUL,TUL
+1906,South Central League,Shawnee,SHA,SHA,SHA
+1906,South Central League,Guthrie,GUT,GUT,GUT
+1906,Southern Michigan League,Mount Clemens,MC,MC,MC
+1906,Southern Michigan League,Kalamazoo,KAL,KAL,KAL
+1906,Southern Michigan League,Tecumseh,TEC,TEC,TEC
+1906,Southern Michigan League,Jackson,JAC,JAC,JAC
+1906,Southern Michigan League,Battle Creek,BC,BC,BC
+1906,Southern Michigan League,Saginaw,SAG,SAG,SAG
+1906,Texas League,Fort Worth,FW,FW,FW
+1906,Texas League,Dallas,DAL,DAL,DAL
+1906,Texas League,Cleburne,CLE,CLE,CLE
+1906,Texas League,Waco,WAC,WAC,WAC
+1906,Texas League,Greenville,GRE,GRE,GRE
+1906,Texas League,Temple,TEM,TEM,TEM
+1906,Wisconsin Association,La Crosse,LC,LC,LC
+1906,Wisconsin Association,Freeport,FRE,FRE,FRE
+1906,Wisconsin Association,Oshkosh,OSH,OSH,OSH
+1906,Wisconsin Association,Green Bay,GB,GB,GB
+1906,Wisconsin Association,Wausau,WAU,WAU,WAU
+1906,Wisconsin Association,Eau Claire,EC,EC,EC
+1906,California State League,Stockton,STO,STO,STO
+1906,California State League,San Jose,SJ,SJ,SJ
+1906,California State League,Sacramento,SAC,SAC,SAC
+1906,California State League,Oakland,OAK,OAK,OAK
+1906,California State League,San Francisco,SF,SF,SF
+1906,California State League,Alameda,ALA,ALA,ALA
+1906,Empire State League,Seneca Falls,SF,SF,SF
+1906,Empire State League,Geneva,GEN,GEN,GEN
+1906,Empire State League,Auburn,AUB,AUB,AUB
+1906,Empire State League,Oswego,OSW,OSW,OSW
+1906,Empire State League,Fulton,FUL,FUL,FUL
+1906,Empire State League,Penn Yan/Syracuse,PY+SYR,,PY+SYR
+1906,Empire State League,Penn Yan,PY+SYR,PY,PY+SYR
+1906,Empire State League,Syracuse,PY+SYR,SYR,PY+SYR
+1906,Tri-State League,York,YOR,YOR,YOR
+1906,Tri-State League,Williamsport,WIL,WIL,WIL
+1906,Tri-State League,Lancaster,LAN,LAN,LAN
+1906,Tri-State League,Altoona,ALT,ALT,ALT
+1906,Tri-State League,Harrisburg,HAR,HAR,HAR
+1906,Tri-State League,Johnstown,JOH,JOH,JOH

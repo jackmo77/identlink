@@ -22,7 +22,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1911,Pacific Coast League,San Francisco,SF,SF,SF
 1911,Pacific Coast League,Los Angeles,LA,LA,LA
 1911,Southern Association,New Orleans,NO,NO,NO
-1911,Southern Association,Montgomery,MON,TUE,WED
+1911,Southern Association,Montgomery,MON,MON,MON
 1911,Southern Association,Birmingham,BIR,BIR,BIR
 1911,Southern Association,Nashville,NAS,NAS,NAS
 1911,Southern Association,Chattanooga,CHA,CHA,CHA
@@ -168,7 +168,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1911,Blue Grass League,Paris,PAR,PAR,PAR
 1911,Blue Grass League,Lexington,LEX,LEX,LEX
 1911,Blue Grass League,Winchester,WIN,WIN,WIN
-1911,Blue Grass League,Maysville,MAY,JUNE,JULY
+1911,Blue Grass League,Maysville,MAY,MAY,MAY
 1911,Blue Grass League,Frankfort,FRA,FRA,FRA
 1911,Blue Grass League,Richmond,RIC,RIC,RIC
 1911,Canadian League,Berlin,BER,BER,BER
@@ -188,7 +188,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1911,Central Association,Galesburg,GAL,GAL,GAL
 1911,Central Association,Keokuk,KEO,KEO,KEO
 1911,Central Association,Kewanee,KEW,KEW,KEW
-1911,Central Association,Monmouth,MON,TUE,WED
+1911,Central Association,Monmouth,MON,MON,MON
 1911,Central Association,Muscatine,MUS,MUS,MUS
 1911,Central Association,Hannibal,HAN,HAN,HAN
 1911,Central California League,San Leandro,SL,SL,SL
@@ -255,7 +255,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1911,Minnesota-Iowa-Nebraska-Kansas League,Shenandoah,SHE,SHE,SHE
 1911,Minnesota-Iowa-Nebraska-Kansas League,Clarinda,CLA,CLA,CLA
 1911,Minnesota-Iowa-Nebraska-Kansas League,Nebraska City,NC,NC,NC
-1911,Mountain States League,Montgomery,MON,TUE,WED
+1911,Mountain States League,Montgomery,MON,MON,MON
 1911,Mountain States League,Huntington,HUN,HUN,HUN
 1911,Mountain States League,Ashland-Catlettsburg,AC,AC,AC
 1911,Mountain States League,Point Pleasant-Gallipolis/Middleport-Pomeroy,PPG+MP,,PPG+MP
@@ -275,7 +275,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1911,Northeast Arkansas League,Blytheville,BLY,BLY,BLY
 1911,Northeast Arkansas League,Paragould,PAR,PAR,PAR
 1911,Northeast Arkansas League,Jonesboro,JON,JON,JON
-1911,Northern State of Indiana League,Marion,MAR,APR,MAY
+1911,Northern State of Indiana League,Marion,MAR,MAR,MAR
 1911,Northern State of Indiana League,Huntington,HUN,HUN,HUN
 1911,Northern State of Indiana League,Wabash,WAB,WAB,WAB
 1911,Northern State of Indiana League,Lafayette,LAF,LAF,LAF
@@ -284,7 +284,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1911,Northern State of Indiana League,Logansport,LOG+AND,LOG,LOG+AND
 1911,Northern State of Indiana League,Anderson,LOG+AND,AND,LOG+AND
 1911,Ohio State League,Springfield,SPR,SPR,SPR
-1911,Ohio State League,Marion,MAR,APR,MAY
+1911,Ohio State League,Marion,MAR,MAR,MAR
 1911,Ohio State League,Portsmouth,POR,POR,POR
 1911,Ohio State League,Chillicothe,CHI,CHI,CHI
 1911,Ohio State League,Newark/Piqua,NEW+PIQ,,NEW+PIQ
@@ -298,7 +298,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1911,Southeastern League,Selma,SEL,SEL,SEL
 1911,Southeastern League,Rome,ROM,ROM,ROM
 1911,Southeastern League,Huntsville,HUN,HUN,HUN
-1911,Southeastern League,Decatur,DEC,JAN,FEB
+1911,Southeastern League,Decatur,DEC,DEC,DEC
 1911,Southwest Texas League,Bay City,BC,BC,BC
 1911,Southwest Texas League,Brownsville,BRO,BRO,BRO
 1911,Southwest Texas League,Beeville,BEE,BEE,BEE
