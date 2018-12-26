@@ -1,0 +1,60 @@
+
+We are the group behind all of the historical minor league performance and
+demographic data on baseball-reference.com.  We are developing an improved
+dataset documenting professional and other strong baseball leagues prior 
+to 1960.  We follow a source-oriented approach to organising our data, with
+the goal that every data value can be traced back to an original published
+source.
+
+The historical record is scattered across many sources, and is often incomplete
+or internally inconsistent.  We have developed a methodology to capture this
+information efficiently, and to draw the most sensible conclusions possible
+from the data collected so far.  Our undertaking, and our methods, are
+similar to the approach taken by ICI in the years running up to the
+production of the original edition of the Macmillan encyclopedia for
+the Major Leagues.
+
+Our starting point is, for each league-season, compilations of averages 
+published in e.g. the Guides, as well as any similar compilations done 
+previously by researchers.   Guide data is notoriously
+uneven in quality across leagues and years; nevertheless it provides a useful
+point of departure for establishing a substantial if incomplete list of players
+participating in a season.  
+
+We add to this game-level data, for which we have developed an efficient text 
+format for transcribing boxscores and game accounts.  We organise boxscores
+by source, allowing for the possibility to capture and compare multiple
+accounts of the same game.  
+
+We establish a player's participation in a game based on at least one mention 
+in either an averages compilation or a boxscore.  For each league-season,
+we correlate information across published averages, boxscores, and other
+sources using tags we refer to as "idents".  All records (believed to)
+refer to the same person are tagged with the same ident. 
+
+We further have developed an efficient system for capturing other types
+of demographic information on people, which likewise is often scattered in
+passing mentions in newspaper articles.  These often provide valuable
+clues to a person's career path in baseball.  We use this information to 
+help match up idents across league-seasons to map out careers.
+
+A summary dashboard of our work is viewable at 
+http://chadwick-bureau.com/data/boxscores/summary/register.html
+This register provides a read-across of the source data providing the
+underpinning evidence for a person's career.  This document reflects
+the current state of our data capture, and our current correlations of
+mentions of people in the source records.  It is re-built daily as we
+add new source data and revise correlations.
+
+This document does not contain complete careers; it summarises the
+source evidence we have to date for a player's career.  Sources are
+internally inconsistent - for example, it is not unusual for a pitcher
+to be listed with more games pitched than games played.  Likewise,
+different sources sometimes provide conflicting data.
+
+All our data is available online:
+* Compilations of averages: https://github.com/chadwickbureau/minoraverages
+* Compilations of boxscores: https://github.com/chadwickbureau/boxscores
+* Ident mappings: https://github.com/chadwickbureau/identlink
+
+
