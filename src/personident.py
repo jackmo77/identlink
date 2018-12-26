@@ -72,7 +72,7 @@ def collect_from_retrosheet(path):
     print "Collecting items from retrosheet dataset."
     dflist = []
     lookup = pd.read_csv("support/retroteams.csv", dtype=str, encoding='utf-8')
-    for year in range(1915, 1916):
+    for year in range(1906, 1920):
         source = "retrosheet/%s" % year
         print "Collecting source %s" % source
         df = pd.read_csv("%s/retrosplits/daybyday/playing-%d.csv" % (path, year),
