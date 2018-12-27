@@ -4,105 +4,91 @@ import os
 import glob
 import argparse
 
+import pathlib2 as pathlib
 import pandas as pd
+
+def extract_with_source(path, source, **kwargs):
+    """Helper function to extract a CSV file and add a 'source' column.
+    """
+    try:
+        return pd.read_csv(path, dtype=str, encoding='utf-8', **kwargs) \
+                 .assign(source=source)
+    except IOError:
+        return pd.DataFrame()
+        
 
 def collect_from_averages(path):
     """Collect playing and managing performance records from
     minoraverages repository.
     """
     print "Collecting items from minoraverages dataset."
-    dflist = []
-    for sourcepath in glob.glob("%s/processed/*" % path):
-        source = sourcepath.split("/")[-1]
-        print "Collecting source %s" % source
-        dflist.append(pd.read_csv("%s/playing_individual.csv" % sourcepath,
-                                  dtype=str, encoding='utf-8'))
-        dflist[-1]['source'] = "minoraverages/%s" % source
-        try:
-            dflist.append(pd.read_csv("%s/managing_individual.csv" % sourcepath,
-                                      dtype=str, encoding='utf-8'))
-            dflist[-1]['source'] = "minoraverages/%s" % source
-        except IOError:
-            print "  Warning: did not find managers file"
-    print
-    return dflist
+    return [pd.concat([extract_with_source(sourcepath/"playing_individual.csv",
+                                           "minoraverages/"+sourcepath.name)
+                       for sourcepath in (path/"processed").glob("*")] +
+                      [extract_with_source(sourcepath/"managing_individual.csv",
+                                           "minoraverages/"+sourcepath.name)
+                       for sourcepath in (path/"processed").glob("*")],
+                      sort=True, ignore_index=True)]
+        
 
 def collect_from_boxscores(path):
     """Collect people entries from boxscores repository.
     """
-    print "Collecting items from boxscores dataset."
-    dflist = []
-    for sourcepath in glob.glob("%s/data/boxscores/processed/*/*" % path):
-        source = "/".join(sourcepath.split("/")[-2:])
-        print "Collecting source %s" % source
+    print "Collecting players from boxscores dataset."
+    players = pd.concat([extract_with_source(sourcepath/"players.csv",
+                                             "/".join(["boxscores",
+                                                       sourcepath.parts[-2],
+                                                       sourcepath.parts[-1]]))
+                        for sourcepath in (path/"data"/"boxscores"/"processed").glob("*/*")],
+                        ignore_index=True)
+    umpires = pd.concat([extract_with_source(sourcepath/"umpires.csv",
+                                             "/".join(["boxscores",
+                                                       sourcepath.parts[-2],
+                                                       sourcepath.parts[-1]]))
+                        for sourcepath in (path/"data"/"boxscores"/"processed").glob("*/*")],
+                        ignore_index=True)
+    umpires['entry.name'] = "#umpire"
+    return [players, umpires]
 
-        try:
-            dflist.append(pd.read_csv("%s/players.csv" % sourcepath,
-                                      dtype=str, encoding='utf-8'))
-            dflist[-1]['source'] = "boxscores/%s" % source
-        except IOError:
-            print "  Warning: did not find people file"
-    print
-    return dflist
 
-
-def collect_umpires_from_boxscores(path):
-    """Collect umpire entries from boxscores repository.
+def collect_retrosheet_rosters(path_retro, year):
+    """Collect the roster files from the Retrosheet repository for 'year'.
     """
-    print "Collecting umpires from boxscores dataset."
-    dflist = []
-    for sourcepath in glob.glob("%s/data/boxscores/processed/*/*" % path):
-        source = "/".join(sourcepath.split("/")[-2:])
-        print "Collecting source %s" % source
-        try:
-            dflist.append(pd.read_csv("%s/umpires.csv" % sourcepath,
-                                      dtype=str, encoding='utf-8'))
-            dflist[-1]['source'] = "boxscores/%s" % source
-            dflist[-1]['entry.name'] = "#umpire"
-        except IOError:
-            print "  Warning: did not find umpires file"
-    print
-    return dflist
+    return pd.concat([pd.read_csv(fn, dtype=str, encoding='utf-8',
+                                  header=None,
+                                  names=['person.ref',
+                                         'person.name.last', 'person.name.given',
+                                         'bats', 'throws', 'team.key', 'pos'],
+                                  usecols=['person.ref', 'team.key',
+                                           'person.name.last', 'person.name.given'])
+                     for fn in (path_retro/"rosters").glob("*%s.ROS" % year)],
+                     sort=False, ignore_index=True)
 
 
-
-def collect_from_retrosheet(path):
+def collect_from_retrosheet(path_splits, path_retro):
     """Collect playing entries from retrosplits repository.
     """
-    print "Collecting items from retrosheet dataset."
+    print "Collecting items from Retrosheet dataset."
     dflist = []
-    lookup = pd.read_csv("support/retroteams.csv", dtype=str, encoding='utf-8')
+    teams = pd.read_csv("support/retroteams.csv", dtype=str, encoding='utf-8')
     for year in range(1906, 1920):
-        source = "retrosheet/%s" % year
-        print "Collecting source %s" % source
-        df = pd.read_csv("%s/retrosplits/daybyday/playing-%d.csv" % (path, year),
-                         dtype=str, encoding='utf-8')
-        df = df[['person.key', 'team.key', 'game.date']]
-        df = df.groupby(['person.key', 'team.key']).aggregate(['min', 'max'])
-        df.columns = ['S_FIRST', 'S_LAST']
-        df.reset_index(inplace=True)
+        df = pd.read_csv(path_splits/"daybyday"/("playing-%d.csv" % year),
+                         dtype=str, encoding='utf-8',
+                         usecols=['person.key', 'team.key', 'game.date']) \
+               .groupby(['person.key', 'team.key'])['game.date'] \
+               .agg(['min', 'max']) \
+               .set_axis(['S_FIRST', 'S_LAST'], axis='columns', inplace=False) \
+               .reset_index() 
         df['league.year'] = df['S_FIRST'].str.split('-').str[0]
-        df = pd.merge(df, lookup, how='left', on=['league.year', 'team.key'])
-        df.rename(inplace=True, columns={'person.key':  'person.ref'})
-        df['source'] = source
-
-        rosters = pd.concat([pd.read_csv(fn, dtype=str, encoding='utf-8',
-                                         header=None,
-                                         names=['person.ref',
-                                                'person.name.last',
-                                                'person.name.given',
-                                                'bats', 'throws',
-                                                'team.key', 'pos'])
-                             for fn in glob.glob("%s/retrosheet/rosters/*%s.ROS" %
-                                                 (path, year))],
-                            sort=False, ignore_index=True)
-        df = pd.merge(df, rosters[['person.ref', 'team.key',
-                                   'person.name.last', 'person.name.given']],
+        df = df.merge(teams, how='left', on=['league.year', 'team.key']) \
+               .rename(columns={'person.key':  'person.ref'}) \
+               .assign(source="retrosheet/%s" % year) \
+               .merge(collect_retrosheet_rosters(path_retro, year),
                       how='left', on=['person.ref', 'team.key'])
         dflist.append(df[['source', 'league.year', 'league.name',
                           'person.ref',
                           'person.name.last', 'person.name.given',
-                          'entry.name', 'S_FIRST', 'S_LAST']].copy())
+                          'entry.name', 'S_FIRST', 'S_LAST']])
     return dflist
 
 def collect_from_researchers(path):
@@ -123,22 +109,38 @@ def collect_from_researchers(path):
     df = df[~df['person.name.last'].isnull()].copy()
     return [df]
 
-def main():
-    """Update person ident lists from source records.
-    """
-    parser = argparse.ArgumentParser(description="Update person ident lists "
-                                                 "from source records")
-    parser.parse_args()
 
-    retrolist = collect_from_retrosheet("..")
-    avglist = collect_from_averages("../minoraverages")
-    boxlist = collect_from_boxscores("../boxscores")
-    umplist = collect_umpires_from_boxscores("../boxscores")
+def extract_idents(path):
+    """Compile the existing ident files. 'path' is the root of the repository
+    of person ident files.
+    """
+    print("Collecting identfiles")
+    idents = pd.concat([pd.read_csv(fn, dtype=str, encoding='utf-8')
+                       for fn in path.glob("*/*.csv")],
+                       ignore_index=True, sort=False)
+    for col in ['person.name.given', 'S_STINT']:
+        idents[col] = idents[col].fillna("")
+    return idents[['ident', 'source', 'league.year', 'league.name',
+                   'person.ref', 'person.name.last', 'person.name.given',
+                   'S_STINT', 'entry.name']]
+
+
+def extract_sources():
+    """Collect up person references from the various sources.
+    """
+    retrolist = collect_from_retrosheet(path_splits=pathlib.Path("../retrosplits"),
+                                        path_retro=pathlib.Path("../retrosheet"))
+    avglist = collect_from_averages(pathlib.Path("../minoraverages"))
+    boxlist = collect_from_boxscores(pathlib.Path("../boxscores"))
     reslist = collect_from_researchers("../researchers")
     print "Concatenating files..."
-    df = pd.concat(retrolist + avglist + boxlist + umplist + reslist,
-                   sort=False, ignore_index=True)
+    return pd.concat(retrolist + avglist + boxlist + reslist,
+                     sort=False, ignore_index=True)
 
+
+def clean_sources(df):
+    """Clean up source records into a standard format.
+    """
     # Fill in an indicator for records which indicate a position played
     # but not games at that position
     for pos in ["P", "C", "1B", "2B", "3B", "SS", "OF", "LF", "CF", "RF"]:
@@ -148,48 +150,42 @@ def main():
                                  .apply(lambda x:
                                         "yes" if not pd.isnull(x) and int(x) > 0
                                         else None))
+    for col in ['person.name.given', 'S_STINT']:
+        df[col] = df[col].fillna("")
+    # We convert dates to YYYYMMDD. This way, ident files can be loaded
+    # into e.g. Excel for editing, without messing up the formatting.
+    # YYYYMMDD is considered a valid ISO date format as well.
+    for col in ['S_FIRST', 'S_LAST']:
+        df[col] = df[col].str.replace("-", "")
+    return df
 
-    idents = []
-    for identfile in glob.glob("data/ident/people/*/*.csv"):
-        print "Collecting identfile %s" % identfile
-        idents.append(pd.read_csv(identfile, dtype=str, encoding='utf-8'))
-    print
-    if idents:
-        idents = pd.concat(idents, sort=False, ignore_index=True)
-
-        df['person.name.given'] = df['person.name.given'].fillna("")
-        idents['person.name.given'] = idents['person.name.given'].fillna("")
-        df['S_STINT'] = df['S_STINT'].fillna("")
-        idents['S_STINT'] = idents['S_STINT'].fillna("")
-        df = pd.merge(df,
-                      idents[['ident', 'source', 'league.year', 'league.name',
-                              'person.ref', 'person.name.last', 'person.name.given',
-                              'S_STINT', 'entry.name']],
-                      how='left',
+def merge_idents(df, idents):
+    """Apply existing person reference identifications to dataset of sources.
+    """
+    if not idents.empty:
+        df = df.merge(idents, how='left',
                       on=['source', 'league.year', 'league.name',
                           'person.ref', 'person.name.last', 'person.name.given',
                           'S_STINT', 'entry.name'])
     else:
         df['ident'] = None
-    df = df[['source', 'league.year', 'league.name', 'ident', 'person.ref',
-             'person.name.last', 'person.name.given',
-             'S_STINT', 'entry.name',
-             'S_FIRST', 'S_LAST',
-             'B_G', 'P_G', 'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
-             'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G', 'F_C_G', 'F_P_G',
-             'F_ALL_G']]
-    df.sort_values(['league.year', 'league.name',
-                    'person.name.last', 'source', 'person.ref'],
-                   inplace=True)
+    return df[['source', 'league.year', 'league.name', 'ident', 'person.ref',
+               'person.name.last', 'person.name.given',
+               'S_STINT', 'entry.name',
+               'S_FIRST', 'S_LAST',
+               'B_G', 'P_G', 'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
+               'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G', 'F_C_G', 'F_P_G',
+               'F_ALL_G']] \
+           .drop_duplicates() \
+           .sort_values(['league.year', 'league.name',
+                        'person.name.last', 'source', 'person.ref'])
 
-    # We convert dates to YYYYMMDD. This way, ident files can be loaded
-    # into e.g. Excel for editing, without messing up the formatting.
-    # YYYYMMDD is considered a valid ISO date format as well.
-    df['S_FIRST'] = df['S_FIRST'].str.replace("-", "")
-    df['S_LAST'] = df['S_LAST'].str.replace("-", "")
 
+def load_idents(df, path):
+    """Write out ident files to disk repository.
+    """
     print "Writing ident files..."
-    for (group, data) in df.groupby(['league.year', 'league.name']):
+    for ((year, league), data) in df.groupby(['league.year', 'league.name']):
         # We only generate ident files for leagues where we have
         # either an averages compilation or boxscore data
         sample = data[data['source'].str.startswith('retrosheet/') |
@@ -197,17 +193,26 @@ def main():
                       data['source'].str.startswith('boxscores/')]
         if sample.empty:
             continue
-        print group[0], group[1]
-        try:
-            os.makedirs("data/ident/people/%s" % group[0])
-        except os.error:
-            pass
-        data = data.drop_duplicates()
-        data.to_csv("data/ident/people/%s/%s%s.csv" %
-                    (group[0], group[0],
-                     group[1].replace(" ", "").replace("-", "")),
-                    index=False,
-                    encoding='utf-8')
+        print year, league
+        (path / year).mkdir(exist_ok=True)
+        filepath = path / year / \
+                   ("%s%s.csv" % (year, league.replace(" ", "").replace("-", "")))
+        data.to_csv(filepath, index=False, encoding='utf-8')
+
+
+def main():
+    """Update person ident lists from source records.
+    """
+    parser = argparse.ArgumentParser(description="Update person ident lists "
+                                                 "from source records")
+    parser.parse_args()
+
+    ident_path = pathlib.Path("data/ident/people")
+    idents = extract_idents(ident_path)
+    df = extract_sources().pipe(clean_sources) \
+                          .pipe(merge_idents, idents) \
+                          .pipe(load_idents, ident_path)
+
 
 
 if __name__ == '__main__':
