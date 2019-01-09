@@ -11,13 +11,14 @@ for version control, as it will ensure that changes that show up in the
 history of the file will be changes in content, instead of changes in formatting.
 """
 
-import pandas
+import sys
+import pandas as pd
+
+def main():
+    for fn in sys.argv[1:]:
+        print("Tidying %s" % fn)
+        pd.read_csv(fn, dtype=str) \
+          .to_csv(fn, index=False, encoding='utf-8')
 
 if __name__ == '__main__':
-    import sys
-
-    for fn in sys.argv[1:]:
-        print "Tidying %s" % fn
-        df = pandas.read_csv(fn, dtype=str)
-        df.to_csv(fn, index=False, encoding='utf-8')
-    
+    main()
