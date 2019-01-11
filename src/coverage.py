@@ -16,10 +16,10 @@ def main():
         df = pd.read_csv(fn, dtype=str)
         league = df['league.name'].unique()[0]
 
-        print "%4d/%4d %5.1f%% %s %s" % \
-          (len(df[~df['ident'].isnull()]), len(df),
-           100.0 * len(df[~df['ident'].isnull()]) / len(df),
-           args.year, league)
+        print("%4d/%4d %5.1f%% %s %s" % \
+              (len(df[~df['ident'].isnull()]), len(df),
+               100.0 * len(df[~df['ident'].isnull()]) / len(df),
+               args.year, league))
 
 
 if __name__ == '__main__':

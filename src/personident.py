@@ -3,8 +3,8 @@
 from __future__ import print_function
 from __future__ import unicode_literals
 import argparse
+import pathlib
 
-import pathlib2 as pathlib
 import pandas as pd
 
 def extract_with_source(path, source, **kwargs):

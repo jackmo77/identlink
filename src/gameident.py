@@ -9,19 +9,19 @@ import pandas as pd
 def collect_from_boxscores(path):
     """Collect people entries from boxscores repository.
     """
-    print "Collecting items from boxscores dataset."
+    print("Collecting items from boxscores dataset.")
     dflist = []
     for sourcepath in glob.glob("%s/data/boxscores/processed/*/*" % path):
         source = "/".join(sourcepath.split("/")[-2:])
-        print "Collecting source %s" % source
+        print("Collecting source %s" % source)
 
         try:
             dflist.append(pd.read_csv("%s/games.csv" % sourcepath,
                                       dtype=str))
             dflist[-1]['source'] = "boxscores/%s" % source
         except IOError:
-            print "  Warning: did not find games file"
-    print
+            print("  Warning: did not find games file")
+    print()
     return dflist
 
 
@@ -70,9 +70,9 @@ def main():
 
     idents = []
     for identfile in glob.glob("data/ident/games/*/*.csv"):
-        print "Collecting identfile %s" % identfile
+        print("Collecting identfile %s" % identfile)
         idents.append(pd.read_csv(identfile, dtype=str))
-    print
+    print()
     if idents:
         idents = pd.concat(idents, sort=False, ignore_index=True)
 
@@ -90,9 +90,9 @@ def main():
                    'game.ref']]
     games = add_default_idents(games)
 
-    print "Writing ident files..."
+    print("Writing ident files...")
     for ((year, league), data) in games.groupby(['league.year', 'league.name']):
-        print year, league
+        print(year, league)
         try:
             os.makedirs("data/ident/games/%s" % year)
         except os.error:
