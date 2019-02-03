@@ -11,14 +11,16 @@ for version control, as it will ensure that changes that show up in the
 history of the file will be changes in content, instead of changes in formatting.
 """
 
-import sys
+from __future__ import print_function
+try:
+    import pathlib
+except ImportError:
+    import pathlib2 as pathlib
 import pandas as pd
 
 def main():
-    for fn in sys.argv[1:]:
+    for fn in pathlib.Path("data/ident").glob("**/*.csv"):
         print("Tidying %s" % fn)
         pd.read_csv(fn, dtype=str) \
           .to_csv(fn, index=False, encoding='utf-8')
 
-if __name__ == '__main__':
-    main()

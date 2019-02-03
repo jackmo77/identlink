@@ -1,8 +1,9 @@
 """Update game ident lists from source records.
 """
+from __future__ import print_function
+
 import os
 import glob
-import argparse
 
 import pandas as pd
 
@@ -43,10 +44,6 @@ def add_default_idents(df):
 def main():
     """Update game ident lists from source records.
     """
-    parser = argparse.ArgumentParser(description="Update game ident lists "
-                                                 "from source records")
-    parser.parse_args()
-
     games = pd.concat(collect_from_boxscores("../boxscores"),
                       sort=False, ignore_index=True)
     games['league.year'] = games['date'].str[:4]
@@ -101,6 +98,3 @@ def main():
                     (year, year,
                      league.replace(" ", "").replace("-", "")),
                     index=False)
-
-if __name__ == '__main__':
-    main()

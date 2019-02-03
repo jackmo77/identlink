@@ -1,9 +1,10 @@
 """Update person ident lists from source records.
 """
 from __future__ import print_function
-from __future__ import unicode_literals
-import argparse
-import pathlib
+try:
+    import pathlib
+except ImportError:
+    import pathlib2 as pathlib
 
 import pandas as pd
 
@@ -203,16 +204,8 @@ def load_idents(df, path):
 def main():
     """Update person ident lists from source records.
     """
-    parser = argparse.ArgumentParser(description="Update person ident lists "
-                                                 "from source records")
-    parser.parse_args()
-
     ident_path = pathlib.Path("data/ident/people")
     idents = extract_idents(ident_path)
     extract_sources().pipe(clean_sources) \
                      .pipe(merge_idents, idents) \
                      .pipe(load_idents, ident_path)
-
-
-if __name__ == '__main__':
-    main()
