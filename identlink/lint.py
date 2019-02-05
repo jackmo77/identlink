@@ -12,7 +12,8 @@ def main(year):
                     for fn in glob.glob("data/ident/people/%s/*.csv" % year)])
     df = df[~df['entry.name'].isnull() & (df['entry.name']!="all") &
             (df['entry.name']!="#umpire")]
-    df = df[df['source'].str.startswith("minoraverages")]
+    df = df[df['source'].str.startswith("minoraverages") |
+            df['source'].str.startswith("boxscores")]
     df['source'] = df['source'].str.split("/").str[-1]
     df.rename(inplace=True, columns={'league.name': 'league.name.full'})
     
