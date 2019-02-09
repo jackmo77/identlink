@@ -1,0 +1,39 @@
+source,league.year,league.name,ident,game.date,game.number,away.name,away.score,home.name,home.score,game.ref
+boxscores/1908/1908-SDU,1908,Central Kansas League,0622-ellsworth-mcpherson-0,19080622,0,McPherson,0,Ellsworth,1,JTWXCDW
+boxscores/1908/1908-MM,1908,Central Kansas League,0622-littleriver-minneapolis-0,19080622,0,Little River,1,Minneapolis,5,CKRTYTR
+boxscores/1908/1908-SDU,1908,Central Kansas League,0622-newton-salina-0,19080622,0,Newton,2,Salina,4,ZZLDDHK
+boxscores/1908/1908-SDU,1908,Central Kansas League,0623-ellsworth-mcpherson-0,19080623,0,McPherson,6,Ellsworth,5,NCVFDYC
+boxscores/1908/1908-SDU,1908,Central Kansas League,0623-littleriver-minneapolis-0,19080623,0,Little River,1,Minneapolis,11,CRYKVMR
+boxscores/1908/1908-SDU,1908,Central Kansas League,0623-newton-salina-0,19080623,0,Newton,8,Salina,6,VKJDJXM
+boxscores/1908/1908-SDU,1908,Central Kansas League,0624-ellsworth-mcpherson-0,19080624,0,McPherson,2,Ellsworth,5,KYVMRKB
+boxscores/1908/1908-SDU,1908,Central Kansas League,0624-littleriver-minneapolis-0,19080624,0,Little River,3,Minneapolis,5,PBKQKFX
+boxscores/1908/1908-SDU,1908,Central Kansas League,0624-newton-salina-0,19080624,0,Newton,2,Salina,8,NJVTZSG
+boxscores/1908/1908-SDU,1908,Central Kansas League,0625-ellsworth-newton-0,19080625,0,Newton,2,Ellsworth,6,KNHBMKD
+boxscores/1908/1908-MDR,1908,Central Kansas League,0625-mcpherson-minneapolis-0,19080625,0,Minneapolis,3,McPherson,0,TZDJSSM
+boxscores/1908/1908-SDU,1908,Central Kansas League,0625-littleriver-salina-0,19080625,0,Little River,5,Salina,8,ZFMNXTD
+boxscores/1908/1908-SDU,1908,Central Kansas League,0626-ellsworth-newton-0,19080626,0,Newton,11,Ellsworth,3,QDPWLLS
+boxscores/1908/1908-SDU,1908,Central Kansas League,0626-mcpherson-minneapolis-0,19080626,0,McPherson,3,Minneapolis,8,KZSPLZG
+boxscores/1908/1908-SDU,1908,Central Kansas League,0626-littleriver-salina-0,19080626,0,Little River,0,Salina,1,RNJBSRV
+boxscores/1908/1908-EM,1908,Central Kansas League,0627-ellsworth-newton-0,19080627,0,Newton,5,Ellsworth,6,CPJJCYG
+boxscores/1908/1908-SDU,1908,Central Kansas League,0627-littleriver-salina-0,19080627,0,Salina,2,Little River,4,NGVPHSM
+boxscores/1908/1908-SDU,1908,Central Kansas League,0629-littleriver-minneapolis-0,19080629,0,Minneapolis,2,Little River,0,ZQHYLTW
+boxscores/1908/1908-SDU,1908,Central Kansas League,0629-ellsworth-mcpherson-0,19080629,0,Ellsworth,1,McPherson,1,XVHQYFN
+boxscores/1908/1908-SDU,1908,Central Kansas League,0629-newton-salina-0,19080629,0,Salina,1,Newton,2,KRZMJHD
+boxscores/1908/1908-SEJ,1908,Central Kansas League,0630-littleriver-minneapolis-0,19080630,0,Minneapolis,0,Little River,1,JNJVKWX
+boxscores/1908/1908-MDR,1908,Central Kansas League,0630-ellsworth-mcpherson-0,19080630,0,Ellsworth,4,McPherson,6,XJZGMKD
+boxscores/1908/1908-SDU,1908,Central Kansas League,0630-newton-salina-0,19080630,0,Salina,5,Newton,3,SVBQNVM
+boxscores/1908/1908-SDU,1908,Central Kansas League,0701-littleriver-minneapolis-0,19080701,0,Minneapolis,2,Little River,5,YXSVDQB
+boxscores/1908/1908-MDR,1908,Central Kansas League,0701-ellsworth-mcpherson-0,19080701,0,Ellsworth,2,McPherson,4,MYMDQMF
+boxscores/1908/1908-SDU,1908,Central Kansas League,0701-newton-salina-0,19080701,0,Salina,0,Newton,1,PKBQMVC
+boxscores/1908/1908-SEJ,1908,Central Kansas League,0702-ellsworth-littleriver-0,19080702,0,Ellsworth,8,Little River,5,XRYGSGY
+boxscores/1908/1908-SDU,1908,Central Kansas League,0702-mcpherson-salina-0,19080702,0,Salina,3,McPherson,1,CSWSJPV
+boxscores/1908/1908-SDU,1908,Central Kansas League,0702-minneapolis-newton-0,19080702,0,Minneapolis,6,Newton,0,KDVJYQN
+boxscores/1908/1908-SDU,1908,Central Kansas League,0703-ellsworth-littleriver-0,19080703,0,Ellsworth,1,Little River,9,VHPYYKZ
+boxscores/1908/1908-SDU,1908,Central Kansas League,0703-mcpherson-salina-0,19080703,0,Salina,6,McPherson,1,NLNCQPG
+boxscores/1908/1908-EKR,1908,Central Kansas League,0703-minneapolis-newton-0,19080703,0,Minneapolis,3,Newton,6,KVYHPDR
+boxscores/1908/1908-SDU,1908,Central Kansas League,0704-littleriver-mcpherson-1,19080704,1,Little River,1,McPherson,3,JGQGPFB
+boxscores/1908/1908-SDU,1908,Central Kansas League,0704-littleriver-mcpherson-2,19080704,2,Little River,2,McPherson,4,FSNFDFP
+boxscores/1908/1908-SDU,1908,Central Kansas League,0704-ellsworth-newton-1,19080704,1,Ellsworth,2,Newton,0,XMZHDSM
+boxscores/1908/1908-SDU,1908,Central Kansas League,0704-ellsworth-newton-2,19080704,2,Ellsworth,1,Newton,2,NXBFPHS
+boxscores/1908/1908-SDU,1908,Central Kansas League,0704-minneapolis-salina-1,19080704,1,Minneapolis,4,Salina,1,FCQGZXK
+boxscores/1908/1908-SDU,1908,Central Kansas League,0704-minneapolis-salina-2,19080704,2,Minneapolis,1,Salina,2,YMNNBBS
