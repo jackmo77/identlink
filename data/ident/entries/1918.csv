@@ -1,0 +1,89 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1918,American League,Boston,BOS,BOS,BOS
+1918,American League,Cleveland,CLE,CLE,CLE
+1918,American League,Washington,WS1,WS1,WS1
+1918,American League,New York,NYA,NYA,NYA
+1918,American League,St. Louis,SLA,SLA,SLA
+1918,American League,Chicago,CHA,CHA,CHA
+1918,American League,Detroit,DET,DET,DET
+1918,American League,Philadelphia,PHA,PHA,PHA
+1918,National League,Chicago,CHN,CHN,CHN
+1918,National League,New York,NY1,NY1,NY1
+1918,National League,Cincinnati,CIN,CIN,CIN
+1918,National League,Pittsburgh,PIT,PIT,PIT
+1918,National League,Brooklyn,BRO,BRO,BRO
+1918,National League,Philadelphia,PHI,PHI,PHI
+1918,National League,Boston,BSN,BSN,BSN
+1918,National League,St. Louis,SLN,SLN,SLN
+1918,American Association,Kansas City,KC,KC,KC
+1918,American Association,Columbus,COL,COL,COL
+1918,American Association,Indianapolis,IND,IND,IND
+1918,American Association,Louisville,LOU,LOU,LOU
+1918,American Association,Milwaukee,MIL,MIL,MIL
+1918,American Association,St. Paul,STP,STP,STP
+1918,American Association,Minneapolis,MIN,MIN,MIN
+1918,American Association,Toledo,TOL,TOL,TOL
+1918,International League,Toronto,TOR,TOR,TOR
+1918,International League,Binghamton,BIN,BIN,BIN
+1918,International League,Baltimore,BAL,BAL,BAL
+1918,International League,Newark,NEW,NEW,NEW
+1918,International League,Rochester,ROC,ROC,ROC
+1918,International League,Buffalo,BUF,BUF,BUF
+1918,International League,Syracuse/Hamilton,SYR+HAM,,SYR+HAM
+1918,International League,Syracuse,SYR+HAM,SYR,SYR+HAM
+1918,International League,Hamilton,SYR+HAM,HAM,SYR+HAM
+1918,International League,Jersey City,JC,JC,JC
+1918,Pacific Coast League,Vernon,VER,VER,VER
+1918,Pacific Coast League,Los Angeles,LA,LA,LA
+1918,Pacific Coast League,Salt Lake City,SLC,SLC,SLC
+1918,Pacific Coast League,Sacramento,SAC,SAC,SAC
+1918,Pacific Coast League,San Francisco,SF,SF,SF
+1918,Pacific Coast League,Oakland,OAK,OAK,OAK
+1918,Southern Association,New Orleans,NO,NO,NO
+1918,Southern Association,Little Rock,LR,LR,LR
+1918,Southern Association,Birmingham,BIR,BIR,BIR
+1918,Southern Association,Mobile,MOB,MOB,MOB
+1918,Southern Association,Chattanooga,CHA,CHA,CHA
+1918,Southern Association,Memphis,MEM,MEM,MEM
+1918,Southern Association,Nashville,NAS,NAS,NAS
+1918,Southern Association,Atlanta,ATL,ATL,ATL
+1918,Western League,Wichita,WIC,WIC,WIC
+1918,Western League,Topeka/Hutchinson,TOP+HU1,,TOP+HU1
+1918,Western League,Topeka,TOP+HU1,TOP,TOP+HU1
+1918,Western League,Hutchinson II,TOP+HU1,HU1,TOP+HU1
+1918,Western League,Des Moines,DM,DM,DM
+1918,Western League,Joplin,JOP,JOP,JOP
+1918,Western League,Omaha,OMA,OMA,OMA
+1918,Western League,Hutchinson/Oklahoma City,HU2+OKC,,HU2+OKC
+1918,Western League,Hutchinson I,HU2+OKC,HU2,HU2+OKC
+1918,Western League,Oklahoma City,HU2+OKC,OKC,HU2+OKC
+1918,Western League,St. Joseph,STJ,STJ,STJ
+1918,Western League,Sioux City,SC,SC,SC
+1918,Eastern League,New London,NL,NL,NL
+1918,Eastern League,Bridgeport,BRI,BRI,BRI
+1918,Eastern League,Providence,PRO,PRO,PRO
+1918,Eastern League,New Haven,NH,NH,NH
+1918,Eastern League,Hartford,HAR,HAR,HAR
+1918,Eastern League,Springfield,SPR,SPR,SPR
+1918,Eastern League,Waterbury,WAT,WAT,WAT
+1918,Eastern League,Worcester,WOR,WOR,WOR
+1918,Pacific Coast International League,Seattle,SEA,SEA,SEA
+1918,Pacific Coast International League,Portland,POR,POR,POR
+1918,Pacific Coast International League,Aberdeen,ABE,ABE,ABE
+1918,Pacific Coast International League,Vancouver,VAN,VAN,VAN
+1918,Pacific Coast International League,Tacoma,TAC,TAC,TAC
+1918,Pacific Coast International League,Spokane,SPO,SPO,SPO
+1918,Texas League,Dallas,DAL,DAL,DAL
+1918,Texas League,Fort Worth,FW,FW,FW
+1918,Texas League,Waco,WAC,WAC,WAC
+1918,Texas League,San Antonio,SA,SA,SA
+1918,Texas League,Houston,HOU,HOU,HOU
+1918,Texas League,Shreveport,SHR,SHR,SHR
+1918,Virginia League,Richmond,RIC,RIC,RIC
+1918,Virginia League,Newport News,NN,NN,NN
+1918,Virginia League,Petersburg,PET,PET,PET
+1918,Virginia League,Norfolk,NOR,NOR,NOR
+1918,Blue Ridge League,Cumberland,CUM,CUM,CUM
+1918,Blue Ridge League,Piedmont-Westernport,PIE,PIE,PIE
+1918,Blue Ridge League,Hagerstown,HAG,HAG,HAG
+1918,Blue Ridge League,Martinsburg,MAR,MAR,MAR

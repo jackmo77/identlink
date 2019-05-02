@@ -1,0 +1,121 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1919,American League,Chicago,CHA,CHA,CHA
+1919,American League,Cleveland,CLE,CLE,CLE
+1919,American League,New York,NYA,NYA,NYA
+1919,American League,Detroit,DET,DET,DET
+1919,American League,St. Louis,SLA,SLA,SLA
+1919,American League,Boston,BOS,BOS,BOS
+1919,American League,Washington,WS1,WS1,WS1
+1919,American League,Philadelphia,PHA,PHA,PHA
+1919,National League,Cincinnati,CIN,CIN,CIN
+1919,National League,New York,NY1,NY1,NY1
+1919,National League,Chicago,CHN,CHN,CHN
+1919,National League,Pittsburgh,PIT,PIT,PIT
+1919,National League,Brooklyn,BRO,BRO,BRO
+1919,National League,Boston,BOS,BOS,BOS
+1919,National League,St. Louis,SLN,SLN,SLN
+1919,National League,Philadelphia,PHI,PHI,PHI
+1919,American Association,St. Paul,STP,STP,STP
+1919,American Association,Kansas City,KC,KC,KC
+1919,American Association,Louisville,LOU,LOU,LOU
+1919,American Association,Indianapolis,IND,IND,IND
+1919,American Association,Minneapolis,MIN,MIN,MIN
+1919,American Association,Columbus,COL,COL,COL
+1919,American Association,Toledo,TOL,TOL,TOL
+1919,American Association,Milwaukee,MIL,MIL,MIL
+1919,International League,Baltimore,BAL,BAL,BAL
+1919,International League,Toronto,TOR,TOR,TOR
+1919,International League,Buffalo,BUF,BUF,BUF
+1919,International League,Binghamton,BIN,BIN,BIN
+1919,International League,Newark,NEW,NEW,NEW
+1919,International League,Rochester,ROC,ROC,ROC
+1919,International League,Jersey City,JC,JC,JC
+1919,International League,Reading,REA,REA,REA
+1919,Pacific Coast League,Vernon,VER,VER,VER
+1919,Pacific Coast League,Los Angeles,LA,LA,LA
+1919,Pacific Coast League,Salt Lake City,SLC,SLC,SLC
+1919,Pacific Coast League,Sacramento,SAC,SAC,SAC
+1919,Pacific Coast League,Oakland,OAK,OAK,OAK
+1919,Pacific Coast League,San Francisco,SF,SF,SF
+1919,Pacific Coast League,Portland,POR,POR,POR
+1919,Pacific Coast League,Seattle,SEA,SEA,SEA
+1919,Eastern League,Pittsfield,PIT,PIT,PIT
+1919,Eastern League,Worcester,WOR,WOR,WOR
+1919,Eastern League,Providence,PRO,PRO,PRO
+1919,Eastern League,Bridgeport,BRI,BRI,BRI
+1919,Eastern League,Springfield,SPR,SPR,SPR
+1919,Eastern League,Waterbury,WAT,WAT,WAT
+1919,Eastern League,New Haven,NH,NH,NH
+1919,Eastern League,Hartford,HAR,HAR,HAR
+1919,Southern Association,Atlanta,ATL,ATL,ATL
+1919,Southern Association,Little Rock,LR,LR,LR
+1919,Southern Association,New Orleans,NO,NO,NO
+1919,Southern Association,Mobile,MOB,MOB,MOB
+1919,Southern Association,Memphis,MEM,MEM,MEM
+1919,Southern Association,Chattanooga,CHA,CHA,CHA
+1919,Southern Association,Birmingham,BIR,BIR,BIR
+1919,Southern Association,Nashville,NAS,NAS,NAS
+1919,Western League,St. Joseph,STJ,STJ,STJ
+1919,Western League,Tulsa,TUL,TUL,TUL
+1919,Western League,Wichita,WIC,WIC,WIC
+1919,Western League,Des Moines,DM,DM,DM
+1919,Western League,Oklahoma City,OKC,OKC,OKC
+1919,Western League,Sioux City,SC,SC,SC
+1919,Western League,Joplin,JOP,JOP,JOP
+1919,Western League,Omaha,OMA,OMA,OMA
+1919,Michigan-Ontario League,Saginaw,SAG,SAG,SAG
+1919,Michigan-Ontario League,Hamilton,HAM,HAM,HAM
+1919,Michigan-Ontario League,Battle Creek,BAT,BAT,BAT
+1919,Michigan-Ontario League,Brantford,BRA,BRA,BRA
+1919,Michigan-Ontario League,Bay City,BAY,BAY,BAY
+1919,Michigan-Ontario League,Kitchener,KIT,KIT,KIT
+1919,Michigan-Ontario League,London,LON,LON,LON
+1919,Michigan-Ontario League,Flint,FLI,FLI,FLI
+1919,New England League,Lowell/Lewiston-Auburn,LOW+LAU,,LOW+LAU
+1919,New England League,Lowell,LOW+LAU,LOW,LOW+LAU
+1919,New England League,Lewiston-Auburn,LOW+LAU,LAU,LOW+LAU
+1919,New England League,Portland,POR,POR,POR
+1919,New England League,Fitchburg,FIT,FIT,FIT
+1919,New England League,Haverhill,HAV,HAV,HAV
+1919,New England League,Lewiston,LEW,LEW,LEW
+1919,New England League,Lawrence,LAW,LAW,LAW
+1919,Northwest International League,Vancouver,VAN,VAN,VAN
+1919,Northwest International League,Seattle,SEA,SEA,SEA
+1919,Northwest International League,Victoria,VIC,VIC,VIC
+1919,Northwest International League,Tacoma,TAC,TAC,TAC
+1919,Texas League,Fort Worth,FW,FW,FW
+1919,Texas League,Shreveport,SHR,SHR,SHR
+1919,Texas League,Houston,HOU,HOU,HOU
+1919,Texas League,Beaumont,BEA,BEA,BEA
+1919,Texas League,Dallas,DAL,DAL,DAL
+1919,Texas League,Galveston,GAL,GAL,GAL
+1919,Texas League,Waco,WAC,WAC,WAC
+1919,Texas League,San Antonio,SA,SA,SA
+1919,Illinois-Indiana-Iowa League,Bloomington,BLO,BLO,BLO
+1919,Illinois-Indiana-Iowa League,Peoria,PEO,PEO,PEO
+1919,Illinois-Indiana-Iowa League,Evansville,EVA,EVA,EVA
+1919,Illinois-Indiana-Iowa League,Rockford,ROC,ROC,ROC
+1919,Illinois-Indiana-Iowa League,Terre Haute,TH,TH,TH
+1919,Illinois-Indiana-Iowa League,Moline,MOL,MOL,MOL
+1919,South Atlantic League,Columbia,COL,COL,COL
+1919,South Atlantic League,Charlotte,CLT,CLT,CLT
+1919,South Atlantic League,Greenville,GRE,GRE,GRE
+1919,South Atlantic League,Charleston,CTN,CTN,CTN
+1919,South Atlantic League,Augusta,AUG,AUG,AUG
+1919,South Atlantic League,Spartanburg,SPA,SPA,SPA
+1919,Virginia League,Petersburg,PET,PET,PET
+1919,Virginia League,Richmond,RIC,RIC,RIC
+1919,Virginia League,Portsmouth,POR,POR,POR
+1919,Virginia League,Norfolk,NOR,NOR,NOR
+1919,Virginia League,Suffolk,SUF,SUF,SUF
+1919,Virginia League,Newport News,NN,NN,NN
+1919,Western Canada League,Saskatoon,SAS,SAS,SAS
+1919,Western Canada League,Winnipeg,WIN,WIN,WIN
+1919,Western Canada League,Regina,REG,REG,REG
+1919,Western Canada League,Moose Jaw,MJ,MJ,MJ
+1919,Florida State League,Sanford,SAN,SAN,SAN
+1919,Florida State League,Orlando,ORL,ORL,ORL
+1919,Florida State League,Lakeland,LAK,LAK,LAK
+1919,Florida State League,Bradenton,BRA,BRA,BRA
+1919,Florida State League,Bartow,BAR,BAR,BAR
+1919,Florida State League,Tampa,TAM,TAM,TAM
