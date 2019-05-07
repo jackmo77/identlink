@@ -39,7 +39,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0420-littlerock-mobile-0,190904
 boxscores/1909/1909-MCA,1909,Southern Association,0420-littlerock-mobile-0,19090420,0,Little Rock,2,Mobile,3,NTCXMYH
 boxscores/1909/1909-AG,1909,Southern Association,0420-birmingham-montgomery-0,19090420,0,Birmingham,3,Montgomery,9,FRNLXNX
 boxscores/1909/1909-MCA,1909,Southern Association,0420-birmingham-montgomery-0,19090420,0,Birmingham,3,Montgomery,9,TDGTNMP
-boxscores/1909/1909-AG,1909,Southern Association,0420-atlanta-nashville-0,19090420,0,Atlanta,,Nashville,,JGYKVBT
+boxscores/1909/1909-AG,1909,Southern Association,0420-atlanta-nashville-0,19090420,0,Atlanta,,Nashville,,WXBDVRL
 boxscores/1909/1909-MCA,1909,Southern Association,0420-atlanta-nashville-0,19090420,0,Atlanta,,Nashville,,JVFPSPD
 boxscores/1909/1909-AG,1909,Southern Association,0420-memphis-neworleans-0,19090420,0,Memphis,1,New Orleans,3,YWNYLFX
 boxscores/1909/1909-MCA,1909,Southern Association,0420-memphis-neworleans-0,19090420,0,Memphis,1,New Orleans,3,NJNNTWK
@@ -73,11 +73,11 @@ boxscores/1909/1909-AG,1909,Southern Association,0424-atlanta-montgomery-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0424-atlanta-montgomery-0,19090424,0,Montgomery,3,Atlanta,2,XVLHFJD
 boxscores/1909/1909-AG,1909,Southern Association,0424-birmingham-nashville-0,19090424,0,Nashville,4,Birmingham,3,QVBZWDV
 boxscores/1909/1909-MCA,1909,Southern Association,0424-birmingham-nashville-0,19090424,0,Nashville,4,Birmingham,3,QLBCYQG
-boxscores/1909/1909-AG,1909,Southern Association,0424-memphis-mobile-0,19090424,0,Memphis,,Mobile,,VHFYTBK
+boxscores/1909/1909-AG,1909,Southern Association,0424-memphis-mobile-0,19090424,0,Memphis,,Mobile,,XFMVMMR
 boxscores/1909/1909-MCA,1909,Southern Association,0424-memphis-mobile-0,19090424,0,Memphis,,Mobile,,CCHHWFK
 boxscores/1909/1909-AG,1909,Southern Association,0424-littlerock-neworleans-0,19090424,0,Little Rock,4,New Orleans,2,YXXBLTT
 boxscores/1909/1909-MCA,1909,Southern Association,0424-littlerock-neworleans-0,19090424,0,Little Rock,4,New Orleans,2,HJGNGHL
-boxscores/1909/1909-AG,1909,Southern Association,0425-memphis-nashville-0,19090425,0,Nashville,,Memphis,,RGLCZJM
+boxscores/1909/1909-AG,1909,Southern Association,0425-memphis-nashville-0,19090425,0,Nashville,,Memphis,,WRPNSYM
 boxscores/1909/1909-MCA,1909,Southern Association,0425-memphis-nashville-0,19090425,0,Nashville,,Memphis,,GHZXBGM
 boxscores/1909/1909-AG,1909,Southern Association,0425-littlerock-neworleans-0,19090425,0,Little Rock,3,New Orleans,2,SKGBYHG
 boxscores/1909/1909-MCA,1909,Southern Association,0425-littlerock-neworleans-0,19090425,0,Little Rock,3,New Orleans,2,DMWGPCM
@@ -91,10 +91,8 @@ boxscores/1909/1909-AG,1909,Southern Association,0426-memphis-mobile-2,19090426,
 boxscores/1909/1909-MCA,1909,Southern Association,0426-memphis-mobile-2,19090426,2,Memphis,1,Mobile,1,DGBLKJB
 boxscores/1909/1909-AG,1909,Southern Association,0426-littlerock-neworleans-0,19090426,0,Little Rock,4,New Orleans,3,GJTSJNM
 boxscores/1909/1909-MCA,1909,Southern Association,0426-littlerock-neworleans-0,19090426,0,Little Rock,4,New Orleans,3,TPQLLDW
-boxscores/1909/1909-AG,1909,Southern Association,0427-atlanta-montgomery-0,19090427,0,Montgomery,,Atlanta,,LBMGYTX
-boxscores/1909/1909-MCA,1909,Southern Association,0427-atlanta-montgomery-0,19090427,0,Montgomery,,Atlanta,,QXRMYNT
-boxscores/1909/1909-AG,1909,Southern Association,0427-birmingham-nashville-0,19090427,0,Nashville,,Birmingham,,BXRGWGV
-boxscores/1909/1909-MCA,1909,Southern Association,0427-birmingham-nashville-0,19090427,0,Nashville,,Birmingham,,PDJKVXC
+boxscores/1909/1909-AG,1909,Southern Association,0427-atlanta-montgomery-0,19090427,0,Montgomery,,Atlanta,,DCJGXTZ
+boxscores/1909/1909-AG,1909,Southern Association,0427-birmingham-nashville-0,19090427,0,Nashville,,Birmingham,,LWKFJHQ
 boxscores/1909/1909-AG,1909,Southern Association,0427-memphis-mobile-1,19090427,1,Memphis,5,Mobile,3,XLXNKCG
 boxscores/1909/1909-MCA,1909,Southern Association,0427-memphis-mobile-1,19090427,1,Memphis,5,Mobile,3,GJFQGKF
 boxscores/1909/1909-AG,1909,Southern Association,0427-memphis-mobile-2,19090427,2,Memphis,0,Mobile,0,JJCSZZC
@@ -113,15 +111,15 @@ boxscores/1909/1909-AG,1909,Southern Association,0429-memphis-neworleans-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0429-memphis-neworleans-0,19090429,0,New Orleans,6,Memphis,0,KJGNSJY
 boxscores/1909/1909-AG,1909,Southern Association,0429-montgomery-nashville-0,19090429,0,Nashville,1,Montgomery,2,TZSVPBF
 boxscores/1909/1909-MCA,1909,Southern Association,0429-montgomery-nashville-0,19090429,0,Nashville,1,Montgomery,2,YYNXJFV
-boxscores/1909/1909-AG,1909,Southern Association,0430-atlanta-birmingham-0,19090430,0,Atlanta,,Birmingham,,CLFZQDX
+boxscores/1909/1909-AG,1909,Southern Association,0430-atlanta-birmingham-0,19090430,0,Atlanta,,Birmingham,,JPBBYJS
 boxscores/1909/1909-MCA,1909,Southern Association,0430-atlanta-birmingham-0,19090430,0,Atlanta,,Birmingham,,RJFVVCJ
 boxscores/1909/1909-AG,1909,Southern Association,0430-littlerock-mobile-0,19090430,0,Mobile,2,Little Rock,8,PGXYHQS
 boxscores/1909/1909-MCA,1909,Southern Association,0430-littlerock-mobile-0,19090430,0,Mobile,2,Little Rock,8,YXLRRGJ
-boxscores/1909/1909-AG,1909,Southern Association,0430-memphis-neworleans-0,19090430,0,New Orleans,,Memphis,,CYMGVFB
+boxscores/1909/1909-AG,1909,Southern Association,0430-memphis-neworleans-0,19090430,0,New Orleans,,Memphis,,LVNGJVT
 boxscores/1909/1909-MCA,1909,Southern Association,0430-memphis-neworleans-0,19090430,0,New Orleans,,Memphis,,HFKWKSG
 boxscores/1909/1909-AG,1909,Southern Association,0430-montgomery-nashville-0,19090430,0,Nashville,2,Montgomery,1,MHBJSBM
 boxscores/1909/1909-MCA,1909,Southern Association,0430-montgomery-nashville-0,19090430,0,Nashville,2,Montgomery,1,FQVWBSN
-boxscores/1909/1909-AG,1909,Southern Association,0501-atlanta-birmingham-1,19090501,1,Atlanta,3,Birmingham,0,YNBLRHM
+boxscores/1909/1909-AG,1909,Southern Association,0501-atlanta-birmingham-1,19090501,1,Atlanta,3,Birmingham,0,FBLSFGP
 boxscores/1909/1909-MCA,1909,Southern Association,0501-atlanta-birmingham-1,19090501,1,Atlanta,3,Birmingham,0,KNWVYCM
 boxscores/1909/1909-AG,1909,Southern Association,0501-atlanta-birmingham-2,19090501,2,Atlanta,4,Birmingham,4,MVYCVVL
 boxscores/1909/1909-MCA,1909,Southern Association,0501-atlanta-birmingham-2,19090501,2,Atlanta,4,Birmingham,4,VNVKWCF
@@ -147,7 +145,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0504-atlanta-nashville-0,190905
 boxscores/1909/1909-MCA,1909,Southern Association,0504-atlanta-nashville-0,19090504,0,Nashville,1,Atlanta,0,PLGGSSM
 boxscores/1909/1909-AG,1909,Southern Association,0504-birmingham-montgomery-0,19090504,0,Montgomery,3,Birmingham,9,MTVQPLX
 boxscores/1909/1909-MCA,1909,Southern Association,0504-birmingham-montgomery-0,19090504,0,Montgomery,3,Birmingham,9,GKFXMNX
-boxscores/1909/1909-AG,1909,Southern Association,0504-littlerock-neworleans-0,19090504,0,New Orleans,,Little Rock,,GXRXRKS
+boxscores/1909/1909-AG,1909,Southern Association,0504-littlerock-neworleans-0,19090504,0,New Orleans,,Little Rock,,MSCWJJM
 boxscores/1909/1909-MCA,1909,Southern Association,0504-littlerock-neworleans-0,19090504,0,New Orleans,,Little Rock,,YXRVMTL
 boxscores/1909/1909-AG,1909,Southern Association,0504-memphis-mobile-0,19090504,0,Mobile,2,Memphis,1,RGLYQSL
 boxscores/1909/1909-MCA,1909,Southern Association,0504-memphis-mobile-0,19090504,0,Mobile,2,Memphis,1,WNKMPTP
@@ -181,7 +179,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0508-atlanta-montgomery-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0508-atlanta-montgomery-0,19090508,0,Atlanta,4,Montgomery,3,FPTFWLG
 boxscores/1909/1909-AG,1909,Southern Association,0508-birmingham-nashville-0,19090508,0,Birmingham,3,Nashville,7,KWXDQXQ
 boxscores/1909/1909-MCA,1909,Southern Association,0508-birmingham-nashville-0,19090508,0,Birmingham,3,Nashville,7,WDYVGWR
-boxscores/1909/1909-AG,1909,Southern Association,0509-littlerock-memphis-0,19090509,0,Little Rock,,Memphis,,SDGPRTL
+boxscores/1909/1909-AG,1909,Southern Association,0509-littlerock-memphis-0,19090509,0,Little Rock,,Memphis,,VMNCVCC
 boxscores/1909/1909-MCA,1909,Southern Association,0509-littlerock-memphis-0,19090509,0,Little Rock,,Memphis,,NSWMKFJ
 boxscores/1909/1909-AG,1909,Southern Association,0509-mobile-neworleans-0,19090509,0,Mobile,10,New Orleans,1,BGFHHJM
 boxscores/1909/1909-MCA,1909,Southern Association,0509-mobile-neworleans-0,19090509,0,Mobile,10,New Orleans,1,DMWVGFL
@@ -225,7 +223,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0514-atlanta-neworleans-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0514-atlanta-neworleans-0,19090514,0,Atlanta,0,New Orleans,9,XBFKRSS
 boxscores/1909/1909-AG,1909,Southern Association,0515-birmingham-littlerock-0,19090515,0,Birmingham,3,Little Rock,4,YHNFPTW
 boxscores/1909/1909-MCA,1909,Southern Association,0515-birmingham-littlerock-0,19090515,0,Birmingham,3,Little Rock,4,DLDKDVZ
-boxscores/1909/1909-AG,1909,Southern Association,0515-memphis-nashville-0,19090515,0,Nashville,,Memphis,,MKWMYGC
+boxscores/1909/1909-AG,1909,Southern Association,0515-memphis-nashville-0,19090515,0,Nashville,,Memphis,,NGJGNNB
 boxscores/1909/1909-MCA,1909,Southern Association,0515-memphis-nashville-0,19090515,0,Nashville,,Memphis,,BPKBNMZ
 boxscores/1909/1909-AG,1909,Southern Association,0515-mobile-montgomery-0,19090515,0,Montgomery,2,Mobile,0,GSDCMQB
 boxscores/1909/1909-MCA,1909,Southern Association,0515-mobile-montgomery-0,19090515,0,Montgomery,2,Mobile,0,QZYRJFZ
@@ -257,15 +255,15 @@ boxscores/1909/1909-AG,1909,Southern Association,0519-atlanta-mobile-0,19090519,
 boxscores/1909/1909-MCA,1909,Southern Association,0519-atlanta-mobile-0,19090519,0,Mobile,3,Atlanta,4,HXZLTVQ
 boxscores/1909/1909-AG,1909,Southern Association,0519-birmingham-memphis-0,19090519,0,Memphis,3,Birmingham,6,XGVVNYN
 boxscores/1909/1909-MCA,1909,Southern Association,0519-birmingham-memphis-0,19090519,0,Memphis,3,Birmingham,6,WZKTZRV
-boxscores/1909/1909-AG,1909,Southern Association,0519-littlerock-nashville-0,19090519,0,Nashville,,Little Rock,,WGGLVWS
+boxscores/1909/1909-AG,1909,Southern Association,0519-littlerock-nashville-0,19090519,0,Nashville,,Little Rock,,ZGGHDJS
 boxscores/1909/1909-MCA,1909,Southern Association,0519-littlerock-nashville-0,19090519,0,Nashville,,Little Rock,,HPHBRFR
 boxscores/1909/1909-AG,1909,Southern Association,0520-littlerock-montgomery-0,19090520,0,Montgomery,2,Little Rock,6,BZZLLVF
 boxscores/1909/1909-MCA,1909,Southern Association,0520-littlerock-montgomery-0,19090520,0,Montgomery,2,Little Rock,6,VRCPSBK
-boxscores/1909/1909-AG,1909,Southern Association,0520-atlanta-memphis-0,19090520,0,Atlanta,,Memphis,,CMBDKCY
+boxscores/1909/1909-AG,1909,Southern Association,0520-atlanta-memphis-0,19090520,0,Atlanta,,Memphis,,XZCRRSZ
 boxscores/1909/1909-MCA,1909,Southern Association,0520-atlanta-memphis-0,19090520,0,Atlanta,,Memphis,,PGTFYKJ
 boxscores/1909/1909-AG,1909,Southern Association,0520-birmingham-mobile-0,19090520,0,Birmingham,3,Mobile,2,BCYKYZG
 boxscores/1909/1909-MCA,1909,Southern Association,0520-birmingham-mobile-0,19090520,0,Birmingham,3,Mobile,2,FCFZJFD
-boxscores/1909/1909-AG,1909,Southern Association,0521-littlerock-montgomery-0,19090521,0,Montgomery,,Little Rock,,PVHMYND
+boxscores/1909/1909-AG,1909,Southern Association,0521-littlerock-montgomery-0,19090521,0,Montgomery,,Little Rock,,GSGHVKB
 boxscores/1909/1909-MCA,1909,Southern Association,0521-littlerock-montgomery-0,19090521,0,Montgomery,,Little Rock,,PBQYPFY
 boxscores/1909/1909-AG,1909,Southern Association,0521-atlanta-memphis-0,19090521,0,Atlanta,0,Memphis,4,WDFSNBX
 boxscores/1909/1909-MCA,1909,Southern Association,0521-atlanta-memphis-0,19090521,0,Atlanta,0,Memphis,4,YMTHZLJ
@@ -287,7 +285,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0523-atlanta-memphis-0,19090523
 boxscores/1909/1909-MCA,1909,Southern Association,0523-atlanta-memphis-0,19090523,0,Atlanta,1,Memphis,0,HWBPWJV
 boxscores/1909/1909-AG,1909,Southern Association,0523-nashville-neworleans-0,19090523,0,Nashville,1,New Orleans,3,LYGNCCW
 boxscores/1909/1909-MCA,1909,Southern Association,0523-nashville-neworleans-0,19090523,0,Nashville,1,New Orleans,3,PPPVWGH
-boxscores/1909/1909-AG,1909,Southern Association,0524-atlanta-littlerock-0,19090524,0,Atlanta,,Little Rock,,BVRCFBW
+boxscores/1909/1909-AG,1909,Southern Association,0524-atlanta-littlerock-0,19090524,0,Atlanta,,Little Rock,,HGVMBPM
 boxscores/1909/1909-MCA,1909,Southern Association,0524-atlanta-littlerock-0,19090524,0,Atlanta,,Little Rock,,WSJMWDM
 boxscores/1909/1909-AG,1909,Southern Association,0524-mobile-nashville-0,19090524,0,Nashville,2,Mobile,10,LLRZJSR
 boxscores/1909/1909-MCA,1909,Southern Association,0524-mobile-nashville-0,19090524,0,Nashville,2,Mobile,10,VYPTYPZ
@@ -311,7 +309,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0526-mobile-nashville-0,1909052
 boxscores/1909/1909-MCA,1909,Southern Association,0526-mobile-nashville-0,19090526,0,Nashville,0,Mobile,1,MCCCHMJ
 boxscores/1909/1909-AG,1909,Southern Association,0526-memphis-montgomery-0,19090526,0,Memphis,3,Montgomery,4,BFGDRGL
 boxscores/1909/1909-MCA,1909,Southern Association,0526-memphis-montgomery-0,19090526,0,Memphis,3,Montgomery,4,VBFRXSD
-boxscores/1909/1909-AG,1909,Southern Association,0526-birmingham-neworleans-0,19090526,0,Birmingham,,New Orleans,,XYBPRFS
+boxscores/1909/1909-AG,1909,Southern Association,0526-birmingham-neworleans-0,19090526,0,Birmingham,,New Orleans,,TDWXDDJ
 boxscores/1909/1909-MCA,1909,Southern Association,0526-birmingham-neworleans-0,19090526,0,Birmingham,,New Orleans,,CLLTBKP
 boxscores/1909/1909-AG,1909,Southern Association,0528-atlanta-mobile-0,19090528,0,Mobile,1,Atlanta,4,PLKGRLK
 boxscores/1909/1909-MCA,1909,Southern Association,0528-atlanta-mobile-0,19090528,0,Mobile,1,Atlanta,4,QDRXGBY
@@ -329,7 +327,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0529-montgomery-neworleans-0,19
 boxscores/1909/1909-MCA,1909,Southern Association,0529-montgomery-neworleans-0,19090529,0,New Orleans,7,Montgomery,6,RRLCFTT
 boxscores/1909/1909-AG,1909,Southern Association,0529-memphis-nashville-0,19090529,0,Memphis,2,Nashville,3,VXZDTSQ
 boxscores/1909/1909-MCA,1909,Southern Association,0529-memphis-nashville-0,19090529,0,Memphis,2,Nashville,3,LZYKVRL
-boxscores/1909/1909-AG,1909,Southern Association,0530-memphis-nashville-0,19090530,0,Nashville,,Memphis,,CVRWDVR
+boxscores/1909/1909-AG,1909,Southern Association,0530-memphis-nashville-0,19090530,0,Nashville,,Memphis,,VJHWBWH
 boxscores/1909/1909-MCA,1909,Southern Association,0530-memphis-nashville-0,19090530,0,Nashville,,Memphis,,YLVGXKL
 boxscores/1909/1909-AG,1909,Southern Association,0530-littlerock-neworleans-0,19090530,0,Little Rock,2,New Orleans,3,FHKVYJW
 boxscores/1909/1909-MCA,1909,Southern Association,0530-littlerock-neworleans-0,19090530,0,Little Rock,2,New Orleans,3,JMQXVVT
@@ -341,13 +339,12 @@ boxscores/1909/1909-AG,1909,Southern Association,0531-birmingham-littlerock-1,19
 boxscores/1909/1909-MCA,1909,Southern Association,0531-birmingham-littlerock-1,19090531,1,Little Rock,2,Birmingham,1,RXMZRZF
 boxscores/1909/1909-AG,1909,Southern Association,0531-birmingham-littlerock-2,19090531,2,Little Rock,1,Birmingham,5,WYVMVWN
 boxscores/1909/1909-MCA,1909,Southern Association,0531-birmingham-littlerock-2,19090531,2,Little Rock,1,Birmingham,5,VZQNGTC
-boxscores/1909/1909-AG,1909,Southern Association,0531-montgomery-neworleans-1,19090531,1,New Orleans,,Montgomery,,HSJSQSM
+boxscores/1909/1909-AG,1909,Southern Association,0531-montgomery-neworleans-1,19090531,1,New Orleans,,Montgomery,,QGBQDZD
 boxscores/1909/1909-MCA,1909,Southern Association,0531-montgomery-neworleans-1,19090531,1,New Orleans,,Montgomery,,MVTGHJL
 boxscores/1909/1909-AG,1909,Southern Association,0531-montgomery-neworleans-2,19090531,2,New Orleans,3,Montgomery,5,YCDTDMS
 boxscores/1909/1909-MCA,1909,Southern Association,0531-montgomery-neworleans-2,19090531,2,New Orleans,3,Montgomery,5,YGXHZJK
-boxscores/1909/1909-AG,1909,Southern Association,0531-memphis-nashville-1,19090531,1,Memphis,,Nashville,,TMYLQNL
+boxscores/1909/1909-AG,1909,Southern Association,0531-memphis-nashville-0,19090531,0,Memphis,0,Nashville,1,BDFZRMV
 boxscores/1909/1909-MCA,1909,Southern Association,0531-memphis-nashville-1,19090531,1,Memphis,,Nashville,,PNXYLTR
-boxscores/1909/1909-AG,1909,Southern Association,0531-memphis-nashville-2,19090531,2,Memphis,0,Nashville,1,YNVSLSV
 boxscores/1909/1909-MCA,1909,Southern Association,0531-memphis-nashville-2,19090531,2,Memphis,0,Nashville,1,FFKGKDN
 boxscores/1909/1909-AG,1909,Southern Association,0601-atlanta-memphis-0,19090601,0,Memphis,0,Atlanta,2,FHKLFFP
 boxscores/1909/1909-MCA,1909,Southern Association,0601-atlanta-memphis-0,19090601,0,Memphis,0,Atlanta,2,XDVBQWD
@@ -361,17 +358,17 @@ boxscores/1909/1909-AG,1909,Southern Association,0602-atlanta-memphis-0,19090602
 boxscores/1909/1909-MCA,1909,Southern Association,0602-atlanta-memphis-0,19090602,0,Memphis,5,Atlanta,2,GKWDQWT
 boxscores/1909/1909-AG,1909,Southern Association,0602-birmingham-mobile-0,19090602,0,Mobile,1,Birmingham,0,ZJSRBFF
 boxscores/1909/1909-MCA,1909,Southern Association,0602-birmingham-mobile-0,19090602,0,Mobile,1,Birmingham,0,NSMZBQK
-boxscores/1909/1909-AG,1909,Southern Association,0602-littlerock-montgomery-0,19090602,0,Little Rock,,Montgomery,,PQVBHYP
+boxscores/1909/1909-AG,1909,Southern Association,0602-littlerock-montgomery-0,19090602,0,Little Rock,,Montgomery,,CWCHYNR
 boxscores/1909/1909-MCA,1909,Southern Association,0602-littlerock-montgomery-0,19090602,0,Little Rock,,Montgomery,,HQNCHFM
-boxscores/1909/1909-AG,1909,Southern Association,0602-nashville-neworleans-0,19090602,0,New Orleans,,Nashville,,TTNCVHL
+boxscores/1909/1909-AG,1909,Southern Association,0602-nashville-neworleans-0,19090602,0,New Orleans,,Nashville,,MPNZGFW
 boxscores/1909/1909-MCA,1909,Southern Association,0602-nashville-neworleans-0,19090602,0,New Orleans,,Nashville,,FSLTGBT
-boxscores/1909/1909-AG,1909,Southern Association,0603-atlanta-memphis-0,19090603,0,Memphis,,Atlanta,,TXJYZRM
+boxscores/1909/1909-AG,1909,Southern Association,0603-atlanta-memphis-0,19090603,0,Memphis,,Atlanta,,DQKMBHF
 boxscores/1909/1909-MCA,1909,Southern Association,0603-atlanta-memphis-0,19090603,0,Memphis,,Atlanta,,LCXBMVV
-boxscores/1909/1909-AG,1909,Southern Association,0603-birmingham-mobile-0,19090603,0,Mobile,,Birmingham,,XVJWVQJ
+boxscores/1909/1909-AG,1909,Southern Association,0603-birmingham-mobile-0,19090603,0,Mobile,,Birmingham,,GHQWDGP
 boxscores/1909/1909-MCA,1909,Southern Association,0603-birmingham-mobile-0,19090603,0,Mobile,,Birmingham,,QZGGVNT
-boxscores/1909/1909-AG,1909,Southern Association,0603-littlerock-montgomery-0,19090603,0,Little Rock,,Montgomery,,LSMFVNG
+boxscores/1909/1909-AG,1909,Southern Association,0603-littlerock-montgomery-0,19090603,0,Little Rock,,Montgomery,,CJHXHLB
 boxscores/1909/1909-MCA,1909,Southern Association,0603-littlerock-montgomery-0,19090603,0,Little Rock,,Montgomery,,BPTWWPK
-boxscores/1909/1909-AG,1909,Southern Association,0603-nashville-neworleans-0,19090603,0,New Orleans,,Nashville,,QNNSBZJ
+boxscores/1909/1909-AG,1909,Southern Association,0603-nashville-neworleans-0,19090603,0,New Orleans,,Nashville,,HMPDRKM
 boxscores/1909/1909-MCA,1909,Southern Association,0603-nashville-neworleans-0,19090603,0,New Orleans,,Nashville,,SHDNQNM
 boxscores/1909/1909-AG,1909,Southern Association,0604-atlanta-memphis-1,19090604,1,Memphis,3,Atlanta,4,MJWBWRR
 boxscores/1909/1909-MCA,1909,Southern Association,0604-atlanta-memphis-1,19090604,1,Memphis,3,Atlanta,4,CGVVVQP
@@ -383,7 +380,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0604-birmingham-mobile-2,190906
 boxscores/1909/1909-MCA,1909,Southern Association,0604-birmingham-mobile-2,19090604,2,Mobile,10,Birmingham,1,QSZLLDF
 boxscores/1909/1909-AG,1909,Southern Association,0604-littlerock-montgomery-1,19090604,1,Little Rock,1,Montgomery,0,PJGMSXT
 boxscores/1909/1909-MCA,1909,Southern Association,0604-littlerock-montgomery-1,19090604,1,Little Rock,1,Montgomery,0,LTSTGVH
-boxscores/1909/1909-AG,1909,Southern Association,0604-littlerock-montgomery-2,19090604,2,Little Rock,,Montgomery,,FBGPQQD
+boxscores/1909/1909-AG,1909,Southern Association,0604-littlerock-montgomery-2,19090604,2,Little Rock,,Montgomery,,WFWQNXC
 boxscores/1909/1909-MCA,1909,Southern Association,0604-littlerock-montgomery-2,19090604,2,Little Rock,,Montgomery,,BRKKWMY
 boxscores/1909/1909-AG,1909,Southern Association,0604-nashville-neworleans-1,19090604,1,New Orleans,2,Nashville,3,VBKGTVS
 boxscores/1909/1909-MCA,1909,Southern Association,0604-nashville-neworleans-1,19090604,1,New Orleans,2,Nashville,3,KGTFSZJ
@@ -413,7 +410,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0608-atlanta-littlerock-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0608-atlanta-littlerock-0,19090608,0,Little Rock,1,Atlanta,6,TZFDVXL
 boxscores/1909/1909-AG,1909,Southern Association,0608-birmingham-neworleans-0,19090608,0,New Orleans,4,Birmingham,10,HBLDXPV
 boxscores/1909/1909-MCA,1909,Southern Association,0608-birmingham-neworleans-0,19090608,0,New Orleans,4,Birmingham,10,RWFTFJB
-boxscores/1909/1909-AG,1909,Southern Association,0608-memphis-montgomery-0,19090608,0,Montgomery,,Memphis,,GBDXJRC
+boxscores/1909/1909-AG,1909,Southern Association,0608-memphis-montgomery-0,19090608,0,Montgomery,,Memphis,,BBBFLTF
 boxscores/1909/1909-MCA,1909,Southern Association,0608-memphis-montgomery-0,19090608,0,Montgomery,,Memphis,,SWRBZGB
 boxscores/1909/1909-AG,1909,Southern Association,0608-mobile-nashville-0,19090608,0,Mobile,6,Nashville,0,QVGHLXC
 boxscores/1909/1909-MCA,1909,Southern Association,0608-mobile-nashville-0,19090608,0,Mobile,6,Nashville,0,XCJVBML
@@ -427,7 +424,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0609-memphis-montgomery-2,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0609-memphis-montgomery-2,19090609,2,Montgomery,5,Memphis,4,YXRGNMJ
 boxscores/1909/1909-AG,1909,Southern Association,0609-mobile-nashville-0,19090609,0,Mobile,0,Nashville,1,WXCTJCH
 boxscores/1909/1909-MCA,1909,Southern Association,0609-mobile-nashville-0,19090609,0,Mobile,0,Nashville,1,VPTQZKQ
-boxscores/1909/1909-AG,1909,Southern Association,0610-atlanta-neworleans-0,19090610,0,New Orleans,,Atlanta,,SHBCMST
+boxscores/1909/1909-AG,1909,Southern Association,0610-atlanta-neworleans-0,19090610,0,New Orleans,,Atlanta,,BXZYYPG
 boxscores/1909/1909-MCA,1909,Southern Association,0610-atlanta-neworleans-0,19090610,0,New Orleans,,Atlanta,,PYVTCQQ
 boxscores/1909/1909-AG,1909,Southern Association,0610-birmingham-memphis-0,19090610,0,Birmingham,4,Memphis,0,LSPKVVN
 boxscores/1909/1909-MCA,1909,Southern Association,0610-birmingham-memphis-0,19090610,0,Birmingham,4,Memphis,0,WDMQKHR
@@ -451,9 +448,9 @@ boxscores/1909/1909-AG,1909,Southern Association,0612-birmingham-memphis-1,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0612-birmingham-memphis-1,19090612,1,Birmingham,4,Memphis,2,XTJVTDW
 boxscores/1909/1909-AG,1909,Southern Association,0612-birmingham-memphis-2,19090612,2,Birmingham,4,Memphis,2,TDPVGBL
 boxscores/1909/1909-MCA,1909,Southern Association,0612-birmingham-memphis-2,19090612,2,Birmingham,4,Memphis,2,GLCGHSJ
-boxscores/1909/1909-AG,1909,Southern Association,0612-mobile-montgomery-0,19090612,0,Mobile,,Montgomery,,RYVBJBX
+boxscores/1909/1909-AG,1909,Southern Association,0612-mobile-montgomery-0,19090612,0,Mobile,,Montgomery,,YPJWRXZ
 boxscores/1909/1909-MCA,1909,Southern Association,0612-mobile-montgomery-0,19090612,0,Mobile,,Montgomery,,CXZXTFW
-boxscores/1909/1909-AG,1909,Southern Association,0612-littlerock-nashville-0,19090612,0,Little Rock,,Nashville,,WFRCDCP
+boxscores/1909/1909-AG,1909,Southern Association,0612-littlerock-nashville-0,19090612,0,Little Rock,,Nashville,,FQXBJYD
 boxscores/1909/1909-MCA,1909,Southern Association,0612-littlerock-nashville-0,19090612,0,Little Rock,,Nashville,,XGJLKFD
 boxscores/1909/1909-AG,1909,Southern Association,0613-memphis-nashville-0,19090613,0,Nashville,0,Memphis,4,WPDXYMG
 boxscores/1909/1909-MCA,1909,Southern Association,0613-memphis-nashville-0,19090613,0,Nashville,0,Memphis,4,HDZXVNY
@@ -463,7 +460,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0614-atlanta-littlerock-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0614-atlanta-littlerock-0,19090614,0,Atlanta,1,Little Rock,0,JNNGTVB
 boxscores/1909/1909-AG,1909,Southern Association,0614-memphis-nashville-0,19090614,0,Nashville,5,Memphis,2,WBFLQCW
 boxscores/1909/1909-MCA,1909,Southern Association,0614-memphis-nashville-0,19090614,0,Nashville,5,Memphis,2,QYNZTBZ
-boxscores/1909/1909-AG,1909,Southern Association,0614-birmingham-mobile-0,19090614,0,Birmingham,,Mobile,,TKXMCQK
+boxscores/1909/1909-AG,1909,Southern Association,0614-birmingham-mobile-0,19090614,0,Birmingham,,Mobile,,MFVZXZS
 boxscores/1909/1909-MCA,1909,Southern Association,0614-birmingham-mobile-0,19090614,0,Birmingham,,Mobile,,ZJYGRBG
 boxscores/1909/1909-AG,1909,Southern Association,0614-montgomery-neworleans-0,19090614,0,Montgomery,0,New Orleans,1,MJMXZWW
 boxscores/1909/1909-MCA,1909,Southern Association,0614-montgomery-neworleans-0,19090614,0,Montgomery,0,New Orleans,1,LKNKPMH
@@ -473,7 +470,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0615-memphis-nashville-0,190906
 boxscores/1909/1909-MCA,1909,Southern Association,0615-memphis-nashville-0,19090615,0,Nashville,0,Memphis,5,BGKRYHK
 boxscores/1909/1909-AG,1909,Southern Association,0615-birmingham-mobile-1,19090615,1,Birmingham,0,Mobile,1,SDZXMLF
 boxscores/1909/1909-MCA,1909,Southern Association,0615-birmingham-mobile-1,19090615,1,Birmingham,0,Mobile,1,WPVLLFW
-boxscores/1909/1909-AG,1909,Southern Association,0615-birmingham-mobile-2,19090615,2,Birmingham,1,Mobile,2,BRJBXXH
+boxscores/1909/1909-AG,1909,Southern Association,0615-birmingham-mobile-2,19090615,2,Birmingham,1,Mobile,2,JCWQLVX
 boxscores/1909/1909-MCA,1909,Southern Association,0615-birmingham-mobile-2,19090615,2,Birmingham,1,Mobile,2,TVDPKCM
 boxscores/1909/1909-AG,1909,Southern Association,0615-montgomery-neworleans-0,19090615,0,Montgomery,3,New Orleans,7,WZFGBPN
 boxscores/1909/1909-MCA,1909,Southern Association,0615-montgomery-neworleans-0,19090615,0,Montgomery,3,New Orleans,7,DPLPDTV
@@ -483,7 +480,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0616-memphis-nashville-0,190906
 boxscores/1909/1909-MCA,1909,Southern Association,0616-memphis-nashville-0,19090616,0,Nashville,1,Memphis,3,ZFTYGVK
 boxscores/1909/1909-AG,1909,Southern Association,0616-birmingham-mobile-0,19090616,0,Birmingham,1,Mobile,2,GYQHFPL
 boxscores/1909/1909-MCA,1909,Southern Association,0616-birmingham-mobile-0,19090616,0,Birmingham,1,Mobile,2,ZHHFGWK
-boxscores/1909/1909-AG,1909,Southern Association,0617-littlerock-nashville-0,19090617,0,Nashville,,Little Rock,,WJDKHHH
+boxscores/1909/1909-AG,1909,Southern Association,0617-littlerock-nashville-0,19090617,0,Nashville,,Little Rock,,DKKMYQZ
 boxscores/1909/1909-MCA,1909,Southern Association,0617-littlerock-nashville-0,19090617,0,Nashville,,Little Rock,,HDWXSMR
 boxscores/1909/1909-AG,1909,Southern Association,0617-atlanta-memphis-0,19090617,0,Atlanta,4,Memphis,0,BCBQTVX
 boxscores/1909/1909-MCA,1909,Southern Association,0617-atlanta-memphis-0,19090617,0,Atlanta,4,Memphis,0,ZQDTCGN
@@ -491,7 +488,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0617-mobile-montgomery-0,190906
 boxscores/1909/1909-MCA,1909,Southern Association,0617-mobile-montgomery-0,19090617,0,Montgomery,8,Mobile,2,TPSLXZT
 boxscores/1909/1909-AG,1909,Southern Association,0618-littlerock-nashville-1,19090618,1,Nashville,3,Little Rock,2,HVYPJLD
 boxscores/1909/1909-MCA,1909,Southern Association,0618-littlerock-nashville-1,19090618,1,Nashville,3,Little Rock,2,QFZRJRG
-boxscores/1909/1909-AG,1909,Southern Association,0618-littlerock-nashville-2,19090618,2,Nashville,,Little Rock,,VXWZZBT
+boxscores/1909/1909-AG,1909,Southern Association,0618-littlerock-nashville-2,19090618,2,Nashville,,Little Rock,,SVKZMGT
 boxscores/1909/1909-MCA,1909,Southern Association,0618-littlerock-nashville-2,19090618,2,Nashville,,Little Rock,,PZBHNHM
 boxscores/1909/1909-AG,1909,Southern Association,0618-atlanta-memphis-0,19090618,0,Atlanta,0,Memphis,0,RLWJQJG
 boxscores/1909/1909-MCA,1909,Southern Association,0618-atlanta-memphis-0,19090618,0,Atlanta,0,Memphis,0,BGVXJHX
@@ -507,13 +504,13 @@ boxscores/1909/1909-AG,1909,Southern Association,0619-atlanta-memphis-0,19090619
 boxscores/1909/1909-MCA,1909,Southern Association,0619-atlanta-memphis-0,19090619,0,Atlanta,3,Memphis,4,WYPZXGP
 boxscores/1909/1909-AG,1909,Southern Association,0619-mobile-montgomery-0,19090619,0,Montgomery,3,Mobile,4,NBQBNDP
 boxscores/1909/1909-MCA,1909,Southern Association,0619-mobile-montgomery-0,19090619,0,Montgomery,3,Mobile,4,GJMRJNW
-boxscores/1909/1909-AG,1909,Southern Association,0619-birmingham-neworleans-0,19090619,0,Birmingham,,New Orleans,,CSGNBFH
+boxscores/1909/1909-AG,1909,Southern Association,0619-birmingham-neworleans-0,19090619,0,Birmingham,,New Orleans,,KXSQPCM
 boxscores/1909/1909-MCA,1909,Southern Association,0619-birmingham-neworleans-0,19090619,0,Birmingham,,New Orleans,,JYZXNXL
 boxscores/1909/1909-AG,1909,Southern Association,0620-atlanta-memphis-0,19090620,0,Atlanta,1,Memphis,1,XBFXDFK
 boxscores/1909/1909-MCA,1909,Southern Association,0620-atlanta-memphis-0,19090620,0,Atlanta,1,Memphis,1,NLFHXWD
-boxscores/1909/1909-AG,1909,Southern Association,0620-birmingham-neworleans-1,19090620,1,Birmingham,2,New Orleans,4,XWPNFQL
+boxscores/1909/1909-AG,1909,Southern Association,0620-birmingham-neworleans-1,19090620,1,Birmingham,2,New Orleans,4,WYTDZFG
 boxscores/1909/1909-MCA,1909,Southern Association,0620-birmingham-neworleans-1,19090620,1,Birmingham,2,New Orleans,4,FQLNQCC
-boxscores/1909/1909-AG,1909,Southern Association,0620-birmingham-neworleans-2,19090620,2,Birmingham,,New Orleans,,SNKMGZH
+boxscores/1909/1909-AG,1909,Southern Association,0620-birmingham-neworleans-2,19090620,2,Birmingham,,New Orleans,,LGLVWLN
 boxscores/1909/1909-MCA,1909,Southern Association,0620-birmingham-neworleans-2,19090620,2,Birmingham,,New Orleans,,LFFFTHP
 boxscores/1909/1909-AG,1909,Southern Association,0621-littlerock-montgomery-0,19090621,0,Montgomery,10,Little Rock,1,VCYQZMY
 boxscores/1909/1909-MCA,1909,Southern Association,0621-littlerock-montgomery-0,19090621,0,Montgomery,10,Little Rock,1,HYNVBCN
@@ -521,11 +518,11 @@ boxscores/1909/1909-AG,1909,Southern Association,0621-birmingham-memphis-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0621-birmingham-memphis-0,19090621,0,Birmingham,2,Memphis,3,PRSSRHZ
 boxscores/1909/1909-AG,1909,Southern Association,0621-atlanta-mobile-0,19090621,0,Atlanta,1,Mobile,2,VCLSXQX
 boxscores/1909/1909-MCA,1909,Southern Association,0621-atlanta-mobile-0,19090621,0,Atlanta,1,Mobile,2,NQPLLHL
-boxscores/1909/1909-AG,1909,Southern Association,0621-nashville-neworleans-0,19090621,0,Nashville,,New Orleans,,TJBBRBC
+boxscores/1909/1909-AG,1909,Southern Association,0621-nashville-neworleans-0,19090621,0,Nashville,,New Orleans,,GWNHGWT
 boxscores/1909/1909-MCA,1909,Southern Association,0621-nashville-neworleans-0,19090621,0,Nashville,,New Orleans,,MZBSZCM
 boxscores/1909/1909-AG,1909,Southern Association,0622-littlerock-montgomery-0,19090622,0,Montgomery,0,Little Rock,1,JXYKVBK
 boxscores/1909/1909-MCA,1909,Southern Association,0622-littlerock-montgomery-0,19090622,0,Montgomery,0,Little Rock,1,MFNDBKH
-boxscores/1909/1909-AG,1909,Southern Association,0622-birmingham-memphis-0,19090622,0,Birmingham,,Memphis,,XPLTGRV
+boxscores/1909/1909-AG,1909,Southern Association,0622-birmingham-memphis-0,19090622,0,Birmingham,,Memphis,,QCGRTJR
 boxscores/1909/1909-MCA,1909,Southern Association,0622-birmingham-memphis-0,19090622,0,Birmingham,,Memphis,,FMVYKYJ
 boxscores/1909/1909-AG,1909,Southern Association,0622-atlanta-mobile-0,19090622,0,Atlanta,2,Mobile,1,QKNPCYL
 boxscores/1909/1909-MCA,1909,Southern Association,0622-atlanta-mobile-0,19090622,0,Atlanta,2,Mobile,1,PDTNTHP
@@ -551,7 +548,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0625-mobile-nashville-0,1909062
 boxscores/1909/1909-MCA,1909,Southern Association,0625-mobile-nashville-0,19090625,0,Nashville,6,Mobile,2,PVDSNYR
 boxscores/1909/1909-AG,1909,Southern Association,0625-atlanta-neworleans-0,19090625,0,Atlanta,4,New Orleans,2,CRQWKHM
 boxscores/1909/1909-MCA,1909,Southern Association,0625-atlanta-neworleans-0,19090625,0,Atlanta,4,New Orleans,2,XGGGWRN
-boxscores/1909/1909-AG,1909,Southern Association,0626-birmingham-littlerock-0,19090626,0,Birmingham,,Little Rock,,YYWCZNL
+boxscores/1909/1909-AG,1909,Southern Association,0626-birmingham-littlerock-0,19090626,0,Birmingham,,Little Rock,,XXPFCWX
 boxscores/1909/1909-MCA,1909,Southern Association,0626-birmingham-littlerock-0,19090626,0,Birmingham,,Little Rock,,RWRTWHT
 boxscores/1909/1909-AG,1909,Southern Association,0626-memphis-montgomery-0,19090626,0,Montgomery,3,Memphis,4,GNWRVDD
 boxscores/1909/1909-MCA,1909,Southern Association,0626-memphis-montgomery-0,19090626,0,Montgomery,3,Memphis,4,MMLGCZT
@@ -623,8 +620,8 @@ boxscores/1909/1909-AG,1909,Southern Association,0705-littlerock-memphis-1,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0705-littlerock-memphis-1,19090705,1,Little Rock,1,Memphis,2,WVGZPDY
 boxscores/1909/1909-AG,1909,Southern Association,0705-littlerock-memphis-2,19090705,2,Little Rock,0,Memphis,1,WCPHJSZ
 boxscores/1909/1909-MCA,1909,Southern Association,0705-littlerock-memphis-2,19090705,2,Little Rock,0,Memphis,1,JQVNMGT
-boxscores/1909/1909-AG,1909,Southern Association,0705-mobile-neworleans-1,19090705,1,New Orleans,,Mobile,,TJJJYRR
-boxscores/1909/1909-MCA,1909,Southern Association,0705-mobile-neworleans-1,19090705,1,New Orleans,,Mobile,,BFXYMVZ
+boxscores/1909/1909-AG,1909,Southern Association,0705-mobile-neworleans-1,19090705,1,New Orleans,,Mobile,,QDKTQJY
+boxscores/1909/1909-MCA,1909,Southern Association,0705-mobile-neworleans-1,19090705,1,New Orleans,,Mobile,,VVYJMWR
 boxscores/1909/1909-AG,1909,Southern Association,0705-mobile-neworleans-2,19090705,2,New Orleans,3,Mobile,4,TTNXYKC
 boxscores/1909/1909-MCA,1909,Southern Association,0705-mobile-neworleans-2,19090705,2,New Orleans,3,Mobile,4,MGPXWSQ
 boxscores/1909/1909-AG,1909,Southern Association,0705-montgomery-nashville-1,19090705,1,Montgomery,8,Nashville,5,QZMPDKB
@@ -643,9 +640,9 @@ boxscores/1909/1909-AG,1909,Southern Association,0707-atlanta-birmingham-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0707-atlanta-birmingham-0,19090707,0,Birmingham,2,Atlanta,2,LXWXPVB
 boxscores/1909/1909-AG,1909,Southern Association,0707-mobile-neworleans-0,19090707,0,New Orleans,3,Mobile,1,KLKHLJN
 boxscores/1909/1909-MCA,1909,Southern Association,0707-mobile-neworleans-0,19090707,0,New Orleans,3,Mobile,1,FWWVLJR
-boxscores/1909/1909-AG,1909,Southern Association,0707-montgomery-nashville-0,19090707,0,Montgomery,,Nashville,,VGXPKWR
+boxscores/1909/1909-AG,1909,Southern Association,0707-montgomery-nashville-0,19090707,0,Montgomery,,Nashville,,JMPXCYN
 boxscores/1909/1909-MCA,1909,Southern Association,0707-montgomery-nashville-0,19090707,0,Montgomery,,Nashville,,BJLHTSH
-boxscores/1909/1909-AG,1909,Southern Association,0708-atlanta-nashville-0,19090708,0,Nashville,,Atlanta,,JMKMSKM
+boxscores/1909/1909-AG,1909,Southern Association,0708-atlanta-nashville-0,19090708,0,Nashville,,Atlanta,,YQHQVZT
 boxscores/1909/1909-MCA,1909,Southern Association,0708-atlanta-nashville-0,19090708,0,Nashville,,Atlanta,,WCRQWRF
 boxscores/1909/1909-AG,1909,Southern Association,0708-memphis-neworleans-0,19090708,0,New Orleans,0,Memphis,0,LCVXCRZ
 boxscores/1909/1909-MCA,1909,Southern Association,0708-memphis-neworleans-0,19090708,0,New Orleans,0,Memphis,0,LHJRPWZ
@@ -654,11 +651,11 @@ boxscores/1909/1909-MCA,1909,Southern Association,0708-littlerock-mobile-0,19090
 boxscores/1909/1909-AG,1909,Southern Association,0708-birmingham-montgomery-0,19090708,0,Birmingham,2,Montgomery,12,WJLCDSP
 boxscores/1909/1909-MCA,1909,Southern Association,0708-birmingham-montgomery-0,19090708,0,Birmingham,2,Montgomery,12,GRRWFXC
 boxscores/1909/1909-MCA,1909,Southern Association,0709-atlanta-nashville-0,19090709,0,Nashville,,Atlanta,,DVRYMLT
-boxscores/1909/1909-AG,1909,Southern Association,0709-atlanta-nashville-1,19090709,1,Nashville,,Atlanta,,RRCRLHG
-boxscores/1909/1909-AG,1909,Southern Association,0709-atlanta-nashville-2,19090709,2,Nashville,,Atlanta,,CCRNHLH
+boxscores/1909/1909-AG,1909,Southern Association,0709-atlanta-nashville-1,19090709,1,Nashville,,Atlanta,,CVBKCBZ
+boxscores/1909/1909-AG,1909,Southern Association,0709-atlanta-nashville-2,19090709,2,Nashville,,Atlanta,,RQCCBJF
 boxscores/1909/1909-AG,1909,Southern Association,0709-memphis-neworleans-0,19090709,0,New Orleans,2,Memphis,12,JDLWFRN
 boxscores/1909/1909-MCA,1909,Southern Association,0709-memphis-neworleans-0,19090709,0,New Orleans,2,Memphis,12,RVMBSCS
-boxscores/1909/1909-AG,1909,Southern Association,0709-littlerock-mobile-0,19090709,0,Little Rock,,Mobile,,KNHQMNZ
+boxscores/1909/1909-AG,1909,Southern Association,0709-littlerock-mobile-0,19090709,0,Little Rock,,Mobile,,NWSNDJQ
 boxscores/1909/1909-MCA,1909,Southern Association,0709-littlerock-mobile-0,19090709,0,Little Rock,,Mobile,,SZTSQHG
 boxscores/1909/1909-AG,1909,Southern Association,0709-birmingham-montgomery-0,19090709,0,Birmingham,0,Montgomery,3,LFTRVZX
 boxscores/1909/1909-MCA,1909,Southern Association,0709-birmingham-montgomery-0,19090709,0,Birmingham,0,Montgomery,3,RNPKRNP
@@ -676,25 +673,25 @@ boxscores/1909/1909-AG,1909,Southern Association,0711-birmingham-memphis-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0711-birmingham-memphis-0,19090711,0,Birmingham,2,Memphis,3,JMFYSSX
 boxscores/1909/1909-AG,1909,Southern Association,0711-nashville-neworleans-0,19090711,0,Nashville,4,New Orleans,2,WWGSDLM
 boxscores/1909/1909-MCA,1909,Southern Association,0711-nashville-neworleans-0,19090711,0,Nashville,4,New Orleans,2,WFCVKJG
-boxscores/1909/1909-AG,1909,Southern Association,0712-birmingham-nashville-0,19090712,0,Nashville,,Birmingham,,DXLLSRK
+boxscores/1909/1909-AG,1909,Southern Association,0712-birmingham-nashville-0,19090712,0,Nashville,,Birmingham,,JRKFQSV
 boxscores/1909/1909-MCA,1909,Southern Association,0712-birmingham-nashville-0,19090712,0,Nashville,,Birmingham,,SGJMJBL
 boxscores/1909/1909-AG,1909,Southern Association,0712-littlerock-neworleans-0,19090712,0,New Orleans,1,Little Rock,5,PCTCVNZ
 boxscores/1909/1909-MCA,1909,Southern Association,0712-littlerock-neworleans-0,19090712,0,New Orleans,1,Little Rock,5,HMDHQNZ
 boxscores/1909/1909-AG,1909,Southern Association,0712-memphis-mobile-1,19090712,1,Memphis,4,Mobile,0,KLXNNTD
 boxscores/1909/1909-MCA,1909,Southern Association,0712-memphis-mobile-1,19090712,1,Memphis,4,Mobile,0,HDKDXYH
-boxscores/1909/1909-AG,1909,Southern Association,0712-memphis-mobile-2,19090712,2,Memphis,1,Mobile,3,VGYWBVL
+boxscores/1909/1909-AG,1909,Southern Association,0712-memphis-mobile-2,19090712,2,Memphis,1,Mobile,3,MFXWQXP
 boxscores/1909/1909-MCA,1909,Southern Association,0712-memphis-mobile-2,19090712,2,Memphis,1,Mobile,3,VKLCCZF
 boxscores/1909/1909-AG,1909,Southern Association,0712-atlanta-montgomery-0,19090712,0,Atlanta,2,Montgomery,1,ZRVTJPY
 boxscores/1909/1909-MCA,1909,Southern Association,0712-atlanta-montgomery-0,19090712,0,Atlanta,2,Montgomery,1,PJKDRTB
 boxscores/1909/1909-AG,1909,Southern Association,0713-birmingham-nashville-1,19090713,1,Nashville,1,Birmingham,0,THPGRXQ
 boxscores/1909/1909-MCA,1909,Southern Association,0713-birmingham-nashville-1,19090713,1,Nashville,1,Birmingham,0,MJQZZWH
-boxscores/1909/1909-AG,1909,Southern Association,0713-birmingham-nashville-2,19090713,2,Nashville,1,Birmingham,7,MLPGHGL
+boxscores/1909/1909-AG,1909,Southern Association,0713-birmingham-nashville-2,19090713,2,Nashville,1,Birmingham,7,NJJZWYK
 boxscores/1909/1909-MCA,1909,Southern Association,0713-birmingham-nashville-2,19090713,2,Nashville,1,Birmingham,7,SCRRRFM
 boxscores/1909/1909-AG,1909,Southern Association,0713-littlerock-neworleans-0,19090713,0,New Orleans,4,Little Rock,2,SGNQSCS
 boxscores/1909/1909-MCA,1909,Southern Association,0713-littlerock-neworleans-0,19090713,0,New Orleans,4,Little Rock,2,TXGXQPD
 boxscores/1909/1909-AG,1909,Southern Association,0713-memphis-mobile-0,19090713,0,Memphis,2,Mobile,12,YBBGCTP
 boxscores/1909/1909-MCA,1909,Southern Association,0713-memphis-mobile-0,19090713,0,Memphis,2,Mobile,12,NMHNYQW
-boxscores/1909/1909-AG,1909,Southern Association,0713-atlanta-montgomery-0,19090713,0,Atlanta,,Montgomery,,PTBGHYV
+boxscores/1909/1909-AG,1909,Southern Association,0713-atlanta-montgomery-0,19090713,0,Atlanta,,Montgomery,,QSFLRLK
 boxscores/1909/1909-MCA,1909,Southern Association,0713-atlanta-montgomery-0,19090713,0,Atlanta,,Montgomery,,WSYBYHM
 boxscores/1909/1909-AG,1909,Southern Association,0714-birmingham-nashville-1,19090714,1,Nashville,4,Birmingham,1,JMKVZNN
 boxscores/1909/1909-MCA,1909,Southern Association,0714-birmingham-nashville-1,19090714,1,Nashville,4,Birmingham,1,KRDZYCN
@@ -702,7 +699,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0714-birmingham-nashville-2,190
 boxscores/1909/1909-MCA,1909,Southern Association,0714-birmingham-nashville-2,19090714,2,Nashville,2,Birmingham,1,CRRJBGS
 boxscores/1909/1909-AG,1909,Southern Association,0714-littlerock-neworleans-0,19090714,0,New Orleans,1,Little Rock,3,PVWHYLX
 boxscores/1909/1909-MCA,1909,Southern Association,0714-littlerock-neworleans-0,19090714,0,New Orleans,1,Little Rock,3,LJYJMWJ
-boxscores/1909/1909-AG,1909,Southern Association,0714-memphis-mobile-0,19090714,0,Memphis,,Mobile,,HTYYLMP
+boxscores/1909/1909-AG,1909,Southern Association,0714-memphis-mobile-0,19090714,0,Memphis,,Mobile,,TTKPVJG
 boxscores/1909/1909-MCA,1909,Southern Association,0714-memphis-mobile-0,19090714,0,Memphis,,Mobile,,HYJVYXV
 boxscores/1909/1909-AG,1909,Southern Association,0714-atlanta-montgomery-1,19090714,1,Atlanta,6,Montgomery,0,WWNHQSJ
 boxscores/1909/1909-MCA,1909,Southern Association,0714-atlanta-montgomery-1,19090714,1,Atlanta,6,Montgomery,0,MZRJBCX
@@ -828,21 +825,21 @@ boxscores/1909/1909-AG,1909,Southern Association,0729-atlanta-neworleans-2,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0729-atlanta-neworleans-2,19090729,2,New Orleans,8,Atlanta,4,GLJXVCX
 boxscores/1909/1909-AG,1909,Southern Association,0729-birmingham-littlerock-0,19090729,0,Little Rock,3,Birmingham,4,XVZBNJF
 boxscores/1909/1909-MCA,1909,Southern Association,0729-birmingham-littlerock-0,19090729,0,Little Rock,3,Birmingham,4,SRNTDRJ
-boxscores/1909/1909-AG,1909,Southern Association,0729-mobile-montgomery-1,19090729,1,Mobile,0,Montgomery,5,HVYLDYP
+boxscores/1909/1909-AG,1909,Southern Association,0729-mobile-montgomery-1,19090729,1,Mobile,0,Montgomery,5,DQMNYSM
 boxscores/1909/1909-MCA,1909,Southern Association,0729-mobile-montgomery-1,19090729,1,Mobile,0,Montgomery,5,TKZTYMX
-boxscores/1909/1909-AG,1909,Southern Association,0729-mobile-montgomery-2,19090729,2,Mobile,,Montgomery,,FRLMTDM
+boxscores/1909/1909-AG,1909,Southern Association,0729-mobile-montgomery-2,19090729,2,Mobile,,Montgomery,,YZRPCNY
 boxscores/1909/1909-MCA,1909,Southern Association,0729-mobile-montgomery-2,19090729,2,Mobile,,Montgomery,,VFGQMRS
 boxscores/1909/1909-AG,1909,Southern Association,0729-memphis-nashville-1,19090729,1,Memphis,0,Nashville,1,JXWHRVM
 boxscores/1909/1909-MCA,1909,Southern Association,0729-memphis-nashville-1,19090729,1,Memphis,0,Nashville,1,YHBPMSN
-boxscores/1909/1909-AG,1909,Southern Association,0729-memphis-nashville-2,19090729,2,Memphis,2,Nashville,3,VPXBCVF
+boxscores/1909/1909-AG,1909,Southern Association,0729-memphis-nashville-2,19090729,2,Memphis,2,Nashville,3,SMLRMBZ
 boxscores/1909/1909-MCA,1909,Southern Association,0729-memphis-nashville-2,19090729,2,Memphis,2,Nashville,3,BCJDWLD
-boxscores/1909/1909-AG,1909,Southern Association,0730-atlanta-neworleans-0,19090730,0,New Orleans,,Atlanta,,GBCGSKM
+boxscores/1909/1909-AG,1909,Southern Association,0730-atlanta-neworleans-0,19090730,0,New Orleans,,Atlanta,,SRLFMPH
 boxscores/1909/1909-MCA,1909,Southern Association,0730-atlanta-neworleans-0,19090730,0,New Orleans,,Atlanta,,KCLXTTL
-boxscores/1909/1909-AG,1909,Southern Association,0730-birmingham-littlerock-0,19090730,0,Little Rock,,Birmingham,,DXXCRWM
+boxscores/1909/1909-AG,1909,Southern Association,0730-birmingham-littlerock-0,19090730,0,Little Rock,,Birmingham,,XJYNJFX
 boxscores/1909/1909-MCA,1909,Southern Association,0730-birmingham-littlerock-0,19090730,0,Little Rock,,Birmingham,,BSVXNYY
 boxscores/1909/1909-AG,1909,Southern Association,0730-mobile-montgomery-0,19090730,0,Mobile,1,Montgomery,1,YGNTGNW
 boxscores/1909/1909-MCA,1909,Southern Association,0730-mobile-montgomery-0,19090730,0,Mobile,1,Montgomery,1,DJGCRCV
-boxscores/1909/1909-AG,1909,Southern Association,0730-mobile-montgomery-1,19090730,1,Mobile,,Montgomery,,JLYQSHB
+boxscores/1909/1909-AG,1909,Southern Association,0730-mobile-montgomery-1,19090730,1,Mobile,,Montgomery,,BKJMPSV
 boxscores/1909/1909-MCA,1909,Southern Association,0730-mobile-montgomery-1,19090730,1,Mobile,,Montgomery,,HYRVKQD
 boxscores/1909/1909-AG,1909,Southern Association,0730-memphis-nashville-0,19090730,0,Memphis,1,Nashville,2,SPQBGPH
 boxscores/1909/1909-MCA,1909,Southern Association,0730-memphis-nashville-0,19090730,0,Memphis,1,Nashville,2,SFRTTKF
@@ -904,7 +901,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0806-atlanta-birmingham-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0806-atlanta-birmingham-0,19090806,0,Atlanta,3,Birmingham,0,XRSDCCK
 boxscores/1909/1909-AG,1909,Southern Association,0806-littlerock-mobile-0,19090806,0,Little Rock,10,Mobile,2,DBLPMJK
 boxscores/1909/1909-MCA,1909,Southern Association,0806-littlerock-mobile-0,19090806,0,Little Rock,10,Mobile,2,KNTDCKD
-boxscores/1909/1909-AG,1909,Southern Association,0806-montgomery-nashville-0,19090806,0,Nashville,,Montgomery,,BHCRVHK
+boxscores/1909/1909-AG,1909,Southern Association,0806-montgomery-nashville-0,19090806,0,Nashville,,Montgomery,,VTHKGQS
 boxscores/1909/1909-MCA,1909,Southern Association,0806-montgomery-nashville-0,19090806,0,Nashville,,Montgomery,,DJZPVGV
 boxscores/1909/1909-AG,1909,Southern Association,0806-memphis-neworleans-0,19090806,0,Memphis,0,New Orleans,5,DWMNPMR
 boxscores/1909/1909-MCA,1909,Southern Association,0806-memphis-neworleans-0,19090806,0,Memphis,0,New Orleans,5,VGVPHPF
@@ -914,7 +911,7 @@ boxscores/1909/1909-AG,1909,Southern Association,0807-littlerock-mobile-0,190908
 boxscores/1909/1909-MCA,1909,Southern Association,0807-littlerock-mobile-0,19090807,0,Little Rock,3,Mobile,1,KKNPBYC
 boxscores/1909/1909-AG,1909,Southern Association,0807-montgomery-nashville-1,19090807,1,Nashville,1,Montgomery,0,SRNVKCS
 boxscores/1909/1909-MCA,1909,Southern Association,0807-montgomery-nashville-1,19090807,1,Nashville,1,Montgomery,0,NRKXLGG
-boxscores/1909/1909-AG,1909,Southern Association,0807-montgomery-nashville-2,19090807,2,Nashville,,Montgomery,,NZMMXPG
+boxscores/1909/1909-AG,1909,Southern Association,0807-montgomery-nashville-2,19090807,2,Nashville,,Montgomery,,QGYMBFV
 boxscores/1909/1909-MCA,1909,Southern Association,0807-montgomery-nashville-2,19090807,2,Nashville,,Montgomery,,CSVVMJV
 boxscores/1909/1909-AG,1909,Southern Association,0807-memphis-neworleans-0,19090807,0,Memphis,3,New Orleans,4,KWQFTBG
 boxscores/1909/1909-MCA,1909,Southern Association,0807-memphis-neworleans-0,19090807,0,Memphis,3,New Orleans,4,BVFHVCX
@@ -934,15 +931,15 @@ boxscores/1909/1909-AG,1909,Southern Association,0810-atlanta-montgomery-0,19090
 boxscores/1909/1909-MCA,1909,Southern Association,0810-atlanta-montgomery-0,19090810,0,Montgomery,2,Atlanta,0,JFRRCMM
 boxscores/1909/1909-AG,1909,Southern Association,0810-birmingham-nashville-0,19090810,0,Nashville,2,Birmingham,3,XHDTZHD
 boxscores/1909/1909-MCA,1909,Southern Association,0810-birmingham-nashville-0,19090810,0,Nashville,2,Birmingham,3,VYRMFJS
-boxscores/1909/1909-AG,1909,Southern Association,0810-memphis-neworleans-0,19090810,0,New Orleans,,Memphis,,JHKZWCP
+boxscores/1909/1909-AG,1909,Southern Association,0810-memphis-neworleans-0,19090810,0,New Orleans,,Memphis,,XRNDBHM
 boxscores/1909/1909-MCA,1909,Southern Association,0810-memphis-neworleans-0,19090810,0,New Orleans,,Memphis,,FNSBGQJ
 boxscores/1909/1909-AG,1909,Southern Association,0811-atlanta-montgomery-0,19090811,0,Montgomery,4,Atlanta,9,YWBZYGC
 boxscores/1909/1909-MCA,1909,Southern Association,0811-atlanta-montgomery-0,19090811,0,Montgomery,4,Atlanta,9,NKPYVCM
 boxscores/1909/1909-AG,1909,Southern Association,0811-birmingham-nashville-0,19090811,0,Nashville,0,Birmingham,1,DCZNGBF
 boxscores/1909/1909-MCA,1909,Southern Association,0811-birmingham-nashville-0,19090811,0,Nashville,0,Birmingham,1,BQCSHVM
-boxscores/1909/1909-AG,1909,Southern Association,0811-memphis-neworleans-1,19090811,1,New Orleans,,Memphis,,HLKHSGZ
+boxscores/1909/1909-AG,1909,Southern Association,0811-memphis-neworleans-1,19090811,1,New Orleans,,Memphis,,MJNLHRC
 boxscores/1909/1909-MCA,1909,Southern Association,0811-memphis-neworleans-1,19090811,1,New Orleans,,Memphis,,SZJWQZB
-boxscores/1909/1909-AG,1909,Southern Association,0811-memphis-neworleans-2,19090811,2,New Orleans,,Memphis,,JLLZWMX
+boxscores/1909/1909-AG,1909,Southern Association,0811-memphis-neworleans-2,19090811,2,New Orleans,,Memphis,,WWPXYYH
 boxscores/1909/1909-MCA,1909,Southern Association,0811-memphis-neworleans-2,19090811,2,New Orleans,,Memphis,,DJQZWQX
 boxscores/1909/1909-AG,1909,Southern Association,0812-atlanta-nashville-1,19090812,1,Nashville,1,Atlanta,2,GVTYKWR
 boxscores/1909/1909-MCA,1909,Southern Association,0812-atlanta-nashville-1,19090812,1,Nashville,1,Atlanta,2,TFPBDPD
@@ -1008,8 +1005,8 @@ boxscores/1909/1909-AG,1909,Southern Association,0818-littlerock-neworleans-0,19
 boxscores/1909/1909-MCA,1909,Southern Association,0818-littlerock-neworleans-0,19090818,0,New Orleans,1,Little Rock,5,PDCJNHX
 boxscores/1909/1909-AG,1909,Southern Association,0818-montgomery-nashville-0,19090818,0,Montgomery,4,Nashville,2,YHKWLZZ
 boxscores/1909/1909-MCA,1909,Southern Association,0818-montgomery-nashville-0,19090818,0,Montgomery,4,Nashville,2,KZVNKQZ
-boxscores/1909/1909-AG,1909,Southern Association,0819-littlerock-memphis-0,19090819,0,Memphis,,Little Rock,,SFQDNXC
-boxscores/1909/1909-MCA,1909,Southern Association,0819-littlerock-memphis-0,19090819,0,Memphis,,Little Rock,,NZNRKFK
+boxscores/1909/1909-AG,1909,Southern Association,0819-littlerock-memphis-0,19090819,0,Memphis,,Little Rock,,VBCYDZG
+boxscores/1909/1909-MCA,1909,Southern Association,0819-littlerock-memphis-0,19090819,0,Memphis,,Little Rock,,STVPWDZ
 boxscores/1909/1909-AG,1909,Southern Association,0819-atlanta-montgomery-0,19090819,0,Atlanta,6,Montgomery,5,NLVDWBZ
 boxscores/1909/1909-MCA,1909,Southern Association,0819-atlanta-montgomery-0,19090819,0,Atlanta,6,Montgomery,5,TZYPVDV
 boxscores/1909/1909-AG,1909,Southern Association,0819-birmingham-nashville-0,19090819,0,Birmingham,5,Nashville,2,SBBZFSM
@@ -1034,3 +1031,239 @@ boxscores/1909/1909-AG,1909,Southern Association,0822-memphis-nashville-0,190908
 boxscores/1909/1909-MCA,1909,Southern Association,0822-memphis-nashville-0,19090822,0,Nashville,2,Memphis,3,PNYGNZX
 boxscores/1909/1909-AG,1909,Southern Association,0822-atlanta-neworleans-0,19090822,0,Atlanta,2,New Orleans,5,XLVBDBK
 boxscores/1909/1909-MCA,1909,Southern Association,0822-atlanta-neworleans-0,19090822,0,Atlanta,2,New Orleans,5,YGJVCGC
+boxscores/1909/1909-AG,1909,Southern Association,0823-littlerock-montgomery-0,19090823,0,Montgomery,4,Little Rock,5,QPSGFFT
+boxscores/1909/1909-MCA,1909,Southern Association,0823-littlerock-montgomery-0,19090823,0,Montgomery,4,Little Rock,5,QKTBFXP
+boxscores/1909/1909-AG,1909,Southern Association,0823-memphis-nashville-0,19090823,0,Nashville,5,Memphis,1,LMGFYKK
+boxscores/1909/1909-MCA,1909,Southern Association,0823-memphis-nashville-0,19090823,0,Nashville,5,Memphis,1,RZHGVVJ
+boxscores/1909/1909-AG,1909,Southern Association,0823-birmingham-mobile-0,19090823,0,Birmingham,,Mobile,,NLWMVQB
+boxscores/1909/1909-MCA,1909,Southern Association,0823-birmingham-mobile-0,19090823,0,Birmingham,,Mobile,,CRLYPYH
+boxscores/1909/1909-AG,1909,Southern Association,0823-atlanta-neworleans-0,19090823,0,Atlanta,,New Orleans,,KPWYVRH
+boxscores/1909/1909-MCA,1909,Southern Association,0823-atlanta-neworleans-0,19090823,0,Atlanta,,New Orleans,,HLCKQGY
+boxscores/1909/1909-AG,1909,Southern Association,0824-littlerock-montgomery-0,19090824,0,Montgomery,3,Little Rock,2,FGQNVLJ
+boxscores/1909/1909-MCA,1909,Southern Association,0824-littlerock-montgomery-0,19090824,0,Montgomery,3,Little Rock,2,JQBQLYC
+boxscores/1909/1909-AG,1909,Southern Association,0824-memphis-nashville-0,19090824,0,Nashville,3,Memphis,1,XGYNSQT
+boxscores/1909/1909-MCA,1909,Southern Association,0824-memphis-nashville-0,19090824,0,Nashville,3,Memphis,1,YLKWWKR
+boxscores/1909/1909-AG,1909,Southern Association,0824-birmingham-mobile-1,19090824,1,Birmingham,1,Mobile,2,VBRDKNG
+boxscores/1909/1909-MCA,1909,Southern Association,0824-birmingham-mobile-1,19090824,1,Birmingham,1,Mobile,2,PVWGHTS
+boxscores/1909/1909-AG,1909,Southern Association,0824-birmingham-mobile-2,19090824,2,Birmingham,0,Mobile,1,BVVXHXS
+boxscores/1909/1909-MCA,1909,Southern Association,0824-birmingham-mobile-2,19090824,2,Birmingham,0,Mobile,1,MYVPRYS
+boxscores/1909/1909-AG,1909,Southern Association,0824-atlanta-neworleans-0,19090824,0,Atlanta,2,New Orleans,0,GSFCRTT
+boxscores/1909/1909-MCA,1909,Southern Association,0824-atlanta-neworleans-0,19090824,0,Atlanta,2,New Orleans,0,JQBHTJF
+boxscores/1909/1909-AG,1909,Southern Association,0825-littlerock-montgomery-1,19090825,1,Montgomery,6,Little Rock,1,TPPXFTQ
+boxscores/1909/1909-MCA,1909,Southern Association,0825-littlerock-montgomery-1,19090825,1,Montgomery,6,Little Rock,1,SRSVDXT
+boxscores/1909/1909-AG,1909,Southern Association,0825-littlerock-montgomery-2,19090825,2,Montgomery,3,Little Rock,4,DVWGNKD
+boxscores/1909/1909-MCA,1909,Southern Association,0825-littlerock-montgomery-2,19090825,2,Montgomery,3,Little Rock,4,MWDLMYC
+boxscores/1909/1909-AG,1909,Southern Association,0825-birmingham-mobile-1,19090825,1,Birmingham,0,Mobile,1,LBNSGDF
+boxscores/1909/1909-MCA,1909,Southern Association,0825-birmingham-mobile-1,19090825,1,Birmingham,0,Mobile,1,BLSKMHF
+boxscores/1909/1909-AG,1909,Southern Association,0825-birmingham-mobile-2,19090825,2,Birmingham,4,Mobile,1,ZYHGNKT
+boxscores/1909/1909-MCA,1909,Southern Association,0825-birmingham-mobile-2,19090825,2,Birmingham,4,Mobile,1,JPMMQRX
+boxscores/1909/1909-AG,1909,Southern Association,0825-atlanta-neworleans-0,19090825,0,Atlanta,1,New Orleans,0,SDGLLGT
+boxscores/1909/1909-MCA,1909,Southern Association,0825-atlanta-neworleans-0,19090825,0,Atlanta,1,New Orleans,0,WHXKLTV
+boxscores/1909/1909-AG,1909,Southern Association,0826-littlerock-nashville-1,19090826,1,Nashville,7,Little Rock,1,VFMKHLK
+boxscores/1909/1909-MCA,1909,Southern Association,0826-littlerock-nashville-1,19090826,1,Nashville,7,Little Rock,1,GZGWBWN
+boxscores/1909/1909-AG,1909,Southern Association,0826-littlerock-nashville-2,19090826,2,Nashville,1,Little Rock,0,VPMJCYP
+boxscores/1909/1909-MCA,1909,Southern Association,0826-littlerock-nashville-2,19090826,2,Nashville,1,Little Rock,0,SCCXRSL
+boxscores/1909/1909-AG,1909,Southern Association,0826-memphis-montgomery-0,19090826,0,Montgomery,6,Memphis,4,LJQGQFV
+boxscores/1909/1909-MCA,1909,Southern Association,0826-memphis-montgomery-0,19090826,0,Montgomery,6,Memphis,4,TCMFBVV
+boxscores/1909/1909-AG,1909,Southern Association,0826-atlanta-mobile-0,19090826,0,Atlanta,3,Mobile,1,FBPTKWY
+boxscores/1909/1909-MCA,1909,Southern Association,0826-atlanta-mobile-0,19090826,0,Atlanta,3,Mobile,1,WPSTDJN
+boxscores/1909/1909-AG,1909,Southern Association,0826-birmingham-neworleans-1,19090826,1,Birmingham,,New Orleans,,WPSNYCJ
+boxscores/1909/1909-MCA,1909,Southern Association,0826-birmingham-neworleans-1,19090826,1,Birmingham,,New Orleans,,HGVMDYC
+boxscores/1909/1909-AG,1909,Southern Association,0826-birmingham-neworleans-2,19090826,2,Birmingham,,New Orleans,,QJTSDJK
+boxscores/1909/1909-MCA,1909,Southern Association,0826-birmingham-neworleans-2,19090826,2,Birmingham,,New Orleans,,TPBTKKS
+boxscores/1909/1909-AG,1909,Southern Association,0827-littlerock-nashville-0,19090827,0,Nashville,2,Little Rock,8,FSFPHMB
+boxscores/1909/1909-MCA,1909,Southern Association,0827-littlerock-nashville-0,19090827,0,Nashville,2,Little Rock,8,JBPVMTX
+boxscores/1909/1909-AG,1909,Southern Association,0827-atlanta-mobile-0,19090827,0,Atlanta,2,Mobile,1,JCVYTKM
+boxscores/1909/1909-MCA,1909,Southern Association,0827-atlanta-mobile-0,19090827,0,Atlanta,2,Mobile,1,KVGXJPL
+boxscores/1909/1909-AG,1909,Southern Association,0827-birmingham-neworleans-1,19090827,1,Birmingham,0,New Orleans,1,YWPZZPX
+boxscores/1909/1909-MCA,1909,Southern Association,0827-birmingham-neworleans-1,19090827,1,Birmingham,0,New Orleans,1,LKNPLRT
+boxscores/1909/1909-AG,1909,Southern Association,0827-birmingham-neworleans-2,19090827,2,Birmingham,,New Orleans,,JJPDBBS
+boxscores/1909/1909-MCA,1909,Southern Association,0827-birmingham-neworleans-2,19090827,2,Birmingham,,New Orleans,,QZBMHBJ
+boxscores/1909/1909-AG,1909,Southern Association,0828-littlerock-nashville-1,19090828,1,Nashville,5,Little Rock,1,KQLBDPN
+boxscores/1909/1909-MCA,1909,Southern Association,0828-littlerock-nashville-1,19090828,1,Nashville,5,Little Rock,1,SBBPPWF
+boxscores/1909/1909-AG,1909,Southern Association,0828-littlerock-nashville-2,19090828,2,Nashville,6,Little Rock,1,RDZSVMX
+boxscores/1909/1909-MCA,1909,Southern Association,0828-littlerock-nashville-2,19090828,2,Nashville,6,Little Rock,1,WVXXPCT
+boxscores/1909/1909-AG,1909,Southern Association,0828-memphis-montgomery-0,19090828,0,Montgomery,1,Memphis,0,VRDMWYC
+boxscores/1909/1909-MCA,1909,Southern Association,0828-memphis-montgomery-0,19090828,0,Montgomery,1,Memphis,0,KSBGVXZ
+boxscores/1909/1909-AG,1909,Southern Association,0828-atlanta-mobile-1,19090828,1,Atlanta,4,Mobile,3,XWVYRCR
+boxscores/1909/1909-MCA,1909,Southern Association,0828-atlanta-mobile-1,19090828,1,Atlanta,4,Mobile,3,WBKLKSF
+boxscores/1909/1909-AG,1909,Southern Association,0828-atlanta-mobile-2,19090828,2,Atlanta,3,Mobile,1,BPJRSQW
+boxscores/1909/1909-MCA,1909,Southern Association,0828-atlanta-mobile-2,19090828,2,Atlanta,3,Mobile,1,ZMLKFMZ
+boxscores/1909/1909-AG,1909,Southern Association,0828-birmingham-neworleans-1,19090828,1,Birmingham,0,New Orleans,9,XZLKNJV
+boxscores/1909/1909-MCA,1909,Southern Association,0828-birmingham-neworleans-1,19090828,1,Birmingham,0,New Orleans,9,MVVJKVM
+boxscores/1909/1909-AG,1909,Southern Association,0828-birmingham-neworleans-2,19090828,2,Birmingham,0,New Orleans,3,QBLMBZQ
+boxscores/1909/1909-MCA,1909,Southern Association,0828-birmingham-neworleans-2,19090828,2,Birmingham,0,New Orleans,3,QVFVHRZ
+boxscores/1909/1909-AG,1909,Southern Association,0829-atlanta-memphis-0,19090829,0,Atlanta,5,Memphis,2,LRQRGYG
+boxscores/1909/1909-MCA,1909,Southern Association,0829-atlanta-memphis-0,19090829,0,Atlanta,5,Memphis,2,DWSXMCC
+boxscores/1909/1909-AG,1909,Southern Association,0829-nashville-neworleans-0,19090829,0,Nashville,4,New Orleans,1,JNQZMMY
+boxscores/1909/1909-MCA,1909,Southern Association,0829-nashville-neworleans-0,19090829,0,Nashville,4,New Orleans,1,TRTMLGX
+boxscores/1909/1909-AG,1909,Southern Association,0830-birmingham-littlerock-1,19090830,1,Birmingham,2,Little Rock,3,VKBNGTS
+boxscores/1909/1909-MCA,1909,Southern Association,0830-birmingham-littlerock-1,19090830,1,Birmingham,2,Little Rock,3,VZNMDZT
+boxscores/1909/1909-AG,1909,Southern Association,0830-birmingham-littlerock-2,19090830,2,Birmingham,4,Little Rock,2,NJJSYSW
+boxscores/1909/1909-MCA,1909,Southern Association,0830-birmingham-littlerock-2,19090830,2,Birmingham,4,Little Rock,2,BVFQZCW
+boxscores/1909/1909-AG,1909,Southern Association,0830-atlanta-memphis-0,19090830,0,Atlanta,2,Memphis,3,ZJRKJZH
+boxscores/1909/1909-MCA,1909,Southern Association,0830-atlanta-memphis-0,19090830,0,Atlanta,2,Memphis,3,SJGVJQT
+boxscores/1909/1909-AG,1909,Southern Association,0830-mobile-montgomery-0,19090830,0,Montgomery,5,Mobile,0,HZLQHJD
+boxscores/1909/1909-MCA,1909,Southern Association,0830-mobile-montgomery-0,19090830,0,Montgomery,5,Mobile,0,QQJZHFR
+boxscores/1909/1909-AG,1909,Southern Association,0830-nashville-neworleans-0,19090830,0,Nashville,2,New Orleans,4,KLJXJXQ
+boxscores/1909/1909-MCA,1909,Southern Association,0830-nashville-neworleans-0,19090830,0,Nashville,2,New Orleans,4,BGRKZGK
+boxscores/1909/1909-AG,1909,Southern Association,0831-birmingham-littlerock-0,19090831,0,Birmingham,5,Little Rock,2,BGRRGTY
+boxscores/1909/1909-MCA,1909,Southern Association,0831-birmingham-littlerock-0,19090831,0,Birmingham,,Little Rock,,KPBWFXT
+boxscores/1909/1909-AG,1909,Southern Association,0831-atlanta-memphis-0,19090831,0,Atlanta,5,Memphis,2,NRVQPNS
+boxscores/1909/1909-MCA,1909,Southern Association,0831-atlanta-memphis-0,19090831,0,Atlanta,,Memphis,,GWPCGZX
+boxscores/1909/1909-AG,1909,Southern Association,0831-mobile-montgomery-0,19090831,0,Montgomery,1,Mobile,1,TQJVMNY
+boxscores/1909/1909-MCA,1909,Southern Association,0831-mobile-montgomery-0,19090831,0,Montgomery,,Mobile,,CQYCQDL
+boxscores/1909/1909-AG,1909,Southern Association,0831-nashville-neworleans-0,19090831,0,Nashville,1,New Orleans,0,SLSXZZR
+boxscores/1909/1909-MCA,1909,Southern Association,0831-nashville-neworleans-0,19090831,0,Nashville,,New Orleans,,NLRRPLY
+boxscores/1909/1909-AG,1909,Southern Association,0901-birmingham-littlerock-0,19090901,0,Birmingham,4,Little Rock,0,JSPYTWS
+boxscores/1909/1909-MCA,1909,Southern Association,0901-birmingham-littlerock-0,19090901,0,Birmingham,4,Little Rock,0,KGDLJJQ
+boxscores/1909/1909-AG,1909,Southern Association,0901-atlanta-memphis-0,19090901,0,Atlanta,0,Memphis,1,VRKVCCG
+boxscores/1909/1909-MCA,1909,Southern Association,0901-atlanta-memphis-0,19090901,0,Atlanta,0,Memphis,1,XFCGWXR
+boxscores/1909/1909-AG,1909,Southern Association,0901-mobile-montgomery-1,19090901,1,Montgomery,7,Mobile,2,XTZGWCR
+boxscores/1909/1909-MCA,1909,Southern Association,0901-mobile-montgomery-1,19090901,1,Montgomery,7,Mobile,2,DHYRNFR
+boxscores/1909/1909-AG,1909,Southern Association,0901-mobile-montgomery-2,19090901,2,Montgomery,0,Mobile,1,GMGSQPL
+boxscores/1909/1909-MCA,1909,Southern Association,0901-mobile-montgomery-2,19090901,2,Montgomery,0,Mobile,1,VBZGZDP
+boxscores/1909/1909-AG,1909,Southern Association,0901-nashville-neworleans-0,19090901,0,Nashville,0,New Orleans,0,MFTDSLV
+boxscores/1909/1909-MCA,1909,Southern Association,0901-nashville-neworleans-0,19090901,0,Nashville,0,New Orleans,0,DKJBWZJ
+boxscores/1909/1909-AG,1909,Southern Association,0902-atlanta-littlerock-0,19090902,0,Atlanta,3,Little Rock,1,GTFJMQC
+boxscores/1909/1909-MCA,1909,Southern Association,0902-atlanta-littlerock-0,19090902,0,Atlanta,3,Little Rock,1,GVLWRSG
+boxscores/1909/1909-AG,1909,Southern Association,0902-mobile-nashville-0,19090902,0,Nashville,4,Mobile,1,XXYGYLR
+boxscores/1909/1909-MCA,1909,Southern Association,0902-mobile-nashville-0,19090902,0,Nashville,4,Mobile,1,DZQYTWF
+boxscores/1909/1909-AG,1909,Southern Association,0903-atlanta-littlerock-0,19090903,0,Atlanta,2,Little Rock,4,SPKCSRL
+boxscores/1909/1909-MCA,1909,Southern Association,0903-atlanta-littlerock-0,19090903,0,Atlanta,2,Little Rock,4,SVKLVHH
+boxscores/1909/1909-AG,1909,Southern Association,0903-birmingham-memphis-0,19090903,0,Birmingham,3,Memphis,12,XBZCHBK
+boxscores/1909/1909-MCA,1909,Southern Association,0903-birmingham-memphis-0,19090903,0,Birmingham,3,Memphis,12,PPCPTRK
+boxscores/1909/1909-AG,1909,Southern Association,0903-mobile-nashville-0,19090903,0,Nashville,9,Mobile,3,ZKTFTTF
+boxscores/1909/1909-MCA,1909,Southern Association,0903-mobile-nashville-0,19090903,0,Nashville,9,Mobile,3,NZNZTJJ
+boxscores/1909/1909-AG,1909,Southern Association,0904-atlanta-littlerock-1,19090904,1,Atlanta,5,Little Rock,0,DWVVXMG
+boxscores/1909/1909-MCA,1909,Southern Association,0904-atlanta-littlerock-1,19090904,1,Atlanta,5,Little Rock,0,JFJQPGZ
+boxscores/1909/1909-AG,1909,Southern Association,0904-atlanta-littlerock-2,19090904,2,Atlanta,4,Little Rock,4,GJKYBWR
+boxscores/1909/1909-MCA,1909,Southern Association,0904-atlanta-littlerock-2,19090904,2,Atlanta,4,Little Rock,4,ZFLYYBV
+boxscores/1909/1909-AG,1909,Southern Association,0904-birmingham-memphis-0,19090904,0,Birmingham,,Memphis,,WXZJXFV
+boxscores/1909/1909-MCA,1909,Southern Association,0904-birmingham-memphis-0,19090904,0,Birmingham,,Memphis,,BBQBGHX
+boxscores/1909/1909-AG,1909,Southern Association,0904-mobile-nashville-1,19090904,1,Nashville,1,Mobile,3,HSBXTTW
+boxscores/1909/1909-MCA,1909,Southern Association,0904-mobile-nashville-1,19090904,1,Nashville,1,Mobile,3,NMXJTNQ
+boxscores/1909/1909-AG,1909,Southern Association,0904-mobile-nashville-2,19090904,2,Nashville,5,Mobile,1,YZWSXLQ
+boxscores/1909/1909-MCA,1909,Southern Association,0904-mobile-nashville-2,19090904,2,Nashville,5,Mobile,1,FNWDBNZ
+boxscores/1909/1909-AG,1909,Southern Association,0904-montgomery-neworleans-0,19090904,0,Montgomery,2,New Orleans,0,VQTKFHX
+boxscores/1909/1909-MCA,1909,Southern Association,0904-montgomery-neworleans-0,19090904,0,Montgomery,2,New Orleans,0,FQNNSTY
+boxscores/1909/1909-AG,1909,Southern Association,0905-birmingham-memphis-1,19090905,1,Birmingham,0,Memphis,1,HGGSWND
+boxscores/1909/1909-MCA,1909,Southern Association,0905-birmingham-memphis-1,19090905,1,Birmingham,0,Memphis,1,VSVYXRC
+boxscores/1909/1909-AG,1909,Southern Association,0905-birmingham-memphis-2,19090905,2,Birmingham,0,Memphis,0,DSZJDQH
+boxscores/1909/1909-MCA,1909,Southern Association,0905-birmingham-memphis-2,19090905,2,Birmingham,0,Memphis,0,QVLLZTQ
+boxscores/1909/1909-AG,1909,Southern Association,0905-montgomery-neworleans-0,19090905,0,Montgomery,0,New Orleans,0,ZPBRFJD
+boxscores/1909/1909-MCA,1909,Southern Association,0905-montgomery-neworleans-0,19090905,0,Montgomery,0,New Orleans,0,KPQWMDY
+boxscores/1909/1909-AG,1909,Southern Association,0906-atlanta-mobile-1,19090906,1,Mobile,1,Atlanta,3,RYZVPSM
+boxscores/1909/1909-MCA,1909,Southern Association,0906-atlanta-mobile-1,19090906,1,Mobile,1,Atlanta,3,NDSPZLW
+boxscores/1909/1909-AG,1909,Southern Association,0906-atlanta-mobile-2,19090906,2,Mobile,2,Atlanta,0,WYMBCPL
+boxscores/1909/1909-MCA,1909,Southern Association,0906-atlanta-mobile-2,19090906,2,Mobile,2,Atlanta,0,JBVZHZR
+boxscores/1909/1909-AG,1909,Southern Association,0906-birmingham-neworleans-1,19090906,1,New Orleans,5,Birmingham,4,MHMHWMV
+boxscores/1909/1909-MCA,1909,Southern Association,0906-birmingham-neworleans-1,19090906,1,New Orleans,5,Birmingham,4,ZPHTYJC
+boxscores/1909/1909-AG,1909,Southern Association,0906-birmingham-neworleans-2,19090906,2,New Orleans,1,Birmingham,0,SSDZHQQ
+boxscores/1909/1909-MCA,1909,Southern Association,0906-birmingham-neworleans-2,19090906,2,New Orleans,1,Birmingham,0,JFBMVMX
+boxscores/1909/1909-AG,1909,Southern Association,0906-littlerock-montgomery-1,19090906,1,Little Rock,2,Montgomery,3,SNTWDDP
+boxscores/1909/1909-MCA,1909,Southern Association,0906-littlerock-montgomery-1,19090906,1,Little Rock,2,Montgomery,3,DQYZDBP
+boxscores/1909/1909-AG,1909,Southern Association,0906-littlerock-montgomery-2,19090906,2,Little Rock,1,Montgomery,2,RCGQJLC
+boxscores/1909/1909-MCA,1909,Southern Association,0906-littlerock-montgomery-2,19090906,2,Little Rock,1,Montgomery,2,RPJLFDN
+boxscores/1909/1909-AG,1909,Southern Association,0906-memphis-nashville-1,19090906,1,Memphis,4,Nashville,5,VTHQWPC
+boxscores/1909/1909-MCA,1909,Southern Association,0906-memphis-nashville-1,19090906,1,Memphis,4,Nashville,5,HDGXVWG
+boxscores/1909/1909-AG,1909,Southern Association,0906-memphis-nashville-2,19090906,2,Memphis,5,Nashville,4,JLSBDZD
+boxscores/1909/1909-MCA,1909,Southern Association,0906-memphis-nashville-2,19090906,2,Memphis,5,Nashville,4,XWVRWCP
+boxscores/1909/1909-AG,1909,Southern Association,0907-atlanta-mobile-0,19090907,0,Mobile,4,Atlanta,5,RCPDVJW
+boxscores/1909/1909-MCA,1909,Southern Association,0907-atlanta-mobile-0,19090907,0,Mobile,4,Atlanta,5,ZFQWLMT
+boxscores/1909/1909-AG,1909,Southern Association,0907-birmingham-neworleans-0,19090907,0,New Orleans,3,Birmingham,5,BZVQRZQ
+boxscores/1909/1909-MCA,1909,Southern Association,0907-birmingham-neworleans-0,19090907,0,New Orleans,3,Birmingham,5,QSQQHCS
+boxscores/1909/1909-AG,1909,Southern Association,0907-littlerock-montgomery-0,19090907,0,Little Rock,1,Montgomery,5,NSYLNQK
+boxscores/1909/1909-MCA,1909,Southern Association,0907-littlerock-montgomery-0,19090907,0,Little Rock,1,Montgomery,5,WCHRRXF
+boxscores/1909/1909-AG,1909,Southern Association,0907-memphis-nashville-0,19090907,0,Memphis,0,Nashville,1,TKMQGMR
+boxscores/1909/1909-MCA,1909,Southern Association,0907-memphis-nashville-0,19090907,0,Memphis,0,Nashville,1,TXWXJXC
+boxscores/1909/1909-AG,1909,Southern Association,0908-atlanta-neworleans-0,19090908,0,New Orleans,4,Atlanta,2,VQNVJFW
+boxscores/1909/1909-MCA,1909,Southern Association,0908-atlanta-neworleans-0,19090908,0,New Orleans,4,Atlanta,2,LMGFNST
+boxscores/1909/1909-AG,1909,Southern Association,0908-birmingham-memphis-0,19090908,0,Memphis,3,Birmingham,2,XCXLCZM
+boxscores/1909/1909-MCA,1909,Southern Association,0908-birmingham-memphis-0,19090908,0,Memphis,3,Birmingham,2,CPGGHTR
+boxscores/1909/1909-AG,1909,Southern Association,0908-mobile-montgomery-0,19090908,0,Mobile,,Montgomery,,XRJWYXH
+boxscores/1909/1909-MCA,1909,Southern Association,0908-mobile-montgomery-0,19090908,0,Mobile,,Montgomery,,QZSHBZW
+boxscores/1909/1909-AG,1909,Southern Association,0908-littlerock-nashville-0,19090908,0,Little Rock,4,Nashville,0,QLVDVLQ
+boxscores/1909/1909-MCA,1909,Southern Association,0908-littlerock-nashville-0,19090908,0,Little Rock,4,Nashville,0,YCLXBCF
+boxscores/1909/1909-AG,1909,Southern Association,0909-atlanta-neworleans-0,19090909,0,New Orleans,2,Atlanta,5,JGRKVSQ
+boxscores/1909/1909-MCA,1909,Southern Association,0909-atlanta-neworleans-0,19090909,0,New Orleans,2,Atlanta,5,YWQTGMV
+boxscores/1909/1909-AG,1909,Southern Association,0909-birmingham-memphis-0,19090909,0,Memphis,2,Birmingham,0,WZYGXBR
+boxscores/1909/1909-MCA,1909,Southern Association,0909-birmingham-memphis-0,19090909,0,Memphis,2,Birmingham,0,TRTJRFZ
+boxscores/1909/1909-AG,1909,Southern Association,0909-mobile-montgomery-1,19090909,1,Mobile,1,Montgomery,3,WYLVRPD
+boxscores/1909/1909-MCA,1909,Southern Association,0909-mobile-montgomery-1,19090909,1,Mobile,1,Montgomery,3,XJXJRYG
+boxscores/1909/1909-AG,1909,Southern Association,0909-mobile-montgomery-2,19090909,2,Mobile,0,Montgomery,1,QZNVWDX
+boxscores/1909/1909-MCA,1909,Southern Association,0909-mobile-montgomery-2,19090909,2,Mobile,0,Montgomery,1,CWKBVWR
+boxscores/1909/1909-AG,1909,Southern Association,0909-littlerock-nashville-0,19090909,0,Little Rock,1,Nashville,1,VQLJSDQ
+boxscores/1909/1909-MCA,1909,Southern Association,0909-littlerock-nashville-0,19090909,0,Little Rock,1,Nashville,1,RBTRBZJ
+boxscores/1909/1909-AG,1909,Southern Association,0910-atlanta-neworleans-0,19090910,0,New Orleans,0,Atlanta,5,LDBTRKP
+boxscores/1909/1909-MCA,1909,Southern Association,0910-atlanta-neworleans-0,19090910,0,New Orleans,0,Atlanta,5,TXZTWYG
+boxscores/1909/1909-AG,1909,Southern Association,0910-birmingham-memphis-0,19090910,0,Memphis,3,Birmingham,7,MKYTMFY
+boxscores/1909/1909-MCA,1909,Southern Association,0910-birmingham-memphis-0,19090910,0,Memphis,3,Birmingham,7,RFWDJSG
+boxscores/1909/1909-AG,1909,Southern Association,0910-mobile-montgomery-1,19090910,1,Mobile,2,Montgomery,3,GGPWKJG
+boxscores/1909/1909-MCA,1909,Southern Association,0910-mobile-montgomery-1,19090910,1,Mobile,2,Montgomery,3,XTRYHLL
+boxscores/1909/1909-AG,1909,Southern Association,0910-mobile-montgomery-2,19090910,2,Mobile,1,Montgomery,1,ZQCRVYJ
+boxscores/1909/1909-MCA,1909,Southern Association,0910-mobile-montgomery-2,19090910,2,Mobile,1,Montgomery,1,LXHHXZD
+boxscores/1909/1909-AG,1909,Southern Association,0910-littlerock-nashville-0,19090910,0,Little Rock,1,Nashville,2,QLJDMJZ
+boxscores/1909/1909-MCA,1909,Southern Association,0910-littlerock-nashville-0,19090910,0,Little Rock,1,Nashville,2,YKSVNWV
+boxscores/1909/1909-AG,1909,Southern Association,0911-atlanta-neworleans-1,19090911,1,New Orleans,4,Atlanta,3,HPYHSBN
+boxscores/1909/1909-MCA,1909,Southern Association,0911-atlanta-neworleans-1,19090911,1,New Orleans,4,Atlanta,3,XHGLSJS
+boxscores/1909/1909-AG,1909,Southern Association,0911-atlanta-neworleans-2,19090911,2,New Orleans,,Atlanta,,SWRFPKJ
+boxscores/1909/1909-MCA,1909,Southern Association,0911-atlanta-neworleans-2,19090911,2,New Orleans,,Atlanta,,PBPRBNV
+boxscores/1909/1909-AG,1909,Southern Association,0911-birmingham-memphis-0,19090911,0,Memphis,0,Birmingham,3,DVDCYQG
+boxscores/1909/1909-MCA,1909,Southern Association,0911-birmingham-memphis-0,19090911,0,Memphis,0,Birmingham,3,CRVLSWC
+boxscores/1909/1909-AG,1909,Southern Association,0911-mobile-montgomery-0,19090911,0,Mobile,1,Montgomery,4,BTKWDJT
+boxscores/1909/1909-MCA,1909,Southern Association,0911-mobile-montgomery-0,19090911,0,Mobile,1,Montgomery,4,NKFKFKM
+boxscores/1909/1909-AG,1909,Southern Association,0911-littlerock-nashville-1,19090911,1,Little Rock,2,Nashville,6,WLNQGQC
+boxscores/1909/1909-MCA,1909,Southern Association,0911-littlerock-nashville-1,19090911,1,Little Rock,2,Nashville,6,JZRSYNN
+boxscores/1909/1909-AG,1909,Southern Association,0911-littlerock-nashville-2,19090911,2,Little Rock,4,Nashville,2,LDRPLRC
+boxscores/1909/1909-MCA,1909,Southern Association,0911-littlerock-nashville-2,19090911,2,Little Rock,4,Nashville,2,BSMMMQH
+boxscores/1909/1909-AG,1909,Southern Association,0912-memphis-mobile-0,19090912,0,Mobile,3,Memphis,7,QJCGMXS
+boxscores/1909/1909-MCA,1909,Southern Association,0912-memphis-mobile-0,19090912,0,Mobile,3,Memphis,7,NLTTMYP
+boxscores/1909/1909-AG,1909,Southern Association,0912-montgomery-neworleans-1,19090912,1,Montgomery,2,New Orleans,1,ZXGHFCQ
+boxscores/1909/1909-MCA,1909,Southern Association,0912-montgomery-neworleans-1,19090912,1,Montgomery,2,New Orleans,1,FMTWRHM
+boxscores/1909/1909-AG,1909,Southern Association,0912-montgomery-neworleans-2,19090912,2,Montgomery,,New Orleans,,MWJCWSZ
+boxscores/1909/1909-MCA,1909,Southern Association,0912-montgomery-neworleans-2,19090912,2,Montgomery,0,New Orleans,3,WSRGCTF
+boxscores/1909/1909-AG,1909,Southern Association,0913-atlanta-memphis-0,19090913,0,Memphis,2,Atlanta,1,DDQYBNN
+boxscores/1909/1909-MCA,1909,Southern Association,0913-atlanta-memphis-0,19090913,0,Memphis,2,Atlanta,1,PMNWWLW
+boxscores/1909/1909-AG,1909,Southern Association,0913-birmingham-littlerock-0,19090913,0,Little Rock,1,Birmingham,4,QJPKDCV
+boxscores/1909/1909-MCA,1909,Southern Association,0913-birmingham-littlerock-0,19090913,0,Little Rock,1,Birmingham,4,LGFTRNS
+boxscores/1909/1909-AG,1909,Southern Association,0913-montgomery-neworleans-0,19090913,0,New Orleans,3,Montgomery,10,CSKLJZJ
+boxscores/1909/1909-MCA,1909,Southern Association,0913-montgomery-neworleans-0,19090913,0,New Orleans,3,Montgomery,10,DYHYMRS
+boxscores/1909/1909-AG,1909,Southern Association,0913-mobile-nashville-0,19090913,0,Mobile,2,Nashville,4,XBSCVGN
+boxscores/1909/1909-MCA,1909,Southern Association,0913-mobile-nashville-0,19090913,0,Mobile,2,Nashville,4,PKSBXNV
+boxscores/1909/1909-AG,1909,Southern Association,0914-atlanta-memphis-0,19090914,0,Memphis,0,Atlanta,2,XVJFLWW
+boxscores/1909/1909-MCA,1909,Southern Association,0914-atlanta-memphis-0,19090914,0,Memphis,0,Atlanta,2,DPYVDRB
+boxscores/1909/1909-AG,1909,Southern Association,0914-birmingham-littlerock-0,19090914,0,Little Rock,6,Birmingham,5,GFTLPYD
+boxscores/1909/1909-MCA,1909,Southern Association,0914-birmingham-littlerock-0,19090914,0,Little Rock,6,Birmingham,5,BYMYPBW
+boxscores/1909/1909-AG,1909,Southern Association,0914-montgomery-neworleans-0,19090914,0,New Orleans,1,Montgomery,5,MBBKBJW
+boxscores/1909/1909-MCA,1909,Southern Association,0914-montgomery-neworleans-0,19090914,0,New Orleans,1,Montgomery,5,TMYKKWG
+boxscores/1909/1909-AG,1909,Southern Association,0914-mobile-nashville-0,19090914,0,Mobile,0,Nashville,4,MWSVLRB
+boxscores/1909/1909-MCA,1909,Southern Association,0914-mobile-nashville-0,19090914,0,Mobile,0,Nashville,4,YVYMTRC
+boxscores/1909/1909-AG,1909,Southern Association,0915-atlanta-memphis-0,19090915,0,Memphis,3,Atlanta,1,KYZQZVK
+boxscores/1909/1909-MCA,1909,Southern Association,0915-atlanta-memphis-0,19090915,0,Memphis,3,Atlanta,1,TJSRLKC
+boxscores/1909/1909-AG,1909,Southern Association,0915-birmingham-littlerock-0,19090915,0,Little Rock,4,Birmingham,6,JKZDLHH
+boxscores/1909/1909-MCA,1909,Southern Association,0915-birmingham-littlerock-0,19090915,0,Little Rock,4,Birmingham,6,RDKKZYY
+boxscores/1909/1909-AG,1909,Southern Association,0915-montgomery-neworleans-0,19090915,0,New Orleans,,Montgomery,,GXCGQSC
+boxscores/1909/1909-MCA,1909,Southern Association,0915-montgomery-neworleans-0,19090915,0,New Orleans,5,Montgomery,9,XBGLKYR
+boxscores/1909/1909-AG,1909,Southern Association,0915-mobile-nashville-0,19090915,0,Mobile,2,Nashville,4,PYLQGDT
+boxscores/1909/1909-MCA,1909,Southern Association,0915-mobile-nashville-0,19090915,0,Mobile,2,Nashville,4,RBCBBMG
+boxscores/1909/1909-MCA,1909,Southern Association,0916-atlanta-littlerock-0,19090916,0,Little Rock,1,Atlanta,3,ZTSBZLJ
+boxscores/1909/1909-MCA,1909,Southern Association,0916-birmingham-mobile-0,19090916,0,Mobile,0,Birmingham,1,WGSMPCF
+boxscores/1909/1909-MCA,1909,Southern Association,0916-memphis-montgomery-0,19090916,0,Memphis,4,Montgomery,8,SDHYFXT
+boxscores/1909/1909-MCA,1909,Southern Association,0916-nashville-neworleans-0,19090916,0,New Orleans,7,Nashville,2,KZQQQXF
+boxscores/1909/1909-AG,1909,Southern Association,0917-atlanta-littlerock-0,19090917,0,Little Rock,2,Atlanta,5,WRMYQPH
+boxscores/1909/1909-MCA,1909,Southern Association,0917-atlanta-littlerock-0,19090917,0,Little Rock,2,Atlanta,5,STHHYFQ
+boxscores/1909/1909-AG,1909,Southern Association,0917-birmingham-mobile-0,19090917,0,Mobile,3,Birmingham,9,MKXCJRK
+boxscores/1909/1909-MCA,1909,Southern Association,0917-birmingham-mobile-0,19090917,0,Mobile,3,Birmingham,9,RMVDTPP
+boxscores/1909/1909-AG,1909,Southern Association,0917-memphis-montgomery-0,19090917,0,Memphis,3,Montgomery,9,DWRQKQK
+boxscores/1909/1909-MCA,1909,Southern Association,0917-memphis-montgomery-0,19090917,0,Memphis,3,Montgomery,9,ZJDLCSR
+boxscores/1909/1909-AG,1909,Southern Association,0917-nashville-neworleans-0,19090917,0,New Orleans,7,Nashville,8,YTCPNLY
+boxscores/1909/1909-MCA,1909,Southern Association,0917-nashville-neworleans-0,19090917,0,New Orleans,7,Nashville,8,JSBQHJQ
+boxscores/1909/1909-AG,1909,Southern Association,0918-atlanta-littlerock-0,19090918,0,Little Rock,2,Atlanta,5,PZWCYFH
+boxscores/1909/1909-MCA,1909,Southern Association,0918-atlanta-littlerock-0,19090918,0,Little Rock,2,Atlanta,5,BBRLTVP
+boxscores/1909/1909-AG,1909,Southern Association,0918-birmingham-mobile-0,19090918,0,Mobile,7,Birmingham,8,DMKSFPM
+boxscores/1909/1909-MCA,1909,Southern Association,0918-birmingham-mobile-0,19090918,0,Mobile,7,Birmingham,8,MSSKBMM
+boxscores/1909/1909-AG,1909,Southern Association,0918-memphis-montgomery-0,19090918,0,Memphis,6,Montgomery,5,CZKJDJH
+boxscores/1909/1909-MCA,1909,Southern Association,0918-memphis-montgomery-0,19090918,0,Memphis,6,Montgomery,5,JVCFJVF
+boxscores/1909/1909-AG,1909,Southern Association,0918-nashville-neworleans-0,19090918,0,New Orleans,5,Nashville,4,QTYPJXS
+boxscores/1909/1909-MCA,1909,Southern Association,0918-nashville-neworleans-0,19090918,0,New Orleans,5,Nashville,4,XNDRSZN

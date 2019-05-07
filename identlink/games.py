@@ -1,7 +1,5 @@
 """Update game ident lists from source records.
 """
-from __future__ import print_function
-
 import os
 import glob
 
@@ -47,16 +45,19 @@ def main():
     games = pd.concat(collect_from_boxscores("../boxscores"),
                       sort=False, ignore_index=True)
     games['league.year'] = games['date'].str[:4]
+    noleague = games[games['league'].isnull()]
+    if not noleague.empty:
+        print("WARNING: The following games have a null league entry:")
+        print(noleague[['filename', 'date', 'away', 'home']])
     games['league'] = games['league'] \
                       .apply(lambda x:
                              x + " League" if "Association" not in x else x)
-    games.rename(inplace=True,
-                 columns={'league':  'league.name',
-                          'date':    'game.date',
-                          'number':  'game.number',
-                          'away':    'away.name',
-                          'home':    'home.name',
-                          'key':     'game.ref'})
+    games = games.rename(columns={'league':  'league.name',
+                                  'date':    'game.date',
+                                  'number':  'game.number',
+                                  'away':    'away.name',
+                                  'home':    'home.name',
+                                  'key':     'game.ref'})
     games.sort_values(['league.year', 'league.name',
                        'game.date', 'home.name', 'game.number'],
                       inplace=True)
