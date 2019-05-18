@@ -1,7 +1,6 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
 retrosheet/1906,1906,American League,altizer,altid101,Altizer,Dave,,Washington,19060529,19061003,,,,,,,,,,,,,
 retrosheet/1906,1906,American League,altrock,altrn101,Altrock,Nick,,Chicago,19060420,19061012,,,,,,,,,,,,,
-researchers/mcconnell,1906,American League,anderson,QVWKSGB,Anderson,John,,Washington,,,,,,,,,,,,,,,
 retrosheet/1906,1906,American League,anderson,andej101,Anderson,John,,Washington,19060414,19061003,,,,,,,,,,,,,
 retrosheet/1906,1906,American League,armbruster-bos,armbc101,Armbruster,Charlie,,Boston,19060515,19061005,,,,,,,,,,,,,
 retrosheet/1906,1906,American League,armbruster-phi,armbh101,Armbruster,Harry,,Philadelphia,19060430,19061003,,,,,,,,,,,,,

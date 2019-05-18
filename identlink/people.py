@@ -1,10 +1,6 @@
 """Update person ident lists from source records.
 """
-from __future__ import print_function
-try:
-    import pathlib
-except ImportError:
-    import pathlib2 as pathlib
+import pathlib
 
 import pandas as pd
 
@@ -133,9 +129,9 @@ def extract_sources():
                                         path_retro=pathlib.Path("../retrosheet"))
     avglist = collect_from_averages(pathlib.Path("../minoraverages"))
     boxlist = collect_from_boxscores(pathlib.Path("../boxscores"))
-    reslist = collect_from_researchers("../researchers")
+    #reslist = collect_from_researchers("../researchers")
     print("Concatenating files...")
-    return pd.concat(retrolist + avglist + boxlist + reslist,
+    return pd.concat(retrolist + avglist + boxlist,
                      sort=False, ignore_index=True)
 
 

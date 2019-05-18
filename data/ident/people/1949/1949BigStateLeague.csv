@@ -1,5 +1,4 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
-researchers/mcconnell,1949,Big State League,,DZDCQNS,Alotta,Phillip,,Waco,,,,,,,,,,,,,,,
 minoraverages/1950TSN,1949,Big State League,anson,B01706,Anson,Thomas E.,0,Waco,,,32,,,,,,,,,,,,
 minoraverages/1950TSN,1949,Big State League,anson,F21999,Anson,,0,Waco,,,,,,,,,,,,,,31,
 minoraverages/1950TSN,1949,Big State League,anson,P10569,Anson,,0,Waco,,,,31,,,,,,,,,,,
