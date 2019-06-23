@@ -63,7 +63,7 @@ boxscores/1915/1915-SL,1915,International League,breckenridge,P3087568,Breckenri
 minoraverages/1916Reach,1915,International League,breckenridge,B00726,Breckenridge,,0,Richmond,,,35,,
 minoraverages/1916Reach,1915,International League,breckenridge,F21021,Breckenridge,,0,Richmond,,,,,cf30
 boxscores/1915/1915-SL,1915,International League,brown,P0447348,Brown,,,Toronto,19150427,19150501,4,0,of4lf3cf1
-boxscores/1915/1915-SL,1915,International League,,P5395025,Brown,,,#umpire,19150429,19150501,,,
+boxscores/1915/1915-SL,1915,International League,brown@ump,P5395025,Brown,,,#umpire,19150429,19150501,,,
 minoraverages/1916Reach,1915,International League,brown,B01010,Brown,,0,Toronto,,,19,,
 minoraverages/1916Reach,1915,International League,brown,P10569,Brown,,0,Harrisburg,,,,7,
 minoraverages/1916Reach,1915,International League,bruck,B01617,Bruck,,0,Jersey City,,,37,,
@@ -82,7 +82,7 @@ boxscores/1915/1915-SL,1915,International League,carlstrom,P2990931,Carlst'm,,,B
 boxscores/1915/1915-SL,1915,International League,carlstrom,P1454541,Carlstrom,,,Buffalo,19150428,19150429,2,0,1b13b1
 minoraverages/1916Reach,1915,International League,carlstrom,B00865,Carlstrom,,0,Buffalo,,,140,,
 minoraverages/1916Reach,1915,International League,carlstrom,F20388,Carlstrom,,0,Buffalo,,,,,3b129
-boxscores/1915/1915-SL,1915,International League,,P2653645,Carpenter,,,#umpire,19150427,19150501,,,
+boxscores/1915/1915-SL,1915,International League,carpenter@ump,P2653645,Carpenter,,,#umpire,19150427,19150501,,,
 minoraverages/1916Reach,1915,International League,carroll,B01321,Carroll,,0,Toronto,,,10,,
 boxscores/1915/1915-SL,1915,International League,casey,P0595403,Casey,,,Buffalo,19150501,19150501,1,0,c1
 minoraverages/1916Reach,1915,International League,casey,B00469,Casey,,0,Providence,,,73,,
@@ -103,7 +103,7 @@ minoraverages/1916Reach,1915,International League,chabek,P10361,Chabek,,0,Harris
 boxscores/1915/1915-SL,1915,International League,channell,P1237531,Channell,,,Buffalo,19150428,19150501,3,0,of3lf1rf2
 minoraverages/1916Reach,1915,International League,channell,B00158,Channell,,0,Buffalo,,,130,,
 minoraverages/1916Reach,1915,International League,channell,F21163,Channell,,0,Buffalo,,,,,rf130
-boxscores/1915/1915-SL,1915,International League,,P9362025,Cleary,,,#umpire,19150427,19150501,,,
+boxscores/1915/1915-SL,1915,International League,cleary@ump,P9362025,Cleary,,,#umpire,19150427,19150501,,,
 boxscores/1915/1915-SL,1915,International League,clements,P2364269,Clemens,,,Rochester,19150429,19150501,2,0,of2lf2
 minoraverages/1916Reach,1915,International League,clements,B00491,Clements,,0,Rochester,,,140,,
 minoraverages/1916Reach,1915,International League,clements,F20878,Clements,,0,Rochester,,,,,lf18
@@ -157,7 +157,7 @@ minoraverages/1916Reach,1915,International League,eayrs,B00515,Eayrs,,0,Providen
 minoraverages/1916Reach,1915,International League,eayrs,F21059,Eayrs,,0,Providence,,,,,rf26
 minoraverages/1916Reach,1915,International League,eayrs,F21356,Eayrs,,0,Providence,,,,,p16
 minoraverages/1916Reach,1915,International League,eayrs,P10215,Eayrs,,0,Providence,,,,16,
-boxscores/1915/1915-SL,1915,International League,,P5405240,Eckman,,,#umpire,19150428,19150501,,,
+boxscores/1915/1915-SL,1915,International League,eckman@ump,P5405240,Eckman,,,#umpire,19150428,19150501,,,
 minoraverages/1916Reach,1915,International League,enzmann,B01313,Enzmann,,0,Harrisburg,,,30,,
 minoraverages/1916Reach,1915,International League,enzmann,F21590,Enzmann,,0,Harrisburg,,,,,p30
 minoraverages/1916Reach,1915,International League,enzmann,P10176,Enzmann,,0,Harrisburg,,,,30,
@@ -175,7 +175,7 @@ minoraverages/1916Reach,1915,International League,fewster,F20458,Fewster,,0,Rich
 minoraverages/1916Reach,1915,International League,fewster,F20547,Fewster,,0,Richmond,,,,,ss11
 minoraverages/1916Reach,1915,International League,flynn,B00324,Flynn,,0,Montreal,,,128,,
 minoraverages/1916Reach,1915,International League,flynn,F20067,Flynn,,0,Montreal,,,,,1b128
-boxscores/1915/1915-SL,1915,International League,,P6184679,Freeman,,,#umpire,19150429,19150501,,,
+boxscores/1915/1915-SL,1915,International League,freeman@ump,P6184679,Freeman,,,#umpire,19150429,19150501,,,
 boxscores/1915/1915-SL,1915,International League,fullenwider,P0419959,Fullenwider,,,Buffalo,19150501,19150501,1,1,p1
 minoraverages/1916Reach,1915,International League,fullenwider,B01250,Fullenwider,,0,Buffalo,,,35,,
 minoraverages/1916Reach,1915,International League,fullenwider,F21475,Fullenwider,,0,Buffalo,,,,,p35
@@ -213,8 +213,8 @@ minoraverages/1916Reach,1915,International League,heckinger,F21879,Hackinger,,0,
 minoraverages/1916Reach,1915,International League,haley,B00286,Haley,,0,Richmond,,,89,,
 minoraverages/1916Reach,1915,International League,haley,F21822,Haley,,0,Providence,,,,,c80
 boxscores/1915/1915-SL,1915,International League,halstein,P8238641,Halstein,,,Montreal,19150429,19150429,1,0,1b1
-boxscores/1915/1915-SL,1915,International League,,P9615695,Harrison,,,#umpire,19150429,19150501,,,
-boxscores/1915/1915-SL,1915,International League,,P6094744,Hart,,,#umpire,19150428,19150501,,,
+boxscores/1915/1915-SL,1915,International League,harrison@ump,P9615695,Harrison,,,#umpire,19150429,19150501,,,
+boxscores/1915/1915-SL,1915,International League,hart@ump,P6094744,Hart,,,#umpire,19150428,19150501,,,
 minoraverages/1916Reach,1915,International League,healy,B00695,Healy,,0,Richmond,,,37,,
 minoraverages/1916Reach,1915,International League,healy,F20496,Healy,,0,Richmond,,,,,3b16
 minoraverages/1916Reach,1915,International League,healy,F20620,Healy,,0,Richmond,,,,,ss11
@@ -370,8 +370,8 @@ minoraverages/1916Reach,1915,International League,morrisette,P10429,Morrisette,,
 boxscores/1915/1915-SL,1915,International League,mowe,P5642423,Mowe,,,Newark,19150429,19150501,2,0,2b1ss1
 minoraverages/1916Reach,1915,International League,mowe,B01093,Mowe,,0,Harrisburg,,,115,,
 minoraverages/1916Reach,1915,International League,mowe,F20648,Mowe,,0,Harrisburg,,,,,ss111
-boxscores/1915/1915-SL,1915,International League,,P3234422,Mullen,,,#umpire,19150501,19150501,,,
-boxscores/1915/1915-SL,1915,International League,,P7707386,Muller,,,#umpire,19150429,19150429,,,
+boxscores/1915/1915-SL,1915,International League,mullen@ump,P3234422,Mullen,,,#umpire,19150501,19150501,,,
+boxscores/1915/1915-SL,1915,International League,mullen@ump,P7707386,Muller,,,#umpire,19150429,19150429,,,
 minoraverages/1916Reach,1915,International League,mullin,B00021,Mullin,,0,Richmond,,,39,,
 minoraverages/1916Reach,1915,International League,mullin,F20102,Mullin,,0,Richmond,,,,,1b39
 boxscores/1915/1915-SL,1915,International League,murray,P8850015,Murray,,,Newark,19150429,19150501,2,0,of2rf2

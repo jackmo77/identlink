@@ -13,7 +13,7 @@ minoraverages/1916Reach,1915,North Carolina State League,angier,F20552,Angier,,0
 boxscores/1915/1915-CDO,1915,North Carolina State League,antley,P2341589,Antley,,,Asheville,19150904,19150911,5,2,p2of4rf4
 boxscores/1915/1915-CDO,1915,North Carolina State League,atkinson-dur,P4603749,Atchison,,,Durham,19150513,19150513,1,1,p1
 boxscores/1915/1915-CDO,1915,North Carolina State League,atkinson-gre,P0577320,Atkinson,,,Greensboro,19150501,19150521,5,5,p5
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P2329156,Atkinson,,,#umpire,19150617,19150907,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,atkinson@ump,P2329156,Atkinson,,,#umpire,19150617,19150907,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,atkinson-dur,P4252499,Atkinson,,,Durham,19150430,19150915,30,28,p281b2of1rf1
 minoraverages/1916Reach,1915,North Carolina State League,atkinson-dur,B01064,Atkinson,A. B.,0,Durham,,,32,,
 minoraverages/1916Reach,1915,North Carolina State League,atkinson-dur,F21000,Atkinson,A. B.,0,Durham,,,,,p32
@@ -35,13 +35,13 @@ minoraverages/1916Reach,1915,North Carolina State League,baumgartner,F20956,Baum
 minoraverages/1916Reach,1915,North Carolina State League,baumgartner,P10168,Baumgartner,,0,Winston-Salem,,,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,betsill,P9706135,Betsill,,,Asheville,19150526,19150612,5,4,p4of1rf1
 boxscores/1915/1915-CDO,1915,North Carolina State League,bixby,P8411418,Bixby,,,Winston-Salem,19150513,19150518,3,3,p3
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P1494577,Blackburn,,,#umpire,19150422,19150914,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,blackburn@ump,P1494577,Blackburn,,,#umpire,19150422,19150914,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,boggess,P4342182,Boggess,,,Winston-Salem,19150522,19150710,40,0,1b39
 minoraverages/1916Reach,1915,North Carolina State League,boggess,B00771,Boggess,,0,Winston-Salem,,,40,,
 minoraverages/1916Reach,1915,North Carolina State League,boggess,F20067,Boggess,,0,Winston-Salem,,,,,1b39
 boxscores/1915/1915-CDO,1915,North Carolina State League,boykin,P7586365,Boykin,,,Charlotte,19150501,19150717,66,0,1b13b14of51lf38cf13
 boxscores/1915/1915-CDO,1915,North Carolina State League,boykin,P7889816,Boykin,,,Durham,19150722,19150824,29,0,1b2ss2of26lf5cf1rf21
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P5218584,Boyle,,,#umpire,19150504,19150630,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,boyle@ump,P5218584,Boyle,,,#umpire,19150504,19150630,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,boyle,P7141927,Boyle,,,Durham,19150422,19150915,71,1,p1c693b1
 minoraverages/1916Reach,1915,North Carolina State League,boyle,B00920,Boyle,,0,Durham,,,68,,
 minoraverages/1916Reach,1915,North Carolina State League,boyle,F21207,Boyle,,0,Durham,,,,,c71
@@ -49,8 +49,8 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,bradshaw,P7942356,Brads
 minoraverages/1916Reach,1915,North Carolina State League,bradshaw,B00278,Bradshaw,,0,Asheville,,,122,,
 minoraverages/1916Reach,1915,North Carolina State League,bradshaw,F20177,Bradshaw,,0,Asheville,,,,,2b69
 minoraverages/1916Reach,1915,North Carolina State League,bradshaw,F20474,Bradshaw,,0,Asheville,,,,,ss56
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P1435681,Brandon,,,#umpire,19150503,19150821,,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P0970776,Brandt,,,#umpire,19150616,19150616,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,brandon@ump,P1435681,Brandon,,,#umpire,19150503,19150821,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,brandt@ump,P0970776,Brandt,,,#umpire,19150616,19150616,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,brazier,P9998991,Brasier,,,Raleigh,19150828,19150828,2,0,of2cf2
 minoraverages/1916Reach,1915,North Carolina State League,brazier,B00531,Brasier,,0,Raleigh,,,58,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,brazier,P0893718,Brazier,,,Raleigh,19150714,19150911,49,0,3b1of49lf1cf48rf1
@@ -72,7 +72,7 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,butts,P9051582,Butts,,,
 minoraverages/1916Reach,1915,North Carolina State League,butts,B00416,Butts,,0,Durham,,,99,,
 minoraverages/1916Reach,1915,North Carolina State League,butts,F20594,Butts,,0,Durham,,,,,of98
 minoraverages/1916Reach,1915,North Carolina State League,dysert,B00672,Bysert,,0,Raleigh,,,100,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P3475554,Cameron,,,#umpire,19150422,19150501,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,cameron@ump,P3475554,Cameron,,,#umpire,19150422,19150501,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,carlisle,P2127024,Carlisle,,,Greensboro,19150818,19150915,24,0,3b22of2lf2rf1
 minoraverages/1916Reach,1915,North Carolina State League,carlisle,F20240,Carlisle,,0,Greensboro,,,,,3b24
 boxscores/1915/1915-CDO,1915,North Carolina State League,carnes,P8883128,Carnes,,,Winston-Salem,19150712,19150716,5,0,3b5
@@ -102,7 +102,7 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,covington,P6196419,Covi
 boxscores/1915/1915-CDO,1915,North Carolina State League,crow,P4293527,Crow,,,Winston-Salem,19150717,19150915,53,0,2b13b52
 minoraverages/1916Reach,1915,North Carolina State League,crow,B00840,Crow,,0,Winston-Salem,,,62,,
 minoraverages/1916Reach,1915,North Carolina State League,crow,F20254,Crow,,0,Winston-Salem,,,,,3b52
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P5579207,Currie,,,#umpire,19150907,19150907,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,currie@ump,P5579207,Currie,,,#umpire,19150907,19150907,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,currie,P8213137,Currie,,,Raleigh,19150428,19150828,18,17,p171b1of1rf1
 minoraverages/1916Reach,1915,North Carolina State League,currie,F20864,Currie,,0,Raleigh,,,,,p18
 minoraverages/1916Reach,1915,North Carolina State League,currie,P10231,Currie,,0,Raleigh,,,,,
@@ -115,7 +115,7 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,dayton,P6899547,Dayton,
 minoraverages/1916Reach,1915,North Carolina State League,dayton,B00589,Dayton,,0,Durham,,,122,,
 minoraverages/1916Reach,1915,North Carolina State League,dayton,F20721,Dayton,,0,Durham,,,,,of69
 minoraverages/1916Reach,1915,North Carolina State League,dayton,F21174,Dayton,,0,Durham,,,,,c43
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P8866877,DePriest,,,#umpire,19150717,19150719,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,depriest@ump,P8866877,DePriest,,,#umpire,19150717,19150719,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,decatur,P0797796,Decatur,,,Winston-Salem,19150721,19150728,3,3,p3
 boxscores/1915/1915-CDO,1915,North Carolina State League,doak,P1429776,Doak,,,Charlotte,19150427,19150915,114,5,p5c71b102b73b83ss5of2lf2
 minoraverages/1916Reach,1915,North Carolina State League,doak,B00651,Doak,,0,Charlotte,,,113,,
@@ -123,7 +123,7 @@ minoraverages/1916Reach,1915,North Carolina State League,doak,F20287,Doak,,0,Cha
 boxscores/1915/1915-CDO,1915,North Carolina State League,donaldson,P4070270,Donaldson,,,Winston-Salem,19150714,19150804,19,0,ss19
 minoraverages/1916Reach,1915,North Carolina State League,donaldson,B00948,Donaldson,,0,Winston-Salem,,,19,,
 minoraverages/1916Reach,1915,North Carolina State League,donaldson,F20463,Donaldson,,0,Winston-Salem,,,,,ss19
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P8163017,Dooley,,,#umpire,19150701,19150716,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,dooley@ump,P8163017,Dooley,,,#umpire,19150701,19150716,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,dudley,P1201016,Dudley,,,Charlotte,19150524,19150812,38,1,p1c36
 minoraverages/1916Reach,1915,North Carolina State League,dudley,B00999,Dudley,,0,Charlotte,,,38,,
 minoraverages/1916Reach,1915,North Carolina State League,dudley,F21196,Dudley,,0,Charlotte,,,,,c38
@@ -160,7 +160,7 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,fenton,P0270034,Fenton,
 minoraverages/1916Reach,1915,North Carolina State League,fenton,B00370,Fenton,,0,Asheville,,,109,,
 minoraverages/1916Reach,1915,North Carolina State League,fenton,F20745,Fenton,,0,Asheville,,,,,of108
 boxscores/1915/1915-CDO,1915,North Carolina State League,ferabee,P6034566,Ferabee,,,Winston-Salem,19150513,19150513,1,1,p1
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P3986344,Ferris,,,#umpire,19150603,19150603,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,ferris@ump,P3986344,Ferris,,,#umpire,19150603,19150603,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,ferris,P6477043,Ferris,,,Asheville,19150422,19150915,46,44,p44of1rf1
 minoraverages/1916Reach,1915,North Carolina State League,ferris,B01032,Ferris,,0,Asheville,,,45,,
 minoraverages/1916Reach,1915,North Carolina State League,ferris,P10024,Ferris,,0,Asheville,,,,,
@@ -175,7 +175,7 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,fortune,P7808011,Fortun
 minoraverages/1916Reach,1915,North Carolina State League,fortune,B00229,Fortune,,0,Asheville,,,43,,
 minoraverages/1916Reach,1915,North Carolina State League,fortune,F21068,Fortune,,0,Asheville,,,,,p47
 minoraverages/1916Reach,1915,North Carolina State League,fortune,P10035,Fortune,,0,Asheville,,,,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P6299658,Fox,,,#umpire,19150722,19150723,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,fox@ump,P6299658,Fox,,,#umpire,19150722,19150723,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,frey,P8178786,Frey,,,Durham,19150426,19150914,48,43,p43of1lf1
 minoraverages/1916Reach,1915,North Carolina State League,frey,B01143,Frye,,0,Durham,,,40,,
 minoraverages/1916Reach,1915,North Carolina State League,frey,F20943,Frye,,0,Durham,,,,,p41
@@ -274,7 +274,7 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,jaynez,P9053585,Jaynes,
 boxscores/1915/1915-CDO,1915,North Carolina State League,jiminez,P9809630,Jiminez,,,Asheville,19150422,19150520,18,0,c15of2rf2
 minoraverages/1916Reach,1915,North Carolina State League,jiminez,B00488,Jiminez,,0,Asheville,,,18,,
 minoraverages/1916Reach,1915,North Carolina State League,jiminez,F21149,Jiminez,,0,Asheville,,,,,c18
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P7419824,Johnston,,,#umpire,19150721,19150721,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,johnston@ump,P7419824,Johnston,,,#umpire,19150721,19150721,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,joplin,P3959965,Joplin,,,Charlotte,19150602,19150721,48,0,ss48
 minoraverages/1916Reach,1915,North Carolina State League,joplin,F20425,Joplin,,0,Charlotte,,,,,ss48
 boxscores/1915/1915-CDO,1915,North Carolina State League,jordan,P8062554,Jordan,,,Winston-Salem,19150712,19150915,58,0,1b58
@@ -287,7 +287,7 @@ minoraverages/1916Reach,1915,North Carolina State League,heck,B00255,Keck,,0,Win
 boxscores/1915/1915-CDO,1915,North Carolina State League,kelly.w,P0665389,Kelly,,,Durham,19150726,19150904,6,0,2b4ss2
 boxscores/1915/1915-CDO,1915,North Carolina State League,kelly.j,P6046309,Kelly,J.,,Durham,19150501,19150913,63,1,p1of55rf55
 boxscores/1915/1915-CDO,1915,North Carolina State League,kelly.w,P8083442,Kelly,W.,,Durham,19150501,19150915,106,0,2b15ss91
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P8742046,Kelly,,,#umpire,19150619,19150915,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,kelly@ump,P8742046,Kelly,,,#umpire,19150619,19150915,,,
 minoraverages/1916Reach,1915,North Carolina State League,kelly.j,B00084,Kelly,J. J.,0,Durham,,,62,,
 minoraverages/1916Reach,1915,North Carolina State League,kelly.w,B00397,Kelly,Wm.,0,Durham,,,121,,
 minoraverages/1916Reach,1915,North Carolina State League,kelly.w,F20102,Kelly,Wm.,0,Durham,,,,,2b18
@@ -311,14 +311,14 @@ minoraverages/1916Reach,1915,North Carolina State League,labate,B01078,Labate,,0
 minoraverages/1916Reach,1915,North Carolina State League,labate,F21084,Labate,,0,Durham,,,,,p25
 minoraverages/1916Reach,1915,North Carolina State League,labate,P10056,Labate,,0,Durham,,,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,labate,P1087159,Ladate,,,Durham,19150710,19150713,3,0,2b3
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P2834191,Lauson,,,#umpire,19150726,19150726,,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P9685334,Lauzon,,,#umpire,19150727,19150915,,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P1551128,Ledbetter,,,#umpire,19150719,19150719,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,lauzon@ump,P2834191,Lauson,,,#umpire,19150726,19150726,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,lauzon@ump,P9685334,Lauzon,,,#umpire,19150727,19150915,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,ledbetter@ump,P1551128,Ledbetter,,,#umpire,19150719,19150719,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,ledbetter,P3333100,Ledbetter,,,Charlotte,19150529,19150914,43,33,p33of9rf9
 minoraverages/1916Reach,1915,North Carolina State League,ledbetter,B00936,Ledbetter,,0,Charlotte,,,39,,
 minoraverages/1916Reach,1915,North Carolina State League,ledbetter,F20981,Ledbetter,,0,Charlotte,,,,,p42
 minoraverages/1916Reach,1915,North Carolina State League,ledbetter,P10097,Ledbetter,,0,Charlotte,,,,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P3552026,Legrand,,,#umpire,19150721,19150721,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,legrand@ump,P3552026,Legrand,,,#umpire,19150721,19150721,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,leonard,P3401910,Leonard,,,Charlotte,19150529,19150915,90,0,2b90
 minoraverages/1916Reach,1915,North Carolina State League,leonard,B00623,Leonard,,0,Charlotte,,,69,,
 minoraverages/1916Reach,1915,North Carolina State League,leonard,F20153,Leonard,,0,Charlotte,,,,,2b89
@@ -328,13 +328,13 @@ minoraverages/1916Reach,1915,North Carolina State League,litchfield,B00068,Litch
 minoraverages/1916Reach,1915,North Carolina State League,lochart,B00865,Lochart,,0,Greensboro,,,28,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,lockerbie,P4236577,Lockerbie,,,Charlotte,19150424,19150424,1,0,c1
 boxscores/1915/1915-CDO,1915,North Carolina State League,lockerbie,P8176892,Lockerbie,,,Durham,19150825,19150828,3,0,of3lf3
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P1474788,Louzon,,,#umpire,19150731,19150802,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,lauzon@ump,P1474788,Louzon,,,#umpire,19150731,19150802,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,lowe,P8504799,Lowe,,,Asheville,19150817,19150915,7,6,p6
 boxscores/1915/1915-CDO,1915,North Carolina State League,lowe,P9718248,Lowe,,,Charlotte,19150510,19150802,22,21,p21
 minoraverages/1916Reach,1915,North Carolina State League,lowe,B00904,Lowe,,0,Asheville,,,26,,
 minoraverages/1916Reach,1915,North Carolina State League,lowe,F21059,Lowe,,0,Asheville,,,,,p27
 minoraverages/1916Reach,1915,North Carolina State League,lowe,P10145,Lowe,,0,Asheville,,,,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P3463573,Luzon,,,#umpire,19150724,19150724,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,lauzon@ump,P3463573,Luzon,,,#umpire,19150724,19150724,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,lile,P5409650,Lyle,,,Winston-Salem,19150616,19150617,2,0,1b1
 boxscores/1915/1915-CDO,1915,North Carolina State League,lynch,P2976314,Lynch,,,Winston-Salem,19150511,19150511,1,0,of1rf1
 boxscores/1915/1915-CDO,1915,North Carolina State League,mack,P5911523,Mack,,,Raleigh,19150422,19150915,121,1,p11b1152b13b1ss1of6cf5rf1
@@ -347,7 +347,7 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,manchester,P8714363,Man
 minoraverages/1916Reach,1915,North Carolina State League,manchester,B00174,Manchester,,0,Charlotte,,,51,,
 minoraverages/1916Reach,1915,North Carolina State League,manchester,F21182,Manchester,,0,Charlotte,,,,,c50
 minoraverages/1916Reach,1915,North Carolina State League,mason,B00117,Mason,,0,Charlotte,,,100,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P0513955,McBane,,,#umpire,19150715,19150715,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,mcbane@ump,P0513955,McBane,,,#umpire,19150715,19150715,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,mcbane,P5552482,McBane,,,Winston-Salem,19150806,19150915,35,0,of35lf10cf1rf25
 boxscores/1915/1915-CDO,1915,North Carolina State League,mcbane,P5592199,McBane,,,Greensboro,19150422,19150728,62,0,of57cf33rf25
 minoraverages/1916Reach,1915,North Carolina State League,mcbane,B00442,McBane,,0,Winston-Salem,,,97,,
@@ -372,7 +372,7 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,mcmillan,P2525742,McMil
 minoraverages/1916Reach,1915,North Carolina State League,mcmillan,B01010,McMillan,,0,Greensboro,,,24,,
 minoraverages/1916Reach,1915,North Carolina State League,mcmillan,F20784,McMillan,,0,Greensboro,,,,,of24
 boxscores/1915/1915-CDO,1915,North Carolina State League,mcwhorter,P5309422,McWharter,,,Greensboro,19150422,19150422,1,1,p1
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P3723672,McWhorter,,,#umpire,19150904,19150904,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,mcwhorter@ump,P3723672,McWhorter,,,#umpire,19150904,19150904,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,mcwhorter,P6386556,McWhorter,,,Greensboro,19150428,19150915,42,39,p391b1of4rf4
 minoraverages/1916Reach,1915,North Carolina State League,mcwhorter,B00985,McWhorter,,0,Greensboro,,,41,,
 minoraverages/1916Reach,1915,North Carolina State League,mcwhorter,F20908,McWhorter,,0,Greensboro,,,,,p43
@@ -404,7 +404,7 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,munoz,P2876321,Munoz,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,munoz,P5002560,Munoz,,,Raleigh,19150604,19150914,26,26,p26
 minoraverages/1916Reach,1915,North Carolina State League,munoz,F21013,Munoz,,0,Raleigh,,,,,p33
 minoraverages/1916Reach,1915,North Carolina State League,munoz,P10159,Munoz,,0,Raleigh,,,,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P7099437,Myers,,,#umpire,19150906,19150907,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,myers@ump,P7099437,Myers,,,#umpire,19150906,19150907,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,myers,P8380727,Myers,,,Raleigh,19150422,19150915,62,44,p441b33b6of6rf6
 minoraverages/1916Reach,1915,North Carolina State League,myers,B00427,Myers,,0,Raleigh,,,62,,
 minoraverages/1916Reach,1915,North Carolina State League,myers,F20919,Myers,,0,Raleigh,,,,,p42
@@ -432,8 +432,8 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,parnham,P9868334,Parnha
 minoraverages/1916Reach,1915,North Carolina State League,parnham,F20878,Parnham,,0,Raleigh,,,,,p42
 minoraverages/1916Reach,1915,North Carolina State League,parnham,P10253,Parnham,,0,Raleigh,,,,,
 minoraverages/1916Reach,1915,North Carolina State League,parnham,B00705,Parnhess,,0,Raleigh,,,43,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P1576246,Pasateri,,,#umpire,19150424,19150424,,,
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P3769321,Passateri,,,#umpire,19150422,19150615,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,passateri@ump,P1576246,Pasateri,,,#umpire,19150424,19150424,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,passateri@ump,P3769321,Passateri,,,#umpire,19150422,19150615,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,patterson,P7953649,Patterson,,,Charlotte,19150514,19150527,7,0,of6lf1cf1rf4
 boxscores/1915/1915-CDO,1915,North Carolina State League,patterson,P9427132,Patterson,,,Winston-Salem,19150422,19150508,12,0,of12rf12
 minoraverages/1916Reach,1915,North Carolina State League,patterson,B00469,Patterson,,0,Charlotte,,,19,,
@@ -494,7 +494,7 @@ minoraverages/1916Reach,1915,North Carolina State League,schuyler,F20298,Schuyle
 minoraverages/1916Reach,1915,North Carolina State League,schuyler,F20737,Schuyler,,0,Greensboro,,,,,of55
 minoraverages/1916Reach,1915,North Carolina State League,schwartje,P10137,Schwartie,,0,Winston-Salem,,,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,schwartje,P1989895,Schwartje,,,Winston-Salem,19150616,19150915,39,29,p29of5lf3rf2
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P7650024,Schwartje,,,#umpire,19150603,19150715,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,schwartje@ump,P7650024,Schwartje,,,#umpire,19150603,19150715,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,schwartje,P9676748,Schwartje,,,Greensboro,19150427,19150610,20,14,p14of2lf2
 minoraverages/1916Reach,1915,North Carolina State League,schwartje,B00718,Schwartje,,0,Winston-Salem,,,56,,
 minoraverages/1916Reach,1915,North Carolina State League,schwartje,F21076,Schwartje,,0,Winston-Salem,,,,,p56
@@ -513,10 +513,10 @@ boxscores/1915/1915-CDO,1915,North Carolina State League,sheehan-gre,P5490013,Sh
 boxscores/1915/1915-CDO,1915,North Carolina State League,sheehan.d,P6817503,Sheehan,D.,,Charlotte,19150422,19150515,7,0,3b2ss3of2rf2
 minoraverages/1916Reach,1915,North Carolina State League,sheehan.d,B00783,Sheehan,D. J.,0,Charlotte,,,18,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,sheehan.d,P6820136,Shehan,,,Charlotte,19150428,19150428,1,0,ss1
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P6769148,Shoemaker,,,#umpire,19150908,19150908,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,shoemaker@ump,P6769148,Shoemaker,,,#umpire,19150908,19150908,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,sindler,P8053986,Sindler,,,Charlotte,19150521,19150610,6,5,p5of1rf1
 boxscores/1915/1915-CDO,1915,North Carolina State League,sisson,P1409296,Sisson,,,Charlotte,19150517,19150522,5,0,of5cf5
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P8786236,Sisson,,,#umpire,19150506,19150915,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,sisson@ump,P8786236,Sisson,,,#umpire,19150506,19150915,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,smith-gre,P4737094,Smith,,,Greensboro,19150614,19150913,72,0,2b67ss5
 boxscores/1915/1915-CDO,1915,North Carolina State League,smith-gre,P4844923,Smith,G.,,Greensboro,19150724,19150826,3,0,2b3
 boxscores/1915/1915-CDO,1915,North Carolina State League,smith-cha,P7693814,Smith,,,Charlotte,19150422,19150915,61,0,3b4of56lf3cf53
@@ -550,7 +550,7 @@ minoraverages/1916Reach,1915,North Carolina State League,teague,F20401,Teague,,0
 boxscores/1915/1915-CDO,1915,North Carolina State League,tesch,P7549832,Tesch,,,Charlotte,19150517,19150526,8,0,3b8
 boxscores/1915/1915-CDO,1915,North Carolina State League,trenkle,P2585505,Trenkle,,,Durham,19150424,19150424,1,1,p1
 boxscores/1915/1915-CDO,1915,North Carolina State League,turner,P7628257,Turner,,,Greensboro,19150726,19150727,2,0,of2rf2
-boxscores/1915/1915-CDO,1915,North Carolina State League,,P5983903,Upchurch,,,#umpire,19150906,19150906,,,
+boxscores/1915/1915-CDO,1915,North Carolina State League,upchurch@ump,P5983903,Upchurch,,,#umpire,19150906,19150906,,,
 boxscores/1915/1915-CDO,1915,North Carolina State League,vanhorn,P3609949,Van Horn,,,Greensboro,19150422,19150915,110,3,p31b107of2rf2
 minoraverages/1916Reach,1915,North Carolina State League,vanhorn,B00286,Van Horn,,0,Greensboro,,,110,,
 minoraverages/1916Reach,1915,North Carolina State League,vanhorn,F20023,Van Horn,,0,Greensboro,,,,,1b110

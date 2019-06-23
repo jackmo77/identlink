@@ -169,7 +169,7 @@ minoraverages/1907Reach,1906,Eastern League,greene,F20721,Greene,,0,Buffalo,,,,,
 minoraverages/1907Reach,1906,Eastern League,greene,P10486,Greene,,0,Buffalo,,,,,
 minoraverages/1907Reach,1906,Eastern League,grubb,B00920,Grubb,,1,Baltimore,,,,,
 minoraverages/1907Reach,1906,Eastern League,grubb,B00920,Grubb,,2,Toronto,,,,,
-minoraverages/1907Reach,1906,Eastern League,,B00920,Grubb,,3,Rochester,,,,,
+minoraverages/1907Reach,1906,Eastern League,grubb,B00920,Grubb,,3,Rochester,,,,,
 minoraverages/1907Reach,1906,Eastern League,grubb,B00920,Grubb,,T,,,,49,,
 minoraverages/1907Reach,1906,Eastern League,grubb,F21229,Grubb,,1,Baltimore,,,,,3b.
 minoraverages/1907Reach,1906,Eastern League,grubb,F21229,Grubb,,2,Toronto,,,,,3b.
@@ -182,7 +182,7 @@ minoraverages/1907Reach,1906,Eastern League,grubb,F21403,Grubb,,T,,,,,,ss25
 minoraverages/1907Reach,1906,Eastern League,grubb,P10569,Grubb,,0,Rochester,,,,,
 minoraverages/1907Reach,1906,Eastern League,hafford,P10654,Hafford,,0,Rochester,,,,,
 minoraverages/1907Reach,1906,Eastern League,hall,B00667,Hall,,0,Baltimore,,,125,,
-minoraverages/1907Reach,1906,Eastern League,,F21241,Hall,,0,Baltimore,,,,,3b23
+minoraverages/1907Reach,1906,Eastern League,hall,F21241,Hall,,0,Baltimore,,,,,3b23
 minoraverages/1907Reach,1906,Eastern League,hall,F21920,Hall,,0,Baltimore,,,,,rf102
 minoraverages/1907Reach,1906,Eastern League,halligan,B00544,Halligan,,0,Jersey City,,,82,,
 minoraverages/1907Reach,1906,Eastern League,halligan,F21646,Halligan,,0,Jersey City,,,,,cf82
@@ -379,7 +379,7 @@ minoraverages/1907Reach,1906,Eastern League,pappalau,P10244,Pappalau,,0,Montreal
 minoraverages/1907Reach,1906,Eastern League,pardee,B01444,Pardee,,0,Newark,,,35,,
 minoraverages/1907Reach,1906,Eastern League,pardee,F20474,Pardee,,0,Newark,,,,,p35
 minoraverages/1907Reach,1906,Eastern League,pardee,P10373,Pardee,,0,Newark,,,,,
-minoraverages/1907Reach,1906,Eastern League,,F20648,Pfanmiller,,0,Jersey City,,,,,p5
+minoraverages/1907Reach,1906,Eastern League,pfanmiller,F20648,Pfanmiller,,0,Jersey City,,,,,p5
 minoraverages/1907Reach,1906,Eastern League,pfanmiller,P10019,Pfanmiller,,0,Jersey City,,,,,
 minoraverages/1907Reach,1906,Eastern League,phelan,B00264,Phelan,,0,Montreal,,,10,,
 minoraverages/1907Reach,1906,Eastern League,phelan,F21609,Phelan,,0,Montreal,,,,,cf10

@@ -13,13 +13,13 @@ boxscores/1911/1911-SL,1911,Central League,asher,P2777447,Asher,Ed,,Dayton,19110
 boxscores/1911/1911-SL,1911,Central League,asher,P6158160,Asher,,,Grand Rapids II,19110730,19110730,1,1,p1
 boxscores/1911/1911-SL,1911,Central League,asher,P9303294,Asher,,,Dayton,19110430,19110719,19,18,p18
 minoraverages/1912Reach,1911,Central League,asher,B00794,Asher,,1,Dayton,,,,,
-minoraverages/1912Reach,1911,Central League,,B00794,Asher,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,asher,B00794,Asher,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,asher,B00794,Asher,,T,,,,21,,
 minoraverages/1912Reach,1911,Central League,asher,F21084,Asher,,1,Dayton,,,,,p.
-minoraverages/1912Reach,1911,Central League,,F21084,Asher,,2,Grand Rapids [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,asher,F21084,Asher,,2,Grand Rapids [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,asher,F21084,Asher,,T,,,,,,p21
 minoraverages/1912Reach,1911,Central League,asher,P10202,Asher,,1,Dayton,,,,,
-minoraverages/1912Reach,1911,Central League,,P10202,Asher,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,asher,P10202,Asher,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,asher,P10202,Asher,,T,,,,,20,
 boxscores/1911/1911-SL,1911,Central League,bailey,P3398481,Bailey,,,Fort Wayne,19110501,19110904,68,0,c371b21
 minoraverages/1912Reach,1911,Central League,bailey,B00961,Bailey,,0,Fort Wayne,,,64,,
@@ -31,16 +31,16 @@ boxscores/1911/1911-SL,1911,Central League,barkwell,P9708391,Barkw'l,,,Grand Rap
 boxscores/1911/1911-SL,1911,Central League,barkwell,P0081041,Barkwell,,,Grand Rapids II,19110811,19110910,29,0,3b18of11lf1rf10
 boxscores/1911/1911-SL,1911,Central League,barkwell,P8470857,Barkwell,,,Terre Haute,19110426,19110810,95,1,p12b433b31ss18of3cf3
 minoraverages/1912Reach,1911,Central League,barkwell,B00672,Barkwell,,1,Terre Haute,,,,,
-minoraverages/1912Reach,1911,Central League,,B00672,Barkwell,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,barkwell,B00672,Barkwell,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,barkwell,B00672,Barkwell,,T,,,,132,,
 minoraverages/1912Reach,1911,Central League,barkwell,F20206,Barkwell,,1,Terre Haute,,,,,2b.
-minoraverages/1912Reach,1911,Central League,,F20206,Barkwell,,2,Grand Rapids [II],,,,,2b.
+minoraverages/1912Reach,1911,Central League,barkwell,F20206,Barkwell,,2,Grand Rapids [II],,,,,2b.
 minoraverages/1912Reach,1911,Central League,barkwell,F20206,Barkwell,,T,,,,,,2b43
 minoraverages/1912Reach,1911,Central League,barkwell,F20369,Barkwell,,1,Terre Haute,,,,,3b.
-minoraverages/1912Reach,1911,Central League,,F20369,Barkwell,,2,Grand Rapids [II],,,,,3b.
+minoraverages/1912Reach,1911,Central League,barkwell,F20369,Barkwell,,2,Grand Rapids [II],,,,,3b.
 minoraverages/1912Reach,1911,Central League,barkwell,F20369,Barkwell,,T,,,,,,3b72
 minoraverages/1912Reach,1911,Central League,barkwell,F21381,Barkwell,,1,Terre Haute,,,,,of.
-minoraverages/1912Reach,1911,Central League,,F21381,Barkwell,,2,Grand Rapids [II],,,,,of.
+minoraverages/1912Reach,1911,Central League,barkwell,F21381,Barkwell,,2,Grand Rapids [II],,,,,of.
 minoraverages/1912Reach,1911,Central League,barkwell,F21381,Barkwell,,T,,,,,,of17
 boxscores/1911/1911-SL,1911,Central League,barnett@ump,P6007486,Barnett,,,#umpire,19110630,19110630,,,
 boxscores/1911/1911-SL,1911,Central League,barrett,P1146985,Barrett,,,Terre Haute,19110607,19110608,4,0,of4rf4
@@ -59,13 +59,13 @@ boxscores/1911/1911-SL,1911,Central League,beasley,P7011897,Beesly,,,Terre Haute
 boxscores/1911/1911-SL,1911,Central League,bell,P1254131,Bell,,,Grand Rapids I,19110620,19110623,3,0,c2of2rf2
 boxscores/1911/1911-SL,1911,Central League,bemis,P1102500,Bemis,,,Grand Rapids I,19110510,19110627,11,11,p11
 boxscores/1911/1911-SL,1911,Central League,bemis,P8666260,Bemis,,,Newark,19110701,19110905,12,12,p12
-minoraverages/1912Reach,1911,Central League,,B01170,Bemis,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,bemis,B01170,Bemis,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,bemis,B01170,Bemis,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,bemis,B01170,Bemis,,T,,,,22,,
-minoraverages/1912Reach,1911,Central League,,F20943,Bemis,,1,Grand Rapids [I],,,,,p.
+minoraverages/1912Reach,1911,Central League,bemis,F20943,Bemis,,1,Grand Rapids [I],,,,,p.
 minoraverages/1912Reach,1911,Central League,bemis,F20943,Bemis,,2,Newark,,,,,p.
 minoraverages/1912Reach,1911,Central League,bemis,F20943,Bemis,,T,,,,,,p22
-minoraverages/1912Reach,1911,Central League,,P10320,Bemis,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,bemis,P10320,Bemis,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,bemis,P10320,Bemis,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,bemis,P10320,Bemis,,T,,,,,22,
 boxscores/1911/1911-SL,1911,Central League,benson,P6949712,Benson,,,Dayton,19110426,19110910,136,0,2b133of2cf1rf1
@@ -91,10 +91,10 @@ boxscores/1911/1911-SL,1911,Central League,byrnes,P0742165,Byrne,,,Evansville,19
 boxscores/1911/1911-SL,1911,Central League,byrnes,P0904584,Byrnes,,,Evansville,19110426,19110812,95,0,of94lf56cf39rf1
 boxscores/1911/1911-SL,1911,Central League,byrnes,P5715661,Byrnes,,,South Bend II,19110813,19110907,25,0,of25cf25
 minoraverages/1912Reach,1911,Central League,byrnes,B00092,Byrnes,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00092,Byrnes,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,byrnes,B00092,Byrnes,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,byrnes,B00092,Byrnes,,T,,,,122,,
 minoraverages/1912Reach,1911,Central League,byrnes,F21397,Byrnes,,1,Evansville,,,,,of.
-minoraverages/1912Reach,1911,Central League,,F21397,Byrnes,,2,South Bend [II],,,,,of.
+minoraverages/1912Reach,1911,Central League,byrnes,F21397,Byrnes,,2,South Bend [II],,,,,of.
 minoraverages/1912Reach,1911,Central League,byrnes,F21397,Byrnes,,T,,,,,,of122
 boxscores/1911/1911-SL,1911,Central League,callahan,P5166438,Call'n,,,Terre Haute,19110528,19110528,1,0,ss1of1cf1
 boxscores/1911/1911-SL,1911,Central League,callahan,P1850088,Callahan,,,Grand Rapids I,19110626,19110627,3,0,of3lf3
@@ -114,13 +114,13 @@ boxscores/1911/1911-SL,1911,Central League,cantwell,P4021999,Canterell,,,Evansvi
 boxscores/1911/1911-SL,1911,Central League,cantwell,P3760276,Cantwell,,,South Bend II,19110813,19110818,2,2,p2
 boxscores/1911/1911-SL,1911,Central League,cantwell,P6018479,Cantwell,,,Evansville,19110428,19110810,30,27,p27
 minoraverages/1912Reach,1911,Central League,cantwell,B00324,Cantwell,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00324,Cantwell,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,cantwell,B00324,Cantwell,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,cantwell,B00324,Cantwell,,T,,,,30,,
 minoraverages/1912Reach,1911,Central League,cantwell,F20970,Cantwell,,1,Evansville,,,,,p.
-minoraverages/1912Reach,1911,Central League,,F20970,Cantwell,,2,South Bend [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,cantwell,F20970,Cantwell,,2,South Bend [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,cantwell,F20970,Cantwell,,T,,,,,,p30
 minoraverages/1912Reach,1911,Central League,cantwell,P10231,Cantwell,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,P10231,Cantwell,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,cantwell,P10231,Cantwell,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,cantwell,P10231,Cantwell,,T,,,,,30,
 boxscores/1911/1911-SL,1911,Central League,core,P9158668,Care,,,South Bend I,19110426,19110426,1,0,
 boxscores/1911/1911-SL,1911,Central League,carey@ump,P2692674,Carey,,,#umpire,19110831,19110831,,,
@@ -166,9 +166,9 @@ boxscores/1911/1911-SL,1911,Central League,cook,P0038107,Cook,,,Wheeling,1911050
 boxscores/1911/1911-SL,1911,Central League,core,P0235802,Core,,,South Bend I,19110611,19110713,34,0,of34lf34
 boxscores/1911/1911-SL,1911,Central League,core,P3861510,Core,,,Grand Rapids II,19110714,19110909,56,0,of56lf55rf1
 boxscores/1911/1911-SL,1911,Central League,core,P5874589,Core,,,Grand Rapids I,19110430,19110610,41,0,1b1of40lf34cf5rf2
-minoraverages/1912Reach,1911,Central League,,B00084,Core,,0,Grand Rapids [II],,,131,,
-minoraverages/1912Reach,1911,Central League,,F21241,Core,,1,South Bend [I],,,,,of.
-minoraverages/1912Reach,1911,Central League,,F21241,Core,,2,Grand Rapids [II],,,,,of.
+minoraverages/1912Reach,1911,Central League,core,B00084,Core,,0,Grand Rapids [II],,,131,,
+minoraverages/1912Reach,1911,Central League,core,F21241,Core,,1,South Bend [I],,,,,of.
+minoraverages/1912Reach,1911,Central League,core,F21241,Core,,2,Grand Rapids [II],,,,,of.
 minoraverages/1912Reach,1911,Central League,core,F21241,Core,,T,,,,,,of131
 boxscores/1911/1911-SL,1911,Central League,corns,P6169376,Corns,,,Fort Wayne,19110426,19110624,32,8,p8of18lf3rf16
 boxscores/1911/1911-SL,1911,Central League,core,P1481039,Corre,,,Grand Rapids I,19110521,19110521,1,0,of1lf1
@@ -178,13 +178,13 @@ boxscores/1911/1911-SL,1911,Central League,craven,P2341123,Craveck,,,Newark,1911
 boxscores/1911/1911-SL,1911,Central League,craven,P1446832,Craven,,,South Bend I,19110426,19110602,25,0,of23lf2cf1rf20
 boxscores/1911/1911-SL,1911,Central League,craven,P3588259,Craven,,,Newark,19110628,19110908,57,0,2b63b13of36lf35rf1
 boxscores/1911/1911-SL,1911,Central League,craven,P4686259,Craven,,,Grand Rapids I,19110623,19110627,4,0,3b4
-minoraverages/1912Reach,1911,Central League,,B00403,Craven,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00403,Craven,,2,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,craven,B00403,Craven,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,craven,B00403,Craven,,2,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,craven,B00403,Craven,,3,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,craven,B00403,Craven,,T,,,,85,,
 minoraverages/1912Reach,1911,Central League,craven,F20350,Craven,,0,Newark,,,,,3b15
-minoraverages/1912Reach,1911,Central League,,F21362,Craven,,1,South Bend [I],,,,,of.
-minoraverages/1912Reach,1911,Central League,,F21362,Craven,,2,Grand Rapids [I],,,,,of.
+minoraverages/1912Reach,1911,Central League,craven,F21362,Craven,,1,South Bend [I],,,,,of.
+minoraverages/1912Reach,1911,Central League,craven,F21362,Craven,,2,Grand Rapids [I],,,,,of.
 minoraverages/1912Reach,1911,Central League,craven,F21362,Craven,,3,Newark,,,,,of.
 minoraverages/1912Reach,1911,Central League,craven,F21362,Craven,,T,,,,,,of70
 boxscores/1911/1911-SL,1911,Central League,croft,P9265101,Croft,,,Wheeling,19110714,19110714,1,1,p1
@@ -213,10 +213,10 @@ boxscores/1911/1911-SL,1911,Central League,donahue,P6935704,Donahue,,,Grand Rapi
 boxscores/1911/1911-SL,1911,Central League,donovan,P2567535,Donovan,,,South Bend II,19110813,19110907,26,0,of26rf26
 boxscores/1911/1911-SL,1911,Central League,donovan,P9844586,Donovan,,,Evansville,19110428,19110812,88,0,of87lf1rf86
 minoraverages/1912Reach,1911,Central League,donovan,B00149,Donovan,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00149,Donovan,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,donovan,B00149,Donovan,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,donovan,B00149,Donovan,,T,,,,114,,
 minoraverages/1912Reach,1911,Central League,donovan,F21416,Donovan,,1,Evansville,,,,,of.
-minoraverages/1912Reach,1911,Central League,,F21416,Donovan,,2,South Bend [II],,,,,of.
+minoraverages/1912Reach,1911,Central League,donovan,F21416,Donovan,,2,South Bend [II],,,,,of.
 minoraverages/1912Reach,1911,Central League,donovan,F21416,Donovan,,T,,,,,,of114
 boxscores/1911/1911-SL,1911,Central League,doty@ump,P3945774,Doty,,,#umpire,19110528,19110528,,,
 boxscores/1911/1911-SL,1911,Central League,doty,P5274452,Doty,,,Grand Rapids I,19110516,19110529,4,4,p4
@@ -237,14 +237,14 @@ boxscores/1911/1911-SL,1911,Central League,egan@ump,P7119241,Egan,,,#umpire,1911
 boxscores/1911/1911-SL,1911,Central League,essick,P2545395,Essick,,,South Bend I,19110603,19110711,10,10,p10
 boxscores/1911/1911-SL,1911,Central League,essick,P3705151,Essick,,,Grand Rapids II,19110716,19110908,15,14,p14
 boxscores/1911/1911-SL,1911,Central League,essick,P9365462,Essick,Bill,,South Bend I,19110625,19110625,1,1,p1
-minoraverages/1912Reach,1911,Central League,,B01108,Essick,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B01108,Essick,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,essick,B01108,Essick,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,essick,B01108,Essick,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,essick,B01108,Essick,,T,,,,25,,
-minoraverages/1912Reach,1911,Central League,,F20737,Essick,,1,South Bend [I],,,,,p.
-minoraverages/1912Reach,1911,Central League,,F20737,Essick,,2,Grand Rapids [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,essick,F20737,Essick,,1,South Bend [I],,,,,p.
+minoraverages/1912Reach,1911,Central League,essick,F20737,Essick,,2,Grand Rapids [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,essick,F20737,Essick,,T,,,,,,p25
-minoraverages/1912Reach,1911,Central League,,P10070,Essick,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,P10070,Essick,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,essick,P10070,Essick,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,essick,P10070,Essick,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,essick,P10070,Essick,,T,,,,,25,
 boxscores/1911/1911-SL,1911,Central League,farrell,P7385653,Farrel,,,Zanesville,19110504,19110504,1,0,of1cf1
 boxscores/1911/1911-SL,1911,Central League,farrell,P3087137,Farrell,,,Zanesville,19110426,19110909,120,0,ss1of118lf1cf118
@@ -263,11 +263,11 @@ boxscores/1911/1911-SL,1911,Central League,geier,P5569641,Geier,,,Grand Rapids I
 boxscores/1911/1911-SL,1911,Central League,geier,P6035165,Geier,,,South Bend I,19110426,19110713,76,0,2b3of74lf37rf37
 boxscores/1911/1911-SL,1911,Central League,geier,P7574550,Geier,Phil,,Grand Rapids II,19110813,19110813,1,0,
 boxscores/1911/1911-SL,1911,Central League,geier,P9559722,Geier,Phil,,South Bend I,19110508,19110508,1,0,of1lf1
-minoraverages/1912Reach,1911,Central League,,B00210,Geier,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00210,Geier,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,geier,B00210,Geier,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,geier,B00210,Geier,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,geier,B00210,Geier,,T,,,,128,,
-minoraverages/1912Reach,1911,Central League,,F21125,Geier,,1,South Bend [I],,,,,of.
-minoraverages/1912Reach,1911,Central League,,F21125,Geier,,2,Grand Rapids [II],,,,,of.
+minoraverages/1912Reach,1911,Central League,geier,F21125,Geier,,1,South Bend [I],,,,,of.
+minoraverages/1912Reach,1911,Central League,geier,F21125,Geier,,2,Grand Rapids [II],,,,,of.
 minoraverages/1912Reach,1911,Central League,geier,F21125,Geier,,T,,,,,,of128
 boxscores/1911/1911-SL,1911,Central League,geier,P1395448,Geir,,,South Bend I,19110506,19110507,2,0,of2lf2
 boxscores/1911/1911-SL,1911,Central League,george,P5150852,George,,,Dayton,19110713,19110713,1,1,p1
@@ -286,13 +286,13 @@ boxscores/1911/1911-SL,1911,Central League,goldrick,P5008992,Goldrich,,,Grand Ra
 boxscores/1911/1911-SL,1911,Central League,goldrick,P8689872,Goldrich,,,Newark,19110723,19110806,2,2,p2
 boxscores/1911/1911-SL,1911,Central League,goldrick,P4544595,Goldrick,,,Newark,19110628,19110910,20,18,p18ss1of1rf1
 boxscores/1911/1911-SL,1911,Central League,goldrick,P8811235,Goldrick,,,Grand Rapids I,19110426,19110623,21,16,p16of6lf2cf1rf3
-minoraverages/1912Reach,1911,Central League,,B00904,Goldrick,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,goldrick,B00904,Goldrick,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,goldrick,B00904,Goldrick,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,goldrick,B00904,Goldrick,,T,,,,39,,
-minoraverages/1912Reach,1911,Central League,,F21059,Goldrick,,1,Grand Rapids [I],,,,,p.
+minoraverages/1912Reach,1911,Central League,goldrick,F21059,Goldrick,,1,Grand Rapids [I],,,,,p.
 minoraverages/1912Reach,1911,Central League,goldrick,F21059,Goldrick,,2,Newark,,,,,p.
 minoraverages/1912Reach,1911,Central League,goldrick,F21059,Goldrick,,T,,,,,,p39
-minoraverages/1912Reach,1911,Central League,,P10159,Goldrick,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,goldrick,P10159,Goldrick,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,goldrick,P10159,Goldrick,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,goldrick,P10159,Goldrick,,T,,,,,37,
 boxscores/1911/1911-SL,1911,Central League,graf,P4510159,Graf,,,Wheeling,19110426,19110430,5,0,3b5
@@ -303,30 +303,30 @@ boxscores/1911/1911-SL,1911,Central League,grant,P0799793,Grant,,,Evansville,191
 boxscores/1911/1911-SL,1911,Central League,grant,P5093041,Grant,,,Terre Haute,19110831,19110907,9,0,2b9
 boxscores/1911/1911-SL,1911,Central League,grant,P9841494,Grant,,,South Bend II,19110813,19110821,5,0,2b5
 minoraverages/1912Reach,1911,Central League,grant,B00948,Grant,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00948,Grant,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,grant,B00948,Grant,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,grant,B00948,Grant,,3,Terre Haute,,,,,
 minoraverages/1912Reach,1911,Central League,grant,B00948,Grant,,T,,,,5,,
 minoraverages/1912Reach,1911,Central League,grant,F20177,Grant,,1,Evansville,,,,,2b.
-minoraverages/1912Reach,1911,Central League,,F20177,Grant,,2,South Bend [II],,,,,2b.
+minoraverages/1912Reach,1911,Central League,grant,F20177,Grant,,2,South Bend [II],,,,,2b.
 minoraverages/1912Reach,1911,Central League,grant,F20177,Grant,,T,,,,,,2b85
 boxscores/1911/1911-SL,1911,Central League,craven,P9722420,Graven,,,South Bend I,19110427,19110427,1,0,of1rf1
 boxscores/1911/1911-SL,1911,Central League,gray,P1757623,Gray,,,Newark,19110628,19110910,79,1,p1of78lf2cf1rf76
 boxscores/1911/1911-SL,1911,Central League,gray,P2454983,Gray,,,Grand Rapids I,19110517,19110627,40,0,1b1of39lf7rf33
 boxscores/1911/1911-SL,1911,Central League,gray,P4534690,Gray,,,Wheeling,19110830,19110907,10,0,ss10
-minoraverages/1912Reach,1911,Central League,,B00021,Gray,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,gray,B00021,Gray,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,gray,B00021,Gray,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,gray,B00021,Gray,,T,,,,119,,
-minoraverages/1912Reach,1911,Central League,,F21293,Gray,,1,Grand Rapids [I],,,,,of.
+minoraverages/1912Reach,1911,Central League,gray,F21293,Gray,,1,Grand Rapids [I],,,,,of.
 minoraverages/1912Reach,1911,Central League,gray,F21293,Gray,,2,Newark,,,,,of.
 minoraverages/1912Reach,1911,Central League,gray,F21293,Gray,,T,,,,,,of119
 boxscores/1911/1911-SL,1911,Central League,greer,P8019590,Greer,,,South Bend I,19110523,19110523,1,0,of1lf1
 boxscores/1911/1911-SL,1911,Central League,grefe,P0485790,Grefe,,,Evansville,19110426,19110812,107,0,c11b107
 boxscores/1911/1911-SL,1911,Central League,grefe,P5515683,Grefe,,,South Bend II,19110813,19110907,26,0,1b26
 minoraverages/1912Reach,1911,Central League,grefe,B00264,Grefe,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00264,Grefe,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,greer,B00264,Grefe,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,grefe,B00264,Grefe,,T,,,,134,,
 minoraverages/1912Reach,1911,Central League,grefe,F20046,Grefe,,1,Evansville,,,,,1b.
-minoraverages/1912Reach,1911,Central League,,F20046,Grefe,,2,South Bend [II],,,,,1b.
+minoraverages/1912Reach,1911,Central League,grefe,F20046,Grefe,,2,South Bend [II],,,,,1b.
 minoraverages/1912Reach,1911,Central League,grefe,F20046,Grefe,,T,,,,,,1b134
 boxscores/1911/1911-SL,1911,Central League,grefe,P8981890,Greif,,,Evansville,19110708,19110708,1,0,1b1
 boxscores/1911/1911-SL,1911,Central League,gray,P9753675,Grey,,,Grand Rapids I,19110520,19110520,1,0,of1rf1
@@ -348,13 +348,13 @@ boxscores/1911/1911-SL,1911,Central League,gwinn,P6784136,Gwynn,,,Terre Haute,19
 boxscores/1911/1911-SL,1911,Central League,hadley,P0490988,Hadley,,,Evansville,19110426,19110812,106,0,2b39ss69
 boxscores/1911/1911-SL,1911,Central League,hadley,P2316209,Hadley,,,South Bend II,19110813,19110907,26,0,2b9ss17
 minoraverages/1912Reach,1911,Central League,hadley,B00515,Hadley,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00515,Hadley,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,hadley,B00515,Hadley,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,hadley,B00515,Hadley,,T,,,,135,,
 minoraverages/1912Reach,1911,Central League,hadley,F20189,Hadley,,1,Evansville,,,,,2b.
-minoraverages/1912Reach,1911,Central League,,F20189,Hadley,,2,South Bend [II],,,,,2b.
+minoraverages/1912Reach,1911,Central League,hadley,F20189,Hadley,,2,South Bend [II],,,,,2b.
 minoraverages/1912Reach,1911,Central League,hadley,F20189,Hadley,,T,,,,,,2b17
 minoraverages/1912Reach,1911,Central League,hadley,F20401,Hadley,,1,Evansville,,,,,ss.
-minoraverages/1912Reach,1911,Central League,,F20401,Hadley,,2,South Bend [II],,,,,ss.
+minoraverages/1912Reach,1911,Central League,hadley,F20401,Hadley,,2,South Bend [II],,,,,ss.
 minoraverages/1912Reach,1911,Central League,hadley,F20401,Hadley,,T,,,,,,ss118
 boxscores/1911/1911-SL,1911,Central League,hadley,P9280071,Hadly,,,Evansville,19110428,19110516,2,0,2b1ss1
 boxscores/1911/1911-SL,1911,Central League,hafford,P5152979,Hafford,,,Zanesville,19110816,19110823,9,0,3b9
@@ -362,13 +362,13 @@ boxscores/1911/1911-SL,1911,Central League,hadley,P3208273,Hailey,,,Evansville,1
 boxscores/1911/1911-SL,1911,Central League,hale,P0044728,Hale,Roy,,Newark,19110823,19110823,1,1,p1
 boxscores/1911/1911-SL,1911,Central League,hale,P2045470,Hale,,,Newark,19110630,19110910,18,18,p18
 boxscores/1911/1911-SL,1911,Central League,hale,P7272110,Hale,,,Grand Rapids I,19110426,19110626,17,17,p17
-minoraverages/1912Reach,1911,Central League,,B01197,Hale,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,hale,B01197,Hale,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,hale,B01197,Hale,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,hale,B01197,Hale,,T,,,,37,,
-minoraverages/1912Reach,1911,Central League,,F20886,Hale,,1,Grand Rapids [I],,,,,p.
+minoraverages/1912Reach,1911,Central League,hale,F20886,Hale,,1,Grand Rapids [I],,,,,p.
 minoraverages/1912Reach,1911,Central League,hale,F20886,Hale,,2,Newark,,,,,p.
 minoraverages/1912Reach,1911,Central League,hale,F20886,Hale,,T,,,,,,p37
-minoraverages/1912Reach,1911,Central League,,P10244,Hale,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,hale,P10244,Hale,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,hale,P10244,Hale,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,hale,P10244,Hale,,T,,,,,37,
 boxscores/1911/1911-SL,1911,Central League,hale,P2810677,Hall,,,Grand Rapids I,19110617,19110617,1,1,p1
@@ -414,12 +414,12 @@ minoraverages/1912Reach,1911,Central League,hillinger,B00475,Hillinger,,0,Zanesv
 minoraverages/1912Reach,1911,Central League,hillinger,F21308,Hillinger,,0,Zanesville,,,,,of131
 boxscores/1911/1911-SL,1911,Central League,holly,P6460249,Holly,,,South Bend I,19110523,19110523,1,0,
 boxscores/1911/1911-SL,1911,Central League,holmes,P6830469,Holmes,,,Grand Rapids II,19110714,19110910,48,1,p1c451b1of2rf2
-boxscores/1911/1911-SL,1911,Central League,holems,P7926009,Holmes,,,South Bend I,19110426,19110713,76,0,c741b3
-minoraverages/1912Reach,1911,Central League,,B00623,Holmes,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00623,Holmes,,2,Grand Rapids [II],,,,,
+boxscores/1911/1911-SL,1911,Central League,holmes,P7926009,Holmes,,,South Bend I,19110426,19110713,76,0,c741b3
+minoraverages/1912Reach,1911,Central League,holmes,B00623,Holmes,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,holmes,B00623,Holmes,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,holmes,B00623,Holmes,,T,,,,121,,
-minoraverages/1912Reach,1911,Central League,,F20518,Holmes,,1,South Bend [I],,,,,c.
-minoraverages/1912Reach,1911,Central League,,F20518,Holmes,,2,Grand Rapids [II],,,,,c.
+minoraverages/1912Reach,1911,Central League,holmes,F20518,Holmes,,1,South Bend [I],,,,,c.
+minoraverages/1912Reach,1911,Central League,holmes,F20518,Holmes,,2,Grand Rapids [II],,,,,c.
 minoraverages/1912Reach,1911,Central League,holmes,F20518,Holmes,,T,,,,,,c121
 boxscores/1911/1911-SL,1911,Central League,holt,P1849964,Holt,Alva,,South Bend I,19110506,19110515,2,0,of2cf1rf1
 boxscores/1911/1911-SL,1911,Central League,holt,P5021371,Holt,,,Newark,19110628,19110629,2,0,c2
@@ -456,20 +456,20 @@ boxscores/1911/1911-SL,1911,Central League,kelly,P2791703,Kelley,,,South Bend I,
 boxscores/1911/1911-SL,1911,Central League,kelly,P5275747,Kelley,,,Grand Rapids II,19110815,19110815,1,0,ss1
 boxscores/1911/1911-SL,1911,Central League,kelly,P3163838,Kelly,,,Grand Rapids II,19110726,19110910,46,0,ss46
 boxscores/1911/1911-SL,1911,Central League,kelly,P8856146,Kelly,,,South Bend I,19110426,19110712,70,0,ss70
-minoraverages/1912Reach,1911,Central League,,B00614,Kelly,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00614,Kelly,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,kelly,B00614,Kelly,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,kelly,B00614,Kelly,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,kelly,B00614,Kelly,,T,,,,127,,
-minoraverages/1912Reach,1911,Central League,,F20449,Kelly,,1,South Bend [I],,,,,ss.
-minoraverages/1912Reach,1911,Central League,,F20449,Kelly,,2,Grand Rapids [II],,,,,ss.
+minoraverages/1912Reach,1911,Central League,kelly,F20449,Kelly,,1,South Bend [I],,,,,ss.
+minoraverages/1912Reach,1911,Central League,kelly,F20449,Kelly,,2,Grand Rapids [II],,,,,ss.
 minoraverages/1912Reach,1911,Central League,kelly,F20449,Kelly,,T,,,,,,ss127
 boxscores/1911/1911-SL,1911,Central League,kennedy@ump,P6345212,Kennedy,,,#umpire,19110708,19110708,,,
 boxscores/1911/1911-SL,1911,Central League,keener,P4624478,Kenner,,,Fort Wayne,19110806,19110806,1,0,of1lf1
 boxscores/1911/1911-SL,1911,Central League,kihm,P6366429,Kihm,,,Grand Rapids I,19110426,19110627,54,0,1b54
 boxscores/1911/1911-SL,1911,Central League,kihm,P6679629,Kihm,,,Newark,19110628,19110910,80,0,1b80
-minoraverages/1912Reach,1911,Central League,,B00278,Kihm,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,kihm,B00278,Kihm,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,kihm,B00278,Kihm,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,kihm,B00278,Kihm,,T,,,,135,,
-minoraverages/1912Reach,1911,Central League,,F20014,Kihm,,1,Grand Rapids [I],,,,,1b.
+minoraverages/1912Reach,1911,Central League,kihm,F20014,Kihm,,1,Grand Rapids [I],,,,,1b.
 minoraverages/1912Reach,1911,Central League,kihm,F20014,Kihm,,2,Newark,,,,,1b.
 minoraverages/1912Reach,1911,Central League,kihm,F20014,Kihm,,T,,,,,,1b135
 boxscores/1911/1911-SL,1911,Central League,klirain,P5058366,Kilrain,,,Grand Rapids I,19110610,19110610,1,0,1b1
@@ -497,11 +497,11 @@ boxscores/1911/1911-SL,1911,Central League,koehler,P8864437,Koe'r,,,Grand Rapids
 boxscores/1911/1911-SL,1911,Central League,koehler,P2372721,Koeh'r,,,South Bend I,19110712,19110712,1,0,2b1ss1
 boxscores/1911/1911-SL,1911,Central League,koehler,P1896967,Koehler,,,Grand Rapids II,19110714,19110908,52,0,2b52
 boxscores/1911/1911-SL,1911,Central League,koehler,P5736763,Koehler,,,South Bend I,19110426,19110713,71,0,2b71
-minoraverages/1912Reach,1911,Central League,,B00308,Koehler,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00308,Koehler,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,koehler,B00308,Koehler,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,koehler,B00308,Koehler,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,koehler,B00308,Koehler,,T,,,,129,,
-minoraverages/1912Reach,1911,Central League,,F20144,Koehler,,1,South Bend [I],,,,,2b.
-minoraverages/1912Reach,1911,Central League,,F20144,Koehler,,2,Grand Rapids [II],,,,,2b.
+minoraverages/1912Reach,1911,Central League,koehler,F20144,Koehler,,1,South Bend [I],,,,,2b.
+minoraverages/1912Reach,1911,Central League,koehler,F20144,Koehler,,2,Grand Rapids [II],,,,,2b.
 minoraverages/1912Reach,1911,Central League,koehler,F20144,Koehler,,T,,,,,,2b129
 boxscores/1911/1911-SL,1911,Central League,kahl,P7364263,Kohl,,,Zanesville,19110512,19110512,1,0,2b1
 boxscores/1911/1911-SL,1911,Central League,kahl,P7557795,Kohl,,,Terre Haute,19110621,19110807,49,0,c22b13b31ss15
@@ -519,11 +519,11 @@ boxscores/1911/1911-SL,1911,Central League,kronau,P2709976,Kronan,,,Wheeling,191
 boxscores/1911/1911-SL,1911,Central League,kronau,P9561119,Kronau,,,Wheeling,19110428,19110620,10,9,p9
 boxscores/1911/1911-SL,1911,Central League,kroy,P7107842,Kroy,,,Grand Rapids II,19110714,19110910,59,0,of59cf59
 boxscores/1911/1911-SL,1911,Central League,kroy,P9455638,Kroy,,,South Bend I,19110426,19110713,77,0,2b1of74cf74
-minoraverages/1912Reach,1911,Central League,,B00370,Kroy,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00370,Kroy,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,kroy,B00370,Kroy,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,kroy,B00370,Kroy,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,kroy,B00370,Kroy,,T,,,,132,,
-minoraverages/1912Reach,1911,Central League,,F21158,Kroy,,1,South Bend [I],,,,,of.
-minoraverages/1912Reach,1911,Central League,,F21158,Kroy,,2,Grand Rapids [II],,,,,of.
+minoraverages/1912Reach,1911,Central League,kroy,F21158,Kroy,,1,South Bend [I],,,,,of.
+minoraverages/1912Reach,1911,Central League,kroy,F21158,Kroy,,2,Grand Rapids [II],,,,,of.
 minoraverages/1912Reach,1911,Central League,kroy,F21158,Kroy,,T,,,,,,of132
 boxscores/1911/1911-SL,1911,Central League,mclafferty,P0247128,Lafferty,,,Fort Wayne,19110701,19110903,4,0,3b3of1lf1
 boxscores/1911/1911-SL,1911,Central League,lake,P3808726,Lake,,,Zanesville,19110618,19110620,2,0,2b2
@@ -539,14 +539,14 @@ minoraverages/1912Reach,1911,Central League,lewis-whe,F20211,Lewis,,0,Wheeling,,
 boxscores/1911/1911-SL,1911,Central League,lindsay@ump,P4210850,Lindsay,,,#umpire,19110528,19110528,,,
 boxscores/1911/1911-SL,1911,Central League,lindsay,P6150417,Lindsay,,,Grand Rapids II,19110717,19110910,11,10,p10of1rf1
 boxscores/1911/1911-SL,1911,Central League,lindsay,P8948613,Lindsay,,,South Bend I,19110426,19110713,23,23,p23
-minoraverages/1912Reach,1911,Central League,,B00879,Lindsay,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00879,Lindsay,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,lindsay,B00879,Lindsay,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,lindsay,B00879,Lindsay,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,lindsay,B00879,Lindsay,,T,,,,37,,
-minoraverages/1912Reach,1911,Central League,,F20721,Lindsay,,1,South Bend [I],,,,,p.
-minoraverages/1912Reach,1911,Central League,,F20721,Lindsay,,2,Grand Rapids [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,lindsay,F20721,Lindsay,,1,South Bend [I],,,,,p.
+minoraverages/1912Reach,1911,Central League,lindsay,F20721,Lindsay,,2,Grand Rapids [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,lindsay,F20721,Lindsay,,T,,,,,,p37
-minoraverages/1912Reach,1911,Central League,,P10357,Lindsay,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,P10357,Lindsay,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,lindsay,P10357,Lindsay,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,lindsay,P10357,Lindsay,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,lindsay,P10357,Lindsay,,T,,,,,37,
 boxscores/1911/1911-SL,1911,Central League,lindsay,P1122441,Lindsey,,,South Bend I,19110512,19110512,1,1,p1
 boxscores/1911/1911-SL,1911,Central League,lindsay,P7007253,Lindsey,,,Grand Rapids II,19110803,19110905,5,5,p5
@@ -559,33 +559,33 @@ minoraverages/1912Reach,1911,Central League,mahoney-th,F20496,Mahoney,,0,Terre H
 boxscores/1911/1911-SL,1911,Central League,markham,P0326491,Markham,,,South Bend II,19110816,19110907,7,7,p7
 boxscores/1911/1911-SL,1911,Central League,markham,P4089174,Markham,,,Evansville,19110428,19110811,27,27,p27
 minoraverages/1912Reach,1911,Central League,markham,B01156,Markham,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B01156,Markham,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,markham,B01156,Markham,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,markham,B01156,Markham,,T,,,,35,,
 minoraverages/1912Reach,1911,Central League,markham,F21000,Markham,,1,Evansville,,,,,p.
-minoraverages/1912Reach,1911,Central League,,F21000,Markham,,2,South Bend [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,markham,F21000,Markham,,2,South Bend [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,markham,F21000,Markham,,T,,,,,,p35
 minoraverages/1912Reach,1911,Central League,markham,P10361,Markham,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,P10361,Markham,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,markham,P10361,Markham,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,markham,P10361,Markham,,T,,,,,35,
 boxscores/1911/1911-SL,1911,Central League,martin-sb+gr,P0041608,Martin,,,Grand Rapids II,19110717,19110910,14,13,p13
 boxscores/1911/1911-SL,1911,Central League,martin-th,P0347584,Martin,,,Terre Haute,19110729,19110730,2,0,c2
 boxscores/1911/1911-SL,1911,Central League,martin-sb+gr,P5819356,Martin,,,South Bend I,19110427,19110712,23,22,p22of1lf1
 boxscores/1911/1911-SL,1911,Central League,martin-gr+new,P6364895,Martin,,,Grand Rapids I,19110426,19110524,21,0,c21
 boxscores/1911/1911-SL,1911,Central League,martin-gr+new,P8315855,Martin,,,Newark,19110719,19110910,26,1,p1c233b1
-minoraverages/1912Reach,1911,Central League,,B00822,Martin,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,martin-gr+new,B00822,Martin,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,martin-gr+new,B00822,Martin,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,martin-gr+new,B00822,Martin,,T,,,,49,,
-minoraverages/1912Reach,1911,Central League,,B01162,Martin,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B01162,Martin,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,martin-sb+gr,B01162,Martin,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,martin-sb+gr,B01162,Martin,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,martin-sb+gr,B01162,Martin,,T,,,,35,,
-minoraverages/1912Reach,1911,Central League,,F20539,Martin,,1,Grand Rapids [I],,,,,c.
+minoraverages/1912Reach,1911,Central League,martin-gr+new,F20539,Martin,,1,Grand Rapids [I],,,,,c.
 minoraverages/1912Reach,1911,Central League,martin-gr+new,F20539,Martin,,2,Newark,,,,,c.
 minoraverages/1912Reach,1911,Central League,martin-gr+new,F20539,Martin,,T,,,,,,c49
-minoraverages/1912Reach,1911,Central League,,F20997,Martin,,1,South Bend [I],,,,,p.
-minoraverages/1912Reach,1911,Central League,,F20997,Martin,,2,Grand Rapids [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,martin-sb+gr,F20997,Martin,,1,South Bend [I],,,,,p.
+minoraverages/1912Reach,1911,Central League,martin-sb+gr,F20997,Martin,,2,Grand Rapids [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,martin-sb+gr,F20997,Martin,,T,,,,,,p35
-minoraverages/1912Reach,1911,Central League,,P10192,Martin,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,P10192,Martin,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,martin-sb+gr,P10192,Martin,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,martin-sb+gr,P10192,Martin,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,martin-sb+gr,P10192,Martin,,T,,,,,34,
 boxscores/1911/1911-SL,1911,Central League,martini,P6049731,Martini,,,Wheeling,19110601,19110601,1,1,p1
 boxscores/1911/1911-SL,1911,Central League,matthews,P0782727,Matthews,,,South Bend II,19110903,19110903,1,1,p1
@@ -594,7 +594,7 @@ boxscores/1911/1911-SL,1911,Central League,mcdonough,P8638886,McDo'h,,,Grand Rap
 boxscores/1911/1911-SL,1911,Central League,mcdonough,P2493041,McDon'd,,,Terre Haute,19110712,19110712,1,0,of1rf1
 boxscores/1911/1911-SL,1911,Central League,mcdonough,P6507893,McDon'h,,,Terre Haute,19110628,19110709,5,0,c5
 boxscores/1911/1911-SL,1911,Central League,mcdonough,P9389428,McDon'h,,,Grand Rapids I,19110428,19110608,8,0,c3of5cf1rf4
-minoraverages/1912Reach,1911,Central League,,F20648,McDon'h,,1,Grand Rapids [I],,,,,c.
+minoraverages/1912Reach,1911,Central League,mcdonough,F20648,McDon'h,,1,Grand Rapids [I],,,,,c.
 minoraverages/1912Reach,1911,Central League,mcdonough,F20648,McDon'h,,2,Terre Haute,,,,,c.
 minoraverages/1912Reach,1911,Central League,mcdonough,F20648,McDon'h,,3,Newark,,,,,c.
 minoraverages/1912Reach,1911,Central League,mcdonough,F20648,McDon'h,,T,,,,,,c52
@@ -651,11 +651,11 @@ boxscores/1911/1911-SL,1911,Central League,murray-gr+new,P4086004,Murray,,,Grand
 boxscores/1911/1911-SL,1911,Central League,murray-gr+new,P6486453,Murray,S.,,Grand Rapids I,19110508,19110526,6,0,2b6
 boxscores/1911/1911-SL,1911,Central League,murray.j,P6523136,Murray,C.,,Wheeling,19110725,19110725,1,0,c1
 boxscores/1911/1911-SL,1911,Central League,murray-gr+new,P7071204,Murray,,,Newark,19110704,19110910,60,0,2b59of1cf1
-minoraverages/1912Reach,1911,Central League,,B00544,Murray,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,murray-gr+new,B00544,Murray,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,murray-gr+new,B00544,Murray,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,murray-gr+new,B00544,Murray,,T,,,,113,,
 minoraverages/1912Reach,1911,Central League,murray.j,B00718,Murray,,0,Wheeling,,,82,,
-minoraverages/1912Reach,1911,Central League,,F20128,Murray,,1,Grand Rapids [I],,,,,2b.
+minoraverages/1912Reach,1911,Central League,murray-gr+new,F20128,Murray,,1,Grand Rapids [I],,,,,2b.
 minoraverages/1912Reach,1911,Central League,murray-gr+new,F20128,Murray,,2,Newark,,,,,2b.
 minoraverages/1912Reach,1911,Central League,murray-gr+new,F20128,Murray,,T,,,,,,2b113
 minoraverages/1912Reach,1911,Central League,murray.j,F20657,Murray,,0,Wheeling,,,,,c82
@@ -666,14 +666,14 @@ boxscores/1911/1911-SL,1911,Central League,myers-sb+gr,P3190102,Myers,John Henry
 boxscores/1911/1911-SL,1911,Central League,myers-sb+gr,P5548461,Myers,,,Grand Rapids II,19110714,19110831,5,5,p5
 boxscores/1911/1911-SL,1911,Central League,meyers-th,P7739877,Myers,,,Terre Haute,19110430,19110604,12,0,1b12
 boxscores/1911/1911-SL,1911,Central League,myers-sb+gr,P9765025,Myers,,,South Bend I,19110513,19110709,10,9,p9of1rf1
-minoraverages/1912Reach,1911,Central League,,B01119,Myers,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B01119,Myers,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,myers-sb+gr,B01119,Myers,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,myers-sb+gr,B01119,Myers,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,myers-sb+gr,B01119,Myers,,T,,,,28,,
-minoraverages/1912Reach,1911,Central League,,F20792,Myers,,1,South Bend [I],,,,,p.
-minoraverages/1912Reach,1911,Central League,,F20792,Myers,,2,Grand Rapids [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,myers-sb+gr,F20792,Myers,,1,South Bend [I],,,,,p.
+minoraverages/1912Reach,1911,Central League,myers-sb+gr,F20792,Myers,,2,Grand Rapids [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,myers-sb+gr,F20792,Myers,,T,,,,,,p28
-minoraverages/1912Reach,1911,Central League,,P10081,Myers,,1,Grand Rapids [II],,,,,
-minoraverages/1912Reach,1911,Central League,,P10081,Myers,,2,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,myers-sb+gr,P10081,Myers,,1,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,myers-sb+gr,P10081,Myers,,2,South Bend [I],,,,,
 minoraverages/1912Reach,1911,Central League,myers-sb+gr,P10081,Myers,,T,,,,,27,
 boxscores/1911/1911-SL,1911,Central League,nee,P2434733,Nee,,,Terre Haute,19110811,19110909,29,0,1b12b73b4ss17
 minoraverages/1912Reach,1911,Central League,nee,B00286,Nee,,0,Terre Haute,,,29,,
@@ -695,7 +695,7 @@ minoraverages/1912Reach,1911,Central League,obrien-zan+th,B00590,O'Brien,M.,1,Za
 minoraverages/1912Reach,1911,Central League,obrien-zan+th,B00590,O'Brien,M.,2,Terre Haute,,,,,
 minoraverages/1912Reach,1911,Central League,obrien-zan+th,B00590,O'Brien,M.,T,,,,112,,
 minoraverages/1912Reach,1911,Central League,obrien-eva+sb,B00887,O'Brien,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00887,O'Brien,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,obrien-eva+sb,B00887,O'Brien,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,obrien-eva+sb,B00887,O'Brien,,T,,,,99,,
 minoraverages/1912Reach,1911,Central League,obrien-zan+th,F20604,O'Brien,,1,Zanesville,,,,,c.
 minoraverages/1912Reach,1911,Central League,obrien-zan+th,F20604,O'Brien,,2,Terre Haute,,,,,c.
@@ -722,11 +722,11 @@ boxscores/1911/1911-SL,1911,Central League,parker.j,P2961145,Parker,,,Grand Rapi
 boxscores/1911/1911-SL,1911,Central League,parker.j,P3312105,Parker,,,Newark,19110629,19110909,20,0,c15ss4
 boxscores/1911/1911-SL,1911,Central League,parker.c,P6090590,Parker,G.,,Newark,19110910,19110910,1,0,ss1
 minoraverages/1912Reach,1911,Central League,parker.c,B00739,Parker,C.,0,Newark,,,41,,
-minoraverages/1912Reach,1911,Central League,,B00771,Parker,J.,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,parker.j,B00771,Parker,J.,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,parker.j,B00771,Parker,J.,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,parker.j,B00771,Parker,J.,T,,,,59,,
 minoraverages/1912Reach,1911,Central League,parker.c,F20482,Parker,C.,0,Newark,,,,,ss41
-minoraverages/1912Reach,1911,Central League,,F20699,Parker,J.,1,Grand Rapids [I],,,,,c.
+minoraverages/1912Reach,1911,Central League,parker.j,F20699,Parker,J.,1,Grand Rapids [I],,,,,c.
 minoraverages/1912Reach,1911,Central League,parker.j,F20699,Parker,J.,2,Newark,,,,,c.
 minoraverages/1912Reach,1911,Central League,parker.j,F20699,Parker,J.,T,,,,,,c59
 boxscores/1911/1911-SL,1911,Central League,pattison,P4697461,Patterson,,,Terre Haute,19110701,19110708,2,2,p2
@@ -740,7 +740,7 @@ boxscores/1911/1911-SL,1911,Central League,peer,P6254885,Peer,,,Zanesville,19110
 boxscores/1911/1911-SL,1911,Central League,pendry,P1046614,Pendry,,,Newark,19110628,19110910,80,0,2b93b67ss5of1rf1
 boxscores/1911/1911-SL,1911,Central League,pendry,P5539814,Pendry,,,Grand Rapids I,19110426,19110627,60,0,2b53b55
 minoraverages/1912Reach,1911,Central League,pendry,B00356,Pendry,,0,Newark,,,139,,
-minoraverages/1912Reach,1911,Central League,,F20240,Pendry,,1,Grand Rapids [I],,,,,3b.
+minoraverages/1912Reach,1911,Central League,pendry,F20240,Pendry,,1,Grand Rapids [I],,,,,3b.
 minoraverages/1912Reach,1911,Central League,pendry,F20240,Pendry,,2,Newark,,,,,3b.
 minoraverages/1912Reach,1911,Central League,pendry,F20240,Pendry,,T,,,,,,3b139
 boxscores/1911/1911-SL,1911,Central League,penfold,P8553052,Penfold,,,Grand Rapids I,19110502,19110507,7,0,of6rf6
@@ -770,10 +770,10 @@ boxscores/1911/1911-SL,1911,Central League,ragon,P1624845,Ragan,,,Newark,1911062
 boxscores/1911/1911-SL,1911,Central League,ragon,P9651485,Ragan,,,Grand Rapids I,19110514,19110627,42,0,3b1ss41
 boxscores/1911/1911-SL,1911,Central League,ragon,P3252187,Ragon,,,Newark,19110628,19110702,5,0,ss5
 boxscores/1911/1911-SL,1911,Central League,ragon,P5196907,Ragon,,,Grand Rapids I,19110525,19110525,1,0,ss1
-minoraverages/1912Reach,1911,Central League,,B00450,Ragon,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,ragon,B00450,Ragon,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,ragon,B00450,Ragon,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,ragon,B00450,Ragon,,T,,,,81,,
-minoraverages/1912Reach,1911,Central League,,F20425,Ragon,,1,Grand Rapids [I],,,,,ss.
+minoraverages/1912Reach,1911,Central League,ragon,F20425,Ragon,,1,Grand Rapids [I],,,,,ss.
 minoraverages/1912Reach,1911,Central League,ragon,F20425,Ragon,,2,Newark,,,,,ss.
 minoraverages/1912Reach,1911,Central League,ragon,F20425,Ragon,,T,,,,,,ss81
 boxscores/1911/1911-SL,1911,Central League,ragsdale,P5639548,Ragsdale,,,Zanesville,19110708,19110909,57,0,c541b1
@@ -795,17 +795,17 @@ boxscores/1911/1911-SL,1911,Central League,riley-gr+new,P0170089,Riley,,,Newark,
 boxscores/1911/1911-SL,1911,Central League,riley-gr+new,P1847289,Riley,,,Grand Rapids I,19110428,19110621,19,16,p16of2lf1rf1
 boxscores/1911/1911-SL,1911,Central League,riley-gr+new,P4836492,Riley,Bill,,Newark,19110830,19110830,1,1,p1
 boxscores/1911/1911-SL,1911,Central League,riley@ump,P5694931,Riley,,,#umpire,19110901,19110901,,,
-minoraverages/1912Reach,1911,Central League,,B00589,Riley,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,riley-gr+new,B00589,Riley,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,riley-gr+new,B00589,Riley,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,riley-gr+new,B00589,Riley,,T,,,,32,,
-minoraverages/1912Reach,1911,Central League,,B01143,Riley,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,riley-gr+new,B01143,Riley,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,riley-gr+new,B01143,Riley,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,riley-gr+new,B01143,Riley,,T,,,,27,,
-minoraverages/1912Reach,1911,Central League,,F20759,Riley,,1,Grand Rapids [I],,,,,p.
+minoraverages/1912Reach,1911,Central League,riley-gr+new,F20759,Riley,,1,Grand Rapids [I],,,,,p.
 minoraverages/1912Reach,1911,Central League,riley-gr+new,F20759,Riley,,2,Newark,,,,,p.
 minoraverages/1912Reach,1911,Central League,riley-gr+new,F20759,Riley,,T,,,,,,p27
 minoraverages/1912Reach,1911,Central League,riley-zan,F21343,Riley,,0,Zanesville,,,,,of32
-minoraverages/1912Reach,1911,Central League,,P10385,Riley,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,riley-gr+new,P10385,Riley,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,riley-gr+new,P10385,Riley,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,riley-gr+new,P10385,Riley,,T,,,,,27,
 boxscores/1911/1911-SL,1911,Central League,rogers-zan,P6064911,Rodgers,,,Zanesville,19110621,19110907,4,3,p3of1lf1
@@ -833,20 +833,20 @@ boxscores/1911/1911-SL,1911,Central League,scanlon,P4169067,Scan'n,,,South Bend 
 boxscores/1911/1911-SL,1911,Central League,scanlon,P0134463,Scanlon,,,South Bend I,19110606,19110712,10,1,p1c52b1of1rf1
 boxscores/1911/1911-SL,1911,Central League,scanlon,P1470845,Scanlon,D.,,Grand Rapids II,19110717,19110717,1,0,
 boxscores/1911/1911-SL,1911,Central League,scanlon,P2041867,Scanlon,,,Grand Rapids II,19110728,19110910,19,1,p1c14of1cf1
-minoraverages/1912Reach,1911,Central League,,B00469,Scanlon,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00469,Scanlon,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,scanlon,B00469,Scanlon,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,scanlon,B00469,Scanlon,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,scanlon,B00469,Scanlon,,T,,,,27,,
-minoraverages/1912Reach,1911,Central League,,F20594,Scanlon,,0,Grand Rapids [II],,,,,c27
+minoraverages/1912Reach,1911,Central League,scanlon,F20594,Scanlon,,0,Grand Rapids [II],,,,,c27
 boxscores/1911/1911-SL,1911,Central League,schaefer-gr,P4896501,Schaefer,,,Grand Rapids I,19110626,19110626,1,1,p1
 boxscores/1911/1911-SL,1911,Central League,schaefer-new,P5515621,Schaefer,,,Newark,19110630,19110630,1,1,p1
 boxscores/1911/1911-SL,1911,Central League,schmick,P5750352,Schmich,,,South Bend I,19110530,19110530,1,0,1b1
 boxscores/1911/1911-SL,1911,Central League,schmick,P5718879,Schmick,,,Grand Rapids II,19110714,19110910,55,0,1b54
 boxscores/1911/1911-SL,1911,Central League,schmick,P7617939,Schmick,,,South Bend I,19110426,19110713,69,0,1b69
-minoraverages/1912Reach,1911,Central League,,B00553,Schmick,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00553,Schmick,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,schmick,B00553,Schmick,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,schmick,B00553,Schmick,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,schmick,B00553,Schmick,,T,,,,122,,
-minoraverages/1912Reach,1911,Central League,,F20080,Schmick,,1,South Bend [I],,,,,1b.
-minoraverages/1912Reach,1911,Central League,,F20080,Schmick,,2,Grand Rapids [II],,,,,1b.
+minoraverages/1912Reach,1911,Central League,schmick,F20080,Schmick,,1,South Bend [I],,,,,1b.
+minoraverages/1912Reach,1911,Central League,schmick,F20080,Schmick,,2,Grand Rapids [II],,,,,1b.
 minoraverages/1912Reach,1911,Central League,schmick,F20080,Schmick,,T,,,,,,1b122
 boxscores/1911/1911-SL,1911,Central League,schultz,P5987622,Schultz,,,Zanesville,19110604,19110823,21,21,p21
 minoraverages/1912Reach,1911,Central League,schultz,B01055,Schultz,,0,Zanesville,,,21,,
@@ -874,25 +874,25 @@ boxscores/1911/1911-SL,1911,Central League,smith-fw,P4612704,Smith,,,Fort Wayne,
 boxscores/1911/1911-SL,1911,Central League,smith-sb+gr,P5129622,Smith,,,South Bend I,19110503,19110710,14,14,p14
 boxscores/1911/1911-SL,1911,Central League,smith-th,P5490523,Smith,S.,,Terre Haute,19110701,19110701,1,0,of1cf1
 boxscores/1911/1911-SL,1911,Central League,smith-sb+gr,P6820937,Smith,E.,,South Bend I,19110701,19110701,1,1,p1
-minoraverages/1912Reach,1911,Central League,,B00957,Smith,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00957,Smith,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,smith-sb+gr,B00957,Smith,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,smith-sb+gr,B00957,Smith,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,smith-sb+gr,B00957,Smith,,T,,,,29,,
 minoraverages/1912Reach,1911,Central League,smith-th,B01086,Smith,,0,Terre Haute,,,20,,
-minoraverages/1912Reach,1911,Central League,,F20784,Smith,,1,South Bend [I],,,,,p.
-minoraverages/1912Reach,1911,Central League,,F20784,Smith,,2,Grand Rapids [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,smith-sb+gr,F20784,Smith,,1,South Bend [I],,,,,p.
+minoraverages/1912Reach,1911,Central League,smith-sb+gr,F20784,Smith,,2,Grand Rapids [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,smith-sb+gr,F20784,Smith,,T,,,,,,p29
 minoraverages/1912Reach,1911,Central League,smith-th,F21092,Smith,,0,Terre Haute,,,,,p20
-minoraverages/1912Reach,1911,Central League,,P10137,Smith,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,P10137,Smith,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,smith-sb+gr,P10137,Smith,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,smith-sb+gr,P10137,Smith,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,smith-sb+gr,P10137,Smith,,T,,,,,27,
 minoraverages/1912Reach,1911,Central League,smith-th,P10336,Smith,,0,Terre Haute,,,,20,
 boxscores/1911/1911-SL,1911,Central League,snyder,P6318287,Snyder,,,South Bend II,19110813,19110907,26,0,of26lf24cf1rf1
 boxscores/1911/1911-SL,1911,Central League,snyder,P9243082,Snyder,,,Evansville,19110426,19110812,93,0,1b1of91lf46cf46
 minoraverages/1912Reach,1911,Central League,snyder,B00397,Snyder,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00397,Snyder,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,snyder,B00397,Snyder,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,snyder,B00397,Snyder,,T,,,,117,,
 minoraverages/1912Reach,1911,Central League,snyder,F21163,Snyder,,1,Evansville,,,,,of.
-minoraverages/1912Reach,1911,Central League,,F21163,Snyder,,2,South Bend [II],,,,,of.
+minoraverages/1912Reach,1911,Central League,snyder,F21163,Snyder,,2,South Bend [II],,,,,of.
 minoraverages/1912Reach,1911,Central League,snyder,F21163,Snyder,,T,,,,,,of117
 boxscores/1911/1911-SL,1911,Central League,somerlot,P9291364,Some't,,,Terre Haute,19110630,19110630,1,0,c11b1
 boxscores/1911/1911-SL,1911,Central League,somerlot,P1180950,Somer't,,,Terre Haute,19110619,19110705,4,0,1b4
@@ -913,13 +913,13 @@ boxscores/1911/1911-SL,1911,Central League,stanley,P0256955,Stanley,,,Fort Wayne
 boxscores/1911/1911-SL,1911,Central League,sterzer,P0849540,Sterzer,,,Evansville,19110426,19110812,31,29,p29of1cf1
 boxscores/1911/1911-SL,1911,Central League,sterzer,P7599433,Sterzer,,,South Bend II,19110815,19110907,9,8,p8
 minoraverages/1912Reach,1911,Central League,sterzer,B00638,Sterzer,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00638,Sterzer,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,sterzer,B00638,Sterzer,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,sterzer,B00638,Sterzer,,T,,,,37,,
 minoraverages/1912Reach,1911,Central League,sterzer,F20893,Sterzer,,1,Evansville,,,,,p.
-minoraverages/1912Reach,1911,Central League,,F20893,Sterzer,,2,South Bend [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,sterzer,F20893,Sterzer,,2,South Bend [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,sterzer,F20893,Sterzer,,T,,,,,,p37
 minoraverages/1912Reach,1911,Central League,sterzer,P10228,Sterzer,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,P10228,Sterzer,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,sterzer,P10228,Sterzer,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,sterzer,P10228,Sterzer,,T,,,,,37,
 boxscores/1911/1911-SL,1911,Central League,stremmel,P1699735,Strem'l,,,Zanesville,19110813,19110813,1,1,p1of1lf1
 boxscores/1911/1911-SL,1911,Central League,stremmel,P9502882,Stremmel,,,Zanesville,19110426,19110907,43,36,p36of3lf3
@@ -945,21 +945,21 @@ boxscores/1911/1911-SL,1911,Central League,taylor,P6693510,Taylor,,,Dayton,19110
 boxscores/1911/1911-SL,1911,Central League,taylor,P7942064,Taylor,,,Evansville,19110602,19110810,37,7,p73b26of1lf1
 boxscores/1911/1911-SL,1911,Central League,taylor,P9243455,Taylor,Jack,,Dayton,19110504,19110504,1,1,p1
 minoraverages/1912Reach,1911,Central League,taylor,B00101,Taylor,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00101,Taylor,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,taylor,B00101,Taylor,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,taylor,B00101,Taylor,,T,,,,59,,
 minoraverages/1912Reach,1911,Central League,taylor,F20334,Taylor,,1,Evansville,,,,,3b.
-minoraverages/1912Reach,1911,Central League,,F20334,Taylor,,2,South Bend [II],,,,,3b.
+minoraverages/1912Reach,1911,Central League,taylor,F20334,Taylor,,2,South Bend [II],,,,,3b.
 minoraverages/1912Reach,1911,Central League,taylor,F20334,Taylor,,T,,,,,,3b40
 minoraverages/1912Reach,1911,Central League,taylor,F21068,Taylor,,1,Evansville,,,,,p.
-minoraverages/1912Reach,1911,Central League,,F21068,Taylor,,2,South Bend [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,taylor,F21068,Taylor,,2,South Bend [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,taylor,F21068,Taylor,,T,,,,,,p17
 boxscores/1911/1911-SL,1911,Central League,tieman,P0176275,Tieman,,,Evansville,19110503,19110809,42,1,p1c35of1lf1
 boxscores/1911/1911-SL,1911,Central League,tieman,P2475128,Tieman,,,South Bend II,19110815,19110907,12,0,c10of2cf2
 minoraverages/1912Reach,1911,Central League,tieman,B00985,Tieman,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00985,Tieman,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,tieman,B00985,Tieman,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,tieman,B00985,Tieman,,T,,,,54,,
 minoraverages/1912Reach,1911,Central League,tieman,F20552,Tieman,,1,Evansville,,,,,c.
-minoraverages/1912Reach,1911,Central League,,F20552,Tieman,,2,South Bend [II],,,,,c.
+minoraverages/1912Reach,1911,Central League,tieman,F20552,Tieman,,2,South Bend [II],,,,,c.
 minoraverages/1912Reach,1911,Central League,tieman,F20552,Tieman,,T,,,,,,c54
 boxscores/1911/1911-SL,1911,Central League,tieman,P6095201,Treman,,,South Bend II,19110827,19110827,1,0,c1
 boxscores/1911/1911-SL,1911,Central League,tieman,P1382529,Tremors,,,Evansville,19110621,19110621,1,0,c1
@@ -1034,13 +1034,13 @@ boxscores/1911/1911-SL,1911,Central League,wether,P1712446,Wether,,,Wheeling,191
 boxscores/1911/1911-SL,1911,Central League,wetzel,P5200108,Wetzel,,,South Bend I,19110426,19110713,70,0,3b69ss1
 boxscores/1911/1911-SL,1911,Central League,wetzel,P6126232,Wetzel,,,Grand Rapids II,19110714,19110810,22,0,3b10ss12
 boxscores/1911/1911-SL,1911,Central League,wetzel,P9419728,Wetzel,,,Terre Haute,19110813,19110909,24,0,3b24
-minoraverages/1912Reach,1911,Central League,,B00577,Wetzel,,1,South Bend [I],,,,,
-minoraverages/1912Reach,1911,Central League,,B00577,Wetzel,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,wetzel,B00577,Wetzel,,1,South Bend [I],,,,,
+minoraverages/1912Reach,1911,Central League,wetzel,B00577,Wetzel,,2,Grand Rapids [II],,,,,
 minoraverages/1912Reach,1911,Central League,wetzel,B00577,Wetzel,,3,Terre Haute,,,,,
 minoraverages/1912Reach,1911,Central League,wetzel,B00577,Wetzel,,T,,,,121,,
 boxscores/1911/1911-SL,1911,Central League,wetzel,P4918712,Wetzell,,,South Bend I,19110506,19110622,9,0,3b9
-minoraverages/1912Reach,1911,Central League,,F20279,Wetzell,,1,South Bend [I],,,,,3b.
-minoraverages/1912Reach,1911,Central League,,F20279,Wetzell,,2,Grand Rapids [II],,,,,3b.
+minoraverages/1912Reach,1911,Central League,wetzel,F20279,Wetzell,,1,South Bend [I],,,,,3b.
+minoraverages/1912Reach,1911,Central League,wetzel,F20279,Wetzell,,2,Grand Rapids [II],,,,,3b.
 minoraverages/1912Reach,1911,Central League,wetzel,F20279,Wetzell,,3,Terre Haute,,,,,3b.
 minoraverages/1912Reach,1911,Central League,wetzel,F20279,Wetzell,,T,,,,,,3b121
 boxscores/1911/1911-SL,1911,Central League,wheeler,P5913842,Whe'r,,,Terre Haute,19110510,19110510,1,0,2b13b1
@@ -1050,20 +1050,20 @@ boxscores/1911/1911-SL,1911,Central League,wheeler,P1688321,Wheeler,,,Terre Haut
 boxscores/1911/1911-SL,1911,Central League,wheeler,P2101414,Wheeler,,,South Bend II,19110826,19110907,13,0,2b103b3
 boxscores/1911/1911-SL,1911,Central League,wheeler,P8205385,Wheeler,,,Grand Rapids II,19110714,19110822,36,0,1b52b13b31
 minoraverages/1912Reach,1911,Central League,wheeler,B00811,Wheeler,,1,Terre Haute,,,,,
-minoraverages/1912Reach,1911,Central League,,B00811,Wheeler,,2,Grand Rapids [II],,,,,
-minoraverages/1912Reach,1911,Central League,,B00811,Wheeler,,3,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,wheeler,B00811,Wheeler,,2,Grand Rapids [II],,,,,
+minoraverages/1912Reach,1911,Central League,wheeler,B00811,Wheeler,,3,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,wheeler,B00811,Wheeler,,T,,,,117,,
 minoraverages/1912Reach,1911,Central League,wheeler,F20102,Wheeler,,1,Terre Haute,,,,,1b.
-minoraverages/1912Reach,1911,Central League,,F20102,Wheeler,,2,South Bend [I],,,,,1b.
-minoraverages/1912Reach,1911,Central League,,F20102,Wheeler,,3,Grand Rapids [II],,,,,1b.
+minoraverages/1912Reach,1911,Central League,wheeler,F20102,Wheeler,,2,South Bend [I],,,,,1b.
+minoraverages/1912Reach,1911,Central League,wheeler,F20102,Wheeler,,3,Grand Rapids [II],,,,,1b.
 minoraverages/1912Reach,1911,Central League,wheeler,F20102,Wheeler,,T,,,,,,1b30
 minoraverages/1912Reach,1911,Central League,wheeler,F20222,Wheeler,,1,Terre Haute,,,,,2b.
-minoraverages/1912Reach,1911,Central League,,F20222,Wheeler,,2,Grand Rapids [II],,,,,2b.
-minoraverages/1912Reach,1911,Central League,,F20222,Wheeler,,3,South Bend [I],,,,,2b.
+minoraverages/1912Reach,1911,Central League,wheeler,F20222,Wheeler,,2,Grand Rapids [II],,,,,2b.
+minoraverages/1912Reach,1911,Central League,wheeler,F20222,Wheeler,,3,South Bend [I],,,,,2b.
 minoraverages/1912Reach,1911,Central League,wheeler,F20222,Wheeler,,T,,,,,,2b37
 minoraverages/1912Reach,1911,Central League,wheeler,F20342,Wheeler,,1,Terre Haute,,,,,3b.
-minoraverages/1912Reach,1911,Central League,,F20342,Wheeler,,2,Grand Rapids [II],,,,,3b.
-minoraverages/1912Reach,1911,Central League,,F20342,Wheeler,,3,South Bend [I],,,,,3b.
+minoraverages/1912Reach,1911,Central League,wheeler,F20342,Wheeler,,2,Grand Rapids [II],,,,,3b.
+minoraverages/1912Reach,1911,Central League,wheeler,F20342,Wheeler,,3,South Bend [I],,,,,3b.
 minoraverages/1912Reach,1911,Central League,wheeler,F20342,Wheeler,,T,,,,,,3b50
 boxscores/1911/1911-SL,1911,Central League,whittaker-fw,P1073658,Whitaker,,,Fort Wayne,19110504,19110715,3,3,p3
 boxscores/1911/1911-SL,1911,Central League,whittaker-fw,P0934894,Whittaker,,,Fort Wayne,19110508,19110718,15,15,p15
@@ -1073,10 +1073,10 @@ boxscores/1911/1911-SL,1911,Central League,wickland,P8118617,Wickl'd,,,Grand Rap
 boxscores/1911/1911-SL,1911,Central League,wickland,P0326078,Wickland,Al,,Newark,19110725,19110725,1,0,of1cf1
 boxscores/1911/1911-SL,1911,Central League,wickland,P4549985,Wickland,,,Grand Rapids I,19110426,19110627,53,0,of52cf52
 boxscores/1911/1911-SL,1911,Central League,wickland,P7483345,Wickland,,,Newark,19110628,19110910,78,0,of78lf1cf77
-minoraverages/1912Reach,1911,Central League,,B00381,Wickland,,1,Grand Rapids [I],,,,,
+minoraverages/1912Reach,1911,Central League,wickland,B00381,Wickland,,1,Grand Rapids [I],,,,,
 minoraverages/1912Reach,1911,Central League,wickland,B00381,Wickland,,2,Newark,,,,,
 minoraverages/1912Reach,1911,Central League,wickland,B00381,Wickland,,T,,,,134,,
-minoraverages/1912Reach,1911,Central League,,F21130,Wickland,,1,Grand Rapids [I],,,,,of.
+minoraverages/1912Reach,1911,Central League,wickland,F21130,Wickland,,1,Grand Rapids [I],,,,,of.
 minoraverages/1912Reach,1911,Central League,wickland,F21130,Wickland,,2,Newark,,,,,of.
 minoraverages/1912Reach,1911,Central League,wickland,F21130,Wickland,,T,,,,,,of134
 boxscores/1911/1911-SL,1911,Central League,welcher,P9561799,Wilchor,,,Wheeling,19110823,19110823,1,0,
@@ -1093,13 +1093,13 @@ boxscores/1911/1911-SL,1911,Central League,waring,P4695685,Wiring,,,Terre Haute,
 boxscores/1911/1911-SL,1911,Central League,withers,P2964896,Withers,,,South Bend II,19110814,19110904,10,10,p10
 boxscores/1911/1911-SL,1911,Central League,withers,P5671739,Withers,,,Evansville,19110501,19110809,25,25,p25
 minoraverages/1912Reach,1911,Central League,withers,B01064,Withers,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B01064,Withers,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,withers,B01064,Withers,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,withers,B01064,Withers,,T,,,,35,,
 minoraverages/1912Reach,1911,Central League,withers,F20878,Withers,,1,Evansville,,,,,p.
-minoraverages/1912Reach,1911,Central League,,F20878,Withers,,2,South Bend [II],,,,,p.
+minoraverages/1912Reach,1911,Central League,withers,F20878,Withers,,2,South Bend [II],,,,,p.
 minoraverages/1912Reach,1911,Central League,withers,F20878,Withers,,T,,,,,,p35
 minoraverages/1912Reach,1911,Central League,withers,P10215,Withers,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,P10215,Withers,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,withers,P10215,Withers,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,withers,P10215,Withers,,T,,,,,35,
 boxscores/1911/1911-SL,1911,Central League,wratten,P9737534,Wratten,,,Zanesville,19110426,19110812,107,0,3b107
 minoraverages/1912Reach,1911,Central League,wratten,B00566,Wratten,,0,Zanesville,,,107,,
@@ -1107,13 +1107,13 @@ minoraverages/1912Reach,1911,Central League,wratten,F20265,Wratten,,0,Zanesville
 boxscores/1911/1911-SL,1911,Central League,wuffli,P5661058,Wuffli,,,Evansville,19110426,19110812,108,0,2b13b70ss41
 boxscores/1911/1911-SL,1911,Central League,wuffli,P9121799,Wuffli,,,South Bend II,19110813,19110907,26,0,3b16ss10
 minoraverages/1912Reach,1911,Central League,wuffli,B00255,Wuffli,,1,Evansville,,,,,
-minoraverages/1912Reach,1911,Central League,,B00255,Wuffli,,2,South Bend [II],,,,,
+minoraverages/1912Reach,1911,Central League,wuffli,B00255,Wuffli,,2,South Bend [II],,,,,
 minoraverages/1912Reach,1911,Central League,wuffli,B00255,Wuffli,,T,,,,134,,
 minoraverages/1912Reach,1911,Central League,wuffli,F20254,Wuffli,,1,Evansville,,,,,3b.
-minoraverages/1912Reach,1911,Central League,,F20254,Wuffli,,2,South Bend [II],,,,,3b.
+minoraverages/1912Reach,1911,Central League,wuffli,F20254,Wuffli,,2,South Bend [II],,,,,3b.
 minoraverages/1912Reach,1911,Central League,wuffli,F20254,Wuffli,,T,,,,,,3b71
 minoraverages/1912Reach,1911,Central League,wuffli,F20417,Wuffli,,1,Evansville,,,,,ss.
-minoraverages/1912Reach,1911,Central League,,F20417,Wuffli,,2,South Bend [II],,,,,ss.
+minoraverages/1912Reach,1911,Central League,wuffli,F20417,Wuffli,,2,South Bend [II],,,,,ss.
 minoraverages/1912Reach,1911,Central League,wuffli,F20417,Wuffli,,T,,,,,,ss30
 boxscores/1911/1911-SL,1911,Central League,young,P6767213,Young,,,Fort Wayne,19110513,19110910,121,1,p1of120lf1rf119
 minoraverages/1912Reach,1911,Central League,young,B00068,Young,,0,Fort Wayne,,,121,,

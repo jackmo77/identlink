@@ -11,7 +11,7 @@ boxscores/1915/1915-SL,1915,American Association,altizer,P9827235,Altizer,,,Minn
 minoraverages/1916Reach,1915,American Association,altizer,B00196,Altizer,,0,Minneapolis,,,149,,
 minoraverages/1916Reach,1915,American Association,altizer,F20552,Altizer,,0,Minneapolis,,,,,ss35
 minoraverages/1916Reach,1915,American Association,altizer,F20981,Altizer,,0,Minneapolis,,,,,of114
-minoraverages/emilbb,1915,American Association,,M90060,Armour,Bil,,Kansas City,,,,,
+minoraverages/emilbb,1915,American Association,armour,M90060,Armour,Bil,,Kansas City,,,,,
 boxscores/1915/1915-SL,1915,American Association,autrey,P1957898,Autrey,,,St. Paul,19150422,19150430,8,0,1b8
 minoraverages/1916Reach,1915,American Association,autrey,B00335,Autrey,,0,Minneapolis,,,138,,
 minoraverages/1916Reach,1915,American Association,autrey,F20067,Autrey,,1,St. Paul,,,,,1b.
@@ -59,7 +59,7 @@ minoraverages/1916Reach,1915,American Association,bowman,B00667,Bowman,,0,Clevel
 minoraverages/1916Reach,1915,American Association,bowman,F21084,Bowman,,0,Cleveland,,,,,p19
 minoraverages/1916Reach,1915,American Association,bowman,P10385,Bowman,,0,Cleveland,,,,20,
 minoraverages/1916Reach,1915,American Association,bowman,P11190,Bowman,,0,Cleveland,,,,20,
-boxscores/1915/1915-SL,1915,American Association,,P7444630,Boyle,,,#umpire,19150416,19150425,,,
+boxscores/1915/1915-SL,1915,American Association,boyle@ump,P7444630,Boyle,,,#umpire,19150416,19150425,,,
 boxscores/1915/1915-SL,1915,American Association,brannan,P6418221,Brannan,,,Milwaukee,19150416,19150430,7,0,c6
 minoraverages/1916Reach,1915,American Association,brannan,B01119,Brannan,,0,Milwaukee,,,115,,
 minoraverages/1916Reach,1915,American Association,brannan,F21672,Brannan,,0,Milwaukee,,,,,c108
@@ -93,7 +93,7 @@ boxscores/1915/1915-SL,1915,American Association,butler,P4203186,Butler,,,Indian
 boxscores/1915/1915-SL,1915,American Association,callahan,P5083621,Callahan,,,Louisville,19150420,19150430,7,0,
 minoraverages/1916Reach,1915,American Association,callahan,B00680,Callahan,,0,Louisville,,,57,,
 minoraverages/1916Reach,1915,American Association,callahan,F20131,Callahan,,0,Louisville,,,,,1b32
-minoraverages/emilbb,1915,American Association,,M90018,Cantillon,Joe,,Minneapolis,,,,,
+minoraverages/emilbb,1915,American Association,cantillion,M90018,Cantillon,Joe,,Minneapolis,,,,,
 boxscores/1915/1915-SL,1915,American Association,cantwell,P9772382,Cantwell,,,Indianapolis,19150420,19150427,2,2,p2
 minoraverages/1916Reach,1915,American Association,cantwell,P10633,Cantwell,,0,Indianapolis,,,,6,
 minoraverages/1916Reach,1915,American Association,carroll,P10591,Carroll,,0,Kansas City,,,,5,
@@ -113,7 +113,7 @@ minoraverages/1916Reach,1915,American Association,chappelle,F20943,Chappelle,,0,
 boxscores/1915/1915-SL,1915,American Association,clark,P6582106,Clark,,,Milwaukee,19150416,19150430,9,0,3b8
 minoraverages/1916Reach,1915,American Association,clark,B00544,Clark,,0,Milwaukee,,,130,,
 minoraverages/1916Reach,1915,American Association,clark,F20350,Clark,,0,Milwaukee,,,,,3b117
-minoraverages/emilbb,1915,American Association,,M90083,Clark,Harry,,Milwaukee,,,,,
+minoraverages/emilbb,1915,American Association,clark,M90083,Clark,Harry,,Milwaukee,,,,,
 boxscores/1915/1915-SL,1915,American Association,clemons,P6657730,Clemons,,,Louisville,19150415,19150430,15,0,c15
 minoraverages/1916Reach,1915,American Association,clemons,B00174,Clemons,,0,Louisville,,,110,,
 minoraverages/1916Reach,1915,American Association,clemons,F21577,Clemons,,0,Louisville,,,,,c100
@@ -134,7 +134,7 @@ minoraverages/1916Reach,1915,American Association,collamore,P11051,Collamore,,0,
 boxscores/1915/1915-SL,1915,American Association,compton,P4900963,Compton,,,Kansas City,19150415,19150430,14,0,of14cf13rf1
 minoraverages/1916Reach,1915,American Association,compton,B00037,Compton,,0,Kansas City,,,104,,
 minoraverages/1916Reach,1915,American Association,compton,F20935,Compton,,0,Kansas City,,,,,of104
-boxscores/1915/1915-SL,1915,American Association,,P6624937,Connolly,,,#umpire,19150415,19150430,,,
+boxscores/1915/1915-SL,1915,American Association,connolly@ump,P6624937,Connolly,,,#umpire,19150415,19150430,,,
 minoraverages/1916Reach,1915,American Association,conzelman,P10019,Conzelman,,0,Indianapolis,,,,10,
 minoraverages/1916Reach,1915,American Association,conzelman,P11298,Conzelman,,0,Indianapolis,,,,10,
 minoraverages/1916Reach,1915,American Association,corriden,F20189,Corrden,,0,Louisville,,,,,2b63
@@ -191,7 +191,7 @@ minoraverages/1916Reach,1915,American Association,dougherty,B00718,Dougherty,,0,
 minoraverages/1916Reach,1915,American Association,dougherty,F21370,Dougherty,,0,Milwaukee,,,,,p33
 minoraverages/1916Reach,1915,American Association,dougherty,P10348,Dougherty,,0,Milwaukee,,,,36,
 minoraverages/1916Reach,1915,American Association,dougherty,P11014,Dougherty,,0,Milwaukee,,,,36,
-boxscores/1915/1915-SL,1915,American Association,,P3414552,Doyle,,,#umpire,19150415,19150430,,,
+boxscores/1915/1915-SL,1915,American Association,doyle@ump,P3414552,Doyle,,,#umpire,19150415,19150430,,,
 boxscores/1915/1915-SL,1915,American Association,dressen,P9022212,Dressen,,,St. Paul,19150415,19150422,8,0,1b8
 minoraverages/1916Reach,1915,American Association,dressen,B00806,Dressen,,0,St. Paul,,,135,,
 minoraverages/1916Reach,1915,American Association,dressen,F20080,Dressen,,0,St. Paul,,,,,1b133
@@ -273,8 +273,8 @@ minoraverages/1916Reach,1915,American Association,harper,B01269,Harper,,0,Minnea
 minoraverages/1916Reach,1915,American Association,harper,F21397,Harper,,0,Minneapolis,,,,,p20
 minoraverages/1916Reach,1915,American Association,harper,P10184,Harper,,0,Minneapolis,,,,21,
 minoraverages/1916Reach,1915,American Association,harper,P11166,Harper,,0,Minneapolis,,,,21,
-minoraverages/emilbb,1915,American Association,,M90047,Hayden,John,,Louisville,,,,,
-minoraverages/emilbb,1915,American Association,,M90039,Hendricks,Jack,,Indianapolis,,,,,
+minoraverages/emilbb,1915,American Association,hayden,M90047,Hayden,John,,Louisville,,,,,
+minoraverages/emilbb,1915,American Association,hendricks,M90039,Hendricks,Jack,,Indianapolis,,,,,
 boxscores/1915/1915-SL,1915,American Association,henning,P1486356,Henning,,,Milwaukee,19150416,19150424,7,0,1b1of3lf3
 boxscores/1915/1915-SL,1915,American Association,hinchman,P1948180,Hich'n,,,Kansas City,19150426,19150426,1,0,2b1
 boxscores/1915/1915-SL,1915,American Association,hinchman,P4721211,Hichman,,,Kansas City,19150430,19150430,1,0,2b1
@@ -306,13 +306,13 @@ minoraverages/1916Reach,1915,American Association,hughes,F21623,Hughes,,0,Milwau
 boxscores/1915/1915-SL,1915,American Association,hulswitt,P4174679,Hulswitt,,,Columbus,19150425,19150428,2,0,
 minoraverages/1916Reach,1915,American Association,hulswitt,B00475,Hulswitt,,0,Columbus,,,67,,
 minoraverages/1916Reach,1915,American Association,hulswitt,F21013,Hulswitt,,0,Columbus,,,,,of23
-minoraverages/emilbb,1915,American Association,,M90107,Hulswitt,Rudy,,Columbus,,,,,
+minoraverages/emilbb,1915,American Association,hulswitt,M90107,Hulswitt,Rudy,,Columbus,,,,,
 boxscores/1915/1915-SL,1915,American Association,ingersoll,P5471991,Ingersoll,,,Minneapolis,19150416,19150429,6,6,p6
 minoraverages/1916Reach,1915,American Association,ingersoll,B01181,Ingersoll,,0,Minneapolis,,,20,,
 minoraverages/1916Reach,1915,American Association,ingersoll,F21343,Ingersoll,,0,Minneapolis,,,,,p20
 minoraverages/1916Reach,1915,American Association,ingersoll,P10429,Ingersoll,,0,Minneapolis,,,,28,
 minoraverages/1916Reach,1915,American Association,ingersoll,P11206,Ingersoll,,0,Minneapolis,,,,28,
-boxscores/1915/1915-SL,1915,American Association,,P3349220,Irwin,,,#umpire,19150415,19150430,,,
+boxscores/1915/1915-SL,1915,American Association,irwin@ump,P3349220,Irwin,,,#umpire,19150415,19150430,,,
 boxscores/1915/1915-SL,1915,American Association,james,P0738087,James,,,Cleveland,19150415,19150430,5,5,p5
 minoraverages/1916Reach,1915,American Association,james,B01428,James,,0,Cleveland,,,40,,
 minoraverages/1916Reach,1915,American Association,james,F21286,James,,0,Cleveland,,,,,p40
@@ -326,7 +326,7 @@ minoraverages/1916Reach,1915,American Association,johns,B00515,Johns,,0,Columbus
 minoraverages/1916Reach,1915,American Association,johns,F20430,Johns,,0,Columbus,,,,,3b54
 minoraverages/1916Reach,1915,American Association,johns,F20505,Johns,,0,Columbus,,,,,ss46
 boxscores/1915/1915-SL,1915,American Association,johnson-sp,P1613519,Johnson,,,St. Paul,19150415,19150430,15,0,c15
-boxscores/1915/1915-SL,1915,American Association,,P4930330,Johnson,,,#umpire,19150415,19150430,,,
+boxscores/1915/1915-SL,1915,American Association,johnson@ump,P4930330,Johnson,,,#umpire,19150415,19150430,,,
 boxscores/1915/1915-SL,1915,American Association,johnson-col,P7426962,Johnson,,,Columbus,19150421,19150421,1,0,ss1
 minoraverages/1916Reach,1915,American Association,johnson-sp,B00589,Johnson,,0,St. Paul,,,107,,
 minoraverages/1916Reach,1915,American Association,johnson-sp,F21566,Johnson,,0,St. Paul,,,,,c103
@@ -341,19 +341,19 @@ minoraverages/1916Reach,1915,American Association,karger,F21319,Karger,,0,St. Pa
 minoraverages/1916Reach,1915,American Association,karger,P10455,Karger,,0,St. Paul,,,,25,
 minoraverages/1916Reach,1915,American Association,karger,P11211,Karger,,0,St. Paul,,,,25,
 boxscores/1915/1915-SL,1915,American Association,kelly,P4156234,Kelley,,,Indianapolis,19150421,19150425,2,0,of2cf2
-minoraverages/emilbb,1915,American Association,,M90026,Kelley,Mike,,St. Paul,,,,,
+minoraverages/emilbb,1915,American Association,kelley-stp,M90026,Kelley,Mike,,St. Paul,,,,,
 boxscores/1915/1915-SL,1915,American Association,kelly,P0253797,Kelly,,,Indianapolis,19150415,19150430,13,0,of13cf13
 minoraverages/1916Reach,1915,American Association,kelly,B00210,Kelly,,0,Indianapolis,,,147,,
 minoraverages/1916Reach,1915,American Association,kelly,F20841,Kelly,,0,Indianapolis,,,,,of145
 boxscores/1915/1915-SL,1915,American Association,kirke,P4514669,Kirke,,,Cleveland,19150415,19150430,15,0,1b103b5
 minoraverages/1916Reach,1915,American Association,kirke,B00362,Kirke,,0,Cleveland,,,68,,
 minoraverages/1916Reach,1915,American Association,kirke,F20023,Kirke,,0,Cleveland,,,,,1b51
-boxscores/1915/1915-SL,1915,American Association,,P6644149,Knapp,,,#umpire,19150415,19150430,,,
+boxscores/1915/1915-SL,1915,American Association,knapp@ump,P6644149,Knapp,,,#umpire,19150415,19150430,,,
 boxscores/1915/1915-SL,1915,American Association,knight,P6303836,Knight,,,Cleveland,19150415,19150430,15,0,1b5ss10
 minoraverages/1916Reach,1915,American Association,knight,B00403,Knight,,0,Cleveland,,,131,,
 minoraverages/1916Reach,1915,American Association,knight,F20265,Knight,,0,Cleveland,,,,,2b15
 minoraverages/1916Reach,1915,American Association,knight,F20518,Knight,,0,Cleveland,,,,,ss100
-minoraverages/emilbb,1915,American Association,,M90094,Knight,Jack,,Cleveland,,,,,
+minoraverages/emilbb,1915,American Association,knight,M90094,Knight,Jack,,Cleveland,,,,,
 boxscores/1915/1915-SL,1915,American Association,laross,P5768193,Laross,,,Milwaukee,19150415,19150428,10,0,of10lf9rf1
 minoraverages/1916Reach,1915,American Association,laroy,P10231,Laroy,,0,St. Paul,,,,11,
 minoraverages/1916Reach,1915,American Association,laroy,P11334,Laroy,,0,St. Paul,,,,11,
@@ -446,7 +446,7 @@ minoraverages/1916Reach,1915,American Association,middleton,P10963,Middleton,,0,
 boxscores/1915/1915-SL,1915,American Association,midkiff,P3735435,Midkiff,,,Louisville,19150415,19150427,12,0,2b13b11
 minoraverages/1916Reach,1915,American Association,midkiff,B00381,Midkiff,,0,Louisville,,,81,,
 minoraverages/1916Reach,1915,American Association,midkiff,F20425,Midkiff,,0,Louisville,,,,,3b75
-minoraverages/emilbb,1915,American Association,,M90052,Midkiff,Ezra,,Louisville,,,,,
+minoraverages/emilbb,1915,American Association,midkiff,M90052,Midkiff,Ezra,,Louisville,,,,,
 boxscores/1915/1915-SL,1915,American Association,miller.e-lou,P0258825,Miller,E.,,Louisville,19150424,19150427,2,0,2b2
 boxscores/1915/1915-SL,1915,American Association,miller.r-col,P4031864,Miller,,,Columbus,19150415,19150430,11,0,1b11
 boxscores/1915/1915-SL,1915,American Association,miller.c-sp+kc,P4230822,Miller,C.,,St. Paul,19150415,19150417,3,0,of3rf3
@@ -471,7 +471,7 @@ boxscores/1915/1915-SL,1915,American Association,mitchell-ind,P7651254,Mitchell,
 boxscores/1915/1915-SL,1915,American Association,moore,P5840165,Moore,,,Kansas City,19150416,19150429,11,0,c11
 minoraverages/1916Reach,1915,American Association,moore,B01376,Moore,,0,Kansas City,,,15,,
 minoraverages/1916Reach,1915,American Association,moore,F21502,Moore,,0,Kansas City,,,,,c15
-boxscores/1915/1915-SL,1915,American Association,,P1225051,Murray,,,#umpire,19150415,19150430,,,
+boxscores/1915/1915-SL,1915,American Association,murray@ump,P1225051,Murray,,,#umpire,19150415,19150430,,,
 boxscores/1915/1915-SL,1915,American Association,niles,P4944363,Niles,,,St. Paul,19150415,19150430,15,0,2b15
 minoraverages/1916Reach,1915,American Association,niles,B00434,Niles,,0,St. Paul,,,156,,
 minoraverages/1916Reach,1915,American Association,niles,F20298,Niles,,0,St. Paul,,,,,2b58
@@ -487,7 +487,7 @@ minoraverages/1916Reach,1915,American Association,northrop,B01170,Northrop,,0,Lo
 minoraverages/1916Reach,1915,American Association,northrop,F21229,Northrop,,0,Louisville,,,,,p44
 minoraverages/1916Reach,1915,American Association,northrop,P10192,Northrop,,0,Louisville,,,,48,
 minoraverages/1916Reach,1915,American Association,northrop,P10839,Northrop,,0,Louisville,,,,48,
-boxscores/1915/1915-SL,1915,American Association,,P0590369,O'Brien,,,#umpire,19150415,19150430,,,
+boxscores/1915/1915-SL,1915,American Association,obrien@ump,P0590369,O'Brien,,,#umpire,19150415,19150430,,,
 minoraverages/1916Reach,1915,American Association,oleary,B00672,O'Leary,,0,St. Paul,,,87,,
 minoraverages/1916Reach,1915,American Association,oleary,F20177,O'Leary,,0,St. Paul,,,,,2b84
 boxscores/1915/1915-SL,1915,American Association,otoole,P3521260,O'Toole,,,Columbus,19150418,19150427,2,2,p2
@@ -501,7 +501,7 @@ minoraverages/1916Reach,1915,American Association,osborn,F20807,Osborn,,0,Louisv
 boxscores/1915/1915-SL,1915,American Association,osborne,P2662031,Osborne,,,Cleveland,19150422,19150428,2,2,p2
 boxscores/1915/1915-SL,1915,American Association,osborn,P9363753,Osborne,,,Louisville,19150416,19150416,1,0,of1cf1
 minoraverages/1916Reach,1915,American Association,osborne,P10640,Osborne,A.,0,Cleveland,,,,2,
-boxscores/1915/1915-SL,1915,American Association,,P0233959,Owens,,,#umpire,19150415,19150430,,,
+boxscores/1915/1915-SL,1915,American Association,owens@ump,P0233959,Owens,,,#umpire,19150415,19150430,,,
 boxscores/1915/1915-SL,1915,American Association,paddock,P1627366,Paddock,,,St. Paul,19150416,19150430,8,0,of7lf7
 minoraverages/1916Reach,1915,American Association,paddock,B00469,Paddock,,0,St. Paul,,,117,,
 minoraverages/1916Reach,1915,American Association,paddock,F20878,Paddock,,0,St. Paul,,,,,of112
@@ -571,7 +571,7 @@ minoraverages/1916Reach,1915,American Association,shackelford,P10958,Shackelford
 boxscores/1915/1915-SL,1915,American Association,shackelford,P0185776,Shakelford,,,Milwaukee,19150416,19150416,1,1,p1
 minoraverages/1916Reach,1915,American Association,shackelford,B01392,Shakelford,,0,Milwaukee,,,36,,
 minoraverages/1916Reach,1915,American Association,shackelford,F21362,Shakelford,,0,Milwaukee,,,,,p36
-minoraverages/emilbb,1915,American Association,,M90071,Shay,Danny,,Kansas City,,,,,
+minoraverages/emilbb,1915,American Association,shay,M90071,Shay,Danny,,Kansas City,,,,,
 boxscores/1915/1915-SL,1915,American Association,shelton,P9139440,Shelton,,,Columbus,19150415,19150430,12,0,of11cf11
 minoraverages/1916Reach,1915,American Association,shelton,B00726,Shelton,,0,Columbus,,,122,,
 minoraverages/1916Reach,1915,American Association,shelton,F20745,Shelton,,0,Columbus,,,,,of119

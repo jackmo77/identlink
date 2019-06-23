@@ -1,6 +1,6 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 boxscores/1915/1915-CS,1915,South Atlantic League,alton,P2216046,Alton,,,Albany,19150414,19150703,30,25,p25of2cf1rf1
-boxscores/1915/1915-CS,1915,South Atlantic League,,P8954345,Alton,,,#umpire,19150612,19150612,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,alton@ump,P8954345,Alton,,,#umpire,19150612,19150612,,,
 minoraverages/1916Reach,1915,South Atlantic League,alton,B00469,Alton,,0,Albany,,,30,,
 minoraverages/1916Reach,1915,South Atlantic League,alton,F21646,Alton,,0,all,,,,,of.
 minoraverages/1916Reach,1915,South Atlantic League,alton,F22169,Alton,,0,Albany,,,,,p25
@@ -86,7 +86,7 @@ minoraverages/1916Reach,1915,South Atlantic League,burgess,F21117,Burgess,,1,Aug
 minoraverages/1916Reach,1915,South Atlantic League,burgess,F21117,Burgess,,2,Albany,,,,,of.
 minoraverages/1916Reach,1915,South Atlantic League,burgess,F21117,Burgess,,3,Savannah,,,,,of.
 minoraverages/1916Reach,1915,South Atlantic League,burgess,F21117,Burgess,,T,,,,,,of39
-boxscores/1915/1915-CS,1915,South Atlantic League,,P0237037,Burmeister,,,#umpire,19150429,19150429,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,burmeister@ump,P0237037,Burmeister,,,#umpire,19150429,19150429,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,burmeister,P1401664,Burmeister,,,Jacksonville,19150412,19150720,40,25,p25c11b1of11lf6cf1rf4
 minoraverages/1916Reach,1915,South Atlantic League,burmeister,B00904,Burmeister,,0,Jacksonville,,,40,,
 minoraverages/1916Reach,1915,South Atlantic League,burmeister,F20166,Burmeister,,0,all,,,,,1b.
@@ -98,7 +98,7 @@ minoraverages/1916Reach,1915,South Atlantic League,cain,F20792,Cain,,0,Charlesto
 minoraverages/1916Reach,1915,South Atlantic League,calbert,B01288,Calbert,,0,Savannah,,,5,,
 minoraverages/1916Reach,1915,South Atlantic League,calbert,F21475,Calvert,,0,Charleston,,,,,of5
 boxscores/1915/1915-CS,1915,South Atlantic League,camnitz,P4594239,Camnitz,,,Savannah,19150413,19150720,29,28,p28of1rf1
-boxscores/1915/1915-CS,1915,South Atlantic League,,P5807233,Camnitz,,,#umpire,19150611,19150612,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,camnitz@ump,P5807233,Camnitz,,,#umpire,19150611,19150612,,,
 minoraverages/1916Reach,1915,South Atlantic League,camnitz,B01078,Camnitz,,0,Savannah,,,29,,
 minoraverages/1916Reach,1915,South Atlantic League,camnitz,F21695,Camnitz,,0,all,,,,,of.
 minoraverages/1916Reach,1915,South Atlantic League,camnitz,F22223,Camnitz,,0,Savannah,,,,,p28
@@ -210,7 +210,7 @@ minoraverages/1916Reach,1915,South Atlantic League,ellis,F22517,Ellis,,0,all,,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,emery,P7314165,Emery,,,Augusta,19150522,19150720,52,0,2b52
 minoraverages/1916Reach,1915,South Atlantic League,emery,B00356,Emery,,0,Augusta,,,52,,
 minoraverages/1916Reach,1915,South Atlantic League,emery,F20342,Emery,,0,Augusta,,,,,2b52
-boxscores/1915/1915-CS,1915,South Atlantic League,,P2636720,Erwin,,,#umpire,19150610,19150610,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,erwin@ump,P2636720,Erwin,,,#umpire,19150610,19150610,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,erwin,P5898421,Erwin,,,Albany,19150412,19150720,78,3,p3c153b8ss32of25lf5cf9rf13
 minoraverages/1916Reach,1915,South Atlantic League,erwin,B00319,Erwin,,0,Albany,,,80,,
 minoraverages/1916Reach,1915,South Atlantic League,erwin,F20636,Erwin,,0,Albany,,,,,3b7
@@ -319,7 +319,7 @@ boxscores/1915/1915-CS,1915,South Atlantic League,hanna,P4090006,Hanna,,,Albany,
 minoraverages/1916Reach,1915,South Atlantic League,hanna,B00210,Hanna,,0,Albany,,,56,,
 minoraverages/1916Reach,1915,South Atlantic League,hanna,F21450,Hanna,,0,Albany,,,,,of56
 boxscores/1915/1915-CS,1915,South Atlantic League,harbison,P8533435,Harbison,,,Columbia,19150414,19150720,79,0,1b3ss76
-boxscores/1915/1915-CS,1915,South Atlantic League,,P8778913,Harbison,,,#umpire,19150412,19150413,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,harbison@ump,P8778913,Harbison,,,#umpire,19150412,19150413,,,
 minoraverages/1916Reach,1915,South Atlantic League,harbison,B00475,Harbison,,0,Columbia,,,79,,
 minoraverages/1916Reach,1915,South Atlantic League,harbison,F20254,Harbison,,0,all,,,,,1b.
 minoraverages/1916Reach,1915,South Atlantic League,harbison,F20855,Harbison,,0,Columbia,,,,,ss76
@@ -338,7 +338,7 @@ minoraverages/1916Reach,1915,South Atlantic League,hart,F22549,Hart,,0,all,,,,,p
 boxscores/1915/1915-CS,1915,South Atlantic League,hartsell,P8164139,Hartsell,,,Charleston,19150624,19150720,24,0,2b24ss1
 minoraverages/1916Reach,1915,South Atlantic League,hartsell,B00117,Hartsell,,0,Charleston,,,24,,
 minoraverages/1916Reach,1915,South Atlantic League,hartsell,F20388,Hartsell,,0,Charleston,,,,,2b24
-boxscores/1915/1915-CS,1915,South Atlantic League,,P0849632,Hawkins,,,#umpire,19150426,19150426,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,hawkins@ump,P0849632,Hawkins,,,#umpire,19150426,19150426,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,hawkins.g,P1871219,Hawkins,,,Jacksonville,19150413,19150415,3,1,p1of1lf1
 boxscores/1915/1915-CS,1915,South Atlantic League,hawkins.j,P3546840,Hawkins,,,Columbus,19150412,19150624,44,20,p201b2of24lf2cf8rf14
 minoraverages/1916Reach,1915,South Atlantic League,hawkins.j,B00623,Hawkins,J.,0,Columbus,,,45,,
@@ -353,7 +353,7 @@ boxscores/1915/1915-CS,1915,South Atlantic League,herndon,P0598929,Herndon,,,Col
 boxscores/1915/1915-CS,1915,South Atlantic League,herndon,P0598929,Herndon,,,Columbus,19150412,19150720,89,0,3b89
 minoraverages/1916Reach,1915,South Atlantic League,herndon,B00076,Herndon,,0,Columbus,,,96,,
 minoraverages/1916Reach,1915,South Atlantic League,herndon,F20620,Herndon,,0,Columbus,,,,,3b96
-boxscores/1915/1915-CS,1915,South Atlantic League,,P7028404,Hill,,,#umpire,19150504,19150504,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,hill@ump,P7028404,Hill,,,#umpire,19150504,19150504,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,hill,P7625287,Hill,,,Jacksonville,19150412,19150429,17,0,of17cf3rf14
 minoraverages/1916Reach,1915,South Atlantic League,hill,B00362,Hill,,0,Jacksonville,,,17,,
 minoraverages/1916Reach,1915,South Atlantic League,hill,F21356,Hill,,0,Jacksonville,,,,,of17
@@ -364,7 +364,7 @@ minoraverages/1916Reach,1915,South Atlantic League,hitchcock,F22310,Hitchcock,,0
 minoraverages/1916Reach,1915,South Atlantic League,hitchcock,P10385,Hitchcock,,0,Albany,,,,10,
 boxscores/1915/1915-CS,1915,South Atlantic League,hodge,P7280247,Hodge,,,Albany,19150412,19150415,4,0,ss4
 minoraverages/1916Reach,1915,South Atlantic League,hodge,F20935,Hodge,,0,all,,,,,ss.
-boxscores/1915/1915-CS,1915,South Atlantic League,,P9838560,Hoey,,,#umpire,19150624,19150720,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,hoey@ump,P9838560,Hoey,,,#umpire,19150624,19150720,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,holland,P2666354,Holland,,,Albany,19150412,19150415,4,0,2b4
 minoraverages/1916Reach,1915,South Atlantic League,holland,F20560,Holland,,0,all,,,,,2b.
 boxscores/1915/1915-CS,1915,South Atlantic League,hudnall,P3224059,Hudnall,,,Augusta,19150505,19150505,1,0,of1rf1
@@ -410,8 +410,8 @@ minoraverages/1916Reach,1915,South Atlantic League,lake,B00553,Lake,,0,Columbia,
 minoraverages/1916Reach,1915,South Atlantic League,lake,F20115,Lake,,0,Columbia,,,,,1b6
 minoraverages/1916Reach,1915,South Atlantic League,lake,F20425,Lake,,0,Columbia,,,,,2b55
 minoraverages/1916Reach,1915,South Atlantic League,lake,F21068,Lake,,0,Columbia,,,,,of20
-boxscores/1915/1915-CS,1915,South Atlantic League,,P3647204,Lauzon,,,#umpire,19150721,19150722,,,
-boxscores/1915/1915-CS,1915,South Atlantic League,,P3647204,Lauzon,,,#umpire,19150413,19150720,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,lauzon@ump,P3647204,Lauzon,,,#umpire,19150721,19150722,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,lauzon@ump,P3647204,Lauzon,,,#umpire,19150413,19150720,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,laval,P8608718,Laval,,,Jacksonville,19150524,19150720,53,3,p3of51lf1cf3rf48
 minoraverages/1916Reach,1915,South Atlantic League,laval,B00130,Laval,,0,Jacksonville,,,53,,
 minoraverages/1916Reach,1915,South Atlantic League,laval,F21324,Laval,,0,Jacksonville,,,,,of50
@@ -429,7 +429,7 @@ minoraverages/1916Reach,1915,South Atlantic League,layden,F22574,Layden,,0,all,,
 boxscores/1915/1915-CS,1915,South Atlantic League,leonard,P6364803,Leonard,,,Jacksonville,19150421,19150504,13,0,2b13
 minoraverages/1916Reach,1915,South Atlantic League,leonard,B01203,Leonard,,0,Jacksonville,,,12,,
 minoraverages/1916Reach,1915,South Atlantic League,leonard,F20449,Leonard,,0,Jacksonville,,,,,2b12
-boxscores/1915/1915-CS,1915,South Atlantic League,,P8174031,Lewis,,,#umpire,19150505,19150629,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,lewis@ump,P8174031,Lewis,,,#umpire,19150505,19150629,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,lipe,P6520435,Lipe,,,Savannah,19150412,19150608,51,0,3b51
 minoraverages/1916Reach,1915,South Atlantic League,lipe,B00840,Lipe,,0,Savannah,,,51,,
 minoraverages/1916Reach,1915,South Atlantic League,lipe,F20657,Lipe,,0,Savannah,,,,,3b51
@@ -473,7 +473,7 @@ minoraverages/1916Reach,1915,South Atlantic League,marshall,B00163,Marshall,,0,C
 minoraverages/1916Reach,1915,South Atlantic League,marshall,F21076,Marshall,,0,Charleston,,,,,of6
 minoraverages/1916Reach,1915,South Atlantic League,marshall,F22770,Marshall,,0,Charleston,,,,,c59
 boxscores/1915/1915-CS,1915,South Atlantic League,martin.j,P1572137,Martin,,,Jacksonville,19150709,19150717,7,0,of7lf3cf4
-boxscores/1915/1915-CS,1915,South Atlantic League,,P2972054,Martin,,,#umpire,19150707,19150707,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,martin@ump,P2972054,Martin,,,#umpire,19150707,19150707,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,martin.j,P3085793,Martin,J.,,Jacksonville,19150712,19150712,1,0,of1lf1
 boxscores/1915/1915-CS,1915,South Atlantic League,martin.g,P4026194,Martin,,,Macon,19150721,19150727,7,4,p4of4rf4
 boxscores/1915/1915-CS,1915,South Atlantic League,martin.g,P4026194,Martin,,,Macon,19150413,19150720,40,29,p29of13cf2rf12
@@ -545,7 +545,7 @@ minoraverages/1916Reach,1915,South Atlantic League,moore.ric,F22596,Moore,Richar
 minoraverages/1916Reach,1915,South Atlantic League,moore.rob,F22605,Moore,Robert,0,all,,,,,p.
 boxscores/1915/1915-CS,1915,South Atlantic League,moore-alb,P0924217,Moore [ALB],,,Albany,19150716,19150716,1,0,of1rf1
 boxscores/1915/1915-CS,1915,South Atlantic League,moore.rob,P6326354,Moore [MAC],,,Macon,19150716,19150716,1,0,3b1
-boxscores/1915/1915-CS,1915,South Atlantic League,,P3798088,Moran,,,#umpire,19150412,19150520,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,moran@ump,P3798088,Moran,,,#umpire,19150412,19150520,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,moses,P4709939,Moses,,,Charleston,19150603,19150609,3,2,p2of2rf2
 minoraverages/1916Reach,1915,South Atlantic League,moses,F21879,Moses,,0,all,,,,,of.
 minoraverages/1916Reach,1915,South Atlantic League,moses,F22618,Moses,,0,all,,,,,p.
@@ -578,7 +578,7 @@ minoraverages/1916Reach,1915,South Atlantic League,norcott,B01086,Norcott,,T,,,,
 minoraverages/1916Reach,1915,South Atlantic League,norcott,F21335,Norcott,,1,Savannah,,,,,of.
 minoraverages/1916Reach,1915,South Atlantic League,norcott,F21335,Norcott,,2,Charleston,,,,,of.
 minoraverages/1916Reach,1915,South Atlantic League,norcott,F21335,Norcott,,T,,,,,,of45
-boxscores/1915/1915-CS,1915,South Atlantic League,,P7974783,Norcum,,,#umpire,19150412,19150501,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,norcum@ump,P7974783,Norcum,,,#umpire,19150412,19150501,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,norris,P6695494,Norris,,,Savannah,19150524,19150528,5,0,1b5
 minoraverages/1916Reach,1915,South Atlantic League,norris,B00286,Norris,,0,Savannah,,,5,,
 minoraverages/1916Reach,1915,South Atlantic League,norris,F20144,Norris,,0,Savannah,,,,,1b5
@@ -605,7 +605,7 @@ minoraverages/1916Reach,1915,South Atlantic League,patterson,F21319,Patterson,,1
 minoraverages/1916Reach,1915,South Atlantic League,patterson,F21319,Patterson,,2,Charleston,,,,,of.
 minoraverages/1916Reach,1915,South Atlantic League,patterson,F21319,Patterson,,T,,,,,,of13
 boxscores/1915/1915-CS,1915,South Atlantic League,pearson.o,P1167350,Pearson,,,Jacksonville,19150424,19150719,28,23,p23c1of2rf2
-boxscores/1915/1915-CS,1915,South Atlantic League,,P4218531,Pearson,,,#umpire,19150605,19150605,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,pearson@ump,P4218531,Pearson,,,#umpire,19150605,19150605,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,pearson.n,P5719915,Pearson,,,Augusta,19150414,19150416,2,1,p1
 minoraverages/1916Reach,1915,South Atlantic League,pearson.o,B00898,Pearson,O.,0,Jacksonville,,,28,,
 minoraverages/1916Reach,1915,South Atlantic League,pearson.o,F21904,Pearson,O.,0,all,,,,,of.
@@ -663,13 +663,13 @@ minoraverages/1916Reach,1915,South Atlantic League,robertson,F21961,Robertson,,0
 minoraverages/1916Reach,1915,South Atlantic League,robertson,F22188,Robertson,,0,Columbus,,,,,p26
 minoraverages/1916Reach,1915,South Atlantic League,robertson,P10277,Robertson,,0,Columbus,,,,26,
 boxscores/1915/1915-CS,1915,South Atlantic League,roth,P5164016,Roth,,,Augusta,19150430,19150720,71,13,p13of64lf1rf63
-boxscores/1915/1915-CS,1915,South Atlantic League,,P6625928,Roth,,,#umpire,19150430,19150503,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,roth@ump,P6625928,Roth,,,#umpire,19150430,19150503,,,
 minoraverages/1916Reach,1915,South Atlantic League,roth,B00068,Roth,,0,Augusta,,,71,,
 minoraverages/1916Reach,1915,South Atlantic League,roth,F21149,Roth,,0,Augusta,,,,,of59
 minoraverages/1916Reach,1915,South Atlantic League,roth,F22073,Roth,,0,Augusta,,,,,p12
 minoraverages/1916Reach,1915,South Atlantic League,roth,P10348,Roth,,0,Augusta,,,,12,
-boxscores/1915/1915-CS,1915,South Atlantic League,,P7342757,Ryan,,,#umpire,19150724,19150727,,,
-boxscores/1915/1915-CS,1915,South Atlantic League,,P7342757,Ryan,,,#umpire,19150521,19150720,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,ryan@ump,P7342757,Ryan,,,#umpire,19150724,19150727,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,ryan@ump,P7342757,Ryan,,,#umpire,19150521,19150720,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,sabrie,P8223458,Sabrie,,,Charleston,19150412,19150720,89,1,p11b89of1rf1
 minoraverages/1916Reach,1915,South Atlantic League,sabrie,B00488,Sabrie,,0,Charleston,,,89,,
 minoraverages/1916Reach,1915,South Atlantic League,sabrie,F20038,Sabrie,,0,Charleston,,,,,1b88
@@ -688,7 +688,7 @@ minoraverages/1916Reach,1915,South Atlantic League,shirley,F21491,Shipley,,T,,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,shirley,P0359788,Shirley,,,Charleston,19150511,19150515,4,2,p2of2rf2
 boxscores/1915/1915-CS,1915,South Atlantic League,shirley,P2668624,Shirley,,,Albany,19150527,19150720,23,13,p13of11lf3cf2rf7
 boxscores/1915/1915-CS,1915,South Atlantic League,shirley,P6936851,Shirley,,,Augusta,19150421,19150503,6,5,p5
-boxscores/1915/1915-CS,1915,South Atlantic League,,P9406923,Shirley,,,#umpire,19150707,19150707,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,shirley@ump,P9406923,Shirley,,,#umpire,19150707,19150707,,,
 minoraverages/1916Reach,1915,South Atlantic League,shirley,B01275,Shirley,,1,Augusta,,,,,
 minoraverages/1916Reach,1915,South Atlantic League,shirley,B01275,Shirley,,2,Charleston,,,,,
 minoraverages/1916Reach,1915,South Atlantic League,shirley,B01275,Shirley,,3,Albany,,,,,
@@ -712,7 +712,7 @@ minoraverages/1916Reach,1915,South Atlantic League,smallwood,F22307,Smallwood,,0
 minoraverages/1916Reach,1915,South Atlantic League,smallwood,P10070,Smallwood,,0,Savannah,,,,28,
 boxscores/1915/1915-CS,1915,South Atlantic League,smith.h,P3500938,Smith,,,Columbia,19150505,19150513,3,3,p3
 boxscores/1915/1915-CS,1915,South Atlantic League,smith.t,P6969112,Smith,,,Augusta,19150412,19150715,83,2,p2of81lf81
-boxscores/1915/1915-CS,1915,South Atlantic League,,P8801840,Smith,,,#umpire,19150709,19150709,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,smith@ump,P8801840,Smith,,,#umpire,19150709,19150709,,,
 minoraverages/1916Reach,1915,South Atlantic League,smith.t,B00207,Smith,T.,0,Augusta,,,83,,
 minoraverages/1916Reach,1915,South Atlantic League,smith.t,F21182,Smith,T.,0,Augusta,,,,,of81
 minoraverages/1916Reach,1915,South Atlantic League,smith.h,F22660,Smith,H.,0,all,,,,,p.
@@ -787,9 +787,9 @@ minoraverages/1916Reach,1915,South Atlantic League,thompson,F22802,Thompson,,0,C
 boxscores/1915/1915-CS,1915,South Atlantic League,tyson,P5795401,Tyson,,,Charleston,19150412,19150510,24,0,of24rf24
 minoraverages/1916Reach,1915,South Atlantic League,tyson,B00920,Tyson,G.,0,Charleston,,,24,,
 minoraverages/1916Reach,1915,South Atlantic League,tyson,F21403,Tyson,,0,Charleston,,,,,of24
-boxscores/1915/1915-CS,1915,South Atlantic League,,P5764101,Vetter,,,#umpire,19150617,19150617,,,
-boxscores/1915/1915-CS,1915,South Atlantic League,,P7703945,Vitter,,,#umpire,19150721,19150727,,,
-boxscores/1915/1915-CS,1915,South Atlantic League,,P7703945,Vitter,,,#umpire,19150412,19150720,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,vitter@ump,P5764101,Vetter,,,#umpire,19150617,19150617,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,vitter@ump,P7703945,Vitter,,,#umpire,19150721,19150727,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,vitter@ump,P7703945,Vitter,,,#umpire,19150412,19150720,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,voss,P2130158,Voss,,,Columbus,19150723,19150727,2,2,p2
 boxscores/1915/1915-CS,1915,South Atlantic League,voss,P2130158,Voss,,,Columbus,19150413,19150720,49,21,p211b62b1of22lf3cf6rf13
 minoraverages/1916Reach,1915,South Atlantic League,voss,B00672,Voss,,0,Columbus,,,53,,
@@ -865,7 +865,7 @@ boxscores/1915/1915-CS,1915,South Atlantic League,woolf,P6204902,Wolfe,,,Savanna
 boxscores/1915/1915-CS,1915,South Atlantic League,woolf,P9768301,Wolfe,,,Albany,19150609,19150609,1,0,of1rf1
 boxscores/1915/1915-CS,1915,South Atlantic League,woolf,P8386542,Wolff,,,Albany,19150608,19150608,1,1,p1
 boxscores/1915/1915-CS,1915,South Atlantic League,woolf,P6227123,Wolffe,,,Albany,19150531,19150531,1,1,p1
-boxscores/1915/1915-CS,1915,South Atlantic League,,P8777284,Wood,,,#umpire,19150609,19150609,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,wood@ump,P8777284,Wood,,,#umpire,19150609,19150609,,,
 boxscores/1915/1915-CS,1915,South Atlantic League,wood,P9250007,Wood,,,Jacksonville,19150413,19150720,35,18,p18of17lf11cf3rf3
 minoraverages/1916Reach,1915,South Atlantic League,wood,B01041,Wood,,0,Jacksonville,,,47,,
 minoraverages/1916Reach,1915,South Atlantic League,wood,F21589,Wood,,0,Jacksonville,,,,,of21
@@ -875,7 +875,7 @@ boxscores/1915/1915-CS,1915,South Atlantic League,woodruff,P4873404,Woodruff,,,A
 boxscores/1915/1915-CS,1915,South Atlantic League,wood,P6959946,Woods,,,Jacksonville,19150416,19150715,12,8,p8of4lf2rf2
 boxscores/1915/1915-CS,1915,South Atlantic League,woolf,P0591607,Woolf,,,Albany,19150603,19150717,22,12,p12of11lf2cf1rf9
 boxscores/1915/1915-CS,1915,South Atlantic League,woolf,P2785136,Woolf,,,Savannah,19150525,19150525,1,1,p1
-boxscores/1915/1915-CS,1915,South Atlantic League,,P7329906,Woolf,,,#umpire,19150611,19150611,,,
+boxscores/1915/1915-CS,1915,South Atlantic League,woolf@ump,P7329906,Woolf,,,#umpire,19150611,19150611,,,
 minoraverages/1916Reach,1915,South Atlantic League,woolf,B00609,Woolf,,1,Savannah,,,,,
 minoraverages/1916Reach,1915,South Atlantic League,woolf,B00609,Woolf,,2,Albany,,,,,
 minoraverages/1916Reach,1915,South Atlantic League,woolf,B00609,Woolf,,T,,,,34,,

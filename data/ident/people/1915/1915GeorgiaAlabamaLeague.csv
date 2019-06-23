@@ -4,16 +4,16 @@ minoraverages/1916Reach,1915,Georgia-Alabama League,aaron,P10137,Aaron,,0,Rome,,
 minoraverages/Hamilton,1915,Georgia-Alabama League,aaron,P10019,Aaron,,0,Rome,,,,18,
 minoraverages/1916Reach,1915,Georgia-Alabama League,abercrombie,P10159,Abercrombie,,0,Griffin,,,,2,
 minoraverages/Hamilton,1915,Georgia-Alabama League,abercrombie,P10024,Abercrombie,,0,Griffin,,,,2,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,B00638,Allison,,0,La Grange,,,58,,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20131,Allison,,0,La Grange,,,,,2b55
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20014,Amason,,0,La Grange,,,,,1b58
+minoraverages/1916Reach,1915,Georgia-Alabama League,allison,B00638,Allison,,0,La Grange,,,58,,
+minoraverages/1916Reach,1915,Georgia-Alabama League,allison,F20131,Allison,,0,La Grange,,,,,2b55
+minoraverages/1916Reach,1915,Georgia-Alabama League,boland,F20014,Amason,,0,La Grange,,,,,1b58
 minoraverages/1916Reach,1915,Georgia-Alabama League,anderson,F20893,Anderson,,0,Griffin,,,,,p15
 minoraverages/1916Reach,1915,Georgia-Alabama League,anderson,P10113,Anderson,,0,Griffin,,,,13,
 minoraverages/Hamilton,1915,Georgia-Alabama League,anderson,P10035,Anderson,,0,Griffin,,,,12,
 minoraverages/1916Reach,1915,Georgia-Alabama League,baker,B00101,Baker,,0,Talladega,,,61,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,baker,F20401,Baker,,0,Talladega,,,,,c61
 minoraverages/1916Reach,1915,Georgia-Alabama League,barrett,B00286,Barrett,,0,Talladega,,,53,,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,B00092,Boland,,0,La Grange,,,58,,
+minoraverages/1916Reach,1915,Georgia-Alabama League,boland,B00092,Boland,,0,La Grange,,,58,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,bostwick,F20792,Bostwick,,0,Griffin,,,,,p10
 minoraverages/1916Reach,1915,Georgia-Alabama League,bostwick,P10348,Bostwick,,0,Griffin,,,,8,
 minoraverages/Hamilton,1915,Georgia-Alabama League,bostwick,P10043,Bostwick,,0,Griffin,,,,9,
@@ -36,15 +36,15 @@ minoraverages/1916Reach,1915,Georgia-Alabama League,brooks,P10168,Brooks,,0,Grif
 minoraverages/Hamilton,1915,Georgia-Alabama League,brooks,P10056,Brooks,,0,Griffin,,,,10,
 minoraverages/Hamilton,1915,Georgia-Alabama League,broome,P10062,Broome,,0,Griffin,,,,1,
 minoraverages/1916Reach,1915,Georgia-Alabama League,brown,B00577,Brown,,1,Anniston,,,,,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,B00577,Brown,,2,La Grange,,,,,
+minoraverages/1916Reach,1915,Georgia-Alabama League,brown,B00577,Brown,,2,La Grange,,,,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,brown,B00577,Brown,,T,,,,22,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,brown,F20604,Brown,,1,Anniston,,,,,of.
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20604,Brown,,2,La Grange,,,,,of.
+minoraverages/1916Reach,1915,Georgia-Alabama League,brown,F20604,Brown,,2,La Grange,,,,,of.
 minoraverages/1916Reach,1915,Georgia-Alabama League,brown,F20604,Brown,,T,,,,,,of22
 minoraverages/Hamilton,1915,Georgia-Alabama League,bryant,P10070,Bryant,,0,Newnan,,,,1,
 minoraverages/1916Reach,1915,Georgia-Alabama League,burgess-rom,B00278,Burgess,,0,Rome,,,27,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,burgess-new,F20206,Burgess,,0,Newnan,,,,,3b27
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20943,Burleson,,0,La Grange,,,,,p9
+minoraverages/1916Reach,1915,Georgia-Alabama League,burleson-lag,F20943,Burleson,,0,La Grange,,,,,p9
 minoraverages/1916Reach,1915,Georgia-Alabama League,burleson-rom,P10097,Burleson,,0,Rome,,,,8,
 minoraverages/Hamilton,1915,Georgia-Alabama League,burleson-rom,P10081,Burleson,,0,Rome,,,,8,
 minoraverages/1916Reach,1915,Georgia-Alabama League,camp,F20518,Camp,,0,Talladega,,,,,of57
@@ -67,19 +67,19 @@ minoraverages/1916Reach,1915,Georgia-Alabama League,cochran,F20657,Cochran,,0,Ro
 minoraverages/Hamilton,1915,Georgia-Alabama League,cochran,P10097,Cochran,,0,Rome,,,,1,
 minoraverages/1916Reach,1915,Georgia-Alabama League,combs,P10024,Combs,,0,Griffin,,,,4,
 minoraverages/Hamilton,1915,Georgia-Alabama League,combs,P10100,Combs,,0,Griffin,,,,4,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,B00076,Craven,,0,La Grange,,,29,,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20560,Craven,,0,La Grange,,,,,of29
+minoraverages/1916Reach,1915,Georgia-Alabama League,craven,B00076,Craven,,0,La Grange,,,29,,
+minoraverages/1916Reach,1915,Georgia-Alabama League,craven,F20560,Craven,,0,La Grange,,,,,of29
 minoraverages/1916Reach,1915,Georgia-Alabama League,crow,B00488,Crow,,0,Talladega,,,61,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,crow,B00752,Crow,,0,Talladega,,,,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,crow,F20233,Crow,,0,Talladega,,,,,3b61
 minoraverages/1916Reach,1915,Georgia-Alabama League,decatur,F20784,Decatur,,0,Talladega,,,,,p21
 minoraverages/1916Reach,1915,Georgia-Alabama League,decatur,P10100,Decatur,,0,Talladega,,,,21,
 minoraverages/Hamilton,1915,Georgia-Alabama League,decatur,P10113,Decatur,,0,Talladega,,,,21,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,B00324,Donaldson,,0,La Grange,,,58,,
+minoraverages/1916Reach,1915,Georgia-Alabama League,donaldson-lag,B00324,Donaldson,,0,La Grange,,,58,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,donaldson-ann,B00381,Donaldson,,0,Anniston,,,56,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,donaldson-new,B00403,Donaldson,,0,Newnan,,,33,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,donaldson-ann,F20303,Donaldson,,0,Anniston,,,,,ss56
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20334,Donaldson,,0,La Grange,,,,,ss58
+minoraverages/1916Reach,1915,Georgia-Alabama League,donaldson-lag,F20334,Donaldson,,0,La Grange,,,,,ss58
 minoraverages/1916Reach,1915,Georgia-Alabama League,donaldson-new,F20474,Donaldson,,0,Newnan,,,,,of33
 minoraverages/Hamilton,1915,Georgia-Alabama League,duddera,P10121,Duddera,,0,Rome,,,,2,
 minoraverages/1916Reach,1915,Georgia-Alabama League,edmondson,B00680,Edmondson,,0,Newnan,,,25,,
@@ -105,9 +105,9 @@ minoraverages/Hamilton,1915,Georgia-Alabama League,golden,P10192,Golden,,0,Newna
 minoraverages/1916Reach,1915,Georgia-Alabama League,griffin,B00553,Griffin,,0,Newnan,,,60,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,griffin,F20023,Griffin,,0,Newnan,,,,,1b60
 minoraverages/1916Reach,1915,Georgia-Alabama League,grome,B00442,Grome,,1,Griffin,,,,,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,B00442,Grome,,2,La Grange,,,,,
+minoraverages/1916Reach,1915,Georgia-Alabama League,grome,B00442,Grome,,2,La Grange,,,,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,grome,B00442,Grome,,T,,,,41,,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20240,Grome,,0,La Grange,,,,,3b33
+minoraverages/1916Reach,1915,Georgia-Alabama League,grome,F20240,Grome,,0,La Grange,,,,,3b33
 minoraverages/1916Reach,1915,Georgia-Alabama League,guthrie,P10231,Guthrie,,1,Griffin,,,,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,guthrie,P10231,Guthrie,,2,Newnan,,,,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,guthrie,P10231,Guthrie,,T,,,,,12,
@@ -118,13 +118,13 @@ minoraverages/1916Reach,1915,Georgia-Alabama League,hawkins,B00182,Hawkins,,0,Gr
 minoraverages/1916Reach,1915,Georgia-Alabama League,hawkins,F20737,Hawkins,,0,Griffin,,,,,p4
 minoraverages/1916Reach,1915,Georgia-Alabama League,hawkins,P10056,Hawkins,,0,Griffin,,,,4,
 minoraverages/Hamilton,1915,Georgia-Alabama League,hawkins,P10215,Hawkins,,0,Griffin,,,,5,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20935,Head,,0,La Grange,,,,,p15
-minoraverages/1916Reach,1915,Georgia-Alabama League,,P10266,Head,,0,La Grange,,,,15,
-minoraverages/Hamilton,1915,Georgia-Alabama League,,P10228,Head,,0,La Grange,,,,15,
+minoraverages/1916Reach,1915,Georgia-Alabama League,head,F20935,Head,,0,La Grange,,,,,p15
+minoraverages/1916Reach,1915,Georgia-Alabama League,head,P10266,Head,,0,La Grange,,,,15,
+minoraverages/Hamilton,1915,Georgia-Alabama League,head,P10228,Head,,0,La Grange,,,,15,
 minoraverages/1916Reach,1915,Georgia-Alabama League,hoard,B00356,Hoard,,0,Griffin,,,20,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,hoard,F20316,Hoard,,0,Griffin,,,,,ss20
-minoraverages/1916Reach,1915,Georgia-Alabama League,,B00491,Holland,,0,La Grange,,,19,,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20144,Holland,,0,La Grange,,,,,2b19
+minoraverages/1916Reach,1915,Georgia-Alabama League,holland,B00491,Holland,,0,La Grange,,,19,,
+minoraverages/1916Reach,1915,Georgia-Alabama League,holland,F20144,Holland,,0,La Grange,,,,,2b19
 minoraverages/1916Reach,1915,Georgia-Alabama League,holt,B00590,Holt,,0,Anniston,,,40,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,holt,F20254,Holt,,0,Anniston,,,,,3b40
 minoraverages/1916Reach,1915,Georgia-Alabama League,howell,B00013,Howell,,0,Griffin,,,25,,
@@ -156,16 +156,16 @@ minoraverages/Hamilton,1915,Georgia-Alabama League,knight,P10244,Knight,,2,Rome,
 minoraverages/Hamilton,1915,Georgia-Alabama League,knight,P10244,Knight,,T,,,,,15,
 minoraverages/1916Reach,1915,Georgia-Alabama League,koenig,B00335,Koenig,,0,Talladega,,,46,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,koenig,F20115,Koenig,,0,Talladega,,,,,2b46
-minoraverages/1916Reach,1915,Georgia-Alabama League,,B00370,Lafitte,,0,La Grange,,,56,,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20417,Lafitte,,0,La Grange,,,,,c55
+minoraverages/1916Reach,1915,Georgia-Alabama League,lafitte,B00370,Lafitte,,0,La Grange,,,56,,
+minoraverages/1916Reach,1915,Georgia-Alabama League,lafitte,F20417,Lafitte,,0,La Grange,,,,,c55
 minoraverages/1916Reach,1915,Georgia-Alabama League,leaman,F20153,Leaman,,1,Griffin,,,,,2b.
 minoraverages/1916Reach,1915,Georgia-Alabama League,leaman,F20153,Leaman,,2,Anniston,,,,,2b.
 minoraverages/1916Reach,1915,Georgia-Alabama League,leaman,F20153,Leaman,,T,,,,,,2b23
 minoraverages/1916Reach,1915,Georgia-Alabama League,leon,B00450,Leon,,0,Rome,,,47,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,leon,F20265,Leon,,0,Rome,,,,,3b47
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20878,Livingston,,0,La Grange,,,,,p16
-minoraverages/1916Reach,1915,Georgia-Alabama League,,P10290,Livingston,,0,La Grange,,,,16,
-minoraverages/Hamilton,1915,Georgia-Alabama League,,P10253,Livingstone,,0,La Grange,,,,17,
+minoraverages/1916Reach,1915,Georgia-Alabama League,livingston,F20878,Livingston,,0,La Grange,,,,,p16
+minoraverages/1916Reach,1915,Georgia-Alabama League,livingston,P10290,Livingston,,0,La Grange,,,,16,
+minoraverages/Hamilton,1915,Georgia-Alabama League,livingston,P10253,Livingstone,,0,La Grange,,,,17,
 minoraverages/1916Reach,1915,Georgia-Alabama League,lowery,B00434,Lowery,,0,Rome,,,7,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,lowery,F20829,Lowery,,0,Rome,,,,,p5
 minoraverages/1916Reach,1915,Georgia-Alabama League,lowery,P10385,Lowery,,0,Rome,,,,5,
@@ -226,13 +226,13 @@ minoraverages/1916Reach,1915,Georgia-Alabama League,overton,B00469,Overton,,0,Ro
 minoraverages/1916Reach,1915,Georgia-Alabama League,overton,F20327,Overton,,0,Rome,,,,,ss44
 minoraverages/1916Reach,1915,Georgia-Alabama League,panella,P10361,Panella,,0,Griffin,,,,7,
 minoraverages/Hamilton,1915,Georgia-Alabama League,panella,P10357,Panella,,0,Griffin,,,,6,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20612,Poland,,0,La Grange,,,,,of58
+minoraverages/1916Reach,1915,Georgia-Alabama League,poland,F20612,Poland,,0,La Grange,,,,,of58
 minoraverages/1916Reach,1915,Georgia-Alabama League,pope,B00149,Pope,,0,Griffin,,,54,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,pope,F20051,Pope,,0,Griffin,,,,,1b54
-minoraverages/1916Reach,1915,Georgia-Alabama League,,B00718,Rabun,,0,La Grange,,,21,,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20855,Rabun,,0,La Grange,,,,,p18
-minoraverages/1916Reach,1915,Georgia-Alabama League,,P10373,Rabun,,0,La Grange,,,,17,
-minoraverages/Hamilton,1915,Georgia-Alabama League,,P10361,Rabun,,0,La Grange,,,,17,
+minoraverages/1916Reach,1915,Georgia-Alabama League,rabun,B00718,Rabun,,0,La Grange,,,21,,
+minoraverages/1916Reach,1915,Georgia-Alabama League,rabun,F20855,Rabun,,0,La Grange,,,,,p18
+minoraverages/1916Reach,1915,Georgia-Alabama League,rabun,P10373,Rabun,,0,La Grange,,,,17,
+minoraverages/Hamilton,1915,Georgia-Alabama League,rabun,P10361,Rabun,,0,La Grange,,,,17,
 minoraverages/1916Reach,1915,Georgia-Alabama League,ragean,B00502,Ragean,,0,Griffin,,,39,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,ragean,F20102,Reagan,,0,Griffin,,,,,2b39
 minoraverages/1916Reach,1915,Georgia-Alabama League,richards,B00416,Richards,,0,Rome,,,51,,
@@ -259,10 +259,10 @@ minoraverages/Hamilton,1915,Georgia-Alabama League,sigmon,P10407,Sigmon,,0,Annis
 minoraverages/1916Reach,1915,Georgia-Alabama League,sigmon,P10304,Signon,,0,Anniston,,,,20,
 minoraverages/1916Reach,1915,Georgia-Alabama League,slater,B00544,Slater,,0,Talladega,,,10,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,slater,F20166,Slater,,0,Talladega,,,,,2b10
-minoraverages/1916Reach,1915,Georgia-Alabama League,,B00174,Smith,,0,La Grange,,,50,,
+minoraverages/1916Reach,1915,Georgia-Alabama League,smith-lag,B00174,Smith,,0,La Grange,,,50,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,smith-rom,B00264,Smith,,0,Rome,,,41,,
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20189,Smith,,0,La Grange,,,,,3b11
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20571,Smith,,0,La Grange,,,,,of40
+minoraverages/1916Reach,1915,Georgia-Alabama League,smith-lag,F20189,Smith,,0,La Grange,,,,,3b11
+minoraverages/1916Reach,1915,Georgia-Alabama League,smith-lag,F20571,Smith,,0,La Grange,,,,,of40
 minoraverages/1916Reach,1915,Georgia-Alabama League,smith-rom,F20620,Smith,,0,Rome,,,,,of58
 minoraverages/1916Reach,1915,Georgia-Alabama League,steele,B00343,Steele,,0,Anniston,,,55,,
 minoraverages/1916Reach,1915,Georgia-Alabama League,steele,F20038,Steele,,0,Anniston,,,,,1b55
@@ -290,9 +290,9 @@ minoraverages/1916Reach,1915,Georgia-Alabama League,watson,F20810,Watson,,0,Grif
 minoraverages/1916Reach,1915,Georgia-Alabama League,watson,P10019,Watson,,0,Griffin,,,,9,
 minoraverages/Hamilton,1915,Georgia-Alabama League,watson,P10455,Watson,,0,Griffin,,,,9,
 minoraverages/1916Reach,1915,Georgia-Alabama League,werner,F20080,Werner,,0,Rome,,,,,2b58
-minoraverages/1916Reach,1915,Georgia-Alabama League,,F20886,Weston,,0,La Grange,,,,,p16
-minoraverages/1916Reach,1915,Georgia-Alabama League,,P10289,Weston,,0,La Grange,,,,17,
-minoraverages/Hamilton,1915,Georgia-Alabama League,,P10464,Weston,,0,La Grange,,,,17,
+minoraverages/1916Reach,1915,Georgia-Alabama League,weston,F20886,Weston,,0,La Grange,,,,,p16
+minoraverages/1916Reach,1915,Georgia-Alabama League,weston,P10289,Weston,,0,La Grange,,,,17,
+minoraverages/Hamilton,1915,Georgia-Alabama League,weston,P10464,Weston,,0,La Grange,,,,17,
 minoraverages/Hamilton,1915,Georgia-Alabama League,white,P10478,White,,0,Anniston,,,,1,
 minoraverages/Hamilton,1915,Georgia-Alabama League,whitley,P10486,Whitley,,0,Rome,,,,1,
 minoraverages/1916Reach,1915,Georgia-Alabama League,whitney,B00726,Whitney,,0,Newnan,,,25,,

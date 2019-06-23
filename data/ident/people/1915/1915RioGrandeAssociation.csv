@@ -200,7 +200,7 @@ boxscores/1915/1915-EPH,1915,Rio Grande Association,greenburg,P0319202,Greenberg
 boxscores/1915/1915-AJ,1915,Rio Grande Association,greenburg,P9670944,Greenburg,,,Douglas,19150504,19150509,5,0,ss4of1lf1
 boxscores/1915/1915-EPH,1915,Rio Grande Association,greenburg,P9948274,Greenburg,,,Douglas,19150504,19150520,8,0,ss3of6lf6
 minoraverages/Nemec,1915,Rio Grande Association,greenburg,B00370,Greenburg,,0,Douglas,,,13,,of.
-boxscores/1915/1915-EPH,1915,Rio Grande Association,,P6567881,H. Kane,,,#umpire,19150430,19150430,,,
+boxscores/1915/1915-EPH,1915,Rio Grande Association,kane@ump,P6567881,H. Kane,,,#umpire,19150430,19150430,,,
 boxscores/1915/1915-AJ,1915,Rio Grande Association,hall,P6260556,Hall,,,Phoenix,19150427,19150705,29,24,p24of4rf4
 boxscores/1915/1915-AR,1915,Rio Grande Association,hall,P0995668,Hall,,,Phoenix,19150427,19150705,32,25,p251b2of5rf5
 boxscores/1915/1915-EPH,1915,Rio Grande Association,hall,P4774366,Hall,,,Phoenix,19150427,19150625,26,21,p211b2of4rf4
@@ -209,7 +209,7 @@ minoraverages/Nemec,1915,Rio Grande Association,hall,P10145,Hall,,0,Phoenix,,,,2
 boxscores/1915/1915-AJ,1915,Rio Grande Association,herriott,P9584683,Harriet,,,Albuquerque,19150507,19150507,1,0,1b1
 boxscores/1915/1915-AJ,1915,Rio Grande Association,herriott,P2881919,Harriett,,,Albuquerque,19150504,19150512,7,0,1b7
 boxscores/1915/1915-EPH,1915,Rio Grande Association,herriott,P9290129,Harriett,,,Albuquerque,19150512,19150512,1,0,1b1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,,P5030713,Harry Kane,,,#umpire,19150608,19150609,,,
+boxscores/1915/1915-EPH,1915,Rio Grande Association,kane@ump,P5030713,Harry Kane,,,#umpire,19150608,19150609,,,
 boxscores/1915/1915-AR,1915,Rio Grande Association,hayes,P1345494,Hayes,,,El Paso,19150601,19150617,8,0,of8lf8
 boxscores/1915/1915-EPH,1915,Rio Grande Association,hayes,P6042528,Hayes,,,El Paso,19150501,19150617,40,0,2b1of40lf34cf4rf3
 minoraverages/Nemec,1915,Rio Grande Association,hayes,B00397,Hayes,John,0,El Paso,,,39,,of.
@@ -294,8 +294,8 @@ boxscores/1915/1915-AJ,1915,Rio Grande Association,lee,P3667371,Lee,,,Las Cruces
 boxscores/1915/1915-AR,1915,Rio Grande Association,lee,P0204339,Lee,,,Las Cruces,19150519,19150521,3,0,of3rf3
 boxscores/1915/1915-EPH,1915,Rio Grande Association,lee,P5206461,Lee,,,Las Cruces,19150501,19150521,12,0,2b6of6cf3rf3
 minoraverages/Nemec,1915,Rio Grande Association,lee,B00515,Lee,,0,Las Cruces,,,16,,of.
-boxscores/1915/1915-AR,1915,Rio Grande Association,,P1553064,Lew Bahaffey,,,#umpire,19150519,19150519,,,
-boxscores/1915/1915-AR,1915,Rio Grande Association,,P0021207,Lew Mehaffey,,,#umpire,19150520,19150520,,,
+boxscores/1915/1915-AR,1915,Rio Grande Association,mahaffey@ump,P1553064,Lew Bahaffey,,,#umpire,19150519,19150519,,,
+boxscores/1915/1915-AR,1915,Rio Grande Association,mahaffey@ump,P0021207,Lew Mehaffey,,,#umpire,19150520,19150520,,,
 boxscores/1915/1915-AJ,1915,Rio Grande Association,lewis,P4645656,Lewis,,,El Paso,19150501,19150523,7,7,p7
 boxscores/1915/1915-AR,1915,Rio Grande Association,lewis,P0904352,Lewis,,,El Paso,19150504,19150523,8,8,p8
 boxscores/1915/1915-EPH,1915,Rio Grande Association,lewis,P5601386,Lewis,,,El Paso,19150501,19150523,10,9,p91b1

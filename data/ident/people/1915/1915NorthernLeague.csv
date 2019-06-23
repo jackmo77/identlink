@@ -409,7 +409,7 @@ minoraverages/1916Reach,1915,Northern League,dumont,P10043,Dumont,,0,Fargo-Moorh
 boxscores/1915/1915-DNT,1915,Northern League,durham,P0901609,Durham,,,Fort William-Port Arthur,19150526,19150602,6,0,1b1of5lf4rf1
 boxscores/1915/1915-GFDH,1915,Northern League,durham,P3547228,Durham,,,Fort William-Port Arthur,19150527,19150528,2,0,c2
 boxscores/1915/1915-WT,1915,Northern League,durham,P8657390,Durham,,,Fort William-Port Arthur,19150515,19150520,2,0,of1lf1
-boxscores/1915/1915-GFDH,1915,Northern League,,P6678234,Dusty Rhoades,,,#umpire,19150530,19150530,,,
+boxscores/1915/1915-GFDH,1915,Northern League,rhoades@ump,P6678234,Dusty Rhoades,,,#umpire,19150530,19150530,,,
 boxscores/1915/1915-GFDH,1915,Northern League,gervais,P2399221,Duzes,,,Winnipeg,19150524,19150524,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,ellis,P9536282,Ellis,,,Fargo-Moorhead,19150519,19150906,13,7,p71b3of4lf1cf3
 boxscores/1915/1915-GFDH,1915,Northern League,ellis,P6794989,Ellis,,,Fargo-Moorhead,19150519,19150825,3,3,p3
@@ -1057,9 +1057,9 @@ boxscores/1915/1915-DNT,1915,Northern League,rhoades,P8485926,Rhodes,,,Fargo-Moo
 boxscores/1915/1915-GFDH,1915,Northern League,rhoades,P8023257,Rhodes,,,Fargo-Moorhead,19150617,19150802,4,4,p4
 boxscores/1915/1915-WT,1915,Northern League,rhoades@ump,P5452754,Rhodes,,,#umpire,19150711,19150711,,,
 boxscores/1915/1915-WT,1915,Northern League,rhoades,P9817195,Rhodes,,,Fargo-Moorhead,19150701,19150703,2,2,p2
-boxscores/1915/1915-DNT,1915,Northern League,,P7789156,Robert Boese,,,#umpire,19150705,19150705,,,
-boxscores/1915/1915-GFDH,1915,Northern League,,P6190935,Robert Boese,,,#umpire,19150705,19150705,,,
-boxscores/1915/1915-WT,1915,Northern League,,P2684777,Robert Boese,,,#umpire,19150705,19150705,,,
+boxscores/1915/1915-DNT,1915,Northern League,boese@ump,P7789156,Robert Boese,,,#umpire,19150705,19150705,,,
+boxscores/1915/1915-GFDH,1915,Northern League,boese@ump,P6190935,Robert Boese,,,#umpire,19150705,19150705,,,
+boxscores/1915/1915-WT,1915,Northern League,boese@ump,P2684777,Robert Boese,,,#umpire,19150705,19150705,,,
 boxscores/1915/1915-WT,1915,Northern League,rusness,P3572351,Rusher,,,Fargo-Moorhead,19150902,19150902,1,0,2b1
 boxscores/1915/1915-WT,1915,Northern League,rusness,P4857605,Rusner,,,Fargo-Moorhead,19150902,19150902,1,0,2b1
 boxscores/1915/1915-DNT,1915,Northern League,rusness,P6111732,Rusness,,,Fargo-Moorhead,19150905,19150906,4,0,2b4
@@ -1221,9 +1221,9 @@ boxscores/1915/1915-GFDH,1915,Northern League,ursella,P8042866,Ursella,,,Grand F
 boxscores/1915/1915-WT,1915,Northern League,ursella,P4536708,Ursella,,,Grand Forks,19150520,19150605,4,4,p4
 boxscores/1915/1915-WT,1915,Northern League,ursella,P6758034,Usella,,,Grand Forks,19150524,19150524,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,garvey,P8429892,Voorman,,,St. Boniface,19150520,19150520,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,,P3179194,W. Fox,,,#umpire,19150723,19150723,,,
-boxscores/1915/1915-WT,1915,Northern League,,P9602303,W. Fox,,,#umpire,19150723,19150723,,,
-boxscores/1915/1915-WT,1915,Northern League,,P6812433,W. Harkness,,,#umpire,19150703,19150703,,,
+boxscores/1915/1915-DNT,1915,Northern League,fox.w@ump,P3179194,W. Fox,,,#umpire,19150723,19150723,,,
+boxscores/1915/1915-WT,1915,Northern League,fox.w@ump,P9602303,W. Fox,,,#umpire,19150723,19150723,,,
+boxscores/1915/1915-WT,1915,Northern League,harkness@ump,P6812433,W. Harkness,,,#umpire,19150703,19150703,,,
 boxscores/1915/1915-DNT,1915,Northern League,wahlstrom,P8709165,Wahl,,,Fargo-Moorhead,19150511,19150511,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,wahlstrom,P5019906,Wahlstrom,,,Fargo-Moorhead,19150510,19150526,3,3,p3
 boxscores/1915/1915-GFDH,1915,Northern League,wahlstrom,P8084053,Wahlstrom,,,Fargo-Moorhead,19150511,19150524,2,2,p2

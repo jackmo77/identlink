@@ -68,10 +68,10 @@ minoraverages/1916Reach,1915,Southern Association,bowden,F21475,Bowden,,0,Atlant
 boxscores/1915/1915-SL,1915,Southern Association,brautigan,P3672564,Brantigan,,,Little Rock,19150413,19150413,1,0,ss1
 boxscores/1915/1915-SL,1915,Southern Association,brautigan,P4234874,Brauti'n,,,Little Rock,19150414,19150423,2,0,3b2
 boxscores/1915/1915-SL,1915,Southern Association,brautigan,P5172027,Brautigan,,,Little Rock,19150415,19150422,7,0,3b2ss6
-boxscores/1915/1915-SL,1915,Southern Association,,P8370544,Brautigan,,,#umpire,19150419,19150419,,,
+boxscores/1915/1915-SL,1915,Southern Association,brautigan@ump,P8370544,Brautigan,,,#umpire,19150419,19150419,,,
 minoraverages/1916Reach,1915,Southern Association,brautigan,B01300,Brautigan,,0,Little Rock,,,11,,
 minoraverages/1916Reach,1915,Southern Association,brautigan,F20908,Brautigan,,0,Little Rock,,,,,ss11
-boxscores/1915/1915-SL,1915,Southern Association,,P1313791,Breitenstein,,,#umpire,19150413,19150422,,,
+boxscores/1915/1915-SL,1915,Southern Association,breitenstein@ump,P1313791,Breitenstein,,,#umpire,19150413,19150422,,,
 minoraverages/1916Reach,1915,Southern Association,brown,P10304,Brown,,0,New Orleans,,,,3,
 boxscores/1915/1915-SL,1915,Southern Association,browning,P0615052,Browning,,,Atlanta,19150415,19150423,2,2,p2
 minoraverages/1916Reach,1915,Southern Association,browning,B01490,Browning,,0,Atlanta,,,6,,
@@ -113,7 +113,7 @@ minoraverages/1916Reach,1915,Southern Association,caveny,F20792,Caveny,,0,Chatta
 minoraverages/1916Reach,1915,Southern Association,chandler,B01861,Chandler,,0,Memphis,,,7,,
 minoraverages/1916Reach,1915,Southern Association,chandler,F21502,Chandler,,0,Memphis,,,,,p7
 minoraverages/1916Reach,1915,Southern Association,chandler,P10633,Chandler,,0,Memphis,,,,9,
-boxscores/1915/1915-SL,1915,Southern Association,,P4035669,Chestnutt,,,#umpire,19150413,19150423,,,
+boxscores/1915/1915-SL,1915,Southern Association,chestnutt@ump,P4035669,Chestnutt,,,#umpire,19150413,19150423,,,
 boxscores/1915/1915-SL,1915,Southern Association,clark-bir,P0840524,Clark,,,Birmingham,19150416,19150423,8,0,2b8
 minoraverages/1916Reach,1915,Southern Association,clark-mem,B00308,Clark,,0,Memphis,,,12,,
 minoraverages/1916Reach,1915,Southern Association,clark-bir,B00528,Clark,Dan,0,Birmingham,,,136,,
@@ -422,7 +422,7 @@ minoraverages/1916Reach,1915,Southern Association,keeley,P10176,Keeley,,0,Memphi
 minoraverages/1916Reach,1915,Southern Association,kelly,B01010,Kelly,,0,Atlanta,,,33,,
 minoraverages/1916Reach,1915,Southern Association,kelly,F22085,Kelly,,0,Atlanta,,,,,p33
 minoraverages/1916Reach,1915,Southern Association,kelly,P10320,Kelly,,0,Atlanta,,,,28,
-boxscores/1915/1915-SL,1915,Southern Association,,P0898540,Kerin,,,#umpire,19150413,19150422,,,
+boxscores/1915/1915-SL,1915,Southern Association,kerin@ump,P0898540,Kerin,,,#umpire,19150413,19150422,,,
 boxscores/1915/1915-SL,1915,Southern Association,king,P0667952,King,,,Nashville,19150413,19150423,11,0,of11cf11
 minoraverages/1916Reach,1915,Southern Association,king,B00887,King,,0,Nashville,,,66,,
 minoraverages/1916Reach,1915,Southern Association,king,F21117,King,,0,Nashville,,,,,of66
@@ -581,7 +581,7 @@ boxscores/1915/1915-SL,1915,Southern Association,northen,P9592791,Northen,,,Mobi
 minoraverages/1916Reach,1915,Southern Association,northen,B00553,Northen,,0,Mobile,,,145,,
 minoraverages/1916Reach,1915,Southern Association,northen,F20051,Northen,,0,Mobile,,,,,1b29
 minoraverages/1916Reach,1915,Southern Association,northen,F21037,Northen,,0,Mobile,,,,,of116
-boxscores/1915/1915-SL,1915,Southern Association,,P3412908,O'Toole,,,#umpire,19150413,19150423,,,
+boxscores/1915/1915-SL,1915,Southern Association,otoole@ump,P3412908,O'Toole,,,#umpire,19150413,19150423,,,
 minoraverages/1916Reach,1915,Southern Association,olsen,B01939,Olsen,,0,Mobile,,,4,,
 minoraverages/1916Reach,1915,Southern Association,olsen,F22393,Olsen,,0,Mobile,,,,,c4
 boxscores/1915/1915-SL,1915,Southern Association,olsen,P7055076,Olson,,,Mobile,19150422,19150422,1,0,c1
@@ -611,7 +611,7 @@ minoraverages/1916Reach,1915,Southern Association,peters,B01368,Peters,,0,Chatta
 minoraverages/1916Reach,1915,Southern Association,peters,F22329,Peters,,0,Chattanooga,,,,,c67
 minoraverages/1916Reach,1915,Southern Association,pezold,B00794,Pezold,,0,New Orleans,,,97,,
 minoraverages/1916Reach,1915,Southern Association,pezold,F21101,Pezold,,0,New Orleans,,,,,of97
-boxscores/1915/1915-SL,1915,Southern Association,,P7297887,Pfenninger,,,#umpire,19150413,19150423,,,
+boxscores/1915/1915-SL,1915,Southern Association,pfenninger@ump,P7297887,Pfenninger,,,#umpire,19150413,19150423,,,
 minoraverages/1916Reach,1915,Southern Association,pitler,B01156,Pitler,,0,Chattanooga,,,74,,
 minoraverages/1916Reach,1915,Southern Association,pitler,F20254,Pitler,,0,Chattanooga,,,,,2b74
 minoraverages/1916Reach,1915,Southern Association,poole,B01820,Poole,,0,Mobile,,,6,,
@@ -673,7 +673,7 @@ minoraverages/1916Reach,1915,Southern Association,roth-bir+mem,P10410,Roth,D.,1,
 minoraverages/1916Reach,1915,Southern Association,roth-bir+mem,P10410,Roth,D.,2,Memphis,,,,,
 minoraverages/1916Reach,1915,Southern Association,roth-bir+mem,P10410,Roth,D.,T,,,,,33,
 minoraverages/1916Reach,1915,Southern Association,roth-lr,P10640,Roth,,0,Little Rock,,,,13,
-boxscores/1915/1915-SL,1915,Southern Association,,P9663823,Rudderham,,,#umpire,19150413,19150423,,,
+boxscores/1915/1915-SL,1915,Southern Association,rudderham@ump,P9663823,Rudderham,,,#umpire,19150413,19150423,,,
 boxscores/1915/1915-SL,1915,Southern Association,rumler,P4513661,Rumler,,,Atlanta,19150413,19150423,9,0,c5of4rf4
 minoraverages/1916Reach,1915,Southern Association,rumler,B00667,Rumler,,0,Atlanta,,,122,,
 minoraverages/1916Reach,1915,Southern Association,rumler,F21068,Rumler,,0,Atlanta,,,,,of39
