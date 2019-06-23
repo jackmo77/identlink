@@ -207,6 +207,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1909,Kansas State League,Great Bend,GB,GB,GB
 1909,Kansas State League,Wellington,WEL,WEL,WEL
 1909,Kansas State League,Newton,NEW,NEW,NEW
+1909,Kansas State League,Arkansas City,ACW,ACW,ACW
 1909,Kansas State League,Arkansas City-Winfield,ACW,ACW,ACW
 1909,Kansas State League,Strong City-Cottonwood Falls/Larned,SCC+LAR,,SCC+LAR
 1909,Kansas State League,Strong City-Cottonwood Falls,SCC+LAR,SCC,SCC+LAR
@@ -257,14 +258,14 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1909,Wisconsin-Illinois League,Fond du Lac,FDL,FDL,FDL
 1909,Wisconsin-Illinois League,Oshkosh,OSH,OSH,OSH
 1909,Wisconsin-Illinois League,Freeport,FRE,FRE,FRE
-1909,California State League,Oakland,OAK,OAK,OAK
-1909,California State League,Stockton,STO,STO,STO
-1909,California State League,Fresno,FRE,FRE,FRE
-1909,California State League,San Francisco/Sacramento,SF+SAC,,SF+SAC
-1909,California State League,San Francisco,SF+SAC,SF,SF+SAC
-1909,California State League,Sacramento,SF+SAC,SAC,SF+SAC
-1909,California State League,Santa Cruz,SC,SC,SC
-1909,California State League,San Jose,SJ,SJ,SJ
+1909,California League,Oakland,OAK,OAK,OAK
+1909,California League,Stockton,STO,STO,STO
+1909,California League,Fresno,FRE,FRE,FRE
+1909,California League,San Francisco/Sacramento,SF+SAC,,SF+SAC
+1909,California League,San Francisco,SF+SAC,SF,SF+SAC
+1909,California League,Sacramento,SF+SAC,SAC,SF+SAC
+1909,California League,Santa Cruz,SC,SC,SC
+1909,California League,San Jose,SJ,SJ,SJ
 1909,Eastern Association,Newburgh,NEW,NEW,NEW
 1909,Eastern Association,Amsterdam,AMS,AMS,AMS
 1909,Eastern Association,Johnstown,JOH,JOH,JOH

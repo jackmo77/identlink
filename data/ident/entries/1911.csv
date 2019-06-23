@@ -43,13 +43,17 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1911,Central League,Fort Wayne,FW,FW,FW
 1911,Central League,Zanesville,ZAN,ZAN,ZAN
 1911,Central League,South Bend/Grand Rapids,SB1+GR2,,SB1+GR2
+1911,Central League,South Bend I,SB1+GR2,SB1,SB1+GR2
 1911,Central League,South Bend [I],SB1+GR2,SB1,SB1+GR2
+1911,Central League,Grand Rapids II,SB1+GR2,GR2,SB1+GR2
 1911,Central League,Grand Rapids [II],SB1+GR2,GR2,SB1+GR2
 1911,Central League,Evansville/South Bend,EVA+SB2,,EVA+SB2
 1911,Central League,Evansville,EVA+SB2,EVA,EVA+SB2
+1911,Central League,South Bend II,EVA+SB2,SB2,EVA+SB2
 1911,Central League,South Bend [II],EVA+SB2,SB2,EVA+SB2
 1911,Central League,Wheeling,WHE,WHE,WHE
 1911,Central League,Grand Rapids/Newark,GR1+NEW,,GR1+NEW
+1911,Central League,Grand Rapids I,GR1+NEW,GR1,GR1+NEW
 1911,Central League,Grand Rapids [I],GR1+NEW,GR1,GR1+NEW
 1911,Central League,Newark,GR1+NEW,NEW,GR1+NEW
 1911,Central League,Terre Haute,TH,TH,TH
