@@ -1,281 +1,281 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
-minoraverages/Howard,1907,Empire State League,adams,B00013,Adams,,,Seneca Falls,19070906,19070906,1,,0,0,0,0,,0,1,0,0,0,
-minoraverages/Howard,1907,Empire State League,agnew,B00021,Agnew,(John J.?),,Seneca Falls,19070828,19070906,11,,0,0,0,6,,0,4,1,0,0,
-minoraverages/Howard,1907,Empire State League,akey,B00037,Akey,,,Lyons,19070525,19070603,7,,0,0,0,0,,0,2,5,0,0,
-minoraverages/Howard,1907,Empire State League,allen,B00045,Allen,(Thomas?),,Geneva,19070723,19070907,39,,0,36,0,2,,0,1,0,0,0,
-minoraverages/Howard,1907,Empire State League,anderson,B00059,Anderson,,,Fulton,19070615,19070702,6,,0,0,0,0,,0,0,1,0,5,
-minoraverages/Howard,1907,Empire State League,baker,B00068,Baker,,,Auburn,19070617,19070617,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,barrett,B00076,Barrett,,,Fulton,19070603,19070604,2,,0,0,0,0,,0,0,0,2,0,
-minoraverages/Howard,1907,Empire State League,barry,B00084,Barry,"Lawrence ""Larry""",1,Oswego,19070718,19070730,4,,0,0,0,0,,0,0,1,0,3,
-minoraverages/Howard,1907,Empire State League,barry,B00092,Barry,"Lawrence ""Larry""",2,Geneva,19070821,19070907,15,,1,1,0,1,,0,0,7,0,6,
-minoraverages/Howard,1907,Empire State League,barry,B00101,Barry,"Lawrence ""Larry""",T,,19070718,19070907,19,,1,1,0,1,,0,0,8,0,9,
-minoraverages/Howard,1907,Empire State League,baum,B00117,Baum,,,Fulton,19070524,19070907,71,,0,0,0,71,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,bayliss,B00125,Bayliss,Harry,,Oswego,19070525,19070531,3,,0,0,0,0,,0,0,0,0,3,
-minoraverages/Howard,1907,Empire State League,bergen,B00130,Bergen,,1,Auburn,19070728,19070728,1,,0,0,0,0,,0,1,0,0,0,
-minoraverages/Howard,1907,Empire State League,bergen,B00149,Bergen,,2,Lyons,19070831,19070831,2,,0,0,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,bergen,B00158,Bergen,,T,,19070728,19070831,3,,0,0,0,0,,0,1,0,0,0,
-minoraverages/Howard,1907,Empire State League,boland,B00163,Boland,Patrick,,Lyons,19070624,19070906,59,,17,0,1,0,,1,10,0,29,0,
-minoraverages/Howard,1907,Empire State League,bonham,B00174,Bonham,"""Doug""",,Geneva,19070617,19070620,4,,0,0,0,0,,4,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,bourdon,B00182,Bourdon,"Victor Joseph ""Vic""",,Geneva,19070524,19070718,28,,0,0,0,0,,8,0,7,0,12,
-minoraverages/Howard,1907,Empire State League,brady,B00196,Brady,,,Lyons,19070819,19070824,5,,0,0,0,0,,0,1,1,3,0,
-minoraverages/Howard,1907,Empire State League,brand,B00207,Brand,Charles,,Auburn,19070610,19070826,63,,0,63,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,burns,B00210,Burns,,,Geneva,19070604,19070831,68,,0,0,0,0,,24,8,36,0,0,
-minoraverages/Howard,1907,Empire State League,cady,B00229,Cady,Fred ,,Lyons,19070702,19070907,47,,30,17,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,carney,B00232,Carney,"John J. ""Jack""",,Aub,19070622,19070906,58,,58,0,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,carney,M90026,Carney,John J.,,Auburn,19070726,,,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,carr-osw,B00092,Carr,,0,Oswego,,,82,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,carr-osw,F20153,Carr,,0,Oswego,,,,,,,yes,,,,,,,,
-minoraverages/Howard,1907,Empire State League,carr-sf,B00241,Carr,"Milton ""Milt""",,Seneca Falls,19070524,19070810,62,,0,0,0,0,,3,59,0,0,0,
-minoraverages/Howard,1907,Empire State League,carr-osw,B00255,Carr,Sidney Lovecraft,,Oswego,19070524,19070907,82,,0,0,82,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,case,B00264,Case,,,Oswego,19070530,19070530,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,cass,B00278,Cass,,,Lyons,19070718,19070730,11,,0,0,0,11,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,clancy,B00286,Clancy,,1,Lyons,19070610,19070615,5,,0,0,0,0,,0,0,0,5,0,
-minoraverages/Howard,1907,Empire State League,clancy,B00293,Clancy,,2,Auburn,19070730,19070730,1,,0,0,0,0,,0,0,0,1,0,
-minoraverages/Howard,1907,Empire State League,clancy,B00308,Clancy,,T,,19070610,19070730,6,,0,0,0,0,,0,0,0,6,0,
-minoraverages/Howard,1907,Empire State League,clark,B00319,Clark,,,Fulton,19070524,19070625,5,,0,0,0,0,,0,0,0,1,4,
-minoraverages/Howard,1907,Empire State League,cleary,B00324,Cleary,Arthur J.,,Fulton,19070525,19070720,40,,0,0,0,3,,33,0,4,0,0,
-minoraverages/1908Reach,1907,Empire State League,cobean,B00045,Cobean,,0,Oswego,,,41,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,cobean,F20023,Cobean,,0,Oswego,,,,,,,,,,yes,,,,,
-minoraverages/1908Reach,1907,Empire State League,cobean,F20095,Cobean,,0,Oswego,,,,,,,,,,,,,,yes,
-minoraverages/1908Reach,1907,Empire State League,cobean,P10035,Cobean,,0,Oswego,,,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,cobean,B00335,Cobean,"Samuel ""Sam""",,Oswego,19070524,19070907,41,,1,0,0,0,,3,1,5,0,30,
-minoraverages/Howard,1907,Empire State League,collett,B00343,Collett,Henry J. C.,,Lyons,19070529,19070907,81,,0,3,78,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,collier,B00356,Collier,,,Fulton,19070524,19070611,10,,0,1,0,8,,1,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,collister,B00362,Collister,(see Collester),,Fulton,19070610,19070615,6,,0,0,0,6,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,comiskey,B00370,Comiskey,,,Geneva,19070903,19070905,2,,0,0,0,0,,0,0,0,0,2,
-minoraverages/Howard,1907,Empire State League,conevery,B00381,Conevery,"James ""Sag""",,Geneva,19070524,19070907,44,,15,0,0,0,,0,2,2,0,24,
-minoraverages/Howard,1907,Empire State League,cook,B00397,Cook,,,Lyons,19070525,19070611,11,,4,0,0,0,,0,0,0,7,0,
-minoraverages/Howard,1907,Empire State League,daley,B00403,Daley,"James A. ""Jimmy""",1,Seneca Falls,19070524,19070525,2,,0,2,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,daley,B00416,Daley,"James A. ""Jimmy""",2,Lyons,19070716,19070830,13,,0,13,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,daley,B00427,Daley,"James A. ""Jimmy""",T,,19070524,19070830,15,,0,15,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,danahey,B00434,Danahey,Michael Ignatius,,Fulton,19070706,19070907,48,,0,0,0,0,,0,0,2,46,0,
-minoraverages/Howard,1907,Empire State League,davie,B00442,Davie,Ralph Leon,,Lyons,19070606,19070907,35,,0,0,0,0,,4,6,5,0,21,
-minoraverages/Howard,1907,Empire State League,delave,B00450,Delave,"Edwin K. ""Tacks""",,Auburn,19070525,19070704,27,,2,2,6,0,,7,0,0,0,12,
-minoraverages/Howard,1907,Empire State League,deshon,B00469,Deshon,Nick,,Auburn,19070613,19070613,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,diebold,B00475,Diebold,,,Fulton,19070718,19070823,15,,0,0,0,0,,0,0,5,0,10,
-minoraverages/Howard,1907,Empire State League,dolan,B00488,Dolan,,1,Lyons,19070525,19070604,7,,0,3,3,0,,0,1,0,0,0,
-minoraverages/Howard,1907,Empire State League,dolan,B00491,Dolan,,2,Geneva,19070709,19070710,2,,0,0,2,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,dolan,B00502,Dolan,,T,,19070525,19070710,9,,0,3,5,0,,0,1,0,0,0,
-minoraverages/Howard,1907,Empire State League,donahue,B00515,Donahue,"Charles M. ""She""*",,Fulton,19070524,19070907,77,,0,77,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,dossinger,B00528,Dossinger,"Jacobum ""Jake""",,Lyons,19070802,19070907,34,,0,18,0,12,,0,2,2,0,0,
-minoraverages/Howard,1907,Empire State League,duffy,B00531,Duffy,,,Geneva,19070621,19070621,1,,0,0,0,0,,15,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,egan,B00544,Egan,"Arthur A. ""Ben""*",1,Seneca Falls,19070529,19070715,14,,0,0,0,0,,0,0,0,14,0,
-minoraverages/Howard,1907,Empire State League,egan,B00553,Egan,"Arthur A. ""Ben""*",2,Auburn,19070807,19070906,23,,0,0,0,0,,0,0,0,23,0,
-minoraverages/Howard,1907,Empire State League,egan,B00566,Egan,"Arthur A. ""Ben""*",T,,19070529,19070906,37,,0,0,0,0,,0,0,0,37,0,
-minoraverages/Howard,1907,Empire State League,ellinger,B00590,Ellinger,Leon ,,Auburn,19070525,19070702,10,,0,0,0,0,,0,0,0,0,10,
-minoraverages/1908Reach,1907,Empire State League,elliott,B00037,Elliott,,0,Oswego,,,71,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,elliott,F20051,Elliott,,0,Oswego,,,,,,,,,,,,,yes,,
-minoraverages/1908Reach,1907,Empire State League,elliott,F20072,Elliott,,0,Oswego,,,,,,,,,,,,yes,,,
-minoraverages/Howard,1907,Empire State League,elliott,B00577,Elliott,"Edwin S. ""Chaucer""",,Oswego,19070524,19070907,71,,0,0,0,0,,0,1,44,26,0,
-minoraverages/Howard,1907,Empire State League,elliott,M90071,Elliott,"Edwin S. ""Chaucer""",,Oswego,,,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,enright,B00589,Enright,,,Lyons,19070617,19070617,1,,0,0,0,1,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,farrell,B00609,Farrell,,,Seneca Falls,19070531,19070531,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,fennell,B00614,Fennell,"Arthur B. ""Art""",,Fulton,19070524,19070907,76,,46,0,0,0,,0,0,1,28,1,
-minoraverages/Howard,1907,Empire State League,fisher,B00623,Fisher,,,Lyons,19070525,19070529,2,,1,0,0,0,,0,0,0,0,2,
-minoraverages/Howard,1907,Empire State League,flanagan@may,B00638,Flanagan,,,Seneca Falls,19070529,19070529,1,,0,0,0,0,,1,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,flanagan@jun,B00646,Flanagan,"""Austie"" ",,Seneca Falls,19070618,19070618,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,fleischer,B00651,Fleischer,,,Lyons,19070525,19070604,6,,0,0,0,0,,5,0,1,0,0,
-minoraverages/Howard,1907,Empire State League,forbes,B00667,Forbes,,,Auburn,19070726,19070729,3,,0,0,0,0,,2,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,frank,B00672,Frank,George W.,,Geneva,19070524,19070723,40,,0,40,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,frost,B00680,Frost,,,Geneva,19070801,19070906,25,,0,0,0,0,,0,25,0,0,0,
-minoraverages/Howard,1907,Empire State League,galvin,B00695,Galvin,"""Snapper"" ",,Oswego,19070524,19070617,17,,0,0,0,0,,0,0,17,0,0,
-minoraverages/Howard,1907,Empire State League,gardner,B00705,Gardner,,,Geneva,19070620,19070815,15,,0,0,0,0,,0,0,0,0,15,
-minoraverages/Howard,1907,Empire State League,garvey,B00718,Garvey,,,Geneva,19070710,19070907,28,,0,0,0,0,,3,0,8,0,16,
-minoraverages/Howard,1907,Empire State League,gaughn,B00726,Gaughn,"""Cad""",1,Seneca Falls,19070607,19070613,4,,0,0,0,0,,4,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,gaughn,B00739,Gaughn,"""Cad""",2,Lyons,19070617,19070618,2,,0,0,0,0,,0,0,0,2,0,
-minoraverages/Howard,1907,Empire State League,gaughn,B00747,Gaughn,"""Cad""",3,Seneca Falls,19070619,19070822,7,,1,0,0,0,,1,3,0,2,0,
-minoraverages/Howard,1907,Empire State League,gaughn,B00752,Gaughn,"""Cad""",T,,19070607,19070822,13,,1,0,0,0,,5,3,0,4,0,
-minoraverages/Howard,1907,Empire State League,gianelli,B00760,Gianelli,"Herbert G. ""Herb""",,Auburn,19070719,19070905,16,,0,0,0,0,,0,0,0,0,16,
-minoraverages/Howard,1907,Empire State League,gillespie,B00771,Gillespie,,,Fulton,19070524,19070906,77,,0,2,71,4,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,goettel,B00783,Goettel,"Edward G. ""Eddie""",,Seneca Falls,19070724,19070904,16,,0,0,0,0,,2,0,1,0,13,
-minoraverages/Howard,1907,Empire State League,gragion,B00794,Gragion,Vincent P.,,Geneva,19070524,19070907,81,,44,1,0,25,,1,7,3,0,0,
-minoraverages/Howard,1907,Empire State League,graney,B00806,Graney,(James D.?),1,Fulton,19070529,19070713,30,,0,0,0,0,,6,0,24,0,0,
-minoraverages/Howard,1907,Empire State League,graney,B00811,Graney,(James D.?),2,Auburn,19070729,19070906,30,,0,0,0,0,,24,2,4,0,0,
-minoraverages/Howard,1907,Empire State League,graney,B00822,Graney,(James D.?),T,,19070529,19070906,60,,0,0,0,0,,30,2,28,0,0,
-minoraverages/Howard,1907,Empire State League,griffin,B00833,Griffin,(James?),1,Lyons,19070525,19070715,36,,0,1,0,17,,8,6,4,0,0,
-minoraverages/Howard,1907,Empire State League,griffin,B00840,Griffin,(James?),2,Fulton,19070719,19070907,44,,0,4,8,0,,4,0,28,0,0,
-minoraverages/Howard,1907,Empire State League,griffin,B00854,Griffin,(James?),T,,19070525,19070715,80,,0,5,8,17,,12,6,32,0,0,
-minoraverages/Howard,1907,Empire State League,groh.c,B00865,Groh,C.,1,Lyons,19070529,19070530,3,,0,0,0,0,,0,0,0,0,3,
-minoraverages/Howard,1907,Empire State League,groh.c,B00879,Groh,C.,2,Auburn,19070708,19070710,2,,0,0,0,0,,0,0,0,0,2,
-minoraverages/Howard,1907,Empire State League,groh.c,B00887,Groh,C.,T,,19070529,19070710,5,,0,0,0,0,,0,0,0,0,5,
-minoraverages/Howard,1907,Empire State League,groh.l,B00898,Groh,"Lewis C. ""Lew""*",1,Lyons,19070525,19070611,12,,0,0,0,12,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,groh.l,B00904,Groh,"Lewis C. ""Lew""*",2,Seneca Falls,19070613,19070805,44,,0,0,0,44,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,groh.l,B00912,Groh,"Lewis C. ""Lew""*",3,Auburn,19070806,19070815,8,,0,0,0,8,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,groh.l,B00920,Groh,"Lewis C. ""Lew""*",T,,19070525,19070815,64,,0,0,0,64,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,groh.l,M90047,Groh,Lewis C.*,,Lyons,,19070611,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,groom,B00936,Groom,R.,,Seneca Falls,19070621,19070628,2,,0,0,0,0,,0,0,0,0,2,
-minoraverages/Howard,1907,Empire State League,hanlon,B00948,Hanlon,,,Geneva,19070529,19070529,1,,0,0,0,1,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,harding,B00957,Harding,"William ""Bill""",,Geneva,19070724,19070725,2,,0,0,0,0,,61,0,24,0,0,
-minoraverages/Howard,1907,Empire State League,hemersley,B00961,Hemersley,,,Seneca Falls,19070614,19070614,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,henderson,B00973,Henderson,Jimmy ,,Auburn,19070525,19070806,52,,0,0,0,0,,1,0,0,51,0,
-minoraverages/Howard,1907,Empire State League,hennessey,B00985,Hennessey,,,Auburn,19070702,19070702,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,hoff,B00999,Hoff,,,Auburn,19070729,19070729,2,,0,0,0,0,,0,0,0,2,0,
-minoraverages/Howard,1907,Empire State League,house,B01007,House,Lee,1,Seneca Falls,19070524,19070531,5,,0,0,0,0,,0,2,5,0,0,
-minoraverages/Howard,1907,Empire State League,house,B01010,House,Lee,2,Lyons,19070611,19070611,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,house,B01029,House,Lee,T,,19070524,19070611,6,,0,0,0,0,,0,2,0,0,1,
-minoraverages/Howard,1907,Empire State League,hughes,B01032,Hughes,"William ""Del""",,Geneva,19070530,19070617,10,,1,0,0,0,,3,0,2,0,4,
-minoraverages/Howard,1907,Empire State League,hurley,B01041,Hurley,,,Seneca Falls,19070524,19070601,5,,0,2,0,3,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,hydon,B01055,Hydon,Robert James,,Auburn,19070820,19070820,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,jackson,B01064,Jackson,,,Geneva,19070622,19070716,19,,0,0,0,1,,17,1,0,0,0,
-minoraverages/Howard,1907,Empire State League,jewell,B01078,Jewell,,,Geneva,19070822,19070828,3,,0,0,0,0,,0,0,2,0,1,
-minoraverages/Howard,1907,Empire State League,johnson-gen,B01086,Johnson,,,Geneva,19070819,19070821,3,,0,0,0,3,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,johnson-sf,B01093,Johnson,,,Seneca Falls,19070902,19070902,2,,0,0,0,0,,0,2,0,0,0,
-minoraverages/Howard,1907,Empire State League,karline,B01108,Karline,,,Lyons,19070529,19070530,3,,0,0,0,0,,0,0,0,3,0,
-minoraverages/Howard,1907,Empire State League,kearney,B01119,Kearney,,1,Auburn,19070525,19070621,19,,17,0,0,0,,0,0,0,2,0,
-minoraverages/Howard,1907,Empire State League,kearney,B01124,Kearney,,2,Lyons,19070624,19070629,2,,0,0,0,0,,0,0,0,2,0,
-minoraverages/Howard,1907,Empire State League,kearney,B01135,Kearney,,T,,19070525,19070629,21,,17,0,0,0,,0,0,0,4,0,
-minoraverages/Howard,1907,Empire State League,kelley-aub,B01143,Kelley,"(J./""King""/""Turk""?)",,Auburn,19070525,19070725,44,,0,0,0,0,,0,44,0,0,0,
-minoraverages/Howard,1907,Empire State League,kelley-lyo,B01156,Kelley,,,Lyons,19070621,19070621,1,,0,0,0,0,,0,0,1,0,0,
-minoraverages/Howard,1907,Empire State League,kelley-aub,M90018,Kelley,,,Auburn,,19070725,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,kelly,B01162,Kelly,,,Auburn,19070826,19070906,10,,0,0,0,10,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,kennedy,B01170,Kennedy,"John J. ""Doc""",1,Lyons,19070604,19070806,43,,16,0,0,0,,0,0,0,27,0,
-minoraverages/Howard,1907,Empire State League,kennedy,B01181,Kennedy,"John J. ""Doc""",2,Fulton,19070809,19070829,17,,10,0,0,0,,0,0,0,6,1,
-minoraverages/Howard,1907,Empire State League,kennedy,B01197,Kennedy,"John J. ""Doc""",T,,19070604,19070820,60,,26,0,0,0,,0,0,0,33,1,
-minoraverages/Howard,1907,Empire State League,kennedy,M90052,Kennedy,"""Doc""",,Lyons,19070612,19070008,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,kidney,B01203,Kidney,Richard Sluyter,,Auburn,19070822,19070903,8,,0,0,3,0,,2,1,2,0,0,
-minoraverages/Howard,1907,Empire State League,killingsworth,B01216,Killingsworth,"Edward C. ""Ed""",,Fulton,19070704,19070718,7,,0,0,0,0,,0,0,2,0,5,
-minoraverages/Howard,1907,Empire State League,klinck,B01227,Klinck,"William J. ""Bill""",,Lyons,19070525,19070607,9,,4,5,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,klock,B01234,Klock,"William ""Bill""",,Seneca Falls,19070524,19070906,80,,0,1,0,0,,0,0,0,78,0,
-minoraverages/Howard,1907,Empire State League,knapp,B01242,Knapp,"Levi ""Putt""",,Fulton,19070524,19070613,6,,0,0,0,0,,0,0,1,0,6,
-minoraverages/1908Reach,1907,Empire State League,lee,B00021,Lee,,0,Oswego,,,26,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,lee,F20038,Lee,,0,Oswego,,,,,,,,,,,,yes,,,
-minoraverages/1908Reach,1907,Empire State League,lee,F20144,Lee,,0,Oswego,,,,,,,,,,,,,,yes,
-minoraverages/1908Reach,1907,Empire State League,lee,P10019,Lee,,0,Oswego,,,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,lee,B01250,Lee,"George ""Knotty"" ",,Oswego,19070723,19070907,26,,0,0,0,0,,3,0,7,0,13,
-minoraverages/Howard,1907,Empire State League,lothrop,B01269,Lothrop,Manfred Nathaniel,,Seneca Falls,19070525,19070905,32,,0,0,0,0,,0,1,0,0,31,
-minoraverages/1908Reach,1907,Empire State League,lovely,B00101,Lovely,,0,Oswego,,,82,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,lovely,F20102,Lovely,,0,Oswego,,,,,,,,,,yes,,,,,
-minoraverages/1908Reach,1907,Empire State League,lovely,F20177,Lovely,,0,Oswego,,,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,lovely,B01275,Lovely,"Robert ""Bobby""",,Oswego,19070524,19070907,82,,0,0,0,0,,82,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,lynch,B01288,Lynch,,,Lyons,19070606,19070719,32,,0,0,0,0,,0,32,0,0,0,
-minoraverages/Howard,1907,Empire State League,mack,B01291,Mack,William Francis,,Seneca Falls,19070530,19070906,51,,0,0,0,0,,0,1,19,0,30,
-minoraverages/Howard,1907,Empire State League,major,B01300,Major,"Burton W. ""Burt""",1,Auburn,19070525,19070620,15,,0,0,0,0,,15,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,major,B01313,Major,"Burton W. ""Burt""",2,Lyons,19070702,19070907,59,,0,0,0,0,,59,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,major,B01321,Major,"Burton W. ""Burt""",T,,19070525,19070907,74,,0,0,0,0,,74,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,mantel,B01337,Mantel,Bobby,1,Auburn,19070613,19070710,3,,1,0,0,0,,2,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,mantel,B01345,Mantel,Bobby,2,Geneva,19070717,19070812,23,,23,0,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,mantel,B01359,Mantel,Bobby,3,Auburn,19070824,19070906,11,,0,9,2,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,mantel,B01368,Mantel,Bobby,T,,19070613,19070906,37,,24,9,2,0,,2,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,marnin,B01376,Marnin,William Michael,,Geneva,19070524,19070907,83,,0,0,0,0,,0,0,0,83,0,
-minoraverages/Howard,1907,Empire State League,mason,B01384,Mason,,,Geneva,19070719,19070719,1,,0,0,0,0,,15,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,mccallum,B01392,McCallum,"Michael ""Midget""",,Auburn,19070525,19070806,56,,0,0,0,56,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,mccarthy.a-ful,B01402,McCarthy,"Andrew ""Andy""",,Fulton,19070608,19070903,39,,0,2,0,0,,0,0,11,0,24,
-minoraverages/Howard,1907,Empire State League,mccarthy.f-ful,B01415,McCarthy,F.,,Fulton,19070801,19070801,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,mccarthy.u-lyo,B01428,McCarthy,,,Lyons,19070613,19070613,1,,0,0,0,1,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,mccarthy.j-lyo,B01431,McCarthy,"Joseph N. ""Joe""*",,Lyons,19070820,19070820,1,,0,0,0,0,,0,0,0,1,0,
-minoraverages/Howard,1907,Empire State League,mcdonough,B01444,McDonough,,,Fulton,19070524,19070704,30,,27,0,0,0,,0,0,0,3,0,
-minoraverages/Howard,1907,Empire State League,mcgraw,B01453,McGraw,"Samuel ""Sam""",,Seneca Falls,19070603,19070830,27,,0,25,1,0,,0,0,1,0,0,
-minoraverages/Howard,1907,Empire State League,mcgraw,M90083,McGraw,"Samuel ""Sam""",,Seneca Falls,,,,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,mcguire-osw,B00117,McGuire,,0,Oswego,,,84,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,mcguire-osw,F20166,McGuire,,0,Oswego,,,,,,,,yes,,,,,,,
-minoraverages/Howard,1907,Empire State League,mcguire-sf,B01466,McGuire,Eddie,,Seneca Falls,19070524,19070906,79,,0,33,4,24,,2,4,12,0,0,
-minoraverages/Howard,1907,Empire State League,mcguire-osw,B01477,McGuire,"L. ""Dinny""",,Oswego,19070524,19070907,84,,0,0,0,84,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,mcmahon,B01489,McMahon,,,Geneva,19070524,19070613,14,,0,0,0,7,,3,0,4,0,0,
-minoraverages/Howard,1907,Empire State League,mcneil,B01490,McNeil,,,Lyons,19070812,19070829,7,,0,0,0,7,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,meagher,B01509,Meagher,,,Lyons,19070525,19070525,1,,0,0,0,0,,0,0,0,1,0,
-minoraverages/Howard,1907,Empire State League,meinberg,B01514,Meinberg,,,Geneva,19070705,19070708,4,,0,0,4,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,miley,B01523,Miley,"Francis ""Frank""",,Geneva,19070812,19070812,1,,0,0,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,miller,B01538,Miller,,,Seneca Falls,19070703,19070703,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,monat,B01546,Monat,Gus,,Lyons,19070525,19070907,72,,0,2,0,0,,2,0,43,1,25,
-minoraverages/Howard,1907,Empire State League,montague,B01551,Montague,George,1,Seneca Falls,19070524,19070525,2,,0,0,0,0,,2,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,montague,B01567,Montague,George,2,Lyons,19070727,19070727,1,,0,0,0,1,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,montague,B01572,Montague,George,3,Seneca Falls,19070812,19070822,4,,0,0,0,0,,4,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,montague,B01580,Montague,George,T,,19070524,19070822,7,,0,0,0,1,,0,6,0,0,0,
-minoraverages/1908Reach,1907,Empire State League,moroney,B00059,Moroney,,0,Oswego,,,10,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,moroney,F20131,Moroney,,0,Oswego,,,,,,,,,,,,,,yes,
-minoraverages/1908Reach,1907,Empire State League,moroney,P10024,Moroney,,0,Oswego,,,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,moroney,B01595,Moroney,"James F. ""Jim""*",,Oswego,19070803,19070906,11,,0,0,0,0,,0,0,0,0,11,
-minoraverages/Howard,1907,Empire State League,morrissey.c,B01601,Morrissey,Chester Patrick,,Seneca Falls,19070524,19070906,88,,88,0,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,morrissey.j,B01617,Morrissey,J.,,Seneca Falls,19070823,19070824,2,,0,0,0,0,,2,0,0,0,0,
-minoraverages/1908Reach,1907,Empire State League,murphy.t-osw,B00068,Murphy,T.,0,Oswego,,,29,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,murphy.t-osw,F20128,Murphy,T.,0,Oswego,,,,,,yes,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,murphy.d-aub,B01625,Murphy,"David F. ""Dave""*",,Auburn,19070621,19070906,54,,0,0,54,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,murphy.j-lyo+sf,B01630,Murphy,J.,1,Lyons,19070810,19070810,1,,0,1,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,murphy.j-lyo+sf,B01649,Murphy,J.,2,Seneca Falls,19070813,19070905,19,,0,19,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,murphy.j-lyo+sf,B01658,Murphy,J.,T,,19070810,19070905,20,,0,20,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,murphy.t-osw,B01663,Murphy,Tom,,Oswego,19070524,19070907,84,,0,84,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,murphy-lyo+gen,B01674,Murphy,,1,Lyons,19070704,19070710,5,,0,0,0,5,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,murphy-lyo+gen,B01682,Murphy,,2,Geneva,19070713,19070717,4,,0,0,0,4,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,murphy-lyo+gen,B01696,Murphy,,T,,19070704,19070717,9,,0,0,0,9,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,murray.j,B01706,Murray,"John E. ""Sauce""",,Geneva,19070613,19070907,16,,0,1,0,0,,3,0,3,0,8,
-minoraverages/Howard,1907,Empire State League,murray.r,B01711,Murray,"T./N. ""Red""",,Geneva,19070524,19070704,30,,0,0,30,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,murray.j,M90039,Murray,John E.,,Geneva,,,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,nichols,B01722,Nichols,,,Seneca Falls,19070902,19070906,7,,0,2,0,5,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,nugent,B01733,Nugent,E.,,Geneva,19070717,19070907,43,,0,0,43,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,obrien,B01740,O'Brien,"Jack ""Gory""",1,Geneva,19070524,19070717,41,,0,0,0,0,,0,36,5,0,0,
-minoraverages/Howard,1907,Empire State League,obrien,B01754,O'Brien,"Jack ""Gory""",2,Seneca Falls,19070718,19070729,10,,0,0,0,0,,1,1,8,0,0,
-minoraverages/Howard,1907,Empire State League,obrien,B01765,O'Brien,"Jack ""Gory""",3,Auburn,19070730,19070906,34,,4,0,0,0,,0,27,0,3,0,
-minoraverages/Howard,1907,Empire State League,obrien,B01779,O'Brien,"Jack ""Gory""",T,,19070524,19070906,85,,4,0,0,0,,1,64,13,3,0,
-minoraverages/1908Reach,1907,Empire State League,oconnor,P10056,O'Connor,,0,Oswego,,,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,oconnor,B01787,O'Connor,"Andrew J. ""Andy""*",1,Seneca Falls,19070524,19070608,5,,0,0,0,0,,0,0,1,0,4,
-minoraverages/Howard,1907,Empire State League,oconnor,B01798,O'Connor,"Andrew J. ""Andy""*",2,Oswego,19070613,19070715,12,,0,0,0,0,,0,0,1,0,11,
-minoraverages/Howard,1907,Empire State League,oconnor,B01804,O'Connor,"Andrew J. ""Andy""*",T,,19070524,19070715,17,,0,0,0,0,,0,0,2,0,15,
-minoraverages/Howard,1907,Empire State League,orourke,B01812,O'Rourke,Steve G.,1,Geneva,19070617,19070731,35,,0,0,4,31,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,orourke,B01820,O'Rourke,Steve G.,2,Lyons,19070814,19070907,16,,0,0,0,16,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,orourke,B01836,O'Rourke,Steve G.,T,,19070617,19070907,51,,0,0,4,47,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,osterhout,B01848,Osterhout,Clarence Bennett,1,Auburn,19070718,19070718,1,,0,0,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,osterhout,B01857,Osterhout,Clarence Bennett,2,Fulton,19070720,19070907,45,,2,0,0,1,,38,0,4,0,0,
-minoraverages/Howard,1907,Empire State League,osterhout,B01861,Osterhout,Clarence Bennett,T,,19070718,19070907,46,,2,0,0,1,,38,0,4,0,0,
-minoraverages/Howard,1907,Empire State League,parrot,B01873,Parrot,Ralph E.,,Auburn,19070525,19070831,73,,0,0,0,0,,4,0,69,0,0,
-minoraverages/Howard,1907,Empire State League,pender,B01885,Pender,John F.,,Lyons,19070628,19070907,29,,6,0,0,0,,0,1,2,0,20,
-minoraverages/Howard,1907,Empire State League,perry,B01899,Perry,George W. ,,Fulton,19070529,19070907,36,,0,0,0,0,,0,0,5,0,31,
-minoraverages/Howard,1907,Empire State League,phyle,B01905,Phyle,,,Oswego,19070621,19070624,2,,0,0,0,0,,0,1,0,0,1,
-minoraverages/Howard,1907,Empire State League,pierce,B01918,Pierce,,,Seneca Falls,19070819,19070822,2,,0,0,0,0,,0,0,0,0,2,
-minoraverages/Howard,1907,Empire State League,place,B01926,Place,Harvey Bush,1,Auburn,19070525,19070608,10,,0,10,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,place,B01939,Place,Harvey Bush,2,Lyons,19070611,19070629,14,,0,14,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,place,B01947,Place,Harvey Bush,T,,19070525,19070629,24,,0,24,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,rechkemer,B01952,Rechkemer,,1,Auburn,19070529,19070725,30,,0,0,12,0,,16,0,2,0,0,
-minoraverages/Howard,1907,Empire State League,rechkemer,B01960,Rechkemer,,2,Lyons,19070802,19070821,17,,0,7,1,0,,0,9,0,0,0,
-minoraverages/Howard,1907,Empire State League,rechkemer,B01971,Rechkemer,,T,,19070529,19070821,47,,0,7,13,0,,16,9,2,0,0,
-minoraverages/Howard,1907,Empire State League,ryan-sf,B01983,Ryan,"James P. ""Jimmy""",,Seneca Falls,19070530,19070906,79,,0,1,0,5,,68,5,0,0,0,
-minoraverages/Howard,1907,Empire State League,ryan-lyo,B01994,Ryan,,,Lyons,19070621,19070621,1,,0,0,0,0,,0,0,0,1,0,
-minoraverages/Howard,1907,Empire State League,ryan-osw,B02008,Ryan,,,Oswego,19070608,19070612,2,,0,0,0,0,,0,0,0,0,2,
-minoraverages/Howard,1907,Empire State League,sanderson,B02019,Sanderson,,,Oswego,19070529,19070529,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/1908Reach,1907,Empire State League,sanford,B00125,Sanford,,0,Oswego,,,22,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,sanford,F20080,Sanford,,0,Oswego,,,,,,,,,,,,,,yes,
-minoraverages/1908Reach,1907,Empire State League,sanford,P10043,Sanford,,0,Oswego,,,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,sanford,B02024,Sanford,,1,Geneva,19070529,19070601,2,,0,0,0,0,,0,0,0,0,2,
-minoraverages/Howard,1907,Empire State League,sanford,B02035,Sanford,,2,Oswego,19070604,19070904,23,,0,0,0,0,,0,0,1,0,22,
-minoraverages/Howard,1907,Empire State League,sanford,B02043,Sanford,,T,,19070529,19070904,25,,0,0,0,0,,0,0,1,0,24,
-minoraverages/Howard,1907,Empire State League,scanlan,B02056,Scanlan,Frank A.*,,Seneca Falls,19070801,19070812,2,,0,0,0,0,,0,0,0,0,2,
-minoraverages/Howard,1907,Empire State League,schrier,B02062,Schrier,,,Lyons,19070620,19070620,1,,0,0,0,0,,0,0,1,0,0,
-minoraverages/Howard,1907,Empire State League,schroeder,B02070,Schroeder,,,Geneva,19070730,19070815,16,,0,0,0,0,,16,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,scully,B02081,Scully,"John Henry ""Jack""",,Seneca Falls,19070530,19070906,84,,0,0,84,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,senno,B02097,Senno,Daniel Anthony,,Auburn,19070820,19070824,7,,0,0,0,7,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,shaw,B02100,Shaw,,,Fulton,19070617,19070617,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,sheridan,B02113,Sheridan,(Joe?),,Fulton,19070810,19070907,11,,0,0,0,0,,0,0,1,0,10,
-minoraverages/Howard,1907,Empire State League,shields,B02121,Shields,,,Seneca Falls,19070706,19070719,4,,0,0,0,0,,0,0,0,0,4,
-minoraverages/Howard,1907,Empire State League,silva,B02137,Silva,,,Lyons,19070531,19070907,50,,10,0,0,0,,1,2,12,0,24,
-minoraverages/Howard,1907,Empire State League,smith-aub,B02145,Smith,Frank  ,,Auburn,19070710,19070906,19,,0,0,3,0,,2,1,0,0,12,
-minoraverages/Howard,1907,Empire State League,smith-lyo,M90060,Smith,"Dr. L. W. ""Lee""",,Lyons,19070008,,,,,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,stclair,B02159,St. Clair,,,Geneva,19070813,19070815,3,,0,0,0,3,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,staub,B02168,Staub,"Joseph Lucifer ""Joe""",,Geneva,19070815,19070907,6,,0,0,0,0,,0,6,0,0,0,
-minoraverages/Howard,1907,Empire State League,striburg,B02176,Striburg,,,Geneva,19070524,19070608,9,,0,3,0,6,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,suidam,B02184,Suidam,,,Lyons,19070531,19070612,5,,0,0,0,0,,0,0,5,0,0,
-minoraverages/Howard,1907,Empire State League,sullivan,B02192,Sullivan,,,Seneca Falls,19070618,19070618,1,,0,0,0,0,,0,0,1,0,1,
-minoraverages/Howard,1907,Empire State League,sutton,B02202,Sutton,"Myron Carl ""Larry""",,Auburn,19070713,19070806,8,,0,0,0,0,,0,0,1,0,6,
-minoraverages/Howard,1907,Empire State League,sweeney,B02215,Sweeney,(Mike?),,Lyons,19070828,19070907,12,,0,0,0,0,,0,12,0,0,0,
-minoraverages/Howard,1907,Empire State League,theetke,B02228,Theetke,,,Lyons,19070614,19070628,9,,0,0,0,0,,5,0,4,0,0,
-minoraverages/1908Reach,1907,Empire State League,ullman,B00076,Ullman,,0,Oswego,,,81,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,ullman,F20115,Ullman,,0,Oswego,,,,,,,,,,,yes,,,,
-minoraverages/Howard,1907,Empire State League,ullman,B02231,Ullman,Charles E.,,Oswego,19070524,19070907,81,,0,0,0,0,,0,81,0,0,0,
-minoraverages/Howard,1907,Empire State League,urquhart,B02244,Urquhart,,,Lyons,19070622,19070622,1,,0,0,0,0,,0,0,0,1,0,
-minoraverages/Howard,1907,Empire State League,wagner,B02253,Wagner,,,Fulton,19070524,19070525,2,,0,0,0,0,,0,2,0,0,0,
-minoraverages/Howard,1907,Empire State League,walker-osw,B02266,Walker,,,Oswego,19070529,19070529,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,walker-sf,B02277,Walker,,,Seneca Falls,19070530,19070530,2,,0,2,0,0,,0,0,0,0,0,
-minoraverages/1908Reach,1907,Empire State League,wall,B00013,Wall,,0,Oswego,,,84,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,wall,F20067,Wall,,0,Oswego,,,,,yes,,,,,,,,,,
-minoraverages/Howard,1907,Empire State League,wall,B02289,Wall,George Henry,,Oswego,19070524,19070907,84,,83,0,0,0,,0,0,0,0,0,
-minoraverages/1908Reach,1907,Empire State League,wallace,B00084,Wallace,,0,Oswego,,,75,,,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,wallace,F20014,Wallace,,0,Oswego,,,,,yes,,,,,,,,,,
-minoraverages/1908Reach,1907,Empire State League,wallace,F20046,Wallace,,0,Oswego,,,,,,,,,,,,,yes,,
-minoraverages/Howard,1907,Empire State League,wallace,B02290,Wallace,"""Wally"" ",,Oswego,19070525,19070907,75,,1,0,1,0,,1,1,9,61,0,
-minoraverages/Howard,1907,Empire State League,welch,B02312,Welch,Joseph,,Seneca Falls,19070625,19070826,44,,0,0,0,0,,2,6,35,0,1,
-minoraverages/Howard,1907,Empire State League,weller,B02304,Weller,Burns MacNeil,,Seneca Falls,19070601,19070613,6,,0,0,0,0,,1,0,2,0,4,
-minoraverages/Howard,1907,Empire State League,whitaker,B02320,Whitaker,L. H.,1,Fulton,19070525,19070615,7,,3,0,0,0,,0,0,0,0,3,
-minoraverages/Howard,1907,Empire State League,whitaker,B02336,Whitaker,L. H.,2,Geneva,19070831,19070831,1,,1,0,0,0,,0,0,0,0,0,
-minoraverages/Howard,1907,Empire State League,whitaker,B02348,Whitaker,L. H.,3,Fulton,19070904,19070904,1,,0,0,0,0,,0,0,0,0,1,
-minoraverages/Howard,1907,Empire State League,whitaker,B02357,Whitaker,L. H.,T,,19070525,19070904,9,,4,0,0,0,,0,0,0,0,4,
-minoraverages/Howard,1907,Empire State League,williams,B02361,Williams,Orme D.,,Auburn,19070529,19070906,53,,0,0,0,0,,6,9,9,0,28,
-minoraverages/Howard,1907,Empire State League,wolfe,B02373,Wolfe,,,Lyons,19070620,19070620,1,,0,0,0,0,,0,0,0,1,0,
-minoraverages/Howard,1907,Empire State League,woods,B02385,Woods,"Eugene T. ""Teddy""",,Fulton,19070529,19070907,83,,0,0,0,0,,0,83,0,0,0,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+minoraverages/Howard,1907,Empire State League,adams,B00013,Adams,,,Seneca Falls,19070906,19070906,1,,cf1
+minoraverages/Howard,1907,Empire State League,agnew,B00021,Agnew,(John J.?),,Seneca Falls,19070828,19070906,11,,ss6cf4rf1
+minoraverages/Howard,1907,Empire State League,akey,B00037,Akey,,,Lyons,19070525,19070603,7,,cf2rf5
+minoraverages/Howard,1907,Empire State League,allen,B00045,Allen,(Thomas?),,Geneva,19070723,19070907,39,,2b36ss2cf1
+minoraverages/Howard,1907,Empire State League,anderson,B00059,Anderson,,,Fulton,19070615,19070702,6,,p5rf1
+minoraverages/Howard,1907,Empire State League,baker,B00068,Baker,,,Auburn,19070617,19070617,1,,p1
+minoraverages/Howard,1907,Empire State League,barrett,B00076,Barrett,,,Fulton,19070603,19070604,2,,c2
+minoraverages/Howard,1907,Empire State League,barry,B00084,Barry,"Lawrence ""Larry""",1,Oswego,19070718,19070730,4,,p3rf1
+minoraverages/Howard,1907,Empire State League,barry,B00092,Barry,"Lawrence ""Larry""",2,Geneva,19070821,19070907,15,,p61b12b1ss1rf7
+minoraverages/Howard,1907,Empire State League,barry,B00101,Barry,"Lawrence ""Larry""",T,,19070718,19070907,19,,p91b12b1ss1rf8
+minoraverages/Howard,1907,Empire State League,baum,B00117,Baum,,,Fulton,19070524,19070907,71,,ss71
+minoraverages/Howard,1907,Empire State League,bayliss,B00125,Bayliss,Harry,,Oswego,19070525,19070531,3,,p3
+minoraverages/Howard,1907,Empire State League,bergen,B00130,Bergen,,1,Auburn,19070728,19070728,1,,cf1
+minoraverages/Howard,1907,Empire State League,bergen,B00149,Bergen,,2,Lyons,19070831,19070831,2,,
+minoraverages/Howard,1907,Empire State League,bergen,B00158,Bergen,,T,,19070728,19070831,3,,cf1
+minoraverages/Howard,1907,Empire State League,boland,B00163,Boland,Patrick,,Lyons,19070624,19070906,59,,c291b173b1lf1cf10
+minoraverages/Howard,1907,Empire State League,bonham,B00174,Bonham,"""Doug""",,Geneva,19070617,19070620,4,,lf4
+minoraverages/Howard,1907,Empire State League,bourdon,B00182,Bourdon,"Victor Joseph ""Vic""",,Geneva,19070524,19070718,28,,p12lf8rf7
+minoraverages/Howard,1907,Empire State League,brady,B00196,Brady,,,Lyons,19070819,19070824,5,,c3cf1rf1
+minoraverages/Howard,1907,Empire State League,brand,B00207,Brand,Charles,,Auburn,19070610,19070826,63,,2b63
+minoraverages/Howard,1907,Empire State League,burns,B00210,Burns,,,Geneva,19070604,19070831,68,,lf24cf8rf36
+minoraverages/Howard,1907,Empire State League,cady,B00229,Cady,Fred ,,Lyons,19070702,19070907,47,,1b302b17
+minoraverages/Howard,1907,Empire State League,carney,B00232,Carney,"John J. ""Jack""",,Aub,19070622,19070906,58,,1b58
+minoraverages/Howard,1907,Empire State League,carney,M90026,Carney,John J.,,Auburn,19070726,,,,
+minoraverages/1908Reach,1907,Empire State League,carr-osw,B00092,Carr,,0,Oswego,,,82,,
+minoraverages/1908Reach,1907,Empire State League,carr-osw,F20153,Carr,,0,Oswego,,,,,3b.
+minoraverages/Howard,1907,Empire State League,carr-sf,B00241,Carr,"Milton ""Milt""",,Seneca Falls,19070524,19070810,62,,lf3cf59
+minoraverages/Howard,1907,Empire State League,carr-osw,B00255,Carr,Sidney Lovecraft,,Oswego,19070524,19070907,82,,3b82
+minoraverages/Howard,1907,Empire State League,case,B00264,Case,,,Oswego,19070530,19070530,1,,p1
+minoraverages/Howard,1907,Empire State League,cass,B00278,Cass,,,Lyons,19070718,19070730,11,,ss11
+minoraverages/Howard,1907,Empire State League,clancy,B00286,Clancy,,1,Lyons,19070610,19070615,5,,c5
+minoraverages/Howard,1907,Empire State League,clancy,B00293,Clancy,,2,Auburn,19070730,19070730,1,,c1
+minoraverages/Howard,1907,Empire State League,clancy,B00308,Clancy,,T,,19070610,19070730,6,,c6
+minoraverages/Howard,1907,Empire State League,clark,B00319,Clark,,,Fulton,19070524,19070625,5,,p4c1
+minoraverages/Howard,1907,Empire State League,cleary,B00324,Cleary,Arthur J.,,Fulton,19070525,19070720,40,,ss3lf33rf4
+minoraverages/1908Reach,1907,Empire State League,cobean,B00045,Cobean,,0,Oswego,,,41,,
+minoraverages/1908Reach,1907,Empire State League,cobean,F20023,Cobean,,0,Oswego,,,,,lf.
+minoraverages/1908Reach,1907,Empire State League,cobean,F20095,Cobean,,0,Oswego,,,,,p.
+minoraverages/1908Reach,1907,Empire State League,cobean,P10035,Cobean,,0,Oswego,,,,,
+minoraverages/Howard,1907,Empire State League,cobean,B00335,Cobean,"Samuel ""Sam""",,Oswego,19070524,19070907,41,,p301b1lf3cf1rf5
+minoraverages/Howard,1907,Empire State League,collett,B00343,Collett,Henry J. C.,,Lyons,19070529,19070907,81,,2b33b78
+minoraverages/Howard,1907,Empire State League,collier,B00356,Collier,,,Fulton,19070524,19070611,10,,2b1ss8lf1
+minoraverages/Howard,1907,Empire State League,collister,B00362,Collister,(see Collester),,Fulton,19070610,19070615,6,,ss6
+minoraverages/Howard,1907,Empire State League,comiskey,B00370,Comiskey,,,Geneva,19070903,19070905,2,,p2
+minoraverages/Howard,1907,Empire State League,conevery,B00381,Conevery,"James ""Sag""",,Geneva,19070524,19070907,44,,p241b15cf2rf2
+minoraverages/Howard,1907,Empire State League,cook,B00397,Cook,,,Lyons,19070525,19070611,11,,c71b4
+minoraverages/Howard,1907,Empire State League,daley,B00403,Daley,"James A. ""Jimmy""",1,Seneca Falls,19070524,19070525,2,,2b2
+minoraverages/Howard,1907,Empire State League,daley,B00416,Daley,"James A. ""Jimmy""",2,Lyons,19070716,19070830,13,,2b13
+minoraverages/Howard,1907,Empire State League,daley,B00427,Daley,"James A. ""Jimmy""",T,,19070524,19070830,15,,2b15
+minoraverages/Howard,1907,Empire State League,danahey,B00434,Danahey,Michael Ignatius,,Fulton,19070706,19070907,48,,c46rf2
+minoraverages/Howard,1907,Empire State League,davie,B00442,Davie,Ralph Leon,,Lyons,19070606,19070907,35,,p21lf4cf6rf5
+minoraverages/Howard,1907,Empire State League,delave,B00450,Delave,"Edwin K. ""Tacks""",,Auburn,19070525,19070704,27,,p121b22b23b6lf7
+minoraverages/Howard,1907,Empire State League,deshon,B00469,Deshon,Nick,,Auburn,19070613,19070613,1,,p1
+minoraverages/Howard,1907,Empire State League,diebold,B00475,Diebold,,,Fulton,19070718,19070823,15,,p10rf5
+minoraverages/Howard,1907,Empire State League,dolan,B00488,Dolan,,1,Lyons,19070525,19070604,7,,2b33b3cf1
+minoraverages/Howard,1907,Empire State League,dolan,B00491,Dolan,,2,Geneva,19070709,19070710,2,,3b2
+minoraverages/Howard,1907,Empire State League,dolan,B00502,Dolan,,T,,19070525,19070710,9,,2b33b5cf1
+minoraverages/Howard,1907,Empire State League,donahue,B00515,Donahue,"Charles M. ""She""*",,Fulton,19070524,19070907,77,,2b77
+minoraverages/Howard,1907,Empire State League,dossinger,B00528,Dossinger,"Jacobum ""Jake""",,Lyons,19070802,19070907,34,,2b18ss12cf2rf2
+minoraverages/Howard,1907,Empire State League,duffy,B00531,Duffy,,,Geneva,19070621,19070621,1,,lf15
+minoraverages/Howard,1907,Empire State League,egan,B00544,Egan,"Arthur A. ""Ben""*",1,Seneca Falls,19070529,19070715,14,,c14
+minoraverages/Howard,1907,Empire State League,egan,B00553,Egan,"Arthur A. ""Ben""*",2,Auburn,19070807,19070906,23,,c23
+minoraverages/Howard,1907,Empire State League,egan,B00566,Egan,"Arthur A. ""Ben""*",T,,19070529,19070906,37,,c37
+minoraverages/Howard,1907,Empire State League,ellinger,B00590,Ellinger,Leon ,,Auburn,19070525,19070702,10,,p10
+minoraverages/1908Reach,1907,Empire State League,elliott,B00037,Elliott,,0,Oswego,,,71,,
+minoraverages/1908Reach,1907,Empire State League,elliott,F20051,Elliott,,0,Oswego,,,,,c.
+minoraverages/1908Reach,1907,Empire State League,elliott,F20072,Elliott,,0,Oswego,,,,,rf.
+minoraverages/Howard,1907,Empire State League,elliott,B00577,Elliott,"Edwin S. ""Chaucer""",,Oswego,19070524,19070907,71,,c26cf1rf44
+minoraverages/Howard,1907,Empire State League,elliott,M90071,Elliott,"Edwin S. ""Chaucer""",,Oswego,,,,,
+minoraverages/Howard,1907,Empire State League,enright,B00589,Enright,,,Lyons,19070617,19070617,1,,ss1
+minoraverages/Howard,1907,Empire State League,farrell,B00609,Farrell,,,Seneca Falls,19070531,19070531,1,,p1
+minoraverages/Howard,1907,Empire State League,fennell,B00614,Fennell,"Arthur B. ""Art""",,Fulton,19070524,19070907,76,,p1c281b46rf1
+minoraverages/Howard,1907,Empire State League,fisher,B00623,Fisher,,,Lyons,19070525,19070529,2,,p21b1
+minoraverages/Howard,1907,Empire State League,flanagan@may,B00638,Flanagan,,,Seneca Falls,19070529,19070529,1,,lf1
+minoraverages/Howard,1907,Empire State League,flanagan@jun,B00646,Flanagan,"""Austie"" ",,Seneca Falls,19070618,19070618,1,,p1
+minoraverages/Howard,1907,Empire State League,fleischer,B00651,Fleischer,,,Lyons,19070525,19070604,6,,lf5rf1
+minoraverages/Howard,1907,Empire State League,forbes,B00667,Forbes,,,Auburn,19070726,19070729,3,,p1lf2
+minoraverages/Howard,1907,Empire State League,frank,B00672,Frank,George W.,,Geneva,19070524,19070723,40,,2b40
+minoraverages/Howard,1907,Empire State League,frost,B00680,Frost,,,Geneva,19070801,19070906,25,,cf25
+minoraverages/Howard,1907,Empire State League,galvin,B00695,Galvin,"""Snapper"" ",,Oswego,19070524,19070617,17,,rf17
+minoraverages/Howard,1907,Empire State League,gardner,B00705,Gardner,,,Geneva,19070620,19070815,15,,p15
+minoraverages/Howard,1907,Empire State League,garvey,B00718,Garvey,,,Geneva,19070710,19070907,28,,p16lf3rf8
+minoraverages/Howard,1907,Empire State League,gaughn,B00726,Gaughn,"""Cad""",1,Seneca Falls,19070607,19070613,4,,lf4
+minoraverages/Howard,1907,Empire State League,gaughn,B00739,Gaughn,"""Cad""",2,Lyons,19070617,19070618,2,,c2
+minoraverages/Howard,1907,Empire State League,gaughn,B00747,Gaughn,"""Cad""",3,Seneca Falls,19070619,19070822,7,,c21b1lf1cf3
+minoraverages/Howard,1907,Empire State League,gaughn,B00752,Gaughn,"""Cad""",T,,19070607,19070822,13,,c41b1lf5cf3
+minoraverages/Howard,1907,Empire State League,gianelli,B00760,Gianelli,"Herbert G. ""Herb""",,Auburn,19070719,19070905,16,,p16
+minoraverages/Howard,1907,Empire State League,gillespie,B00771,Gillespie,,,Fulton,19070524,19070906,77,,2b23b71ss4
+minoraverages/Howard,1907,Empire State League,goettel,B00783,Goettel,"Edward G. ""Eddie""",,Seneca Falls,19070724,19070904,16,,p13lf2rf1
+minoraverages/Howard,1907,Empire State League,gragion,B00794,Gragion,Vincent P.,,Geneva,19070524,19070907,81,,1b442b1ss25lf1cf7rf3
+minoraverages/Howard,1907,Empire State League,graney,B00806,Graney,(James D.?),1,Fulton,19070529,19070713,30,,lf6rf24
+minoraverages/Howard,1907,Empire State League,graney,B00811,Graney,(James D.?),2,Auburn,19070729,19070906,30,,lf24cf2rf4
+minoraverages/Howard,1907,Empire State League,graney,B00822,Graney,(James D.?),T,,19070529,19070906,60,,lf30cf2rf28
+minoraverages/Howard,1907,Empire State League,griffin,B00833,Griffin,(James?),1,Lyons,19070525,19070715,36,,2b1ss17lf8cf6rf4
+minoraverages/Howard,1907,Empire State League,griffin,B00840,Griffin,(James?),2,Fulton,19070719,19070907,44,,2b43b8lf4rf28
+minoraverages/Howard,1907,Empire State League,griffin,B00854,Griffin,(James?),T,,19070525,19070715,80,,2b53b8ss17lf12cf6rf32
+minoraverages/Howard,1907,Empire State League,groh.c,B00865,Groh,C.,1,Lyons,19070529,19070530,3,,p3
+minoraverages/Howard,1907,Empire State League,groh.c,B00879,Groh,C.,2,Auburn,19070708,19070710,2,,p2
+minoraverages/Howard,1907,Empire State League,groh.c,B00887,Groh,C.,T,,19070529,19070710,5,,p5
+minoraverages/Howard,1907,Empire State League,groh.l,B00898,Groh,"Lewis C. ""Lew""*",1,Lyons,19070525,19070611,12,,ss12
+minoraverages/Howard,1907,Empire State League,groh.l,B00904,Groh,"Lewis C. ""Lew""*",2,Seneca Falls,19070613,19070805,44,,ss44
+minoraverages/Howard,1907,Empire State League,groh.l,B00912,Groh,"Lewis C. ""Lew""*",3,Auburn,19070806,19070815,8,,ss8
+minoraverages/Howard,1907,Empire State League,groh.l,B00920,Groh,"Lewis C. ""Lew""*",T,,19070525,19070815,64,,ss64
+minoraverages/Howard,1907,Empire State League,groh.l,M90047,Groh,Lewis C.*,,Lyons,,19070611,,,
+minoraverages/Howard,1907,Empire State League,groom,B00936,Groom,R.,,Seneca Falls,19070621,19070628,2,,p2
+minoraverages/Howard,1907,Empire State League,hanlon,B00948,Hanlon,,,Geneva,19070529,19070529,1,,ss1
+minoraverages/Howard,1907,Empire State League,harding,B00957,Harding,"William ""Bill""",,Geneva,19070724,19070725,2,,lf61rf24
+minoraverages/Howard,1907,Empire State League,hemersley,B00961,Hemersley,,,Seneca Falls,19070614,19070614,1,,p1
+minoraverages/Howard,1907,Empire State League,henderson,B00973,Henderson,Jimmy ,,Auburn,19070525,19070806,52,,c51lf1
+minoraverages/Howard,1907,Empire State League,hennessey,B00985,Hennessey,,,Auburn,19070702,19070702,1,,p1
+minoraverages/Howard,1907,Empire State League,hoff,B00999,Hoff,,,Auburn,19070729,19070729,2,,c2
+minoraverages/Howard,1907,Empire State League,house,B01007,House,Lee,1,Seneca Falls,19070524,19070531,5,,cf2rf5
+minoraverages/Howard,1907,Empire State League,house,B01010,House,Lee,2,Lyons,19070611,19070611,1,,p1
+minoraverages/Howard,1907,Empire State League,house,B01029,House,Lee,T,,19070524,19070611,6,,p1cf2
+minoraverages/Howard,1907,Empire State League,hughes,B01032,Hughes,"William ""Del""",,Geneva,19070530,19070617,10,,p41b1lf3rf2
+minoraverages/Howard,1907,Empire State League,hurley,B01041,Hurley,,,Seneca Falls,19070524,19070601,5,,2b2ss3
+minoraverages/Howard,1907,Empire State League,hydon,B01055,Hydon,Robert James,,Auburn,19070820,19070820,1,,p1
+minoraverages/Howard,1907,Empire State League,jackson,B01064,Jackson,,,Geneva,19070622,19070716,19,,ss1lf17cf1
+minoraverages/Howard,1907,Empire State League,jewell,B01078,Jewell,,,Geneva,19070822,19070828,3,,p1rf2
+minoraverages/Howard,1907,Empire State League,johnson-gen,B01086,Johnson,,,Geneva,19070819,19070821,3,,ss3
+minoraverages/Howard,1907,Empire State League,johnson-sf,B01093,Johnson,,,Seneca Falls,19070902,19070902,2,,cf2
+minoraverages/Howard,1907,Empire State League,karline,B01108,Karline,,,Lyons,19070529,19070530,3,,c3
+minoraverages/Howard,1907,Empire State League,kearney,B01119,Kearney,,1,Auburn,19070525,19070621,19,,c21b17
+minoraverages/Howard,1907,Empire State League,kearney,B01124,Kearney,,2,Lyons,19070624,19070629,2,,c2
+minoraverages/Howard,1907,Empire State League,kearney,B01135,Kearney,,T,,19070525,19070629,21,,c41b17
+minoraverages/Howard,1907,Empire State League,kelley-aub,B01143,Kelley,"(J./""King""/""Turk""?)",,Auburn,19070525,19070725,44,,cf44
+minoraverages/Howard,1907,Empire State League,kelley-lyo,B01156,Kelley,,,Lyons,19070621,19070621,1,,rf1
+minoraverages/Howard,1907,Empire State League,kelley-aub,M90018,Kelley,,,Auburn,,19070725,,,
+minoraverages/Howard,1907,Empire State League,kelly,B01162,Kelly,,,Auburn,19070826,19070906,10,,ss10
+minoraverages/Howard,1907,Empire State League,kennedy,B01170,Kennedy,"John J. ""Doc""",1,Lyons,19070604,19070806,43,,c271b16
+minoraverages/Howard,1907,Empire State League,kennedy,B01181,Kennedy,"John J. ""Doc""",2,Fulton,19070809,19070829,17,,p1c61b10
+minoraverages/Howard,1907,Empire State League,kennedy,B01197,Kennedy,"John J. ""Doc""",T,,19070604,19070820,60,,p1c331b26
+minoraverages/Howard,1907,Empire State League,kennedy,M90052,Kennedy,"""Doc""",,Lyons,19070612,19070008,,,
+minoraverages/Howard,1907,Empire State League,kidney,B01203,Kidney,Richard Sluyter,,Auburn,19070822,19070903,8,,3b3lf2cf1rf2
+minoraverages/Howard,1907,Empire State League,killingsworth,B01216,Killingsworth,"Edward C. ""Ed""",,Fulton,19070704,19070718,7,,p5rf2
+minoraverages/Howard,1907,Empire State League,klinck,B01227,Klinck,"William J. ""Bill""",,Lyons,19070525,19070607,9,,1b42b5
+minoraverages/Howard,1907,Empire State League,klock,B01234,Klock,"William ""Bill""",,Seneca Falls,19070524,19070906,80,,c782b1
+minoraverages/Howard,1907,Empire State League,knapp,B01242,Knapp,"Levi ""Putt""",,Fulton,19070524,19070613,6,,p6rf1
+minoraverages/1908Reach,1907,Empire State League,lee,B00021,Lee,,0,Oswego,,,26,,
+minoraverages/1908Reach,1907,Empire State League,lee,F20038,Lee,,0,Oswego,,,,,rf.
+minoraverages/1908Reach,1907,Empire State League,lee,F20144,Lee,,0,Oswego,,,,,p.
+minoraverages/1908Reach,1907,Empire State League,lee,P10019,Lee,,0,Oswego,,,,,
+minoraverages/Howard,1907,Empire State League,lee,B01250,Lee,"George ""Knotty"" ",,Oswego,19070723,19070907,26,,p13lf3rf7
+minoraverages/Howard,1907,Empire State League,lothrop,B01269,Lothrop,Manfred Nathaniel,,Seneca Falls,19070525,19070905,32,,p31cf1
+minoraverages/1908Reach,1907,Empire State League,lovely,B00101,Lovely,,0,Oswego,,,82,,
+minoraverages/1908Reach,1907,Empire State League,lovely,F20102,Lovely,,0,Oswego,,,,,lf.
+minoraverages/1908Reach,1907,Empire State League,lovely,F20177,Lovely,,0,Oswego,,,,,
+minoraverages/Howard,1907,Empire State League,lovely,B01275,Lovely,"Robert ""Bobby""",,Oswego,19070524,19070907,82,,lf82
+minoraverages/Howard,1907,Empire State League,lynch,B01288,Lynch,,,Lyons,19070606,19070719,32,,cf32
+minoraverages/Howard,1907,Empire State League,mack,B01291,Mack,William Francis,,Seneca Falls,19070530,19070906,51,,p30cf1rf19
+minoraverages/Howard,1907,Empire State League,major,B01300,Major,"Burton W. ""Burt""",1,Auburn,19070525,19070620,15,,lf15
+minoraverages/Howard,1907,Empire State League,major,B01313,Major,"Burton W. ""Burt""",2,Lyons,19070702,19070907,59,,lf59
+minoraverages/Howard,1907,Empire State League,major,B01321,Major,"Burton W. ""Burt""",T,,19070525,19070907,74,,lf74
+minoraverages/Howard,1907,Empire State League,mantel,B01337,Mantel,Bobby,1,Auburn,19070613,19070710,3,,1b1lf2
+minoraverages/Howard,1907,Empire State League,mantel,B01345,Mantel,Bobby,2,Geneva,19070717,19070812,23,,1b23
+minoraverages/Howard,1907,Empire State League,mantel,B01359,Mantel,Bobby,3,Auburn,19070824,19070906,11,,2b93b2
+minoraverages/Howard,1907,Empire State League,mantel,B01368,Mantel,Bobby,T,,19070613,19070906,37,,1b242b93b2lf2
+minoraverages/Howard,1907,Empire State League,marnin,B01376,Marnin,William Michael,,Geneva,19070524,19070907,83,,c83
+minoraverages/Howard,1907,Empire State League,mason,B01384,Mason,,,Geneva,19070719,19070719,1,,lf15
+minoraverages/Howard,1907,Empire State League,mccallum,B01392,McCallum,"Michael ""Midget""",,Auburn,19070525,19070806,56,,ss56
+minoraverages/Howard,1907,Empire State League,mccarthy.a-ful,B01402,McCarthy,"Andrew ""Andy""",,Fulton,19070608,19070903,39,,p242b2rf11
+minoraverages/Howard,1907,Empire State League,mccarthy.f-ful,B01415,McCarthy,F.,,Fulton,19070801,19070801,1,,p1
+minoraverages/Howard,1907,Empire State League,mccarthy.u-lyo,B01428,McCarthy,,,Lyons,19070613,19070613,1,,ss1
+minoraverages/Howard,1907,Empire State League,mccarthy.j-lyo,B01431,McCarthy,"Joseph N. ""Joe""*",,Lyons,19070820,19070820,1,,c1
+minoraverages/Howard,1907,Empire State League,mcdonough,B01444,McDonough,,,Fulton,19070524,19070704,30,,c31b27
+minoraverages/Howard,1907,Empire State League,mcgraw,B01453,McGraw,"Samuel ""Sam""",,Seneca Falls,19070603,19070830,27,,2b253b1rf1
+minoraverages/Howard,1907,Empire State League,mcgraw,M90083,McGraw,"Samuel ""Sam""",,Seneca Falls,,,,,
+minoraverages/1908Reach,1907,Empire State League,mcguire-osw,B00117,McGuire,,0,Oswego,,,84,,
+minoraverages/1908Reach,1907,Empire State League,mcguire-osw,F20166,McGuire,,0,Oswego,,,,,ss.
+minoraverages/Howard,1907,Empire State League,mcguire-sf,B01466,McGuire,Eddie,,Seneca Falls,19070524,19070906,79,,2b333b4ss24lf2cf4rf12
+minoraverages/Howard,1907,Empire State League,mcguire-osw,B01477,McGuire,"L. ""Dinny""",,Oswego,19070524,19070907,84,,ss84
+minoraverages/Howard,1907,Empire State League,mcmahon,B01489,McMahon,,,Geneva,19070524,19070613,14,,ss7lf3rf4
+minoraverages/Howard,1907,Empire State League,mcneil,B01490,McNeil,,,Lyons,19070812,19070829,7,,ss7
+minoraverages/Howard,1907,Empire State League,meagher,B01509,Meagher,,,Lyons,19070525,19070525,1,,c1
+minoraverages/Howard,1907,Empire State League,meinberg,B01514,Meinberg,,,Geneva,19070705,19070708,4,,3b4
+minoraverages/Howard,1907,Empire State League,miley,B01523,Miley,"Francis ""Frank""",,Geneva,19070812,19070812,1,,
+minoraverages/Howard,1907,Empire State League,miller,B01538,Miller,,,Seneca Falls,19070703,19070703,1,,p1
+minoraverages/Howard,1907,Empire State League,monat,B01546,Monat,Gus,,Lyons,19070525,19070907,72,,p25c12b2lf2rf43
+minoraverages/Howard,1907,Empire State League,montague,B01551,Montague,George,1,Seneca Falls,19070524,19070525,2,,lf2
+minoraverages/Howard,1907,Empire State League,montague,B01567,Montague,George,2,Lyons,19070727,19070727,1,,ss1
+minoraverages/Howard,1907,Empire State League,montague,B01572,Montague,George,3,Seneca Falls,19070812,19070822,4,,lf4
+minoraverages/Howard,1907,Empire State League,montague,B01580,Montague,George,T,,19070524,19070822,7,,ss1cf6
+minoraverages/1908Reach,1907,Empire State League,moroney,B00059,Moroney,,0,Oswego,,,10,,
+minoraverages/1908Reach,1907,Empire State League,moroney,F20131,Moroney,,0,Oswego,,,,,p.
+minoraverages/1908Reach,1907,Empire State League,moroney,P10024,Moroney,,0,Oswego,,,,,
+minoraverages/Howard,1907,Empire State League,moroney,B01595,Moroney,"James F. ""Jim""*",,Oswego,19070803,19070906,11,,p11
+minoraverages/Howard,1907,Empire State League,morrissey.c,B01601,Morrissey,Chester Patrick,,Seneca Falls,19070524,19070906,88,,1b88
+minoraverages/Howard,1907,Empire State League,morrissey.j,B01617,Morrissey,J.,,Seneca Falls,19070823,19070824,2,,lf2
+minoraverages/1908Reach,1907,Empire State League,murphy.t-osw,B00068,Murphy,T.,0,Oswego,,,29,,
+minoraverages/1908Reach,1907,Empire State League,murphy.t-osw,F20128,Murphy,T.,0,Oswego,,,,,2b.
+minoraverages/Howard,1907,Empire State League,murphy.d-aub,B01625,Murphy,"David F. ""Dave""*",,Auburn,19070621,19070906,54,,3b54
+minoraverages/Howard,1907,Empire State League,murphy.j-lyo+sf,B01630,Murphy,J.,1,Lyons,19070810,19070810,1,,2b1
+minoraverages/Howard,1907,Empire State League,murphy.j-lyo+sf,B01649,Murphy,J.,2,Seneca Falls,19070813,19070905,19,,2b19
+minoraverages/Howard,1907,Empire State League,murphy.j-lyo+sf,B01658,Murphy,J.,T,,19070810,19070905,20,,2b20
+minoraverages/Howard,1907,Empire State League,murphy.t-osw,B01663,Murphy,Tom,,Oswego,19070524,19070907,84,,2b84
+minoraverages/Howard,1907,Empire State League,murphy-lyo+gen,B01674,Murphy,,1,Lyons,19070704,19070710,5,,ss5
+minoraverages/Howard,1907,Empire State League,murphy-lyo+gen,B01682,Murphy,,2,Geneva,19070713,19070717,4,,ss4
+minoraverages/Howard,1907,Empire State League,murphy-lyo+gen,B01696,Murphy,,T,,19070704,19070717,9,,ss9
+minoraverages/Howard,1907,Empire State League,murray.j,B01706,Murray,"John E. ""Sauce""",,Geneva,19070613,19070907,16,,p82b1lf3rf3
+minoraverages/Howard,1907,Empire State League,murray.r,B01711,Murray,"T./N. ""Red""",,Geneva,19070524,19070704,30,,3b30
+minoraverages/Howard,1907,Empire State League,murray.j,M90039,Murray,John E.,,Geneva,,,,,
+minoraverages/Howard,1907,Empire State League,nichols,B01722,Nichols,,,Seneca Falls,19070902,19070906,7,,2b2ss5
+minoraverages/Howard,1907,Empire State League,nugent,B01733,Nugent,E.,,Geneva,19070717,19070907,43,,3b43
+minoraverages/Howard,1907,Empire State League,obrien,B01740,O'Brien,"Jack ""Gory""",1,Geneva,19070524,19070717,41,,cf36rf5
+minoraverages/Howard,1907,Empire State League,obrien,B01754,O'Brien,"Jack ""Gory""",2,Seneca Falls,19070718,19070729,10,,lf1cf1rf8
+minoraverages/Howard,1907,Empire State League,obrien,B01765,O'Brien,"Jack ""Gory""",3,Auburn,19070730,19070906,34,,c31b4cf27
+minoraverages/Howard,1907,Empire State League,obrien,B01779,O'Brien,"Jack ""Gory""",T,,19070524,19070906,85,,c31b4lf1cf64rf13
+minoraverages/1908Reach,1907,Empire State League,oconnor,P10056,O'Connor,,0,Oswego,,,,,
+minoraverages/Howard,1907,Empire State League,oconnor,B01787,O'Connor,"Andrew J. ""Andy""*",1,Seneca Falls,19070524,19070608,5,,p4rf1
+minoraverages/Howard,1907,Empire State League,oconnor,B01798,O'Connor,"Andrew J. ""Andy""*",2,Oswego,19070613,19070715,12,,p11rf1
+minoraverages/Howard,1907,Empire State League,oconnor,B01804,O'Connor,"Andrew J. ""Andy""*",T,,19070524,19070715,17,,p15rf2
+minoraverages/Howard,1907,Empire State League,orourke,B01812,O'Rourke,Steve G.,1,Geneva,19070617,19070731,35,,3b4ss31
+minoraverages/Howard,1907,Empire State League,orourke,B01820,O'Rourke,Steve G.,2,Lyons,19070814,19070907,16,,ss16
+minoraverages/Howard,1907,Empire State League,orourke,B01836,O'Rourke,Steve G.,T,,19070617,19070907,51,,3b4ss47
+minoraverages/Howard,1907,Empire State League,osterhout,B01848,Osterhout,Clarence Bennett,1,Auburn,19070718,19070718,1,,
+minoraverages/Howard,1907,Empire State League,osterhout,B01857,Osterhout,Clarence Bennett,2,Fulton,19070720,19070907,45,,1b2ss1lf38rf4
+minoraverages/Howard,1907,Empire State League,osterhout,B01861,Osterhout,Clarence Bennett,T,,19070718,19070907,46,,1b2ss1lf38rf4
+minoraverages/Howard,1907,Empire State League,parrot,B01873,Parrot,Ralph E.,,Auburn,19070525,19070831,73,,lf4rf69
+minoraverages/Howard,1907,Empire State League,pender,B01885,Pender,John F.,,Lyons,19070628,19070907,29,,p201b6cf1rf2
+minoraverages/Howard,1907,Empire State League,perry,B01899,Perry,George W. ,,Fulton,19070529,19070907,36,,p31rf5
+minoraverages/Howard,1907,Empire State League,phyle,B01905,Phyle,,,Oswego,19070621,19070624,2,,p1cf1
+minoraverages/Howard,1907,Empire State League,pierce,B01918,Pierce,,,Seneca Falls,19070819,19070822,2,,p2
+minoraverages/Howard,1907,Empire State League,place,B01926,Place,Harvey Bush,1,Auburn,19070525,19070608,10,,2b10
+minoraverages/Howard,1907,Empire State League,place,B01939,Place,Harvey Bush,2,Lyons,19070611,19070629,14,,2b14
+minoraverages/Howard,1907,Empire State League,place,B01947,Place,Harvey Bush,T,,19070525,19070629,24,,2b24
+minoraverages/Howard,1907,Empire State League,rechkemer,B01952,Rechkemer,,1,Auburn,19070529,19070725,30,,3b12lf16rf2
+minoraverages/Howard,1907,Empire State League,rechkemer,B01960,Rechkemer,,2,Lyons,19070802,19070821,17,,2b73b1cf9
+minoraverages/Howard,1907,Empire State League,rechkemer,B01971,Rechkemer,,T,,19070529,19070821,47,,2b73b13lf16cf9rf2
+minoraverages/Howard,1907,Empire State League,ryan-sf,B01983,Ryan,"James P. ""Jimmy""",,Seneca Falls,19070530,19070906,79,,2b1ss5lf68cf5
+minoraverages/Howard,1907,Empire State League,ryan-lyo,B01994,Ryan,,,Lyons,19070621,19070621,1,,c1
+minoraverages/Howard,1907,Empire State League,ryan-osw,B02008,Ryan,,,Oswego,19070608,19070612,2,,p2
+minoraverages/Howard,1907,Empire State League,sanderson,B02019,Sanderson,,,Oswego,19070529,19070529,1,,p1
+minoraverages/1908Reach,1907,Empire State League,sanford,B00125,Sanford,,0,Oswego,,,22,,
+minoraverages/1908Reach,1907,Empire State League,sanford,F20080,Sanford,,0,Oswego,,,,,p.
+minoraverages/1908Reach,1907,Empire State League,sanford,P10043,Sanford,,0,Oswego,,,,,
+minoraverages/Howard,1907,Empire State League,sanford,B02024,Sanford,,1,Geneva,19070529,19070601,2,,p2
+minoraverages/Howard,1907,Empire State League,sanford,B02035,Sanford,,2,Oswego,19070604,19070904,23,,p22rf1
+minoraverages/Howard,1907,Empire State League,sanford,B02043,Sanford,,T,,19070529,19070904,25,,p24rf1
+minoraverages/Howard,1907,Empire State League,scanlan,B02056,Scanlan,Frank A.*,,Seneca Falls,19070801,19070812,2,,p2
+minoraverages/Howard,1907,Empire State League,schrier,B02062,Schrier,,,Lyons,19070620,19070620,1,,rf1
+minoraverages/Howard,1907,Empire State League,schroeder,B02070,Schroeder,,,Geneva,19070730,19070815,16,,lf16
+minoraverages/Howard,1907,Empire State League,scully,B02081,Scully,"John Henry ""Jack""",,Seneca Falls,19070530,19070906,84,,3b84
+minoraverages/Howard,1907,Empire State League,senno,B02097,Senno,Daniel Anthony,,Auburn,19070820,19070824,7,,ss7
+minoraverages/Howard,1907,Empire State League,shaw,B02100,Shaw,,,Fulton,19070617,19070617,1,,p1
+minoraverages/Howard,1907,Empire State League,sheridan,B02113,Sheridan,(Joe?),,Fulton,19070810,19070907,11,,p10rf1
+minoraverages/Howard,1907,Empire State League,shields,B02121,Shields,,,Seneca Falls,19070706,19070719,4,,p4
+minoraverages/Howard,1907,Empire State League,silva,B02137,Silva,,,Lyons,19070531,19070907,50,,p241b10lf1cf2rf12
+minoraverages/Howard,1907,Empire State League,smith-aub,B02145,Smith,Frank  ,,Auburn,19070710,19070906,19,,p123b3lf2cf1
+minoraverages/Howard,1907,Empire State League,smith-lyo,M90060,Smith,"Dr. L. W. ""Lee""",,Lyons,19070008,,,,
+minoraverages/Howard,1907,Empire State League,stclair,B02159,St. Clair,,,Geneva,19070813,19070815,3,,ss3
+minoraverages/Howard,1907,Empire State League,staub,B02168,Staub,"Joseph Lucifer ""Joe""",,Geneva,19070815,19070907,6,,cf6
+minoraverages/Howard,1907,Empire State League,striburg,B02176,Striburg,,,Geneva,19070524,19070608,9,,2b3ss6
+minoraverages/Howard,1907,Empire State League,suidam,B02184,Suidam,,,Lyons,19070531,19070612,5,,rf5
+minoraverages/Howard,1907,Empire State League,sullivan,B02192,Sullivan,,,Seneca Falls,19070618,19070618,1,,p1rf1
+minoraverages/Howard,1907,Empire State League,sutton,B02202,Sutton,"Myron Carl ""Larry""",,Auburn,19070713,19070806,8,,p6rf1
+minoraverages/Howard,1907,Empire State League,sweeney,B02215,Sweeney,(Mike?),,Lyons,19070828,19070907,12,,cf12
+minoraverages/Howard,1907,Empire State League,theetke,B02228,Theetke,,,Lyons,19070614,19070628,9,,lf5rf4
+minoraverages/1908Reach,1907,Empire State League,ullman,B00076,Ullman,,0,Oswego,,,81,,
+minoraverages/1908Reach,1907,Empire State League,ullman,F20115,Ullman,,0,Oswego,,,,,cf.
+minoraverages/Howard,1907,Empire State League,ullman,B02231,Ullman,Charles E.,,Oswego,19070524,19070907,81,,cf81
+minoraverages/Howard,1907,Empire State League,urquhart,B02244,Urquhart,,,Lyons,19070622,19070622,1,,c1
+minoraverages/Howard,1907,Empire State League,wagner,B02253,Wagner,,,Fulton,19070524,19070525,2,,cf2
+minoraverages/Howard,1907,Empire State League,walker-osw,B02266,Walker,,,Oswego,19070529,19070529,1,,p1
+minoraverages/Howard,1907,Empire State League,walker-sf,B02277,Walker,,,Seneca Falls,19070530,19070530,2,,2b2
+minoraverages/1908Reach,1907,Empire State League,wall,B00013,Wall,,0,Oswego,,,84,,
+minoraverages/1908Reach,1907,Empire State League,wall,F20067,Wall,,0,Oswego,,,,,1b.
+minoraverages/Howard,1907,Empire State League,wall,B02289,Wall,George Henry,,Oswego,19070524,19070907,84,,1b83
+minoraverages/1908Reach,1907,Empire State League,wallace,B00084,Wallace,,0,Oswego,,,75,,
+minoraverages/1908Reach,1907,Empire State League,wallace,F20014,Wallace,,0,Oswego,,,,,1b.
+minoraverages/1908Reach,1907,Empire State League,wallace,F20046,Wallace,,0,Oswego,,,,,c.
+minoraverages/Howard,1907,Empire State League,wallace,B02290,Wallace,"""Wally"" ",,Oswego,19070525,19070907,75,,c611b13b1lf1cf1rf9
+minoraverages/Howard,1907,Empire State League,welch,B02312,Welch,Joseph,,Seneca Falls,19070625,19070826,44,,p1lf2cf6rf35
+minoraverages/Howard,1907,Empire State League,weller,B02304,Weller,Burns MacNeil,,Seneca Falls,19070601,19070613,6,,p4lf1rf2
+minoraverages/Howard,1907,Empire State League,whitaker,B02320,Whitaker,L. H.,1,Fulton,19070525,19070615,7,,p31b3
+minoraverages/Howard,1907,Empire State League,whitaker,B02336,Whitaker,L. H.,2,Geneva,19070831,19070831,1,,1b1
+minoraverages/Howard,1907,Empire State League,whitaker,B02348,Whitaker,L. H.,3,Fulton,19070904,19070904,1,,p1
+minoraverages/Howard,1907,Empire State League,whitaker,B02357,Whitaker,L. H.,T,,19070525,19070904,9,,p41b4
+minoraverages/Howard,1907,Empire State League,williams,B02361,Williams,Orme D.,,Auburn,19070529,19070906,53,,p28lf6cf9rf9
+minoraverages/Howard,1907,Empire State League,wolfe,B02373,Wolfe,,,Lyons,19070620,19070620,1,,c1
+minoraverages/Howard,1907,Empire State League,woods,B02385,Woods,"Eugene T. ""Teddy""",,Fulton,19070529,19070907,83,,cf83

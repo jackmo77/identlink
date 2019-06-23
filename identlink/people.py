@@ -140,6 +140,7 @@ def clean_sources(df):
     """
     # Fill in an indicator for records which indicate a position played
     # but not games at that position
+    df["pos"] = ""
     for pos in ["P", "C", "1B", "2B", "3B", "SS", "OF", "LF", "CF", "RF"]:
         if "F_%s_G" % pos in df and "F_%s_POS" % pos in df:
             df["F_%s_G" % pos] = df["F_%s_G" % pos] \
@@ -147,6 +148,9 @@ def clean_sources(df):
                                  .apply(lambda x:
                                         "yes" if not pd.isnull(x) and int(x) > 0
                                         else None))
+        df["pos"] += (pos.lower() +
+                      df[f"F_{pos}_G"].replace({"0": None,
+                                                "yes": "."})).fillna("")
     for col in ['person.name.given', 'S_STINT']:
         df[col] = df[col].fillna("")
     # We convert dates to YYYYMMDD. This way, ident files can be loaded
@@ -169,10 +173,7 @@ def merge_idents(df, idents):
     return df[['source', 'league.year', 'league.name', 'ident', 'person.ref',
                'person.name.last', 'person.name.given',
                'S_STINT', 'entry.name',
-               'S_FIRST', 'S_LAST',
-               'B_G', 'P_G', 'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
-               'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G', 'F_C_G', 'F_P_G',
-               'F_ALL_G']] \
+               'S_FIRST', 'S_LAST', 'B_G', 'P_G', 'pos']] \
            .drop_duplicates() \
            .sort_values(['league.year', 'league.name',
                          'person.name.last', 'source', 'person.ref'])

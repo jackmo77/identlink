@@ -1,100 +1,100 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G,F_ALL_G
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,ayres,P5410927,Ayers,,,Guaranty State Bank,19120427,19120427,1,1,0,0,0,0,1,0,1,0,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,ayres,P5230351,Ayres,,,Guaranty State Bank,19120420,19120504,2,1,0,0,0,0,1,0,0,1,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,baird,P9951356,Baird,,,Butler Brothers,19120420,19120504,2,0,0,0,0,2,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,bassett,P8135684,Bassett,,,City National Bank,19120427,19120504,2,0,0,0,0,0,2,0,0,2,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,beggs,P3851242,Beggs,,,Southwestern Telephone,19120504,19120504,1,0,0,0,0,0,1,0,0,1,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,burlew,P9338703,Berlew,,,City National Bank,19120427,19120427,1,0,1,0,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,breg,P7565422,Breg,,,City National Bank,19120420,19120504,3,0,0,0,1,2,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,brown,P1199978,Brown,,,Southwestern Telephone,19120420,19120504,2,0,0,0,0,0,1,1,0,0,1,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,buchanan,P2612258,Buchanan,,,Southwestern Telephone,19120420,19120504,2,0,0,1,0,0,1,0,1,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,burlew,P4083039,Burlew,,,City National Bank,19120420,19120504,2,0,2,0,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,campion,P0317373,Campion,,,Western Electric,19120420,19120504,2,0,0,2,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,carruthers,P5526027,Carruthers,,,Magnolia Petroleum,19120420,19120420,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,clem,P5163771,Clem,,,Butler Brothers,19120427,19120504,2,0,0,0,0,0,0,0,0,0,2,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,compere,P7544982,Compere,,,Guaranty State Bank,19120420,19120504,3,0,0,0,0,0,0,0,0,0,3,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,campion,P7905291,Compion,,,Western Electric,19120427,19120427,1,0,0,1,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,conley,P0031244,Conley,,,Southwestern Telephone,19120420,19120420,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,crosevorth,P5165306,Crosevorth,,,Guaranty State Bank,19120504,19120504,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,crosson,P7398447,Crosson,,,Magnolia Petroleum,19120504,19120504,1,0,0,1,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,crosthwaite,P8754639,Crosswaite,,,Guaranty State Bank,19120427,19120427,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,crosthwaite,P7011896,Crosthwaite,,,Guaranty State Bank,19120420,19120420,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,cullon,P6172071,Cullon,,,Butler Brothers,19120504,19120504,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,darr,P0572823,Darr,,,City National Bank,19120420,19120504,3,0,0,0,3,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,davis,P3300415,Davis,,,Magnolia Petroleum,19120420,19120504,3,0,3,0,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,dobbins,P0013417,Dobbins,,,Magnolia Petroleum,19120420,19120504,3,1,0,0,0,3,0,0,0,0,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,dodson,P6244033,Dodson,,,Butler Brothers,19120420,19120504,2,0,0,0,1,0,0,0,0,0,1,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,dunn,P5809999,Dunn,,,Butler Brothers,19120420,19120420,1,0,0,1,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,easton,P3292012,Easton,,,Southwestern Telephone,19120420,19120504,2,0,0,0,0,0,1,0,0,1,1,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,fitzpatrick,P3219315,Fitzpatrick,,,Magnolia Petroleum,19120420,19120427,2,0,0,2,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,frey,P0086788,Frey,,,City National Bank,19120420,19120427,2,1,0,0,0,0,1,1,0,0,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,fullwood,P8622135,Fullwood,,,Guaranty State Bank,19120420,19120504,3,0,0,1,0,1,2,0,2,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,gerrish,P1035676,Gerrish,,,Magnolia Petroleum,19120420,19120504,2,2,0,0,0,0,0,0,0,0,0,2,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,gonish,P9607632,Gonish,,,Magnolia Petroleum,19120427,19120427,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,gordon@ump,P8437118,Gordon,,,#umpire,19120420,19120420,,,,,,,,,,,,,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,griffin,P6783661,Griffin,,,Magnolia Petroleum,19120420,19120504,3,2,0,0,1,1,0,0,0,0,1,2,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,hamm,P5227500,Ham,,,Western Electric,19120420,19120420,1,0,0,0,0,0,1,0,0,1,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,hamm,P1490873,Hamm,,,Western Electric,19120504,19120504,1,0,0,0,1,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,harris,P9893803,Harris,,,Southwestern Telephone,19120420,19120420,1,0,0,0,0,1,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,hartman,P0908115,Hartman,,,Magnolia Petroleum,19120420,19120504,3,0,0,0,0,0,3,0,0,3,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,hoskins,P3424281,Haskins,,,Magnolia Petroleum,19120420,19120420,1,0,0,0,0,0,1,0,1,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,hassell,P1607617,Hassell,,,#umpire,19120420,19120420,,,,,,,,,,,,,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,henry,P2782120,Henry,,,Southwestern Telephone,19120420,19120420,1,0,0,0,1,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,horn,P0880923,Hern,,,City National Bank,19120427,19120427,1,0,0,0,0,0,1,0,1,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,hill,P0396575,Hill,,,Western Electric,19120420,19120504,3,0,0,0,0,0,3,0,3,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,horn,P2879981,Horn,,,Western Electric,19120427,19120427,1,0,0,0,0,0,1,0,0,1,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,hoskins,P6666983,Hoskins,,,Magnolia Petroleum,19120427,19120427,1,0,0,0,0,0,1,0,1,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,johnson,P3191521,Johnson,,,Southwestern Telephone,19120420,19120504,2,0,2,0,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,jordan@ump,P2320915,Jordan,,,#umpire,19120427,19120427,,,,,,,,,,,,,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,keith,P3764800,Keith,,,Guaranty State Bank,19120420,19120504,3,0,0,1,0,0,2,0,1,1,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,keys,P7102518,Keys,,,Butler Brothers,19120420,19120420,1,0,0,0,0,0,1,0,0,1,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,king,P5853751,King,,,City National Bank,19120420,19120504,3,0,0,0,0,0,3,0,3,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,kinnan,P3099335,Kinnan,,,Magnolia Petroleum,19120420,19120420,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,kistenmacher.j,P9928568,Kistenmacher,J.,,Southwestern Telephone,19120504,19120504,1,1,0,0,0,0,0,0,0,0,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,kistenmacher.h,P1793425,Kistenme'r,H.,,Southwestern Telephone,19120504,19120504,1,0,0,0,1,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,kistenmacher.j,P4137325,Kitzenhiner,,,Southwestern Telephone,19120420,19120420,1,1,0,0,0,0,0,0,0,0,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,kunnamon,P8679631,Kunnamon,,,Magnolia Petroleum,19120504,19120504,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,laskins,P2569757,Laskins,,,Magnolia Petroleum,19120504,19120504,1,0,0,0,0,0,1,0,1,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,latham,P3248433,Latham,,,Butler Brothers,19120420,19120504,2,0,1,0,1,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,layman,P4325368,Layman,,,Western Electric,19120420,19120504,3,1,0,1,1,0,1,0,0,1,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,mangold,P8407693,Mangold,,,Guaranty State Bank,19120504,19120504,1,1,0,0,0,0,0,0,0,0,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,martin,P7322701,Martin,,,Southwestern Telephone,19120427,19120427,1,0,0,0,0,0,0,0,0,0,1,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,masten,P2434594,Masten,,,Butler Brothers,19120420,19120420,1,0,0,0,0,0,1,0,1,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,mccarty,P2698283,McCarter,,,Butler Brothers,19120504,19120504,1,0,0,0,0,0,1,0,0,1,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,mccarthy,P6113621,McCarthy,,,Butler Brothers,19120420,19120420,1,0,1,0,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,mccarty,P8399949,McCarty,,,Butler Brothers,19120420,19120420,1,0,0,0,0,0,1,0,0,1,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,morton,P3706745,Morton,,,Butler Brothers,19120504,19120504,1,0,0,0,0,0,1,0,1,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,murray,P4814426,Murray,,,Butler Brothers,19120420,19120504,3,3,0,0,0,0,0,0,0,0,0,3,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,peary,P5470927,Peary,,,City National Bank,19120504,19120504,1,0,0,0,0,1,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,pondrum@ump,P1486426,Pondrum,,,#umpire,19120427,19120427,,,,,,,,,,,,,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,quaggles,P1120545,Quaggles,,,Magnolia Petroleum,19120427,19120427,1,0,0,0,0,0,0,0,0,0,1,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,quaggles,P4762039,Quagies,,,Magnolia Petroleum,19120504,19120504,1,0,0,0,0,0,0,0,0,0,1,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,reed,P7047243,Reed,,,Guaranty State Bank,19120504,19120504,1,0,0,0,0,1,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,roberts,P4552271,Roberts,,,City National Bank,19120420,19120504,3,0,0,0,0,0,3,2,0,1,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,rogers,P6853629,Rogers,,,Guaranty State Bank,19120420,19120504,3,0,3,0,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,rugel,P6977453,Rugel,,,City National Bank,19120420,19120504,3,0,0,3,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,schimelpfenig,P0489172,Schimelpfenig,,,Western Electric,19120504,19120504,1,0,1,0,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,schimelpfenig,P7719353,Schmellfining,,,Western Electric,19120427,19120427,1,0,1,0,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,schon,P6690225,Schon,,,Western Electric,19120420,19120504,3,1,1,0,0,1,0,0,0,0,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,shannon,P9748139,Shannon,,,Western Electric,19120420,19120504,3,2,0,0,0,2,0,0,0,0,0,2,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,schimelpfenig,P9276641,Shimelp'r,,,Western Electric,19120420,19120420,1,0,0,0,1,1,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,smith,P4311387,Smith,,,Western Electric,19120420,19120504,3,0,0,0,0,0,0,0,0,0,3,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,smyth,P8420771,Smyth,,,City National Bank,19120420,19120504,2,2,0,0,0,0,0,0,0,0,0,2,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,sparris,P1951814,Sparris,,,Southwestern Telephone,19120504,19120504,1,0,0,0,0,1,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,thomas,P0685204,Thomas,,,Magnolia Petroleum,19120420,19120427,2,0,0,0,2,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,tinnon,P5040612,Tinnon,,,City National Bank,19120420,19120504,3,0,0,0,0,0,0,0,0,0,3,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,toblansky,P4464984,Tobionsky,,,Western Electric,19120427,19120427,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,toblansky,P5341549,Toblansky,,,Western Electric,19120504,19120504,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,toblansky,P7728822,Tobliansky,,,Western Electric,19120420,19120420,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,waggoner,P1654870,Wag'ner,,,Guaranty State Bank,19120427,19120427,1,0,0,0,0,1,1,0,1,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,waggoner,P9552549,Waggoner,,,Guaranty State Bank,19120420,19120420,1,0,0,0,1,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,ward,P8968723,Wald,,,Guaranty State Bank,19120504,19120504,1,0,0,0,1,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,ward,P8677657,Ward,,,Guaranty State Bank,19120420,19120427,2,0,0,1,1,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,wotowoa,P1049055,Watawa,,,Butler Brothers,19120420,19120420,1,0,0,0,0,0,1,1,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,whiteside,P3920700,Whiteside,,,Western Electric,19120427,19120427,1,0,0,0,1,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,wilkins@ump,P8455382,Wilkins,,,#umpire,19120504,19120504,,,,,,,,,,,,,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,williams-gsb,P5809613,Williams,,,Guaranty State Bank,19120420,19120420,1,0,0,0,0,1,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,williams-swt,P6767108,Williams,,,Southwestern Telephone,19120420,19120504,3,1,0,1,0,0,1,0,1,0,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,wotowoa,P1533706,Wotowoa,,,Butler Brothers,19120504,19120504,1,0,0,1,0,0,0,0,0,0,0,0,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,wright,P5421312,Wright,,,Guaranty State Bank,19120427,19120427,1,1,0,0,0,0,0,0,0,0,0,1,
-boxscores/1912/1912-DMN,1912,Dallas Commercial League,yeargar,P6003702,Yeargar,,,Guaranty State Bank,19120427,19120427,1,0,0,0,0,0,1,0,0,1,0,0,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,ayres,P5410927,Ayers,,,Guaranty State Bank,19120427,19120427,1,1,p1of1cf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,ayres,P5230351,Ayres,,,Guaranty State Bank,19120420,19120504,2,1,p1of1rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,baird,P9951356,Baird,,,Butler Brothers,19120420,19120504,2,0,ss2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,bassett,P8135684,Bassett,,,City National Bank,19120427,19120504,2,0,of2rf2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,beggs,P3851242,Beggs,,,Southwestern Telephone,19120504,19120504,1,0,of1rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,burlew,P9338703,Berlew,,,City National Bank,19120427,19120427,1,0,1b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,breg,P7565422,Breg,,,City National Bank,19120420,19120504,3,0,3b1ss2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,brown,P1199978,Brown,,,Southwestern Telephone,19120420,19120504,2,0,c1of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,buchanan,P2612258,Buchanan,,,Southwestern Telephone,19120420,19120504,2,0,2b1of1cf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,burlew,P4083039,Burlew,,,City National Bank,19120420,19120504,2,0,1b2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,campion,P0317373,Campion,,,Western Electric,19120420,19120504,2,0,2b2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,carruthers,P5526027,Carruthers,,,Magnolia Petroleum,19120420,19120420,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,clem,P5163771,Clem,,,Butler Brothers,19120427,19120504,2,0,c2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,compere,P7544982,Compere,,,Guaranty State Bank,19120420,19120504,3,0,c3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,campion,P7905291,Compion,,,Western Electric,19120427,19120427,1,0,2b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,conley,P0031244,Conley,,,Southwestern Telephone,19120420,19120420,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,crosevorth,P5165306,Crosevorth,,,Guaranty State Bank,19120504,19120504,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,crosson,P7398447,Crosson,,,Magnolia Petroleum,19120504,19120504,1,0,2b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,crosthwaite,P8754639,Crosswaite,,,Guaranty State Bank,19120427,19120427,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,crosthwaite,P7011896,Crosthwaite,,,Guaranty State Bank,19120420,19120420,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,cullon,P6172071,Cullon,,,Butler Brothers,19120504,19120504,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,darr,P0572823,Darr,,,City National Bank,19120420,19120504,3,0,3b3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,davis,P3300415,Davis,,,Magnolia Petroleum,19120420,19120504,3,0,1b3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,dobbins,P0013417,Dobbins,,,Magnolia Petroleum,19120420,19120504,3,1,p1ss3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,dodson,P6244033,Dodson,,,Butler Brothers,19120420,19120504,2,0,c13b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,dunn,P5809999,Dunn,,,Butler Brothers,19120420,19120420,1,0,2b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,easton,P3292012,Easton,,,Southwestern Telephone,19120420,19120504,2,0,c1of1rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,fitzpatrick,P3219315,Fitzpatrick,,,Magnolia Petroleum,19120420,19120427,2,0,2b2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,frey,P0086788,Frey,,,City National Bank,19120420,19120427,2,1,p1of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,fullwood,P8622135,Fullwood,,,Guaranty State Bank,19120420,19120504,3,0,2b1ss1of2cf2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,gerrish,P1035676,Gerrish,,,Magnolia Petroleum,19120420,19120504,2,2,p2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,gonish,P9607632,Gonish,,,Magnolia Petroleum,19120427,19120427,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,gordon@ump,P8437118,Gordon,,,#umpire,19120420,19120420,,,
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,griffin,P6783661,Griffin,,,Magnolia Petroleum,19120420,19120504,3,2,p2c13b1ss1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,hamm,P5227500,Ham,,,Western Electric,19120420,19120420,1,0,of1rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,hamm,P1490873,Hamm,,,Western Electric,19120504,19120504,1,0,3b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,harris,P9893803,Harris,,,Southwestern Telephone,19120420,19120420,1,0,ss1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,hartman,P0908115,Hartman,,,Magnolia Petroleum,19120420,19120504,3,0,of3rf3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,hoskins,P3424281,Haskins,,,Magnolia Petroleum,19120420,19120420,1,0,of1cf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,hassell,P1607617,Hassell,,,#umpire,19120420,19120420,,,
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,henry,P2782120,Henry,,,Southwestern Telephone,19120420,19120420,1,0,3b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,horn,P0880923,Hern,,,City National Bank,19120427,19120427,1,0,of1cf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,hill,P0396575,Hill,,,Western Electric,19120420,19120504,3,0,of3cf3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,horn,P2879981,Horn,,,Western Electric,19120427,19120427,1,0,of1rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,hoskins,P6666983,Hoskins,,,Magnolia Petroleum,19120427,19120427,1,0,of1cf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,johnson,P3191521,Johnson,,,Southwestern Telephone,19120420,19120504,2,0,1b2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,jordan@ump,P2320915,Jordan,,,#umpire,19120427,19120427,,,
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,keith,P3764800,Keith,,,Guaranty State Bank,19120420,19120504,3,0,2b1of2cf1rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,keys,P7102518,Keys,,,Butler Brothers,19120420,19120420,1,0,of1rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,king,P5853751,King,,,City National Bank,19120420,19120504,3,0,of3cf3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,kinnan,P3099335,Kinnan,,,Magnolia Petroleum,19120420,19120420,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,kistenmacher.j,P9928568,Kistenmacher,J.,,Southwestern Telephone,19120504,19120504,1,1,p1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,kistenmacher.h,P1793425,Kistenme'r,H.,,Southwestern Telephone,19120504,19120504,1,0,3b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,kistenmacher.j,P4137325,Kitzenhiner,,,Southwestern Telephone,19120420,19120420,1,1,p1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,kunnamon,P8679631,Kunnamon,,,Magnolia Petroleum,19120504,19120504,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,laskins,P2569757,Laskins,,,Magnolia Petroleum,19120504,19120504,1,0,of1cf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,latham,P3248433,Latham,,,Butler Brothers,19120420,19120504,2,0,1b13b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,layman,P4325368,Layman,,,Western Electric,19120420,19120504,3,1,p12b13b1of1rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,mangold,P8407693,Mangold,,,Guaranty State Bank,19120504,19120504,1,1,p1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,martin,P7322701,Martin,,,Southwestern Telephone,19120427,19120427,1,0,c1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,masten,P2434594,Masten,,,Butler Brothers,19120420,19120420,1,0,of1cf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,mccarty,P2698283,McCarter,,,Butler Brothers,19120504,19120504,1,0,of1rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,mccarthy,P6113621,McCarthy,,,Butler Brothers,19120420,19120420,1,0,1b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,mccarty,P8399949,McCarty,,,Butler Brothers,19120420,19120420,1,0,of1rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,morton,P3706745,Morton,,,Butler Brothers,19120504,19120504,1,0,of1cf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,murray,P4814426,Murray,,,Butler Brothers,19120420,19120504,3,3,p3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,peary,P5470927,Peary,,,City National Bank,19120504,19120504,1,0,ss1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,pondrum@ump,P1486426,Pondrum,,,#umpire,19120427,19120427,,,
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,quaggles,P1120545,Quaggles,,,Magnolia Petroleum,19120427,19120427,1,0,c1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,quaggles,P4762039,Quagies,,,Magnolia Petroleum,19120504,19120504,1,0,c1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,reed,P7047243,Reed,,,Guaranty State Bank,19120504,19120504,1,0,ss1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,roberts,P4552271,Roberts,,,City National Bank,19120420,19120504,3,0,of3lf2rf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,rogers,P6853629,Rogers,,,Guaranty State Bank,19120420,19120504,3,0,1b3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,rugel,P6977453,Rugel,,,City National Bank,19120420,19120504,3,0,2b3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,schimelpfenig,P0489172,Schimelpfenig,,,Western Electric,19120504,19120504,1,0,1b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,schimelpfenig,P7719353,Schmellfining,,,Western Electric,19120427,19120427,1,0,1b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,schon,P6690225,Schon,,,Western Electric,19120420,19120504,3,1,p11b1ss1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,shannon,P9748139,Shannon,,,Western Electric,19120420,19120504,3,2,p2ss2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,schimelpfenig,P9276641,Shimelp'r,,,Western Electric,19120420,19120420,1,0,3b1ss1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,smith,P4311387,Smith,,,Western Electric,19120420,19120504,3,0,c3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,smyth,P8420771,Smyth,,,City National Bank,19120420,19120504,2,2,p2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,sparris,P1951814,Sparris,,,Southwestern Telephone,19120504,19120504,1,0,ss1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,thomas,P0685204,Thomas,,,Magnolia Petroleum,19120420,19120427,2,0,3b2
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,tinnon,P5040612,Tinnon,,,City National Bank,19120420,19120504,3,0,c3
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,toblansky,P4464984,Tobionsky,,,Western Electric,19120427,19120427,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,toblansky,P5341549,Toblansky,,,Western Electric,19120504,19120504,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,toblansky,P7728822,Tobliansky,,,Western Electric,19120420,19120420,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,waggoner,P1654870,Wag'ner,,,Guaranty State Bank,19120427,19120427,1,0,ss1of1cf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,waggoner,P9552549,Waggoner,,,Guaranty State Bank,19120420,19120420,1,0,3b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,ward,P8968723,Wald,,,Guaranty State Bank,19120504,19120504,1,0,3b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,ward,P8677657,Ward,,,Guaranty State Bank,19120420,19120427,2,0,2b13b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,wotowoa,P1049055,Watawa,,,Butler Brothers,19120420,19120420,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,whiteside,P3920700,Whiteside,,,Western Electric,19120427,19120427,1,0,3b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,wilkins@ump,P8455382,Wilkins,,,#umpire,19120504,19120504,,,
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,williams-gsb,P5809613,Williams,,,Guaranty State Bank,19120420,19120420,1,0,ss1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,williams-swt,P6767108,Williams,,,Southwestern Telephone,19120420,19120504,3,1,p12b1of1cf1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,wotowoa,P1533706,Wotowoa,,,Butler Brothers,19120504,19120504,1,0,2b1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,wright,P5421312,Wright,,,Guaranty State Bank,19120427,19120427,1,1,p1
+boxscores/1912/1912-DMN,1912,Dallas Commercial League,yeargar,P6003702,Yeargar,,,Guaranty State Bank,19120427,19120427,1,0,of1rf1
