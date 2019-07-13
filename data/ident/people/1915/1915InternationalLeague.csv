@@ -9,30 +9,30 @@ minoraverages/1916Reach,1915,International League,aragon,F20190,Aragon,,0,Richmo
 minoraverages/1916Reach,1915,International League,aragon,F20657,Aragon,,0,Richmond,,,,,ss24
 minoraverages/1916Reach,1915,International League,aragon,F20745,Aragon,,0,Richmond,,,,,lf36
 boxscores/1915/1915-SL,1915,International League,aragon,P2301557,Arragon,,,Richmond,19150501,19150501,1,0,3b1
-boxscores/1915/1915-SL,1915,International League,breckenridge,P1356607,B'ridge,,,Richmond,19150427,19150427,1,0,of1lf1
+boxscores/1915/1915-SL,1915,International League,breckenridge,P1356607,B'ridge,,,Richmond,19150427,19150427,1,0,"of1,lf1"
 boxscores/1915/1915-SL,1915,International League,bader,P5375764,Bader,,,Buffalo,19150428,19150428,1,1,p1
 minoraverages/1916Reach,1915,International League,bader,B00879,Bader,,0,Buffalo,,,51,,
 minoraverages/1916Reach,1915,International League,bader,F21491,Bader,,0,Buffalo,,,,,p48
 minoraverages/1916Reach,1915,International League,bader,P10231,Bader,,0,Buffalo,,,,48,
-boxscores/1915/1915-SL,1915,International League,ball,P0190278,Ball,,,Richmond,19150427,19150501,4,0,2b33b1
+boxscores/1915/1915-SL,1915,International League,ball,P0190278,Ball,,,Richmond,19150427,19150501,4,0,"2b3,3b1"
 minoraverages/1916Reach,1915,International League,ball,B01007,Ball,,1,Richmond,,,,,
 minoraverages/1916Reach,1915,International League,ball,B01007,Ball,,2,Toronto,,,,,
 minoraverages/1916Reach,1915,International League,ball,B01007,Ball,,T,,,,114,,
-minoraverages/1916Reach,1915,International League,ball,F20316,Ball,,1,Richmond,,,,,2b.
-minoraverages/1916Reach,1915,International League,ball,F20316,Ball,,2,Toronto,,,,,2b.
+minoraverages/1916Reach,1915,International League,ball,F20316,Ball,,1,Richmond,,,,,2b
+minoraverages/1916Reach,1915,International League,ball,F20316,Ball,,2,Toronto,,,,,2b
 minoraverages/1916Reach,1915,International League,ball,F20316,Ball,,T,,,,,,2b33
-minoraverages/1916Reach,1915,International League,ball,F20552,Ball,,1,Richmond,,,,,ss.
-minoraverages/1916Reach,1915,International League,ball,F20552,Ball,,2,Toronto,,,,,ss.
+minoraverages/1916Reach,1915,International League,ball,F20552,Ball,,1,Richmond,,,,,ss
+minoraverages/1916Reach,1915,International League,ball,F20552,Ball,,2,Toronto,,,,,ss
 minoraverages/1916Reach,1915,International League,ball,F20552,Ball,,T,,,,,,ss81
 minoraverages/1916Reach,1915,International League,bankston,B00920,Bankston,,0,Richmond,,,41,,
 minoraverages/1916Reach,1915,International League,bankston,F21149,Bankston,,0,Richmond,,,,,rf41
-boxscores/1915/1915-SL,1915,International League,barney,P3659459,Barney,,,Jersey City,19150429,19150501,2,0,of2cf2
+boxscores/1915/1915-SL,1915,International League,barney,P3659459,Barney,,,Jersey City,19150429,19150501,2,0,"of2,cf2"
 minoraverages/1916Reach,1915,International League,barney,B00037,Barney,,0,Jersey City,,,62,,
 minoraverages/1916Reach,1915,International League,barney,F20943,Barney,,0,Jersey City,,,,,cf62
 boxscores/1915/1915-SL,1915,International League,barry,P4978146,Barry,,,Jersey City,19150429,19150501,2,0,1b2
 minoraverages/1916Reach,1915,International League,barry,B00319,Barry,,0,Jersey City,,,129,,
 minoraverages/1916Reach,1915,International League,barry,F20038,Barry,,0,Jersey City,,,,,1b129
-boxscores/1915/1915-SL,1915,International League,bates,P3296282,Bates,,,Richmond,19150427,19150501,4,0,of4lf1cf3
+boxscores/1915/1915-SL,1915,International League,bates,P3296282,Bates,,,Richmond,19150427,19150501,4,0,"of4,lf1,cf3"
 minoraverages/1916Reach,1915,International League,bates,B00241,Bates,,0,Richmond,,,141,,
 minoraverages/1916Reach,1915,International League,bates,F20792,Bates,,0,Richmond,,,,,lf74
 minoraverages/1916Reach,1915,International League,bates,F21000,Bates,,0,Richmond,,,,,cf67
@@ -50,19 +50,19 @@ minoraverages/1916Reach,1915,International League,bentley,B01514,Bentley,,T,,,,1
 minoraverages/1916Reach,1915,International League,bentley,P10441,Bentley,,1,Providence,,,,,
 minoraverages/1916Reach,1915,International League,bentley,P10441,Bentley,,2,Jersey City,,,,,
 minoraverages/1916Reach,1915,International League,bentley,P10441,Bentley,,T,,,,,10,
-minoraverages/1916Reach,1915,International League,bentley,F21397,Bently,,1,Providence,,,,,p.
-minoraverages/1916Reach,1915,International League,bentley,F21397,Bently,,2,Jersey City,,,,,p.
+minoraverages/1916Reach,1915,International League,bentley,F21397,Bently,,1,Providence,,,,,p
+minoraverages/1916Reach,1915,International League,bentley,F21397,Bently,,2,Jersey City,,,,,p
 minoraverages/1916Reach,1915,International League,bentley,F21397,Bently,,T,,,,,,p10
 minoraverages/1916Reach,1915,International League,blake,B00771,Blake,,0,Jersey City,,,46,,
 boxscores/1915/1915-SL,1915,International League,blakey,P7626308,Blakey,,,Toronto,19150428,19150428,1,1,p1
 boxscores/1915/1915-SL,1915,International League,bostick,P2241678,Bostick,,,Newark,19150501,19150501,1,0,3b1
-boxscores/1915/1915-SL,1915,International League,brackett,P9753500,Brackett,,,Toronto,19150427,19150501,4,0,of4cf3rf1
-boxscores/1915/1915-SL,1915,International League,breckenridge,P5379166,Breck'e,,,Richmond,19150429,19150429,1,0,of1rf1
-boxscores/1915/1915-SL,1915,International League,breckenridge,P8720977,Brecken'e,,,Richmond,19150428,19150428,1,0,of1lf1
-boxscores/1915/1915-SL,1915,International League,breckenridge,P3087568,Breckenridge,,,Richmond,19150501,19150501,1,0,of1rf1
+boxscores/1915/1915-SL,1915,International League,brackett,P9753500,Brackett,,,Toronto,19150427,19150501,4,0,"of4,cf3,rf1"
+boxscores/1915/1915-SL,1915,International League,breckenridge,P5379166,Breck'e,,,Richmond,19150429,19150429,1,0,"of1,rf1"
+boxscores/1915/1915-SL,1915,International League,breckenridge,P8720977,Brecken'e,,,Richmond,19150428,19150428,1,0,"of1,lf1"
+boxscores/1915/1915-SL,1915,International League,breckenridge,P3087568,Breckenridge,,,Richmond,19150501,19150501,1,0,"of1,rf1"
 minoraverages/1916Reach,1915,International League,breckenridge,B00726,Breckenridge,,0,Richmond,,,35,,
 minoraverages/1916Reach,1915,International League,breckenridge,F21021,Breckenridge,,0,Richmond,,,,,cf30
-boxscores/1915/1915-SL,1915,International League,brown,P0447348,Brown,,,Toronto,19150427,19150501,4,0,of4lf3cf1
+boxscores/1915/1915-SL,1915,International League,brown,P0447348,Brown,,,Toronto,19150427,19150501,4,0,"of4,lf3,cf1"
 boxscores/1915/1915-SL,1915,International League,brown@ump,P5395025,Brown,,,#umpire,19150429,19150501,,,
 minoraverages/1916Reach,1915,International League,brown,B01010,Brown,,0,Toronto,,,19,,
 minoraverages/1916Reach,1915,International League,brown,P10569,Brown,,0,Harrisburg,,,,7,
@@ -75,11 +75,11 @@ minoraverages/1916Reach,1915,International League,bues,F20350,Bues,,0,Jersey Cit
 minoraverages/1916Reach,1915,International League,cadore,B01415,Cadore,,0,Montreal,,,30,,
 minoraverages/1916Reach,1915,International League,cadore,F21614,Cadore,,0,Montreal,,,,,p29
 minoraverages/1916Reach,1915,International League,cadore,P10385,Cadore,,0,Montreal,,,,29,
-boxscores/1915/1915-SL,1915,International League,callahan,P3090707,Callahan,,,Newark,19150429,19150501,2,0,of2cf2
+boxscores/1915/1915-SL,1915,International League,callahan,P3090707,Callahan,,,Newark,19150429,19150501,2,0,"of2,cf2"
 minoraverages/1916Reach,1915,International League,callahan,B00590,Callahan,,0,Harrisburg,,,78,,
 minoraverages/1916Reach,1915,International League,callahan,F21037,Callahan,,0,Harrisburg,,,,,cf75
 boxscores/1915/1915-SL,1915,International League,carlstrom,P2990931,Carlst'm,,,Buffalo,19150501,19150501,1,0,ss1
-boxscores/1915/1915-SL,1915,International League,carlstrom,P1454541,Carlstrom,,,Buffalo,19150428,19150429,2,0,1b13b1
+boxscores/1915/1915-SL,1915,International League,carlstrom,P1454541,Carlstrom,,,Buffalo,19150428,19150429,2,0,"1b1,3b1"
 minoraverages/1916Reach,1915,International League,carlstrom,B00865,Carlstrom,,0,Buffalo,,,140,,
 minoraverages/1916Reach,1915,International League,carlstrom,F20388,Carlstrom,,0,Buffalo,,,,,3b129
 boxscores/1915/1915-SL,1915,International League,carpenter@ump,P2653645,Carpenter,,,#umpire,19150427,19150501,,,
@@ -90,21 +90,21 @@ minoraverages/1916Reach,1915,International League,casey,F21833,Casey,,0,Providen
 minoraverages/1916Reach,1915,International League,cathers,B00403,Cathers,,1,Toronto,,,,,
 minoraverages/1916Reach,1915,International League,cathers,B00403,Cathers,,2,Jersey City,,,,,
 minoraverages/1916Reach,1915,International League,cathers,B00403,Cathers,,T,,,,59,,
-minoraverages/1916Reach,1915,International League,cathers,F20327,Cathers,,1,Toronto,,,,,2b.
-minoraverages/1916Reach,1915,International League,cathers,F20327,Cathers,,2,Jersey City,,,,,2b.
+minoraverages/1916Reach,1915,International League,cathers,F20327,Cathers,,1,Toronto,,,,,2b
+minoraverages/1916Reach,1915,International League,cathers,F20327,Cathers,,2,Jersey City,,,,,2b
 minoraverages/1916Reach,1915,International League,cathers,F20327,Cathers,,T,,,,,,2b11
-minoraverages/1916Reach,1915,International League,cathers,F20482,Cathers,,1,Toronto,,,,,3b.
-minoraverages/1916Reach,1915,International League,cathers,F20482,Cathers,,2,Jersey City,,,,,3b.
+minoraverages/1916Reach,1915,International League,cathers,F20482,Cathers,,1,Toronto,,,,,3b
+minoraverages/1916Reach,1915,International League,cathers,F20482,Cathers,,2,Jersey City,,,,,3b
 minoraverages/1916Reach,1915,International League,cathers,F20482,Cathers,,T,,,,,,3b12
 boxscores/1915/1915-SL,1915,International League,chabek,P4373757,Chabek,,,Newark,19150429,19150501,2,2,p2
 minoraverages/1916Reach,1915,International League,chabek,B01490,Chabek,,0,Harrisburg,,,46,,
 minoraverages/1916Reach,1915,International League,chabek,F21343,Chabek,,0,Harrisburg,,,,,p37
 minoraverages/1916Reach,1915,International League,chabek,P10361,Chabek,,0,Harrisburg,,,,37,
-boxscores/1915/1915-SL,1915,International League,channell,P1237531,Channell,,,Buffalo,19150428,19150501,3,0,of3lf1rf2
+boxscores/1915/1915-SL,1915,International League,channell,P1237531,Channell,,,Buffalo,19150428,19150501,3,0,"of3,lf1,rf2"
 minoraverages/1916Reach,1915,International League,channell,B00158,Channell,,0,Buffalo,,,130,,
 minoraverages/1916Reach,1915,International League,channell,F21163,Channell,,0,Buffalo,,,,,rf130
 boxscores/1915/1915-SL,1915,International League,cleary@ump,P9362025,Cleary,,,#umpire,19150427,19150501,,,
-boxscores/1915/1915-SL,1915,International League,clements,P2364269,Clemens,,,Rochester,19150429,19150501,2,0,of2lf2
+boxscores/1915/1915-SL,1915,International League,clements,P2364269,Clemens,,,Rochester,19150429,19150501,2,0,"of2,lf2"
 minoraverages/1916Reach,1915,International League,clements,B00491,Clements,,0,Rochester,,,140,,
 minoraverages/1916Reach,1915,International League,clements,F20878,Clements,,0,Rochester,,,,,lf18
 minoraverages/1916Reach,1915,International League,clements,F20919,Clements,,0,Rochester,,,,,cf79
@@ -112,7 +112,7 @@ minoraverages/1916Reach,1915,International League,clements,F21207,Clements,,0,Ro
 minoraverages/1916Reach,1915,International League,cocreham,B00646,Cocreham,,0,Toronto,,,16,,
 minoraverages/1916Reach,1915,International League,cocreham,F21403,Cocreham,,0,Toronto,,,,,p16
 minoraverages/1916Reach,1915,International League,cocreham,P10516,Cocreham,,0,Toronto,,,,16,
-boxscores/1915/1915-SL,1915,International League,collins,P9522355,Collins,,,Newark,19150429,19150429,1,0,of1lf1
+boxscores/1915/1915-SL,1915,International League,collins,P9522355,Collins,,,Newark,19150429,19150429,1,0,"of1,lf1"
 minoraverages/1916Reach,1915,International League,comstock,B01523,Comstock,,0,Providence,,,25,,
 minoraverages/1916Reach,1915,International League,comstock,F21324,Comstock,,0,Providence,,,,,p25
 minoraverages/1916Reach,1915,International League,comstock,P10043,Comstock,,0,Providence,,,,25,
@@ -138,8 +138,8 @@ minoraverages/1916Reach,1915,International League,daly,F20737,Daly,,0,Toronto,,,
 minoraverages/1916Reach,1915,International League,demmitt,B00196,Demmitt,,1,Toronto,,,,,
 minoraverages/1916Reach,1915,International League,demmitt,B00196,Demmitt,,2,Jersey City,,,,,
 minoraverages/1916Reach,1915,International League,demmitt,B00196,Demmitt,,T,,,,70,,
-minoraverages/1916Reach,1915,International League,demmitt,F21196,Demmitt,,1,Jersey City,,,,,rf.
-minoraverages/1916Reach,1915,International League,demmitt,F21196,Demmitt,,2,Toronto,,,,,rf.
+minoraverages/1916Reach,1915,International League,demmitt,F21196,Demmitt,,1,Jersey City,,,,,rf
+minoraverages/1916Reach,1915,International League,demmitt,F21196,Demmitt,,2,Toronto,,,,,rf
 minoraverages/1916Reach,1915,International League,demmitt,F21196,Demmitt,,T,,,,,,rf16
 boxscores/1915/1915-SL,1915,International League,devlin,P7372891,Devlin,,,Montreal,19150501,19150501,1,0,1b1
 minoraverages/1916Reach,1915,International League,devlin,B00502,Devlin,,0,Montreal,,,124,,
@@ -189,7 +189,7 @@ minoraverages/1916Reach,1915,International League,gaw,P10081,Gaw,,0,Buffalo,,,,3
 boxscores/1915/1915-SL,1915,International League,geyer,P4277320,Geyer,,,Toronto,19150427,19150427,1,1,p1
 minoraverages/1916Reach,1915,International League,gilbert,B00059,Gilbert,,0,Toronto,,,68,,
 minoraverages/1916Reach,1915,International League,gilbert,F20970,Gilbert,,0,Toronto,,,,,cf68
-boxscores/1915/1915-SL,1915,International League,gilhooley,P5353410,Gilhooley,,,Buffalo,19150428,19150501,3,0,of3cf3
+boxscores/1915/1915-SL,1915,International League,gilhooley,P5353410,Gilhooley,,,Buffalo,19150428,19150501,3,0,"of3,cf3"
 minoraverages/1916Reach,1915,International League,gilhooley,B00076,Gilhooley,,0,Buffalo,,,122,,
 minoraverages/1916Reach,1915,International League,gilhooley,F20908,Gilhooley,,0,Buffalo,,,,,cf122
 boxscores/1915/1915-SL,1915,International League,gill,P5641934,Gill,,,Providence,19150428,19150501,3,0,3b3
@@ -200,13 +200,13 @@ minoraverages/1916Reach,1915,International League,gill,F21174,Gill,,0,Providence
 minoraverages/1916Reach,1915,International League,goodbred,B01601,Goodbred,,1,Richmond,,,,,
 minoraverages/1916Reach,1915,International League,goodbred,B01601,Goodbred,,2,Harrisburg,,,,,
 minoraverages/1916Reach,1915,International League,goodbred,B01601,Goodbred,,T,,,,20,,
-minoraverages/1916Reach,1915,International League,goodbred,F21672,Goodbred,,1,Richmond,,,,,p.
-minoraverages/1916Reach,1915,International League,goodbred,F21672,Goodbred,,2,Harrisburg,,,,,p.
+minoraverages/1916Reach,1915,International League,goodbred,F21672,Goodbred,,1,Richmond,,,,,p
+minoraverages/1916Reach,1915,International League,goodbred,F21672,Goodbred,,2,Harrisburg,,,,,p
 minoraverages/1916Reach,1915,International League,goodbred,F21672,Goodbred,,T,,,,,,p20
 minoraverages/1916Reach,1915,International League,goodbred,P10228,Goodbred,,1,Richmond,,,,,
 minoraverages/1916Reach,1915,International League,goodbred,P10228,Goodbred,,2,Harrisburg,,,,,
 minoraverages/1916Reach,1915,International League,goodbred,P10228,Goodbred,,T,,,,,20,
-boxscores/1915/1915-SL,1915,International League,graham,P6699548,Graham,,,Toronto,19150427,19150501,4,0,1b1of3rf3
+boxscores/1915/1915-SL,1915,International League,graham,P6699548,Graham,,,Toronto,19150427,19150501,4,0,"1b1,of3,rf3"
 minoraverages/1916Reach,1915,International League,graham,B00308,Graham,,0,Toronto,,,138,,
 minoraverages/1916Reach,1915,International League,graham,F20051,Graham,,0,Toronto,,,,,1b135
 minoraverages/1916Reach,1915,International League,heckinger,F21879,Hackinger,,0,Harrisburg,,,,,c94
@@ -235,10 +235,10 @@ minoraverages/1916Reach,1915,International League,hoelke,F20023,Hoelke,,0,Roches
 minoraverages/1916Reach,1915,International League,hoff,B00013,Hoff,,0,Rochester,,,29,,
 minoraverages/1916Reach,1915,International League,hoff,F21416,Hoff,,0,Rochester,,,,,p26
 minoraverages/1916Reach,1915,International League,hoff,P10184,Hoff,,0,Rochester,,,,26,
-boxscores/1915/1915-SL,1915,International League,hoffman,P6992298,Hoffman,,,Richmond,19150427,19150501,4,0,of4lf1cf1rf2
+boxscores/1915/1915-SL,1915,International League,hoffman,P6992298,Hoffman,,,Richmond,19150427,19150501,4,0,"of4,lf1,cf1,rf2"
 minoraverages/1916Reach,1915,International League,hoffman,B00335,Hoffman,,0,Richmond,,,34,,
 minoraverages/1916Reach,1915,International League,hoffman,F20855,Hoffman,,0,Richmond,,,,,lf25
-boxscores/1915/1915-SL,1915,International League,holden,P1947923,Holden,,,Montreal,19150429,19150501,2,0,of2lf2
+boxscores/1915/1915-SL,1915,International League,holden,P1947923,Holden,,,Montreal,19150429,19150501,2,0,"of2,lf2"
 minoraverages/1916Reach,1915,International League,holden,B00783,Holden,,0,Montreal,,,104,,
 minoraverages/1916Reach,1915,International League,holden,F20776,Holden,,0,Montreal,,,,,lf86
 minoraverages/1916Reach,1915,International League,holden,F21278,Holden,,0,Montreal,,,,,rf16
@@ -261,7 +261,7 @@ minoraverages/1916Reach,1915,International League,jackson,B00718,Jackson,,0,Buff
 minoraverages/1916Reach,1915,International League,jackson,F20841,Jackson,,0,Buffalo,,,,,lf15
 minoraverages/1916Reach,1915,International League,jackson,F21013,Jackson,,0,Buffalo,,,,,cf20
 minoraverages/1916Reach,1915,International League,jackson,F21092,Jackson,,0,Buffalo,,,,,rf17
-boxscores/1915/1915-SL,1915,International League,jamieson,P7831724,Jamieson,,,Buffalo,19150428,19150501,3,0,of3lf3
+boxscores/1915/1915-SL,1915,International League,jamieson,P7831724,Jamieson,,,Buffalo,19150428,19150501,3,0,"of3,lf3"
 minoraverages/1916Reach,1915,International League,jamieson,B00125,Jamieson,,0,Buffalo,,,138,,
 minoraverages/1916Reach,1915,International League,jamieson,F20759,Jamieson,,0,Buffalo,,,,,lf138
 boxscores/1915/1915-SL,1915,International League,jarman,P5817412,Jarman,,,Richmond,19150428,19150428,1,1,p1
@@ -270,8 +270,8 @@ boxscores/1915/1915-SL,1915,International League,jordan,P3295018,Jordan,,,Toront
 minoraverages/1916Reach,1915,International League,jordan,B00427,Jordan,,1,Toronto,,,,,
 minoraverages/1916Reach,1915,International League,jordan,B00427,Jordan,,2,Richmond,,,,,
 minoraverages/1916Reach,1915,International League,jordan,B00427,Jordan,,T,,,,102,,
-minoraverages/1916Reach,1915,International League,jordan,F20080,Jordan,,1,Toronto,,,,,1b.
-minoraverages/1916Reach,1915,International League,jordan,F20080,Jordan,,2,Richmond,,,,,1b.
+minoraverages/1916Reach,1915,International League,jordan,F20080,Jordan,,1,Toronto,,,,,1b
+minoraverages/1916Reach,1915,International League,jordan,F20080,Jordan,,2,Richmond,,,,,1b
 minoraverages/1916Reach,1915,International League,jordan,F20080,Jordan,,T,,,,,,1b102
 boxscores/1915/1915-SL,1915,International League,judge,P6408197,Judge,,,Buffalo,19150428,19150501,3,0,1b3
 minoraverages/1916Reach,1915,International League,judge,B00084,Judge,,0,Buffalo,,,140,,
@@ -285,8 +285,8 @@ minoraverages/1916Reach,1915,International League,kelly,F21811,Kelly,,0,Toronto,
 boxscores/1915/1915-SL,1915,International League,knight,P6812507,Knight,,,Buffalo,19150429,19150429,1,0,ss1
 boxscores/1915/1915-SL,1915,International League,kocher,P3485346,Kocher,,,Providence,19150428,19150501,3,0,c3
 minoraverages/1916Reach,1915,International League,kocher,B00760,Kocher,,0,Toronto,,,99,,
-minoraverages/1916Reach,1915,International League,kocher,F21840,Kocher,,1,Providence,,,,,c.
-minoraverages/1916Reach,1915,International League,kocher,F21840,Kocher,,2,Toronto,,,,,c.
+minoraverages/1916Reach,1915,International League,kocher,F21840,Kocher,,1,Providence,,,,,c
+minoraverages/1916Reach,1915,International League,kocher,F21840,Kocher,,2,Toronto,,,,,c
 minoraverages/1916Reach,1915,International League,kocher,F21840,Kocher,,T,,,,,,c99
 boxscores/1915/1915-SL,1915,International League,konnick,P3169465,Konnick,,,Toronto,19150428,19150501,3,0,c3
 minoraverages/1916Reach,1915,International League,konnick,B00806,Konnick,,0,Toronto,,,14,,
@@ -334,8 +334,8 @@ minoraverages/1916Reach,1915,International League,mccarthy,F20131,McCarthy,,0,Bu
 minoraverages/1916Reach,1915,International League,mchale,B01551,McHale,,1,Montreal,,,,,
 minoraverages/1916Reach,1915,International League,mchale,B01551,McHale,,2,Richmond,,,,,
 minoraverages/1916Reach,1915,International League,mchale,B01551,McHale,,T,,,,14,,
-minoraverages/1916Reach,1915,International League,mchale,F21531,McHale,,1,Montreal,,,,,p.
-minoraverages/1916Reach,1915,International League,mchale,F21531,McHale,,2,Richmond,,,,,p.
+minoraverages/1916Reach,1915,International League,mchale,F21531,McHale,,1,Montreal,,,,,p
+minoraverages/1916Reach,1915,International League,mchale,F21531,McHale,,2,Richmond,,,,,p
 minoraverages/1916Reach,1915,International League,mchale,F21531,McHale,,T,,,,,,p14
 minoraverages/1916Reach,1915,International League,mchale,P10486,McHale,,1,Montreal,,,,,
 minoraverages/1916Reach,1915,International League,mchale,P10486,McHale,,2,Richmond,,,,,
@@ -356,8 +356,8 @@ boxscores/1915/1915-SL,1915,International League,messenger,P2909263,Messenger,,,
 minoraverages/1916Reach,1915,International League,messenger,B00207,Messenger,,1,Rochester,,,,,
 minoraverages/1916Reach,1915,International League,messenger,B00207,Messenger,,2,Toronto,,,,,
 minoraverages/1916Reach,1915,International League,messenger,B00207,Messenger,,T,,,,18,,
-minoraverages/1916Reach,1915,International League,messenger,F21101,Messenger,,1,Rochester,,,,,rf.
-minoraverages/1916Reach,1915,International League,messenger,F21101,Messenger,,2,Toronto,,,,,rf.
+minoraverages/1916Reach,1915,International League,messenger,F21101,Messenger,,1,Rochester,,,,,rf
+minoraverages/1916Reach,1915,International League,messenger,F21101,Messenger,,2,Toronto,,,,,rf
 minoraverages/1916Reach,1915,International League,messenger,F21101,Messenger,,T,,,,,,rf18
 boxscores/1915/1915-SL,1915,International League,miller,P5867518,Miller,,,Montreal,19150429,19150429,1,1,p1
 minoraverages/1916Reach,1915,International League,miller,B00442,Miller,,0,Montreal,,,22,,
@@ -367,29 +367,29 @@ boxscores/1915/1915-SL,1915,International League,morrisette,P0001625,Morrisette,
 minoraverages/1916Reach,1915,International League,morrisette,B00973,Morrisette,,0,Richmond,,,50,,
 minoraverages/1916Reach,1915,International League,morrisette,F21667,Morrisette,,0,Richmond,,,,,p49
 minoraverages/1916Reach,1915,International League,morrisette,P10429,Morrisette,,0,Richmond,,,,49,
-boxscores/1915/1915-SL,1915,International League,mowe,P5642423,Mowe,,,Newark,19150429,19150501,2,0,2b1ss1
+boxscores/1915/1915-SL,1915,International League,mowe,P5642423,Mowe,,,Newark,19150429,19150501,2,0,"2b1,ss1"
 minoraverages/1916Reach,1915,International League,mowe,B01093,Mowe,,0,Harrisburg,,,115,,
 minoraverages/1916Reach,1915,International League,mowe,F20648,Mowe,,0,Harrisburg,,,,,ss111
 boxscores/1915/1915-SL,1915,International League,mullen@ump,P3234422,Mullen,,,#umpire,19150501,19150501,,,
 boxscores/1915/1915-SL,1915,International League,mullen@ump,P7707386,Muller,,,#umpire,19150429,19150429,,,
 minoraverages/1916Reach,1915,International League,mullin,B00021,Mullin,,0,Richmond,,,39,,
 minoraverages/1916Reach,1915,International League,mullin,F20102,Mullin,,0,Richmond,,,,,1b39
-boxscores/1915/1915-SL,1915,International League,murray,P8850015,Murray,,,Newark,19150429,19150501,2,0,of2rf2
+boxscores/1915/1915-SL,1915,International League,murray,P8850015,Murray,,,Newark,19150429,19150501,2,0,"of2,rf2"
 minoraverages/1916Reach,1915,International League,nash,B00705,Nash,,0,Montreal,,,109,,
 minoraverages/1916Reach,1915,International League,nash,F20153,Nash,,0,Montreal,,,,,2b10
 minoraverages/1916Reach,1915,International League,nash,F20594,Nash,,0,Montreal,,,,,ss99
 minoraverages/1916Reach,1915,International League,obrien,B01509,O'Brien,,1,Providence,,,,,
 minoraverages/1916Reach,1915,International League,obrien,B01509,O'Brien,,2,Richmond,,,,,
 minoraverages/1916Reach,1915,International League,obrien,B01509,O'Brien,,T,,,,17,,
-minoraverages/1916Reach,1915,International League,obrien,F21739,O'Brien,,1,Providence,,,,,p.
-minoraverages/1916Reach,1915,International League,obrien,F21739,O'Brien,,2,Richmond,,,,,p.
+minoraverages/1916Reach,1915,International League,obrien,F21739,O'Brien,,1,Providence,,,,,p
+minoraverages/1916Reach,1915,International League,obrien,F21739,O'Brien,,2,Richmond,,,,,p
 minoraverages/1916Reach,1915,International League,obrien,F21739,O'Brien,,T,,,,,,p16
 minoraverages/1916Reach,1915,International League,obrien,P10348,O'Brien,,1,Providence,,,,,
 minoraverages/1916Reach,1915,International League,obrien,P10348,O'Brien,,2,Richmond,,,,,
 minoraverages/1916Reach,1915,International League,obrien,P10348,O'Brien,,T,,,,,16,
 minoraverages/1916Reach,1915,International League,odonnell,B00531,O'Donnell,,0,Richmond,,,13,,
 minoraverages/1916Reach,1915,International League,odonnell,F21948,O'Donnell,,0,Richmond,,,,,c10
-boxscores/1915/1915-SL,1915,International League,ohara,P9861758,O'Hara,,,Toronto,19150428,19150501,2,0,of1lf1
+boxscores/1915/1915-SL,1915,International League,ohara,P9861758,O'Hara,,,Toronto,19150428,19150501,2,0,"of1,lf1"
 minoraverages/1916Reach,1915,International League,ohara,B01477,O'Hara,,0,Toronto,,,27,,
 minoraverages/1916Reach,1915,International League,ohara,F20700,O'Hara,,0,Toronto,,,,,lf10
 minoraverages/1916Reach,1915,International League,ohara,F21084,O'Hara,,0,Toronto,,,,,rf17
@@ -416,11 +416,11 @@ minoraverages/1916Reach,1915,International League,pennock,P10137,Pennock,,0,Prov
 minoraverages/1916Reach,1915,International League,pick,B00278,Pick,,0,Richmond,,,102,,
 minoraverages/1916Reach,1915,International League,pick,F20233,Pick,,0,Richmond,,,,,2b17
 minoraverages/1916Reach,1915,International League,pick,F20449,Pick,,0,Richmond,,,,,3b85
-boxscores/1915/1915-SL,1915,International League,piez,P5625918,Piez,,,Rochester,19150429,19150501,2,0,of2cf2
+boxscores/1915/1915-SL,1915,International League,piez,P5625918,Piez,,,Rochester,19150429,19150501,2,0,"of2,cf2"
 minoraverages/1916Reach,1915,International League,piez,B00651,Piez,,0,Rochester,,,117,,
 minoraverages/1916Reach,1915,International League,piez,F20956,Piez,,0,Rochester,,,,,cf62
 minoraverages/1916Reach,1915,International League,piez,F21210,Piez,,0,Rochester,,,,,rf52
-boxscores/1915/1915-SL,1915,International League,powell,P3226489,Powell,,,Providence,19150428,19150501,3,0,of3lf3
+boxscores/1915/1915-SL,1915,International League,powell,P3226489,Powell,,,Providence,19150428,19150501,3,0,"of3,lf3"
 minoraverages/1916Reach,1915,International League,powell,B00822,Powell,,0,Providence,,,130,,
 minoraverages/1916Reach,1915,International League,powell,F20768,Powell,,0,Providence,,,,,lf130
 boxscores/1915/1915-SL,1915,International League,priest,P0575299,Priest,,,Toronto,19150427,19150427,1,1,p1
@@ -432,8 +432,8 @@ boxscores/1915/1915-SL,1915,International League,purtell,P8316097,Purtell,,,Mont
 minoraverages/1916Reach,1915,International League,purtell,B01181,Purtell,,1,Montreal,,,,,
 minoraverages/1916Reach,1915,International League,purtell,B01181,Purtell,,2,Jersey City,,,,,
 minoraverages/1916Reach,1915,International League,purtell,B01181,Purtell,,T,,,,133,,
-minoraverages/1916Reach,1915,International League,purtell,F20539,Purtell,,1,Montreal,,,,,ss.
-minoraverages/1916Reach,1915,International League,purtell,F20539,Purtell,,2,Jersey City,,,,,ss.
+minoraverages/1916Reach,1915,International League,purtell,F20539,Purtell,,1,Montreal,,,,,ss
+minoraverages/1916Reach,1915,International League,purtell,F20539,Purtell,,2,Jersey City,,,,,ss
 minoraverages/1916Reach,1915,International League,purtell,F20539,Purtell,,T,,,,,,ss133
 minoraverages/1916Reach,1915,International League,rath,B00045,Rath,,0,Toronto,,,97,,
 minoraverages/1916Reach,1915,International League,rath,F20298,Rath,,0,Toronto,,,,,2b11
@@ -444,8 +444,8 @@ boxscores/1915/1915-SL,1915,International League,reynolds,P1655666,Reynolds,,,Je
 minoraverages/1916Reach,1915,International League,reynolds,B01345,Reynolds,,1,Jersey City,,,,,
 minoraverages/1916Reach,1915,International League,reynolds,B01345,Reynolds,,2,Harrisburg,,,,,
 minoraverages/1916Reach,1915,International League,reynolds,B01345,Reynolds,,T,,,,99,,
-minoraverages/1916Reach,1915,International League,reynolds,F21912,Reynolds,,1,Jersey City,,,,,c.
-minoraverages/1916Reach,1915,International League,reynolds,F21912,Reynolds,,2,Harrisburg,,,,,c.
+minoraverages/1916Reach,1915,International League,reynolds,F21912,Reynolds,,1,Jersey City,,,,,c
+minoraverages/1916Reach,1915,International League,reynolds,F21912,Reynolds,,2,Harrisburg,,,,,c
 minoraverages/1916Reach,1915,International League,reynolds,F21912,Reynolds,,T,,,,,,c78
 boxscores/1915/1915-SL,1915,International League,richter,P6553674,Richter,,,Montreal,19150501,19150501,1,1,p1
 minoraverages/1916Reach,1915,International League,richter,B01269,Richter,,0,Montreal,,,19,,
@@ -484,7 +484,7 @@ minoraverages/1916Reach,1915,International League,shannon,F20303,Shannon,,0,Roch
 boxscores/1915/1915-SL,1915,International League,shean,P0788757,Shean,,,Providence,19150428,19150501,3,0,2b3
 minoraverages/1916Reach,1915,International League,shean,B00101,Shean,,0,Providence,,,121,,
 minoraverages/1916Reach,1915,International League,shean,F20177,Shean,,0,Providence,,,,,2b116
-boxscores/1915/1915-SL,1915,International League,sheehan,P8711496,Sheehan,,,Toronto,19150427,19150501,4,0,2b23b2
+boxscores/1915/1915-SL,1915,International League,sheehan,P8711496,Sheehan,,,Toronto,19150427,19150501,4,0,"2b2,3b2"
 minoraverages/1916Reach,1915,International League,sheehan,B01119,Sheehan,,0,Toronto,,,15,,
 minoraverages/1916Reach,1915,International League,sheehan,F20115,Sheehan,,0,Toronto,,,,,2b15
 boxscores/1915/1915-SL,1915,International League,sherman,P0319600,Sherman,,,Jersey City,19150501,19150501,1,1,p1
@@ -493,19 +493,19 @@ minoraverages/1916Reach,1915,International League,sherman,F21255,Sherman,,0,Jers
 minoraverages/1916Reach,1915,International League,sherman,F21646,Sherman,,0,Jersey City,,,,,p32
 minoraverages/1916Reach,1915,International League,sherman,P10266,Sherman,,0,Jersey City,,,,30,
 minoraverages/1916Reach,1915,International League,sherry,P10542,Sherry,,0,Montreal,,,,5,
-boxscores/1915/1915-SL,1915,International League,shorten,P1228553,Shorten,,,Providence,19150428,19150501,3,0,of3rf3
+boxscores/1915/1915-SL,1915,International League,shorten,P1228553,Shorten,,,Providence,19150428,19150501,3,0,"of3,rf3"
 minoraverages/1916Reach,1915,International League,shorten,B00068,Shorten,,0,Providence,,,137,,
 minoraverages/1916Reach,1915,International League,shorten,F20893,Shorten,,0,Providence,,,,,cf68
 minoraverages/1916Reach,1915,International League,shorten,F21125,Shorten,,0,Providence,,,,,rf69
 minoraverages/1916Reach,1915,International League,smallwood,P10312,Smallwood,,0,Harrisburg,,,,7,
-boxscores/1915/1915-SL,1915,International League,smith.p,P2564254,Smith,,,Montreal,19150429,19150501,2,0,of2rf2
-boxscores/1915/1915-SL,1915,International League,smith.f,P7045931,Smith,,,Rochester,19150429,19150501,2,0,of2rf2
+boxscores/1915/1915-SL,1915,International League,smith.p,P2564254,Smith,,,Montreal,19150429,19150501,2,0,"of2,rf2"
+boxscores/1915/1915-SL,1915,International League,smith.f,P7045931,Smith,,,Rochester,19150429,19150501,2,0,"of2,rf2"
 minoraverages/1916Reach,1915,International League,smith.p,B00117,Smith,P.,0,Montreal,,,88,,
 minoraverages/1916Reach,1915,International League,smith.f,B00887,Smith,F.,1,Rochester,,,,,
 minoraverages/1916Reach,1915,International League,smith.f,B00887,Smith,F.,2,Montreal,,,,,
 minoraverages/1916Reach,1915,International League,smith.f,B00887,Smith,F.,T,,,,127,,
-minoraverages/1916Reach,1915,International League,smith.f,F20685,Smith,F.,1,Rochester,,,,,lf.
-minoraverages/1916Reach,1915,International League,smith.f,F20685,Smith,F.,2,Montreal,,,,,lf.
+minoraverages/1916Reach,1915,International League,smith.f,F20685,Smith,F.,1,Rochester,,,,,lf
+minoraverages/1916Reach,1915,International League,smith.f,F20685,Smith,F.,2,Montreal,,,,,lf
 minoraverages/1916Reach,1915,International League,smith.f,F20685,Smith,F.,T,,,,,,lf108
 minoraverages/1916Reach,1915,International League,smith.f,F21076,Smith,[F.],0,Rochester,,,,,rf16
 minoraverages/1916Reach,1915,International League,smith.p,F21158,Smith,P.,0,Montreal,,,,,rf88
@@ -524,39 +524,39 @@ minoraverages/1916Reach,1915,International League,tamm,B01242,Tamm,,1,Montreal,,
 minoraverages/1916Reach,1915,International League,tamm,B01242,Tamm,,2,Jersey City,,,,,
 minoraverages/1916Reach,1915,International League,tamm,B01242,Tamm,,3,Harrisburg,,,,,
 minoraverages/1916Reach,1915,International League,tamm,B01242,Tamm,,T,,,,104,,
-minoraverages/1916Reach,1915,International League,tamm,F20240,Tamm,,1,Montreal,,,,,2b.
-minoraverages/1916Reach,1915,International League,tamm,F20240,Tamm,,2,Jersey City,,,,,2b.
-minoraverages/1916Reach,1915,International League,tamm,F20240,Tamm,,3,Harrisburg,,,,,2b.
+minoraverages/1916Reach,1915,International League,tamm,F20240,Tamm,,1,Montreal,,,,,2b
+minoraverages/1916Reach,1915,International League,tamm,F20240,Tamm,,2,Jersey City,,,,,2b
+minoraverages/1916Reach,1915,International League,tamm,F20240,Tamm,,3,Harrisburg,,,,,2b
 minoraverages/1916Reach,1915,International League,tamm,F20240,Tamm,,T,,,,,,2b13
-minoraverages/1916Reach,1915,International League,tamm,F20342,Tamm,,1,Montreal,,,,,3b.
-minoraverages/1916Reach,1915,International League,tamm,F20342,Tamm,,2,Jersey City,,,,,3b.
-minoraverages/1916Reach,1915,International League,tamm,F20342,Tamm,,3,Harrisburg,,,,,3b.
+minoraverages/1916Reach,1915,International League,tamm,F20342,Tamm,,1,Montreal,,,,,3b
+minoraverages/1916Reach,1915,International League,tamm,F20342,Tamm,,2,Jersey City,,,,,3b
+minoraverages/1916Reach,1915,International League,tamm,F20342,Tamm,,3,Harrisburg,,,,,3b
 minoraverages/1916Reach,1915,International League,tamm,F20342,Tamm,,T,,,,,,3b10
-minoraverages/1916Reach,1915,International League,tamm,F20612,Tamm,,1,Montreal,,,,,ss.
-minoraverages/1916Reach,1915,International League,tamm,F20612,Tamm,,2,Jersey City,,,,,ss.
-minoraverages/1916Reach,1915,International League,tamm,F20612,Tamm,,3,Harrisburg,,,,,ss.
+minoraverages/1916Reach,1915,International League,tamm,F20612,Tamm,,1,Montreal,,,,,ss
+minoraverages/1916Reach,1915,International League,tamm,F20612,Tamm,,2,Jersey City,,,,,ss
+minoraverages/1916Reach,1915,International League,tamm,F20612,Tamm,,3,Harrisburg,,,,,ss
 minoraverages/1916Reach,1915,International League,tamm,F20612,Tamm,,T,,,,,,ss21
-minoraverages/1916Reach,1915,International League,tamm,F20807,Tamm,,1,Montreal,,,,,lf.
-minoraverages/1916Reach,1915,International League,tamm,F20807,Tamm,,2,Jersey City,,,,,lf.
-minoraverages/1916Reach,1915,International League,tamm,F20807,Tamm,,3,Harrisburg,,,,,lf.
+minoraverages/1916Reach,1915,International League,tamm,F20807,Tamm,,1,Montreal,,,,,lf
+minoraverages/1916Reach,1915,International League,tamm,F20807,Tamm,,2,Jersey City,,,,,lf
+minoraverages/1916Reach,1915,International League,tamm,F20807,Tamm,,3,Harrisburg,,,,,lf
 minoraverages/1916Reach,1915,International League,tamm,F20807,Tamm,,T,,,,,,lf41
 minoraverages/1916Reach,1915,International League,thompson-ric,B00566,Thompson,,0,Richmond,,,83,,
 minoraverages/1916Reach,1915,International League,thompson-ric,F21229,Thompson,,0,Richmond,,,,,rf34
 minoraverages/1916Reach,1915,International League,thompson-jc,P10455,Thompson,,0,Jersey City,,,,5,
-boxscores/1915/1915-SL,1915,International League,thorpe,P5433076,Thorpe,,,Jersey City,19150429,19150501,2,0,of2rf2
+boxscores/1915/1915-SL,1915,International League,thorpe,P5433076,Thorpe,,,Jersey City,19150429,19150501,2,0,"of2,rf2"
 minoraverages/1916Reach,1915,International League,thorpe,B00182,Thorpe,,1,Jersey City,,,,,
 minoraverages/1916Reach,1915,International League,thorpe,B00182,Thorpe,,2,Harrisburg,,,,,
 minoraverages/1916Reach,1915,International League,thorpe,B00182,Thorpe,,T,,,,96,,
-minoraverages/1916Reach,1915,International League,thorpe,F20886,Thorpe,,1,Jersey City,,,,,lf.
-minoraverages/1916Reach,1915,International League,thorpe,F20886,Thorpe,,2,Harrisburg,,,,,lf.
+minoraverages/1916Reach,1915,International League,thorpe,F20886,Thorpe,,1,Jersey City,,,,,lf
+minoraverages/1916Reach,1915,International League,thorpe,F20886,Thorpe,,2,Harrisburg,,,,,lf
 minoraverages/1916Reach,1915,International League,thorpe,F20886,Thorpe,,T,,,,,,lf36
-minoraverages/1916Reach,1915,International League,thorpe,F21241,Thorpe,,1,Jersey City,,,,,rf.
-minoraverages/1916Reach,1915,International League,thorpe,F21241,Thorpe,,2,Harrisburg,,,,,rf.
+minoraverages/1916Reach,1915,International League,thorpe,F21241,Thorpe,,1,Jersey City,,,,,rf
+minoraverages/1916Reach,1915,International League,thorpe,F21241,Thorpe,,2,Harrisburg,,,,,rf
 minoraverages/1916Reach,1915,International League,thorpe,F21241,Thorpe,,T,,,,,,rf58
-boxscores/1915/1915-SL,1915,International League,tierney,P8963359,Tierney,,,Newark,19150501,19150501,1,0,of1lf1
+boxscores/1915/1915-SL,1915,International League,tierney,P8963359,Tierney,,,Newark,19150501,19150501,1,0,"of1,lf1"
 minoraverages/1916Reach,1915,International League,tierney,B01227,Tierney,,0,Harrisburg,,,27,,
 minoraverages/1916Reach,1915,International League,tierney,F20699,Tierney,,0,Harrisburg,,,,,lf25
-boxscores/1915/1915-SL,1915,International League,tooley,P5306907,Tooley,,,Newark,19150429,19150501,2,0,2b1ss1
+boxscores/1915/1915-SL,1915,International League,tooley,P5306907,Tooley,,,Newark,19150429,19150501,2,0,"2b1,ss1"
 minoraverages/1916Reach,1915,International League,tooley,B00528,Tooley,,0,Harrisburg,,,127,,
 minoraverages/1916Reach,1915,International League,tooley,F20206,Tooley,,0,Harrisburg,,,,,2b126
 minoraverages/1916Reach,1915,International League,tragressor,B00840,Tragressor,,0,Jersey City,,,53,,
@@ -569,9 +569,9 @@ minoraverages/1916Reach,1915,International League,truesdale,B00174,Truesdale,,0,
 minoraverages/1916Reach,1915,International League,truesdale,F20128,Truesdale,,0,Jersey City,,,,,2b120
 minoraverages/1916Reach,1915,International League,turner,B01300,Turner,,0,Jersey City,,,38,,
 minoraverages/1916Reach,1915,International League,turner,F20636,Turner,,0,Jersey City,,,,,ss36
-boxscores/1915/1915-SL,1915,International League,tutweiler,P7072715,Tutweiler,,,Providence,19150428,19150428,1,0,of1cf1
+boxscores/1915/1915-SL,1915,International League,tutweiler,P7072715,Tutweiler,,,Providence,19150428,19150428,1,0,"of1,cf1"
 minoraverages/1916Reach,1915,International League,tutweiler,F20935,Tutweiler,,0,Providence,,,,,cf72
-boxscores/1915/1915-SL,1915,International League,tutweiler,P0813702,Tutwiler,,,Providence,19150429,19150501,2,0,of2cf2
+boxscores/1915/1915-SL,1915,International League,tutweiler,P0813702,Tutwiler,,,Providence,19150429,19150501,2,0,"of2,cf2"
 minoraverages/1916Reach,1915,International League,tutweiler,B00229,Tutwiler,,0,Providence,,,76,,
 minoraverages/1916Reach,1915,International League,twombly,B00232,Twombly,,0,Richmond,,,52,,
 minoraverages/1916Reach,1915,International League,twombly,F20211,Twombly,,0,Richmond,,,,,2b19
@@ -591,10 +591,10 @@ minoraverages/1916Reach,1915,International League,wanamaker,F21783,Wanamaker,,0,
 minoraverages/1916Reach,1915,International League,wares,B00609,Wares,,0,Toronto,,,76,,
 minoraverages/1916Reach,1915,International League,wares,F20144,Wares,,0,Toronto,,,,,2b65
 minoraverages/1916Reach,1915,International League,wares,F20673,Wares,,0,Toronto,,,,,ss11
-boxscores/1915/1915-SL,1915,International League,whiteman,P6648918,Whiteman,,,Montreal,19150429,19150501,2,0,of2cf2
+boxscores/1915/1915-SL,1915,International League,whiteman,P6648918,Whiteman,,,Montreal,19150429,19150501,2,0,"of2,cf2"
 minoraverages/1916Reach,1915,International League,whiteman,B00092,Whiteman,,0,Montreal,,,141,,
 minoraverages/1916Reach,1915,International League,whiteman,F20997,Whiteman,,0,Montreal,,,,,cf141
-boxscores/1915/1915-SL,1915,International League,williams.r,P8018280,Williams,,,Rochester,19150429,19150501,2,1,p1c1
+boxscores/1915/1915-SL,1915,International League,williams.r,P8018280,Williams,,,Rochester,19150429,19150501,2,1,"p1,c1"
 minoraverages/1916Reach,1915,International League,williams.g,B00397,Williams,G.,0,Toronto,,,90,,
 minoraverages/1916Reach,1915,International League,williams.r,B00623,Williams,R.,0,Rochester,,,122,,
 minoraverages/1916Reach,1915,International League,williams.g,F21182,Williams,G.,0,Toronto,,,,,rf89
@@ -607,20 +607,20 @@ minoraverages/1916Reach,1915,International League,wiltse,P10290,Wiltse,,0,Jersey
 boxscores/1915/1915-SL,1915,International League,witter,P3330270,Witter,,,Newark,19150429,19150429,1,0,
 minoraverages/1916Reach,1915,International League,witterstaetter,B00149,Witterstaetter,,0,Harrisburg,,,135,,
 minoraverages/1916Reach,1915,International League,witterstaetter,F21130,Witterstaetter,,0,Harrisburg,,,,,rf125
-boxscores/1915/1915-SL,1915,International League,wright,P3315383,Wright,,,Jersey City,19150429,19150501,2,0,of2lf2
+boxscores/1915/1915-SL,1915,International League,wright,P3315383,Wright,,,Jersey City,19150429,19150501,2,0,"of2,lf2"
 minoraverages/1916Reach,1915,International League,wright,B01029,Wright,Wm.,0,Jersey City,,,62,,
 minoraverages/1916Reach,1915,International League,wright,F20784,Wright,,0,Jersey City,,,,,lf60
 minoraverages/1916Reach,1915,International League,yeager,B00794,Yeager,,1,Montreal,,,,,
 minoraverages/1916Reach,1915,International League,yeager,B00794,Yeager,,2,Jersey City,,,,,
 minoraverages/1916Reach,1915,International League,yeager,B00794,Yeager,,T,,,,54,,
-minoraverages/1916Reach,1915,International League,yeager,F20334,Yeager,,1,Montreal,,,,,2b.
-minoraverages/1916Reach,1915,International League,yeager,F20334,Yeager,,2,Jersey City,,,,,2b.
+minoraverages/1916Reach,1915,International League,yeager,F20334,Yeager,,1,Montreal,,,,,2b
+minoraverages/1916Reach,1915,International League,yeager,F20334,Yeager,,2,Jersey City,,,,,2b
 minoraverages/1916Reach,1915,International League,yeager,F20334,Yeager,,T,,,,,,2b12
-minoraverages/1916Reach,1915,International League,yeager,F20474,Yeager,,1,Montreal,,,,,3b.
-minoraverages/1916Reach,1915,International League,yeager,F20474,Yeager,,2,Jersey City,,,,,3b.
+minoraverages/1916Reach,1915,International League,yeager,F20474,Yeager,,1,Montreal,,,,,3b
+minoraverages/1916Reach,1915,International League,yeager,F20474,Yeager,,2,Jersey City,,,,,3b
 minoraverages/1916Reach,1915,International League,yeager,F20474,Yeager,,T,,,,,,3b15
-minoraverages/1916Reach,1915,International League,yeager,F21117,Yeager,,1,Montreal,,,,,rf.
-minoraverages/1916Reach,1915,International League,yeager,F21117,Yeager,,2,Jersey City,,,,,rf.
+minoraverages/1916Reach,1915,International League,yeager,F21117,Yeager,,1,Montreal,,,,,rf
+minoraverages/1916Reach,1915,International League,yeager,F21117,Yeager,,2,Jersey City,,,,,rf
 minoraverages/1916Reach,1915,International League,yeager,F21117,Yeager,,T,,,,,,rf11
 minoraverages/1916Reach,1915,International League,yelle,B00898,Yelle,,0,Jersey City,,,27,,
 minoraverages/1916Reach,1915,International League,yelle,F21936,Yelle,,0,Jersey City,,,,,c23

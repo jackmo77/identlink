@@ -1,7 +1,7 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1890Reach,1889,Atlantic Association,,B00695,Annis,,0,all,,,84,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20886,Annis,,1,Worcester,,,,,of.
-minoraverages/1890Reach,1889,Atlantic Association,,F20886,Annis,,2,Hartford,,,,,of.
+minoraverages/1890Reach,1889,Atlantic Association,,F20886,Annis,,1,Worcester,,,,,of
+minoraverages/1890Reach,1889,Atlantic Association,,F20886,Annis,,2,Hartford,,,,,of
 minoraverages/1890Reach,1889,Atlantic Association,,F20886,Annis,,T,,,,,,of83
 minoraverages/1890Reach,1889,Atlantic Association,,B00912,Baker,,0,all,,,13,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20417,Baker,,0,Newark,,,,,p13
@@ -21,8 +21,8 @@ minoraverages/1890Reach,1889,Atlantic Association,,F20552,Burdock,,0,New Haven,,
 minoraverages/1890Reach,1889,Atlantic Association,,B00370,Burke,J.,0,all,,,71,,
 minoraverages/1890Reach,1889,Atlantic Association,,B00397,Burke,D.J.,0,all,,,38,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20177,Burke,D.,0,Jersey City,,,,,c27
-minoraverages/1890Reach,1889,Atlantic Association,,F20878,Burke,J.,1,Easton,,,,,of.
-minoraverages/1890Reach,1889,Atlantic Association,,F20878,Burke,J.,2,Lowell,,,,,of.
+minoraverages/1890Reach,1889,Atlantic Association,,F20878,Burke,J.,1,Easton,,,,,of
+minoraverages/1890Reach,1889,Atlantic Association,,F20878,Burke,J.,2,Lowell,,,,,of
 minoraverages/1890Reach,1889,Atlantic Association,,F20878,Burke,J.,T,,,,,,of28
 minoraverages/1890Reach,1889,Atlantic Association,,F21117,Burke,D.,0,Jersey City,,,,,of10
 minoraverages/1890Reach,1889,Atlantic Association,,B00232,Burkett,,0,all,,,49,,
@@ -60,19 +60,19 @@ minoraverages/1890Reach,1889,Atlantic Association,,F20604,Day,,0,Lowell,,,,,2b46
 minoraverages/1890Reach,1889,Atlantic Association,,F20841,Day,,0,Lowell,,,,,ss19
 minoraverages/1890Reach,1889,Atlantic Association,,B00614,Derby,,0,all,,,47,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20023,Derby,,0,Hartford,,,,,c46
-minoraverages/1890Reach,1889,Atlantic Association,,F20997,Donaghue,,1,Easton,,,,,of.
-minoraverages/1890Reach,1889,Atlantic Association,,F20997,Donaghue,,2,Lowell,,,,,of.
+minoraverages/1890Reach,1889,Atlantic Association,,F20997,Donaghue,,1,Easton,,,,,of
+minoraverages/1890Reach,1889,Atlantic Association,,F20997,Donaghue,,2,Lowell,,,,,of
 minoraverages/1890Reach,1889,Atlantic Association,,F20997,Donaghue,,T,,,,,,of35
 minoraverages/1890Reach,1889,Atlantic Association,,B00783,Donoghue,,0,all,,,68,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20713,Donoghue,,1,Easton,,,,,3b.
-minoraverages/1890Reach,1889,Atlantic Association,,F20713,Donoghue,,2,Lowell,,,,,3b.
+minoraverages/1890Reach,1889,Atlantic Association,,F20713,Donoghue,,1,Easton,,,,,3b
+minoraverages/1890Reach,1889,Atlantic Association,,F20713,Donoghue,,2,Lowell,,,,,3b
 minoraverages/1890Reach,1889,Atlantic Association,,F20713,Donoghue,,T,,,,,,3b33
 minoraverages/1890Reach,1889,Atlantic Association,,B00117,Dooms,,0,all,,,55,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20279,Dooms,,0,Newark,,,,,p49
 minoraverages/1890Reach,1889,Atlantic Association,,P10062,Dooms,,0,Newark,,,,49,
 minoraverages/1890Reach,1889,Atlantic Association,,B01086,Doran,J.,0,all,,,36,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20388,Doran,J.,1,Jersey City,,,,,p.
-minoraverages/1890Reach,1889,Atlantic Association,,F20388,Doran,J.,2,New Haven,,,,,p.
+minoraverages/1890Reach,1889,Atlantic Association,,F20388,Doran,J.,1,Jersey City,,,,,p
+minoraverages/1890Reach,1889,Atlantic Association,,F20388,Doran,J.,2,New Haven,,,,,p
 minoraverages/1890Reach,1889,Atlantic Association,,F20388,Doran,J.,T,,,,,,p29
 minoraverages/1890Reach,1889,Atlantic Association,,P10070,Doran,,1,Jersey City,,,,,
 minoraverages/1890Reach,1889,Atlantic Association,,P10070,Doran,,2,New Haven,,,,,
@@ -104,8 +104,8 @@ minoraverages/1890Reach,1889,Atlantic Association,,F21101,Friel,,0,Jersey City,,
 minoraverages/1890Reach,1889,Atlantic Association,,B00278,Galligan,,0,all,,,65,,
 minoraverages/1890Reach,1889,Atlantic Association,,F21076,Galligan,,0,New Haven,,,,,of65
 minoraverages/1890Reach,1889,Atlantic Association,,B00475,Gerhardt,,0,all,,,78,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20560,Gerhardt,,1,Jersey City,,,,,2b.
-minoraverages/1890Reach,1889,Atlantic Association,,F20560,Gerhardt,,2,Hartford,,,,,2b.
+minoraverages/1890Reach,1889,Atlantic Association,,F20560,Gerhardt,,1,Jersey City,,,,,2b
+minoraverages/1890Reach,1889,Atlantic Association,,F20560,Gerhardt,,2,Hartford,,,,,2b
 minoraverages/1890Reach,1889,Atlantic Association,,F20560,Gerhardt,,T,,,,,,2b78
 minoraverages/1890Reach,1889,Atlantic Association,,B01041,German,,0,all,,,35,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20350,German,,0,Lowell,,,,,p34
@@ -117,8 +117,8 @@ minoraverages/1890Reach,1889,Atlantic Association,,F20776,Hackett,,0,Lowell,,,,,
 minoraverages/1890Reach,1889,Atlantic Association,,B00037,Hamilton,,0,all,,,36,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20430,Hamilton,,0,Lowell,,,,,1b86
 minoraverages/1890Reach,1889,Atlantic Association,,B01029,Handiboe,N.,0,all,,,18,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20233,Handiboe,N.,1,Easton,,,,,p.
-minoraverages/1890Reach,1889,Atlantic Association,,F20233,Handiboe,N.,2,Hartford,,,,,p.
+minoraverages/1890Reach,1889,Atlantic Association,,F20233,Handiboe,N.,1,Easton,,,,,p
+minoraverages/1890Reach,1889,Atlantic Association,,F20233,Handiboe,N.,2,Hartford,,,,,p
 minoraverages/1890Reach,1889,Atlantic Association,,F20233,Handiboe,N.,T,,,,,,p16
 minoraverages/1890Reach,1889,Atlantic Association,,P10100,Handiboe,,0,Hartford,,,,16,
 minoraverages/1890Reach,1889,Atlantic Association,,B00434,Hayes,,0,all,,,62,,
@@ -128,11 +128,11 @@ minoraverages/1890Reach,1889,Atlantic Association,,F21021,Henry,,0,Hartford,,,,,
 minoraverages/1890Reach,1889,Atlantic Association,,B00638,Hiland,,0,all,,,56,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20919,Hiland,,0,Jersey City,,,,,of56
 minoraverages/1890Reach,1889,Atlantic Association,,B00013,Hines,,0,all,,,54,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20046,Hines,,1,Easton,,,,,c.
-minoraverages/1890Reach,1889,Atlantic Association,,F20046,Hines,,2,Wilkes-Barre,,,,,c.
+minoraverages/1890Reach,1889,Atlantic Association,,F20046,Hines,,1,Easton,,,,,c
+minoraverages/1890Reach,1889,Atlantic Association,,F20046,Hines,,2,Wilkes-Barre,,,,,c
 minoraverages/1890Reach,1889,Atlantic Association,,F20046,Hines,,T,,,,,,c27
-minoraverages/1890Reach,1889,Atlantic Association,,F20962,Hines,,1,Easton,,,,,of.
-minoraverages/1890Reach,1889,Atlantic Association,,F20962,Hines,,2,Wilkes-Barre,,,,,of.
+minoraverages/1890Reach,1889,Atlantic Association,,F20962,Hines,,1,Easton,,,,,of
+minoraverages/1890Reach,1889,Atlantic Association,,F20962,Hines,,2,Wilkes-Barre,,,,,of
 minoraverages/1890Reach,1889,Atlantic Association,,F20962,Hines,,T,,,,,,of23
 minoraverages/1890Reach,1889,Atlantic Association,,B00343,Hofford,,0,all,,,39,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20166,Hofford,,0,Jersey City,,,,,c29
@@ -150,8 +150,8 @@ minoraverages/1890Reach,1889,Atlantic Association,,P10121,Jacobs,,0,Wilkes-Barre
 minoraverages/1890Reach,1889,Atlantic Association,,B00210,Johnson,,0,all,,,88,,
 minoraverages/1890Reach,1889,Atlantic Association,,F21092,Johnson,,0,Newark,,,,,of86
 minoraverages/1890Reach,1889,Atlantic Association,,B00308,Jones,,0,all,,,81,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20661,Jones,,1,Newark,,,,,3b.
-minoraverages/1890Reach,1889,Atlantic Association,,F20661,Jones,,2,Worcester,,,,,3b.
+minoraverages/1890Reach,1889,Atlantic Association,,F20661,Jones,,1,Newark,,,,,3b
+minoraverages/1890Reach,1889,Atlantic Association,,F20661,Jones,,2,Worcester,,,,,3b
 minoraverages/1890Reach,1889,Atlantic Association,,F20661,Jones,,T,,,,,,3b81
 minoraverages/1890Reach,1889,Atlantic Association,,B00651,Kellogg,,0,all,,,45,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20855,Kellogg,,0,Lowell,,,,,ss45
@@ -166,16 +166,16 @@ minoraverages/1890Reach,1889,Atlantic Association,,B00854,Landman,,0,all,,,33,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20342,Landman,,0,Jersey City,,,,,p24
 minoraverages/1890Reach,1889,Atlantic Association,,P10137,Landman,,0,Jersey City,,,,24,
 minoraverages/1890Reach,1889,Atlantic Association,,B00887,Lang,,0,all,,,84,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20784,Lang,,1,Jersey City,,,,,ss.
-minoraverages/1890Reach,1889,Atlantic Association,,F20784,Lang,,2,Worcester,,,,,ss.
+minoraverages/1890Reach,1889,Atlantic Association,,F20784,Lang,,1,Jersey City,,,,,ss
+minoraverages/1890Reach,1889,Atlantic Association,,F20784,Lang,,2,Worcester,,,,,ss
 minoraverages/1890Reach,1889,Atlantic Association,,F20784,Lang,,T,,,,,,ss84
 minoraverages/1890Reach,1889,Atlantic Association,,B00163,Lynch,T.,0,all,,,81,,
 minoraverages/1890Reach,1889,Atlantic Association,,B00718,Lynch,H.W.,0,all,,,34,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20482,Lynch,T.,0,Hartford,,,,,1b80
 minoraverages/1890Reach,1889,Atlantic Association,,F21059,Lynch,H.W.,0,Hartford,,,,,of26
 minoraverages/1890Reach,1889,Atlantic Association,,B00059,Lyons,,0,all,,,55,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20956,Lyons,,1,Jersey City,,,,,of.
-minoraverages/1890Reach,1889,Atlantic Association,,F20956,Lyons,,2,Worcester,,,,,of.
+minoraverages/1890Reach,1889,Atlantic Association,,F20956,Lyons,,1,Jersey City,,,,,of
+minoraverages/1890Reach,1889,Atlantic Association,,F20956,Lyons,,2,Worcester,,,,,of
 minoraverages/1890Reach,1889,Atlantic Association,,F20956,Lyons,,T,,,,,,of51
 minoraverages/1890Reach,1889,Atlantic Association,,B00553,Mann,,0,all,,,88,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20425,Mann,,0,Hartford,,,,,1b12
@@ -187,8 +187,8 @@ minoraverages/1890Reach,1889,Atlantic Association,,F20547,McCabe,,0,Hartford,,,,
 minoraverages/1890Reach,1889,Atlantic Association,,B00904,McDermott,,0,all,,,84,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20594,McDermott,,0,Newark,,,,,2b84
 minoraverages/1890Reach,1889,Atlantic Association,,B00229,McGee,,0,all,,,72,,
-minoraverages/1890Reach,1889,Atlantic Association,,F21174,McKee,,1,Wilkes-Barre,,,,,of.
-minoraverages/1890Reach,1889,Atlantic Association,,F21174,McKee,,2,New Haven,,,,,of.
+minoraverages/1890Reach,1889,Atlantic Association,,F21174,McKee,,1,Wilkes-Barre,,,,,of
+minoraverages/1890Reach,1889,Atlantic Association,,F21174,McKee,,2,New Haven,,,,,of
 minoraverages/1890Reach,1889,Atlantic Association,,F21174,McKee,,T,,,,,,of72
 minoraverages/1890Reach,1889,Atlantic Association,,B00174,Meister,,0,all,,,87,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20571,Meister,,0,Worcester,,,,,2b87
@@ -198,9 +198,9 @@ minoraverages/1890Reach,1889,Atlantic Association,,P10145,Miller,,0,Newark,,,,23
 minoraverages/1890Reach,1889,Atlantic Association,,B01078,Moolie,,0,all,,,23,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20153,Moolie,,0,Hartford,,,,,c19
 minoraverages/1890Reach,1889,Atlantic Association,,B00149,Moore,,0,all,,,23,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20144,Moore,,1,Easton,,,,,c.
-minoraverages/1890Reach,1889,Atlantic Association,,F20144,Moore,,2,Wilkes-Barre,,,,,c.
-minoraverages/1890Reach,1889,Atlantic Association,,F20144,Moore,,3,Hartford,,,,,c.
+minoraverages/1890Reach,1889,Atlantic Association,,F20144,Moore,,1,Easton,,,,,c
+minoraverages/1890Reach,1889,Atlantic Association,,F20144,Moore,,2,Wilkes-Barre,,,,,c
+minoraverages/1890Reach,1889,Atlantic Association,,F20144,Moore,,3,Hartford,,,,,c
 minoraverages/1890Reach,1889,Atlantic Association,,F20144,Moore,,T,,,,,,c23
 minoraverages/1890Reach,1889,Atlantic Association,,B00335,Murphy,W.J.,0,all,,,31,,
 minoraverages/1890Reach,1889,Atlantic Association,,B00469,Murphy,M.E.,0,all,,,86,,
@@ -211,8 +211,8 @@ minoraverages/1890Reach,1889,Atlantic Association,,F21182,Murphy,W.J.,0,Hartford
 minoraverages/1890Reach,1889,Atlantic Association,,B00101,O'Brien,T.,0,all,,,51,,
 minoraverages/1890Reach,1889,Atlantic Association,,B00806,O'Brien,J.,0,all,,,53,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20463,O'Brien,,0,Jersey City,,,,,1b51
-minoraverages/1890Reach,1889,Atlantic Association,,F20539,O'Brien,J.,1,Wilkes-Barre,,,,,2b.
-minoraverages/1890Reach,1889,Atlantic Association,,F20539,O'Brien,J.,2,Lowell,,,,,2b.
+minoraverages/1890Reach,1889,Atlantic Association,,F20539,O'Brien,J.,1,Wilkes-Barre,,,,,2b
+minoraverages/1890Reach,1889,Atlantic Association,,F20539,O'Brien,J.,2,Lowell,,,,,2b
 minoraverages/1890Reach,1889,Atlantic Association,,F20539,O'Brien,J.,T,,,,,,2b53
 minoraverages/1890Reach,1889,Atlantic Association,,B00241,O'Connell,P.,0,all,,,32,,
 minoraverages/1890Reach,1889,Atlantic Association,,B00973,O'Connell,T.,0,all,,,34,,
@@ -220,8 +220,8 @@ minoraverages/1890Reach,1889,Atlantic Association,,F20211,O'Connell,T.,0,Hartfor
 minoraverages/1890Reach,1889,Atlantic Association,,F20505,O'Connell,P.,0,Easton,,,,,1b32
 minoraverages/1890Reach,1889,Atlantic Association,,P10159,O'Connell,,0,Hartford,,,,31,
 minoraverages/1890Reach,1889,Atlantic Association,,B00623,O'Rourke,,0,all,,,45,,
-minoraverages/1890Reach,1889,Atlantic Association,,F20080,O'Rourke,,1,New Haven,,,,,c.
-minoraverages/1890Reach,1889,Atlantic Association,,F20080,O'Rourke,,2,Hartford,,,,,c.
+minoraverages/1890Reach,1889,Atlantic Association,,F20080,O'Rourke,,1,New Haven,,,,,c
+minoraverages/1890Reach,1889,Atlantic Association,,F20080,O'Rourke,,2,Hartford,,,,,c
 minoraverages/1890Reach,1889,Atlantic Association,,F20080,O'Rourke,,T,,,,,,c37
 minoraverages/1890Reach,1889,Atlantic Association,,B00130,Pettit,,0,all,,,52,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20526,Pettit,,0,Wilkes-Barre,,,,,2b10
@@ -255,8 +255,8 @@ minoraverages/1890Reach,1889,Atlantic Association,,B01055,Sullivan,W.E.,0,all,,,
 minoraverages/1890Reach,1889,Atlantic Association,,B01064,Sullivan,W.L.,0,all,,,29,,
 minoraverages/1890Reach,1889,Atlantic Association,,F20128,Sullivan,J.,0,Newark,,,,,c49
 minoraverages/1890Reach,1889,Atlantic Association,,F20287,Sullivan,W.F.,0,Lowell,,,,,p28
-minoraverages/1890Reach,1889,Atlantic Association,,F20298,Sullivan,W.E.,1,Easton,,,,,p.
-minoraverages/1890Reach,1889,Atlantic Association,,F20298,Sullivan,W.E.,2,Newark,,,,,p.
+minoraverages/1890Reach,1889,Atlantic Association,,F20298,Sullivan,W.E.,1,Easton,,,,,p
+minoraverages/1890Reach,1889,Atlantic Association,,F20298,Sullivan,W.E.,2,Newark,,,,,p
 minoraverages/1890Reach,1889,Atlantic Association,,F20298,Sullivan,W.E.,T,,,,,,p16
 minoraverages/1890Reach,1889,Atlantic Association,,P10192,Sullivan,W.E.,1,Easton,,,,,
 minoraverages/1890Reach,1889,Atlantic Association,,P10192,Sullivan,W.E.,2,Newark,,,,,

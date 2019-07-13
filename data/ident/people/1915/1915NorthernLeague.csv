@@ -1,29 +1,29 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1915/1915-DNT,1915,Northern League,adams,P3684904,Adams,,,St. Boniface,19150510,19150826,29,1,p11b28
+boxscores/1915/1915-DNT,1915,Northern League,adams,P3684904,Adams,,,St. Boniface,19150510,19150826,29,1,"p1,1b28"
 boxscores/1915/1915-GFDH,1915,Northern League,adams,P7575867,Adams,,,St. Boniface,19150521,19150703,10,0,1b10
-boxscores/1915/1915-WT,1915,Northern League,adams,P8681741,Adams,,,St. Boniface,19150508,19150906,102,1,p11b102
+boxscores/1915/1915-WT,1915,Northern League,adams,P8681741,Adams,,,St. Boniface,19150508,19150906,102,1,"p1,1b102"
 minoraverages/1916Reach,1915,Northern League,adams,B00442,Adams,,0,St. Boniface,,,105,,
 minoraverages/1916Reach,1915,Northern League,adams,F20038,Adams,,0,St. Boniface,,,,,1b105
 boxscores/1915/1915-GFDH,1915,Northern League,addison,P4252284,Addison,,,Grand Forks,19150701,19150701,1,0,3b1
 boxscores/1915/1915-WT,1915,Northern League,anderson-gf,P0746126,Addison,,,Grand Forks,19150701,19150701,1,0,3b1
 boxscores/1915/1915-WT,1915,Northern League,agnew,P9484161,Agner,,,Virginia,19150718,19150718,1,0,c1
-boxscores/1915/1915-DNT,1915,Northern League,agnew,P3843809,Agnew,,,Virginia,19150510,19150903,111,0,c1042b1of5lf2rf3
+boxscores/1915/1915-DNT,1915,Northern League,agnew,P3843809,Agnew,,,Virginia,19150510,19150903,111,0,"c104,2b1,of5,lf2,rf3"
 boxscores/1915/1915-GFDH,1915,Northern League,agnew,P6513012,Agnew,,,Virginia,19150510,19150904,89,0,c89
 boxscores/1915/1915-WT,1915,Northern League,agnew,P5806406,Agnew,,,Virginia,19150513,19150903,56,0,c56
 minoraverages/1916Reach,1915,Northern League,agnew,B00614,Agnew,,0,Virginia,,,117,,
 minoraverages/1916Reach,1915,Northern League,agnew,F20713,Agnew,,0,Virginia,,,,,c117
-boxscores/1915/1915-DNT,1915,Northern League,altman,P3629441,Allman,,,Duluth,19150801,19150801,1,0,of1lf1
-boxscores/1915/1915-WT,1915,Northern League,altman,P9483617,Allman,,,Grand Forks,19150524,19150524,1,0,of1lf1
-boxscores/1915/1915-DNT,1915,Northern League,altman,P3443977,Altman,,,Duluth,19150701,19150906,69,0,of69lf69
-boxscores/1915/1915-DNT,1915,Northern League,altman,P7959428,Altman,,,Grand Forks,19150518,19150628,11,0,of11lf11
-boxscores/1915/1915-GFDH,1915,Northern League,altman,P1850391,Altman,,,Grand Forks,19150530,19150530,1,0,of1lf1
-boxscores/1915/1915-GFDH,1915,Northern League,altman,P1850391,Altman,,,Grand Forks,19150508,19150628,45,0,of45lf45
-boxscores/1915/1915-WT,1915,Northern League,altman,P2956265,Altman,,,Grand Forks,19150521,19150606,16,0,of16lf16
-boxscores/1915/1915-WT,1915,Northern League,altman,P9867086,Altman,,,Duluth,19150706,19150810,19,0,of19lf19
+boxscores/1915/1915-DNT,1915,Northern League,altman,P3629441,Allman,,,Duluth,19150801,19150801,1,0,"of1,lf1"
+boxscores/1915/1915-WT,1915,Northern League,altman,P9483617,Allman,,,Grand Forks,19150524,19150524,1,0,"of1,lf1"
+boxscores/1915/1915-DNT,1915,Northern League,altman,P3443977,Altman,,,Duluth,19150701,19150906,69,0,"of69,lf69"
+boxscores/1915/1915-DNT,1915,Northern League,altman,P7959428,Altman,,,Grand Forks,19150518,19150628,11,0,"of11,lf11"
+boxscores/1915/1915-GFDH,1915,Northern League,altman,P1850391,Altman,,,Grand Forks,19150530,19150530,1,0,"of1,lf1"
+boxscores/1915/1915-GFDH,1915,Northern League,altman,P1850391,Altman,,,Grand Forks,19150508,19150628,45,0,"of45,lf45"
+boxscores/1915/1915-WT,1915,Northern League,altman,P2956265,Altman,,,Grand Forks,19150521,19150606,16,0,"of16,lf16"
+boxscores/1915/1915-WT,1915,Northern League,altman,P9867086,Altman,,,Duluth,19150706,19150810,19,0,"of19,lf19"
 minoraverages/1916Reach,1915,Northern League,altman,B00101,Altman,,0,Duluth,,,116,,
 minoraverages/1916Reach,1915,Northern League,altman,F20482,Altman,,0,Duluth,,,,,of116
 boxscores/1915/1915-DNT,1915,Northern League,anderson-gf,P6748609,Anderson,,,Grand Forks,19150518,19150705,14,0,3b14
-boxscores/1915/1915-DNT,1915,Northern League,anderson-dul,P9731494,Anderson,,,Duluth,19150516,19150824,2,1,p13b1of1rf1
+boxscores/1915/1915-DNT,1915,Northern League,anderson-dul,P9731494,Anderson,,,Duluth,19150516,19150824,2,1,"p1,3b1,of1,rf1"
 boxscores/1915/1915-GFDH,1915,Northern League,anderson-gf,P4007316,Anderson,,,Grand Forks,19150530,19150530,1,0,3b1
 boxscores/1915/1915-GFDH,1915,Northern League,anderson-gf,P4007316,Anderson,,,Grand Forks,19150508,19150705,52,0,3b52
 boxscores/1915/1915-GFDH,1915,Northern League,anderson-dul,P7815193,Anderson,,,Duluth,19150824,19150824,1,1,p1
@@ -35,52 +35,52 @@ minoraverages/1916Reach,1915,Northern League,bachant,B00898,Bachant,,0,Winnipeg,
 minoraverages/1916Reach,1915,Northern League,bachant,F20636,Bachant,,0,Winnipeg,,,,,c19
 boxscores/1915/1915-DNT,1915,Northern League,bachant,P3570604,Bachart,,,Winnipeg,19150809,19150809,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,bachant,P3302576,Bachout,,,Winnipeg,19150708,19150708,1,0,c1
-boxscores/1915/1915-DNT,1915,Northern League,baker,P7030289,Baker,,,Duluth,19150807,19150906,35,0,2b73b18ss12
+boxscores/1915/1915-DNT,1915,Northern League,baker,P7030289,Baker,,,Duluth,19150807,19150906,35,0,"2b7,3b18,ss12"
 boxscores/1915/1915-DNT,1915,Northern League,baker,P8371836,Baker,,,Winnipeg,19150531,19150806,35,0,2b33
 boxscores/1915/1915-GFDH,1915,Northern League,baker,P1041039,Baker,,,Winnipeg,19150530,19150530,1,0,2b1
 boxscores/1915/1915-GFDH,1915,Northern League,baker,P1041039,Baker,,,Winnipeg,19150526,19150705,10,0,2b10
-boxscores/1915/1915-WT,1915,Northern League,baker,P0334433,Baker,,,Winnipeg,19150508,19150806,91,0,2b903b1
+boxscores/1915/1915-WT,1915,Northern League,baker,P0334433,Baker,,,Winnipeg,19150508,19150806,91,0,"2b90,3b1"
 boxscores/1915/1915-WT,1915,Northern League,baker,P0558262,Baker,,,Duluth,19150809,19150810,2,0,3b2
 minoraverages/1916Reach,1915,Northern League,baker,B00163,Baker,,0,Duluth,,,128,,
 minoraverages/1916Reach,1915,Northern League,baker,F20166,Baker,,0,Duluth,,,,,2b128
 boxscores/1915/1915-DNT,1915,Northern League,bartoff,P2345499,Bardoff,,,Grand Forks,19150628,19150628,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,barrett,P9249089,Barret,,,Fargo-Moorhead,19150601,19150601,1,0,of1cf1
-boxscores/1915/1915-DNT,1915,Northern League,barrett,P1071989,Barrett,,,Fargo-Moorhead,19150514,19150906,44,0,of44lf32cf8rf4
-boxscores/1915/1915-GFDH,1915,Northern League,barrett,P5803912,Barrett,,,Fargo-Moorhead,19150607,19150613,4,0,of4cf2rf3
-boxscores/1915/1915-WT,1915,Northern League,barrett,P5003866,Barrett,,,Fargo-Moorhead,19150521,19150903,53,0,of53lf28cf20rf6
+boxscores/1915/1915-DNT,1915,Northern League,barrett,P9249089,Barret,,,Fargo-Moorhead,19150601,19150601,1,0,"of1,cf1"
+boxscores/1915/1915-DNT,1915,Northern League,barrett,P1071989,Barrett,,,Fargo-Moorhead,19150514,19150906,44,0,"of44,lf32,cf8,rf4"
+boxscores/1915/1915-GFDH,1915,Northern League,barrett,P5803912,Barrett,,,Fargo-Moorhead,19150607,19150613,4,0,"of4,cf2,rf3"
+boxscores/1915/1915-WT,1915,Northern League,barrett,P5003866,Barrett,,,Fargo-Moorhead,19150521,19150903,53,0,"of53,lf28,cf20,rf6"
 minoraverages/1916Reach,1915,Northern League,barrett,B00255,Barrett,,0,Fargo-Moorhead,,,119,,
 minoraverages/1916Reach,1915,Northern League,barrett,F20539,Barrett,,0,Fargo-Moorhead,,,,,of119
-boxscores/1915/1915-GFDH,1915,Northern League,barrett,P4528116,Barry,,,Fargo-Moorhead,19150611,19150611,1,0,of1cf1
+boxscores/1915/1915-GFDH,1915,Northern League,barrett,P4528116,Barry,,,Fargo-Moorhead,19150611,19150611,1,0,"of1,cf1"
 boxscores/1915/1915-DNT,1915,Northern League,bartoff@ump,P4958796,Bartoff,,,#umpire,19150705,19150705,,,
 boxscores/1915/1915-DNT,1915,Northern League,bartoff,P9290795,Bartoff,,,Grand Forks,19150602,19150705,3,3,p3
 boxscores/1915/1915-GFDH,1915,Northern League,bartoff@ump,P7627999,Bartoff,,,#umpire,19150705,19150705,,,
 boxscores/1915/1915-GFDH,1915,Northern League,bartoff,P7692574,Bartoff,,,Grand Forks,19150530,19150530,1,0,
-boxscores/1915/1915-GFDH,1915,Northern League,bartoff,P7692574,Bartoff,,,Grand Forks,19150529,19150705,9,8,p81b1
-boxscores/1915/1915-WT,1915,Northern League,bartoff,P4186416,Bartoff,,,Grand Forks,19150602,19150705,4,4,p41b1
+boxscores/1915/1915-GFDH,1915,Northern League,bartoff,P7692574,Bartoff,,,Grand Forks,19150529,19150705,9,8,"p8,1b1"
+boxscores/1915/1915-WT,1915,Northern League,bartoff,P4186416,Bartoff,,,Grand Forks,19150602,19150705,4,4,"p4,1b1"
 boxscores/1915/1915-WT,1915,Northern League,bartoff@ump,P6921393,Bartoff,,,#umpire,19150705,19150705,,,
 boxscores/1915/1915-DNT,1915,Northern League,bartoff,P7272242,Bartos,,,Grand Forks,19150609,19150609,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,bartoff,P9947984,Bartroff,,,Grand Forks,19150521,19150521,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,bassey,P0553334,Bassey,,,Superior,19150522,19150615,21,0,of21cf21
-boxscores/1915/1915-DNT,1915,Northern League,bassey,P9381459,Bassey,,,Duluth,19150621,19150705,16,0,of16cf15rf1
-boxscores/1915/1915-GFDH,1915,Northern League,bassey,P5522950,Bassey,,,Duluth,19150621,19150622,2,0,of2cf1rf1
-boxscores/1915/1915-GFDH,1915,Northern League,bassey,P8637033,Bassey,,,Superior,19150514,19150615,3,0,of3cf3
-boxscores/1915/1915-WT,1915,Northern League,bassey,P5319035,Bassey,,,Superior,19150508,19150513,6,0,of6cf6
-boxscores/1915/1915-WT,1915,Northern League,bassey,P5804568,Bassey,,,Duluth,19150623,19150626,4,0,of4cf4
+boxscores/1915/1915-DNT,1915,Northern League,bassey,P0553334,Bassey,,,Superior,19150522,19150615,21,0,"of21,cf21"
+boxscores/1915/1915-DNT,1915,Northern League,bassey,P9381459,Bassey,,,Duluth,19150621,19150705,16,0,"of16,cf15,rf1"
+boxscores/1915/1915-GFDH,1915,Northern League,bassey,P5522950,Bassey,,,Duluth,19150621,19150622,2,0,"of2,cf1,rf1"
+boxscores/1915/1915-GFDH,1915,Northern League,bassey,P8637033,Bassey,,,Superior,19150514,19150615,3,0,"of3,cf3"
+boxscores/1915/1915-WT,1915,Northern League,bassey,P5319035,Bassey,,,Superior,19150508,19150513,6,0,"of6,cf6"
+boxscores/1915/1915-WT,1915,Northern League,bassey,P5804568,Bassey,,,Duluth,19150623,19150626,4,0,"of4,cf4"
 minoraverages/1916Reach,1915,Northern League,bassey,B00416,Bassey,,0,Duluth,,,49,,
 minoraverages/1916Reach,1915,Northern League,bassey,F20560,Bassey,,0,Duluth,,,,,of49
-boxscores/1915/1915-DNT,1915,Northern League,bell,P8417856,Bell,,,Fargo-Moorhead,19150509,19150906,52,36,p361b10of6lf1cf2rf3
-boxscores/1915/1915-GFDH,1915,Northern League,bell,P6819635,Bell,,,Fargo-Moorhead,19150513,19150902,26,25,p25of1rf1
-boxscores/1915/1915-WT,1915,Northern League,bell,P3313477,Bell,,,Fargo-Moorhead,19150513,19150902,35,19,p191b10of4lf2rf2
+boxscores/1915/1915-DNT,1915,Northern League,bell,P8417856,Bell,,,Fargo-Moorhead,19150509,19150906,52,36,"p36,1b10,of6,lf1,cf2,rf3"
+boxscores/1915/1915-GFDH,1915,Northern League,bell,P6819635,Bell,,,Fargo-Moorhead,19150513,19150902,26,25,"p25,of1,rf1"
+boxscores/1915/1915-WT,1915,Northern League,bell,P3313477,Bell,,,Fargo-Moorhead,19150513,19150902,35,19,"p19,1b10,of4,lf2,rf2"
 minoraverages/1916Reach,1915,Northern League,bell,B00343,Bell,,0,Fargo-Moorhead,,,75,,
 minoraverages/1916Reach,1915,Northern League,bell,F20067,Bell,,0,Fargo-Moorhead,,,,,1b31
 minoraverages/1916Reach,1915,Northern League,bell,F20908,Bell,,0,Fargo-Moorhead,,,,,p44
 minoraverages/1916Reach,1915,Northern League,bell,P10070,Bell,,0,Fargo-Moorhead,,,,,
-boxscores/1915/1915-DNT,1915,Northern League,bemis,P8323423,Bemis,,,Virginia,19150720,19150810,25,0,of25cf10rf15
-boxscores/1915/1915-DNT,1915,Northern League,bemis,P8528327,Bemis,,,Winnipeg,19150531,19150708,19,0,of19cf19
-boxscores/1915/1915-GFDH,1915,Northern League,bemis,P1197530,Bemis,,,Winnipeg,19150530,19150530,1,0,of1cf1
-boxscores/1915/1915-GFDH,1915,Northern League,bemis,P1197530,Bemis,,,Winnipeg,19150526,19150705,10,0,of10cf10
-boxscores/1915/1915-WT,1915,Northern League,bemis,P0286020,Bemis,,,Virginia,19150723,19150731,11,0,of11cf7rf4
-boxscores/1915/1915-WT,1915,Northern League,bemis,P0490924,Bemis,,,Winnipeg,19150508,19150708,58,0,of58cf58
+boxscores/1915/1915-DNT,1915,Northern League,bemis,P8323423,Bemis,,,Virginia,19150720,19150810,25,0,"of25,cf10,rf15"
+boxscores/1915/1915-DNT,1915,Northern League,bemis,P8528327,Bemis,,,Winnipeg,19150531,19150708,19,0,"of19,cf19"
+boxscores/1915/1915-GFDH,1915,Northern League,bemis,P1197530,Bemis,,,Winnipeg,19150530,19150530,1,0,"of1,cf1"
+boxscores/1915/1915-GFDH,1915,Northern League,bemis,P1197530,Bemis,,,Winnipeg,19150526,19150705,10,0,"of10,cf10"
+boxscores/1915/1915-WT,1915,Northern League,bemis,P0286020,Bemis,,,Virginia,19150723,19150731,11,0,"of11,cf7,rf4"
+boxscores/1915/1915-WT,1915,Northern League,bemis,P0490924,Bemis,,,Winnipeg,19150508,19150708,58,0,"of58,cf58"
 minoraverages/1916Reach,1915,Northern League,bemis,B00319,Bemis,,0,Virginia,,,85,,
 minoraverages/1916Reach,1915,Northern League,bemis,F20526,Bemis,,0,Virginia,,,,,of85
 boxscores/1915/1915-GFDH,1915,Northern League,penfold,P9512139,Benfeld,,,Fort William-Port Arthur,19150804,19150804,1,1,p1
@@ -89,8 +89,8 @@ boxscores/1915/1915-DNT,1915,Northern League,benton,P1111709,Benton,,,Winnipeg,1
 boxscores/1915/1915-DNT,1915,Northern League,benton,P2869077,Benton,,,Superior,19150525,19150705,11,11,p11
 boxscores/1915/1915-GFDH,1915,Northern League,benton,P0952776,Benton,,,Superior,19150529,19150702,6,6,p6
 boxscores/1915/1915-GFDH,1915,Northern League,benton,P9195408,Benton,,,Winnipeg,19150714,19150904,11,11,p11
-boxscores/1915/1915-WT,1915,Northern League,benton,P3116182,Benton,F.,,Winnipeg,19150902,19150902,2,0,of2rf2
-boxscores/1915/1915-WT,1915,Northern League,benton,P5877410,Benton,,,Winnipeg,19150711,19150904,18,15,p15ss1of2cf2
+boxscores/1915/1915-WT,1915,Northern League,benton,P3116182,Benton,F.,,Winnipeg,19150902,19150902,2,0,"of2,rf2"
+boxscores/1915/1915-WT,1915,Northern League,benton,P5877410,Benton,,,Winnipeg,19150711,19150904,18,15,"p15,ss1,of2,cf2"
 boxscores/1915/1915-WT,1915,Northern League,benton,P7634778,Benton,,,Superior,19150525,19150629,4,4,p4
 minoraverages/1916Reach,1915,Northern League,benton,B00264,Benton,,0,Winnipeg,,,28,,
 minoraverages/1916Reach,1915,Northern League,benton,F20893,Benton,,0,Winnipeg,,,,,p28
@@ -98,12 +98,12 @@ minoraverages/1916Reach,1915,Northern League,benton,P10062,Benton,,0,Winnipeg,,,
 boxscores/1915/1915-GFDH,1915,Northern League,berger,P7137597,Bergen,,,Winnipeg,19150713,19150726,2,0,c2
 boxscores/1915/1915-GFDH,1915,Northern League,berger,P8894965,Bergen,,,Superior,19150527,19150527,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,berger,P1406562,Bergene,,,Winnipeg,19150724,19150724,1,0,c1
-boxscores/1915/1915-DNT,1915,Northern League,berger,P0111694,Berger,,,Winnipeg,19150709,19150906,55,1,p1c531b1
-boxscores/1915/1915-DNT,1915,Northern League,berger,P1869062,Berger,,,Superior,19150511,19150705,38,0,c281b42b6
+boxscores/1915/1915-DNT,1915,Northern League,berger,P0111694,Berger,,,Winnipeg,19150709,19150906,55,1,"p1,c53,1b1"
+boxscores/1915/1915-DNT,1915,Northern League,berger,P1869062,Berger,,,Superior,19150511,19150705,38,0,"c28,1b4,2b6"
 boxscores/1915/1915-GFDH,1915,Northern League,berger,P8195393,Berger,,,Winnipeg,19150709,19150906,50,0,c50
 boxscores/1915/1915-GFDH,1915,Northern League,berger,P9952761,Berger,,,Superior,19150513,19150703,19,0,c18
-boxscores/1915/1915-WT,1915,Northern League,berger,P4877395,Berger,,,Winnipeg,19150709,19150906,63,0,c581b5
-boxscores/1915/1915-WT,1915,Northern League,berger,P6634763,Berger,,,Superior,19150511,19150630,14,0,c121b1
+boxscores/1915/1915-WT,1915,Northern League,berger,P4877395,Berger,,,Winnipeg,19150709,19150906,63,0,"c58,1b5"
+boxscores/1915/1915-WT,1915,Northern League,berger,P6634763,Berger,,,Superior,19150511,19150630,14,0,"c12,1b1"
 boxscores/1915/1915-WT,1915,Northern League,berger,P8331031,Berger,V.,,Winnipeg,19150720,19150720,1,0,c1
 minoraverages/1916Reach,1915,Northern League,berger,B00037,Berger,,0,Winnipeg,,,110,,
 minoraverages/1916Reach,1915,Northern League,berger,F20648,Berger,,0,Winnipeg,,,,,c110
@@ -113,21 +113,21 @@ boxscores/1915/1915-DNT,1915,Northern League,burgwald.ted,P7305041,Bergwald,Ted,
 boxscores/1915/1915-DNT,1915,Northern League,burgwald.tony,P8863454,Bergwald,Tony,,Duluth,19150730,19150805,9,0,3b9
 boxscores/1915/1915-GFDH,1915,Northern League,burgwald.ted,P3949341,Bergwald,,,St. Boniface,19150903,19150903,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,burgwald.tony,P9125386,Bergwald,,,Superior,19150615,19150617,3,0,3b3
-boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P0294118,Bergwald,[Tony],,Winnipeg,19150812,19150815,4,1,p13b4
+boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P0294118,Bergwald,[Tony],,Winnipeg,19150812,19150815,4,1,"p1,3b4"
 boxscores/1915/1915-WT,1915,Northern League,burgwald.ted,P2301878,Bergwald,Ted,,Duluth,19150730,19150803,2,0,ss2
 boxscores/1915/1915-WT,1915,Northern League,burgwald.ted,P3631300,Bergwald,[Ted],,St. Boniface,19150817,19150820,4,0,ss4
 boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P3759075,Bergwald,Tony,,Duluth,19150730,19150803,3,0,3b3
 boxscores/1915/1915-WT,1915,Northern League,burgwald.ted,P1353860,Bergwold,Ted,,Duluth,19150801,19150801,2,0,ss2
 boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P2474481,Bergwold,Tony,,Duluth,19150801,19150801,2,0,3b2
-boxscores/1915/1915-DNT,1915,Northern League,bemis,P0418041,Betts,,,Winnipeg,19150706,19150706,1,0,of1cf1
+boxscores/1915/1915-DNT,1915,Northern League,bemis,P0418041,Betts,,,Winnipeg,19150706,19150706,1,0,"of1,cf1"
 boxscores/1915/1915-WT,1915,Northern League,berger,P7896107,Beyer,,,Superior,19150519,19150519,1,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,blancke,P7335036,Blancke,,,Duluth,19150617,19150702,5,5,p5
 boxscores/1915/1915-GFDH,1915,Northern League,blancke,P0004239,Blancke,,,Duluth,19150617,19150702,5,5,p5
 boxscores/1915/1915-WT,1915,Northern League,blancke,P9297633,Blancke,,,Duluth,19150617,19150626,2,2,p2
-boxscores/1915/1915-DNT,1915,Northern League,block,P6177714,Block,,,Grand Forks,19150518,19150705,14,0,of14cf14
-boxscores/1915/1915-GFDH,1915,Northern League,block,P9325925,Block,,,Grand Forks,19150530,19150530,1,0,of1cf1
-boxscores/1915/1915-GFDH,1915,Northern League,block,P9325925,Block,,,Grand Forks,19150510,19150705,46,0,of46cf46
-boxscores/1915/1915-WT,1915,Northern League,block,P6026103,Block,,,Grand Forks,19150521,19150705,22,0,of22cf22
+boxscores/1915/1915-DNT,1915,Northern League,block,P6177714,Block,,,Grand Forks,19150518,19150705,14,0,"of14,cf14"
+boxscores/1915/1915-GFDH,1915,Northern League,block,P9325925,Block,,,Grand Forks,19150530,19150530,1,0,"of1,cf1"
+boxscores/1915/1915-GFDH,1915,Northern League,block,P9325925,Block,,,Grand Forks,19150510,19150705,46,0,"of46,cf46"
+boxscores/1915/1915-WT,1915,Northern League,block,P6026103,Block,,,Grand Forks,19150521,19150705,22,0,"of22,cf22"
 boxscores/1915/1915-DNT,1915,Northern League,blum,P1039762,Blum,,,St. Boniface,19150527,19150712,12,12,p12
 boxscores/1915/1915-DNT,1915,Northern League,blum,P1432519,Blum,,,Winnipeg,19150724,19150902,11,11,p11
 boxscores/1915/1915-GFDH,1915,Northern League,blum,P4187973,Blum,,,St. Boniface,19150527,19150709,7,7,p7
@@ -144,44 +144,44 @@ boxscores/1915/1915-DNT,1915,Northern League,blum,P8462711,Blume,,,St. Boniface,
 boxscores/1915/1915-GFDH,1915,Northern League,blum,P2353674,Blume,,,St. Boniface,19150623,19150623,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,blum,P5808191,Blume,,,Winnipeg,19150819,19150819,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,blum,P5101585,Blume,,,Winnipeg,19150804,19150804,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,boardman,P0120518,Boardman,,,St. Boniface,19150515,19150906,31,28,p281b1of1cf1
-boxscores/1915/1915-GFDH,1915,Northern League,boardman,P9657849,Boardman,,,St. Boniface,19150515,19150906,26,25,p25of1rf1
-boxscores/1915/1915-WT,1915,Northern League,boardman,P1451787,Boardman,,,St. Boniface,19150515,19150906,44,33,p331b1of6lf1cf1rf4
+boxscores/1915/1915-DNT,1915,Northern League,boardman,P0120518,Boardman,,,St. Boniface,19150515,19150906,31,28,"p28,1b1,of1,cf1"
+boxscores/1915/1915-GFDH,1915,Northern League,boardman,P9657849,Boardman,,,St. Boniface,19150515,19150906,26,25,"p25,of1,rf1"
+boxscores/1915/1915-WT,1915,Northern League,boardman,P1451787,Boardman,,,St. Boniface,19150515,19150906,44,33,"p33,1b1,of6,lf1,cf1,rf4"
 minoraverages/1916Reach,1915,Northern League,boardman,B00783,Boardman,,0,St. Boniface,,,41,,
 minoraverages/1916Reach,1915,Northern League,boardman,F21013,Boardman,,0,St. Boniface,,,,,p41
 minoraverages/1916Reach,1915,Northern League,boardman,P10035,Boardman,,0,St. Boniface,,,,,
 boxscores/1915/1915-GFDH,1915,Northern League,bachant,P3033801,Bochant,,,Winnipeg,19150722,19150722,1,0,c1
-boxscores/1915/1915-GFDH,1915,Northern League,block,P9444505,Bock,,,Grand Forks,19150521,19150521,1,0,of1cf1
+boxscores/1915/1915-GFDH,1915,Northern League,block,P9444505,Bock,,,Grand Forks,19150521,19150521,1,0,"of1,cf1"
 boxscores/1915/1915-DNT,1915,Northern League,bohlman,P0940816,Bohlman,,,Superior,19150615,19150622,6,0,ss6
 boxscores/1915/1915-GFDH,1915,Northern League,bohlman,P7702883,Bohlman,,,Superior,19150615,19150617,3,0,ss3
 boxscores/1915/1915-WT,1915,Northern League,bohlman,P8208949,Bohlman,,,Superior,19150619,19150622,3,0,ss3
 boxscores/1915/1915-DNT,1915,Northern League,boley@ump,P3075363,Boley,,,#umpire,19150902,19150902,,,
-boxscores/1915/1915-DNT,1915,Northern League,boley,P4797863,Boley,,,Duluth,19150511,19150906,43,35,p35of5lf3rf2
+boxscores/1915/1915-DNT,1915,Northern League,boley,P4797863,Boley,,,Duluth,19150511,19150906,43,35,"p35,of5,lf3,rf2"
 boxscores/1915/1915-GFDH,1915,Northern League,boley,P6196090,Boley,,,Duluth,19150508,19150906,24,24,p24
-boxscores/1915/1915-WT,1915,Northern League,boley,P8325836,Boley,,,Duluth,19150508,19150906,22,20,p20of1rf1
+boxscores/1915/1915-WT,1915,Northern League,boley,P8325836,Boley,,,Duluth,19150508,19150906,22,20,"p20,of1,rf1"
 minoraverages/1916Reach,1915,Northern League,boley,B00680,Boley,,0,Duluth,,,39,,
 minoraverages/1916Reach,1915,Northern League,boley,F21000,Boley,,0,Duluth,,,,,p39
 minoraverages/1916Reach,1915,Northern League,boley,P10253,Boley,,0,Duluth,,,,,
-boxscores/1915/1915-DNT,1915,Northern League,boley,P5810498,Boly,,,Duluth,19150512,19150512,1,0,of1rf1
-boxscores/1915/1915-WT,1915,Northern League,boley,P8644679,Boly,,,Duluth,19150512,19150512,1,0,of1rf1
+boxscores/1915/1915-DNT,1915,Northern League,boley,P5810498,Boly,,,Duluth,19150512,19150512,1,0,"of1,rf1"
+boxscores/1915/1915-WT,1915,Northern League,boley,P8644679,Boly,,,Duluth,19150512,19150512,1,0,"of1,rf1"
 boxscores/1915/1915-DNT,1915,Northern League,bartoff,P3230024,Boortoff,,,Grand Forks,19150703,19150703,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,berger,P6178051,Borger,,,Superior,19150511,19150511,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,bartoff,P0691500,Bortoff,,,Grand Forks,19150524,19150528,2,2,p2
 boxscores/1915/1915-WT,1915,Northern League,bartoff,P7185342,Bortoff,,,Grand Forks,19150521,19150524,2,2,p2
 boxscores/1915/1915-WT,1915,Northern League,bartoff,P1401617,Bostaff,,,Grand Forks,19150528,19150528,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,bartoff,P1465874,Bottorff,,,Grand Forks,19150529,19150529,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,brammell,P1190956,Brammel,,,Duluth,19150520,19150520,1,0,of1rf1
-boxscores/1915/1915-GFDH,1915,Northern League,brammell,P3860159,Brammel,,,Duluth,19150518,19150520,2,0,of2rf2
+boxscores/1915/1915-DNT,1915,Northern League,brammell,P1190956,Brammel,,,Duluth,19150520,19150520,1,0,"of1,rf1"
+boxscores/1915/1915-GFDH,1915,Northern League,brammell,P3860159,Brammel,,,Duluth,19150518,19150520,2,0,"of2,rf2"
 boxscores/1915/1915-GFDH,1915,Northern League,brammell,P6100266,Brammel,,,Winnipeg,19150524,19150524,1,0,c1
 boxscores/1915/1915-WT,1915,Northern League,brammell,P6606332,Brammel,,,Winnipeg,19150521,19150521,1,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,brammell,P0877571,Brammell,,,Winnipeg,19150521,19150529,4,0,c4
-boxscores/1915/1915-DNT,1915,Northern League,brammell,P8354904,Brammell,,,Duluth,19150510,19150518,7,0,of6rf6
+boxscores/1915/1915-DNT,1915,Northern League,brammell,P8354904,Brammell,,,Duluth,19150510,19150518,7,0,"of6,rf6"
 boxscores/1915/1915-GFDH,1915,Northern League,brammell,P4025782,Brammell,,,Winnipeg,19150530,19150530,1,0,c1
-boxscores/1915/1915-GFDH,1915,Northern League,brammell,P4025782,Brammell,,,Winnipeg,19150522,19150529,4,0,c21b1
-boxscores/1915/1915-WT,1915,Northern League,brammell,P0725960,Brammell,,,Winnipeg,19150522,19150529,7,0,c41b2
+boxscores/1915/1915-GFDH,1915,Northern League,brammell,P4025782,Brammell,,,Winnipeg,19150522,19150529,4,0,"c2,1b1"
+boxscores/1915/1915-WT,1915,Northern League,brammell,P0725960,Brammell,,,Winnipeg,19150522,19150529,7,0,"c4,1b2"
 boxscores/1915/1915-WT,1915,Northern League,brennan,P2483328,Brammell,,,Superior,19150527,19150527,1,1,p1
-boxscores/1915/1915-WT,1915,Northern League,brammell,P3120605,Brammell,,,Duluth,19150510,19150513,4,0,1b1of4rf4
-boxscores/1915/1915-WT,1915,Northern League,brammell,P0388775,Bramwell,,,Duluth,19150508,19150508,1,0,of1rf1
+boxscores/1915/1915-WT,1915,Northern League,brammell,P3120605,Brammell,,,Duluth,19150510,19150513,4,0,"1b1,of4,rf4"
+boxscores/1915/1915-WT,1915,Northern League,brammell,P0388775,Bramwell,,,Duluth,19150508,19150508,1,0,"of1,rf1"
 boxscores/1915/1915-GFDH,1915,Northern League,brennan,P7293766,Brandon,,,Superior,19150524,19150524,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,brennan,P8205871,Brannan,,,Superior,19150527,19150527,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,brennan,P0381309,Brannon,,,Superior,19150516,19150531,2,2,p2
@@ -198,11 +198,11 @@ boxscores/1915/1915-WT,1915,Northern League,brennan,P7964120,Brennan,,,Superior,
 boxscores/1915/1915-WT,1915,Northern League,brenner,P3366452,Brennen,,,Grand Forks,19150625,19150625,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,brenner,P2485683,Brenner,,,Grand Forks,19150508,19150705,8,8,p8
 boxscores/1915/1915-GFDH,1915,Northern League,brenner,P0887462,Brenner,,,Grand Forks,19150530,19150530,1,1,p1
-boxscores/1915/1915-GFDH,1915,Northern League,brenner,P0887462,Brenner,,,Grand Forks,19150508,19150705,16,15,p15of1lf1
-boxscores/1915/1915-WT,1915,Northern League,brenner,P7381304,Brenner,,,Grand Forks,19150519,19150703,8,7,p7of1lf1
-boxscores/1915/1915-DNT,1915,Northern League,brokaw,P5843349,Brokaw,,,Virginia,19150526,19150903,99,0,1b9of88cf88
-boxscores/1915/1915-GFDH,1915,Northern League,brokaw,P3927048,Brokaw,,,Virginia,19150510,19150630,7,0,of7cf7
-boxscores/1915/1915-WT,1915,Northern League,brokaw,P0609050,Brokaw,,,Virginia,19150514,19150731,28,0,1b7of21cf21
+boxscores/1915/1915-GFDH,1915,Northern League,brenner,P0887462,Brenner,,,Grand Forks,19150508,19150705,16,15,"p15,of1,lf1"
+boxscores/1915/1915-WT,1915,Northern League,brenner,P7381304,Brenner,,,Grand Forks,19150519,19150703,8,7,"p7,of1,lf1"
+boxscores/1915/1915-DNT,1915,Northern League,brokaw,P5843349,Brokaw,,,Virginia,19150526,19150903,99,0,"1b9,of88,cf88"
+boxscores/1915/1915-GFDH,1915,Northern League,brokaw,P3927048,Brokaw,,,Virginia,19150510,19150630,7,0,"of7,cf7"
+boxscores/1915/1915-WT,1915,Northern League,brokaw,P0609050,Brokaw,,,Virginia,19150514,19150731,28,0,"1b7,of21,cf21"
 minoraverages/1916Reach,1915,Northern League,brokaw,B00229,Brokaw,,0,Virginia,,,121,,
 minoraverages/1916Reach,1915,Northern League,brokaw,F20369,Brokaw,,0,Virginia,,,,,of121
 boxscores/1915/1915-GFDH,1915,Northern League,brammell,P1634180,Brommell,,,Winnipeg,19150521,19150521,1,0,c1
@@ -224,13 +224,13 @@ boxscores/1915/1915-DNT,1915,Northern League,burgwald.tony,P0439248,Burgald,,,Su
 boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P4021238,Burgald,T. [Tony],,Duluth,19150802,19150802,1,0,3b1
 boxscores/1915/1915-GFDH,1915,Northern League,berger,P9913225,Burger,,,Superior,19150525,19150619,2,0,c2
 boxscores/1915/1915-GFDH,1915,Northern League,burgwald.tony,P9356423,Burgvold,,,Superior,19150516,19150516,1,0,3b1
-boxscores/1915/1915-DNT,1915,Northern League,burgwald.tony,P1165103,Burgwald,,,Winnipeg,19150807,19150812,6,1,p13b5
+boxscores/1915/1915-DNT,1915,Northern League,burgwald.tony,P1165103,Burgwald,,,Winnipeg,19150807,19150812,6,1,"p1,3b5"
 boxscores/1915/1915-DNT,1915,Northern League,burgwald.tony,P2290798,Burgwald,Tony,,Duluth,19150728,19150729,2,0,3b2
 boxscores/1915/1915-DNT,1915,Northern League,burgwald.tony,P2922471,Burgwald,,,Superior,19150522,19150704,33,0,3b33
 boxscores/1915/1915-DNT,1915,Northern League,burgwald.tony,P4140292,Burgwald,,,Duluth,19150706,19150724,16,0,3b16
 boxscores/1915/1915-DNT,1915,Northern League,burgwald.ted,P6499809,Burgwald,Ted,,Duluth,19150728,19150729,3,0,ss3
 boxscores/1915/1915-DNT,1915,Northern League,burgwald.ted,P6789626,Burgwald,,,St. Boniface,19150903,19150903,1,1,p1
-boxscores/1915/1915-WT,1915,Northern League,burgwald.ted,P0194388,Burgwald,[Ted],,St. Boniface,19150809,19150906,20,2,p2ss19
+boxscores/1915/1915-WT,1915,Northern League,burgwald.ted,P0194388,Burgwald,[Ted],,St. Boniface,19150809,19150906,20,2,"p2,ss19"
 boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P1013492,Burgwald,,,Winnipeg,19150809,19150811,3,0,3b3
 boxscores/1915/1915-WT,1915,Northern League,burgwald.ted,P1496646,Burgwald,Ted,,Duluth,19150728,19150805,6,0,ss6
 boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P2770860,Burgwald,,,Superior,19150508,19150630,12,0,3b12
@@ -241,7 +241,7 @@ boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P8089784,Burgwald,T. [
 boxscores/1915/1915-WT,1915,Northern League,burgwald.ted,P8120895,Burgwald,,,St. Boniface,19150809,19150809,1,0,ss1
 boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P8905993,Burgwald,,,Duluth,19150706,19150806,5,0,3b5
 boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P8966419,Burgwald,O. [Tony],,Winnipeg,19150824,19150824,2,0,3b2
-boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P9517942,Burgwald,[Tony],,Winnipeg,19150816,19150906,20,0,3b18ss2
+boxscores/1915/1915-WT,1915,Northern League,burgwald.tony,P9517942,Burgwald,[Tony],,Winnipeg,19150816,19150906,20,0,"3b18,ss2"
 minoraverages/1916Reach,1915,Northern League,burgwald.tony,B00427,Burgwald,,0,Winnipeg,,,122,,
 minoraverages/1916Reach,1915,Northern League,burgwald.ted,B00695,Burgwald,T.,0,St. Boniface,,,47,,
 minoraverages/1916Reach,1915,Northern League,burgwald.tony,F20211,Burgwald,,0,Winnipeg,,,,,3b122
@@ -279,20 +279,20 @@ boxscores/1915/1915-WT,1915,Northern League,christianson,P6202049,Christianson,,
 boxscores/1915/1915-DNT,1915,Northern League,cline,P1668802,Cline,,,Winnipeg,19150705,19150705,1,0,1b1
 boxscores/1915/1915-GFDH,1915,Northern League,cline,P4338005,Cline,,,Winnipeg,19150530,19150530,1,0,ss1
 boxscores/1915/1915-GFDH,1915,Northern League,cline,P4338005,Cline,,,Winnipeg,19150603,19150705,5,0,1b5
-boxscores/1915/1915-WT,1915,Northern League,cline,P1416856,Cline,C.,,Winnipeg,19150511,19150520,6,0,of4lf4
-boxscores/1915/1915-WT,1915,Northern League,cline,P3631399,Cline,,,Winnipeg,19150515,19150705,6,0,1b4of1lf1
+boxscores/1915/1915-WT,1915,Northern League,cline,P1416856,Cline,C.,,Winnipeg,19150511,19150520,6,0,"of4,lf4"
+boxscores/1915/1915-WT,1915,Northern League,cline,P3631399,Cline,,,Winnipeg,19150515,19150705,6,0,"1b4,of1,lf1"
 minoraverages/1916Reach,1915,Northern League,cline,B00450,Cline,,0,Duluth,,,25,,
 minoraverages/1916Reach,1915,Northern League,cline,F20240,Cline,,0,Duluth,,,,,3b25
-boxscores/1915/1915-DNT,1915,Northern League,clymer,P5830605,Clymer,,,Fargo-Moorhead,19150605,19150829,28,0,of27cf27
-boxscores/1915/1915-GFDH,1915,Northern League,clymer,P5367936,Clymer,,,Fargo-Moorhead,19150512,19150609,4,1,p1of3cf3
-boxscores/1915/1915-WT,1915,Northern League,clymer,P7161874,Clymer,,,Fargo-Moorhead,19150605,19150820,31,0,of31cf31
+boxscores/1915/1915-DNT,1915,Northern League,clymer,P5830605,Clymer,,,Fargo-Moorhead,19150605,19150829,28,0,"of27,cf27"
+boxscores/1915/1915-GFDH,1915,Northern League,clymer,P5367936,Clymer,,,Fargo-Moorhead,19150512,19150609,4,1,"p1,of3,cf3"
+boxscores/1915/1915-WT,1915,Northern League,clymer,P7161874,Clymer,,,Fargo-Moorhead,19150605,19150820,31,0,"of31,cf31"
 minoraverages/1916Reach,1915,Northern League,clymer,B00117,Clymer,,0,Fargo-Moorhead,,,69,,
 minoraverages/1916Reach,1915,Northern League,clymer,F20388,Clymer,,0,Fargo-Moorhead,,,,,of69
 boxscores/1915/1915-WT,1915,Northern League,cline,P1390775,Clyne,,,Winnipeg,19150605,19150605,1,0,1b1
 boxscores/1915/1915-GFDH,1915,Northern League,cadreau,P4401282,Codreau,,,Duluth,19150522,19150522,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,collins,P4297568,Collins,,,Duluth,19150510,19150705,49,0,2b33b15of31lf20cf10rf1
-boxscores/1915/1915-GFDH,1915,Northern League,collins,P6966771,Collins,,,Duluth,19150518,19150622,7,0,3b3of4lf4
-boxscores/1915/1915-WT,1915,Northern League,collins,P6260165,Collins,,,Duluth,19150508,19150626,12,0,3b8of4lf4
+boxscores/1915/1915-DNT,1915,Northern League,collins,P4297568,Collins,,,Duluth,19150510,19150705,49,0,"2b3,3b15,of31,lf20,cf10,rf1"
+boxscores/1915/1915-GFDH,1915,Northern League,collins,P6966771,Collins,,,Duluth,19150518,19150622,7,0,"3b3,of4,lf4"
+boxscores/1915/1915-WT,1915,Northern League,collins,P6260165,Collins,,,Duluth,19150508,19150626,12,0,"3b8,of4,lf4"
 minoraverages/1916Reach,1915,Northern League,collins,B00469,Collins,,0,Duluth,,,51,,
 minoraverages/1916Reach,1915,Northern League,collins,F20604,Collins,,0,Duluth,,,,,of51
 boxscores/1915/1915-DNT,1915,Northern League,connelly,P9003045,Conelly,,,Superior,19150614,19150614,1,1,p1
@@ -318,37 +318,37 @@ boxscores/1915/1915-WT,1915,Northern League,croake,P3810985,Croake,,,Virginia,19
 boxscores/1915/1915-WT,1915,Northern League,croake,P9432166,Croake,,,Duluth,19150508,19150626,12,0,1b12
 minoraverages/1916Reach,1915,Northern League,croake,B00577,Croake,,0,Virginia,,,61,,
 minoraverages/1916Reach,1915,Northern League,croake,F20080,Croake,,0,Virginia,,,,,1b61
-boxscores/1915/1915-DNT,1915,Northern League,cronin,P7776184,Cronin,,,Virginia,19150508,19150906,69,1,p1c202b1of46lf6cf2rf38
-boxscores/1915/1915-GFDH,1915,Northern League,cronin,P5859883,Cronin,,,Virginia,19150524,19150906,9,0,c8of1rf1
-boxscores/1915/1915-WT,1915,Northern League,cronin,P2541885,Cronin,,,Virginia,19150514,19150805,14,0,c92b1of5lf3rf2
+boxscores/1915/1915-DNT,1915,Northern League,cronin,P7776184,Cronin,,,Virginia,19150508,19150906,69,1,"p1,c20,2b1,of46,lf6,cf2,rf38"
+boxscores/1915/1915-GFDH,1915,Northern League,cronin,P5859883,Cronin,,,Virginia,19150524,19150906,9,0,"c8,of1,rf1"
+boxscores/1915/1915-WT,1915,Northern League,cronin,P2541885,Cronin,,,Virginia,19150514,19150805,14,0,"c9,2b1,of5,lf3,rf2"
 minoraverages/1916Reach,1915,Northern League,cronin,B00553,Cronin,,0,Virginia,,,73,,
 minoraverages/1916Reach,1915,Northern League,cronin,F20417,Cronin,,0,Virginia,,,,,of73
 boxscores/1915/1915-GFDH,1915,Northern League,cronin,P9469689,Cronnin,,,Virginia,19150713,19150713,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,cronin,P1056383,Cronnit,,,Virginia,19150805,19150805,1,0,c1
-boxscores/1915/1915-WT,1915,Northern League,cronin,P3436612,Crouin,,,Virginia,19150709,19150709,1,0,of1rf1
-boxscores/1915/1915-DNT,1915,Northern League,culver,P5494355,Culver,,,St. Boniface,19150510,19150805,20,20,p20of1lf1
+boxscores/1915/1915-WT,1915,Northern League,cronin,P3436612,Crouin,,,Virginia,19150709,19150709,1,0,"of1,rf1"
+boxscores/1915/1915-DNT,1915,Northern League,culver,P5494355,Culver,,,St. Boniface,19150510,19150805,20,20,"p20,of1,lf1"
 boxscores/1915/1915-DNT,1915,Northern League,culver,P6962333,Culver,,,Duluth,19150807,19150906,9,9,p9
 boxscores/1915/1915-GFDH,1915,Northern League,culver,P3103824,Culver,,,Duluth,19150810,19150906,6,6,p6
-boxscores/1915/1915-GFDH,1915,Northern League,culver,P3896134,Culver,,,St. Boniface,19150526,19150805,17,16,p16of1rf1
-boxscores/1915/1915-WT,1915,Northern League,culver,P0389976,Culver,,,St. Boniface,19150510,19150805,24,22,p22of3lf2rf1
+boxscores/1915/1915-GFDH,1915,Northern League,culver,P3896134,Culver,,,St. Boniface,19150526,19150805,17,16,"p16,of1,rf1"
+boxscores/1915/1915-WT,1915,Northern League,culver,P0389976,Culver,,,St. Boniface,19150510,19150805,24,22,"p22,of3,lf2,rf1"
 boxscores/1915/1915-WT,1915,Northern League,culver,P3385442,Culver,,,Duluth,19150810,19150906,4,4,p4
 minoraverages/1916Reach,1915,Northern League,culver,B00936,Culver,,0,Duluth,,,32,,
 minoraverages/1916Reach,1915,Northern League,culver,F20935,Culver,,0,Duluth,,,,,p32
 minoraverages/1916Reach,1915,Northern League,culver,P10121,Culver,,0,Duluth,,,,,
 boxscores/1915/1915-GFDH,1915,Northern League,culver,P0425476,Culvert,,,Duluth,19150826,19150826,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,curtis.f-sup+win,P1349193,Curtis,,,Superior,19150522,19150705,39,0,1b38
-boxscores/1915/1915-DNT,1915,Northern League,curtis.f-sup+win,P9591825,Curtis,,,Winnipeg,19150723,19150810,19,0,1b13of5cf3rf2
+boxscores/1915/1915-DNT,1915,Northern League,curtis.f-sup+win,P9591825,Curtis,,,Winnipeg,19150723,19150810,19,0,"1b13,of5,cf3,rf2"
 boxscores/1915/1915-GFDH,1915,Northern League,curtis.f-sup+win,P9432892,Curtis,,,Superior,19150514,19150617,5,0,1b5
-boxscores/1915/1915-WT,1915,Northern League,curtis.f-sup+win,P4357526,Curtis,,,Winnipeg,19150709,19150825,50,0,1b28of22cf20rf2
+boxscores/1915/1915-WT,1915,Northern League,curtis.f-sup+win,P4357526,Curtis,,,Winnipeg,19150709,19150825,50,0,"1b28,of22,cf20,rf2"
 boxscores/1915/1915-WT,1915,Northern League,curtis.f-sup+win,P6114894,Curtis,,,Superior,19150508,19150630,10,0,1b10
 minoraverages/1916Reach,1915,Northern League,curtis.f-sup+win,B00544,Curtis,,0,Winnipeg,,,103,,
 minoraverages/1916Reach,1915,Northern League,curtis.f-sup+win,F20014,Curtis,,0,Winnipeg,,,,,1b78
 minoraverages/1916Reach,1915,Northern League,curtis.f-sup+win,F20425,Curtis,,0,Winnipeg,,,,,of26
 boxscores/1915/1915-WT,1915,Northern League,curtis.f-sup+win,P1983294,Curtis [SUP],,,Superior,19150510,19150511,2,0,1b2
-boxscores/1915/1915-WT,1915,Northern League,curtis-win,P0967612,Curtis [WIN],,,Winnipeg,19150510,19150511,2,0,of2lf2
+boxscores/1915/1915-WT,1915,Northern League,curtis-win,P0967612,Curtis [WIN],,,Winnipeg,19150510,19150511,2,0,"of2,lf2"
 boxscores/1915/1915-DNT,1915,Northern League,curtis-win,P1875818,Curtis [a],,,Winnipeg,19150602,19150602,1,0,ss1
 boxscores/1915/1915-GFDH,1915,Northern League,curtis-win,P0277597,Curtis [a],,,Winnipeg,19150603,19150606,3,0,ss3
-boxscores/1915/1915-WT,1915,Northern League,curtis-win,P6771439,Curtis [a],,,Winnipeg,19150508,19150612,14,0,3b1ss9of4lf4
+boxscores/1915/1915-WT,1915,Northern League,curtis-win,P6771439,Curtis [a],,,Winnipeg,19150508,19150612,14,0,"3b1,ss9,of4,lf4"
 boxscores/1915/1915-DNT,1915,Northern League,dancy,P3666965,Dancer,,,Fort William-Port Arthur,19150527,19150529,3,0,1b3
 boxscores/1915/1915-DNT,1915,Northern League,dancy,P7171548,Dancey,,,Fort William-Port Arthur,19150530,19150830,19,0,1b19
 boxscores/1915/1915-WT,1915,Northern League,dancy,P4927329,Dancey,,,Fort William-Port Arthur,19150514,19150520,5,0,1b5
@@ -357,14 +357,14 @@ boxscores/1915/1915-GFDH,1915,Northern League,dancy,P6589098,Dancy,,,Fort Willia
 boxscores/1915/1915-WT,1915,Northern League,dancy,P7350012,Dancy,,,Fort William-Port Arthur,19150615,19150903,40,0,1b40
 minoraverages/1916Reach,1915,Northern League,dancy,B00488,Dancy,,0,Fort William,,,122,,
 minoraverages/1916Reach,1915,Northern League,dancy,F20072,Dancy,,0,Fort William,,,,,1b122
-boxscores/1915/1915-WT,1915,Northern League,derose,P9743531,Darose,,,Fort William-Port Arthur,19150628,19150628,1,0,of1rf1
-boxscores/1915/1915-DNT,1915,Northern League,derose,P4130570,De Rose,,,Fort William-Port Arthur,19150531,19150829,13,0,c2of12rf12
+boxscores/1915/1915-WT,1915,Northern League,derose,P9743531,Darose,,,Fort William-Port Arthur,19150628,19150628,1,0,"of1,rf1"
+boxscores/1915/1915-DNT,1915,Northern League,derose,P4130570,De Rose,,,Fort William-Port Arthur,19150531,19150829,13,0,"c2,of12,rf12"
 boxscores/1915/1915-GFDH,1915,Northern League,derose,P1435997,De Rose,,,Fort William-Port Arthur,19150814,19150814,1,0,c1
-boxscores/1915/1915-WT,1915,Northern League,derose,P0071343,De Rose,,,Fort William-Port Arthur,19150518,19150903,34,0,c8of27lf5rf22
-boxscores/1915/1915-DNT,1915,Northern League,derose,P6263050,DeRose,,,Fort William-Port Arthur,19150606,19150830,16,0,c5of12rf12
+boxscores/1915/1915-WT,1915,Northern League,derose,P0071343,De Rose,,,Fort William-Port Arthur,19150518,19150903,34,0,"c8,of27,lf5,rf22"
+boxscores/1915/1915-DNT,1915,Northern League,derose,P6263050,DeRose,,,Fort William-Port Arthur,19150606,19150830,16,0,"c5,of12,rf12"
 boxscores/1915/1915-GFDH,1915,Northern League,berger,P4780780,DeRose,,,Winnipeg,19150731,19150731,1,0,c1
-boxscores/1915/1915-GFDH,1915,Northern League,derose,P8908669,DeRose,,,Fort William-Port Arthur,19150508,19150819,13,0,c8of5rf5
-boxscores/1915/1915-WT,1915,Northern League,derose,P4018831,DeRose,,,Fort William-Port Arthur,19150514,19150724,3,0,c1of2rf2
+boxscores/1915/1915-GFDH,1915,Northern League,derose,P8908669,DeRose,,,Fort William-Port Arthur,19150508,19150819,13,0,"c8,of5,rf5"
+boxscores/1915/1915-WT,1915,Northern League,derose,P4018831,DeRose,,,Fort William-Port Arthur,19150514,19150724,3,0,"c1,of2,rf2"
 minoraverages/1916Reach,1915,Northern League,derose,B00130,DeRose,,0,Fort William,,,127,,
 minoraverages/1916Reach,1915,Northern League,derose,F20391,DeRose,,0,Fort William,,,,,of127
 boxscores/1915/1915-WT,1915,Northern League,dean,P4696436,Dean,,,Winnipeg,19150508,19150512,4,0,ss4
@@ -373,18 +373,18 @@ boxscores/1915/1915-WT,1915,Northern League,delburn,P7334545,Delborne,,,Fargo-Mo
 boxscores/1915/1915-DNT,1915,Northern League,delburn,P2519853,Delburn,,,Fargo-Moorhead,19150825,19150901,2,2,p2
 boxscores/1915/1915-DNT,1915,Northern League,dennis,P9270765,Dennis,,,Duluth,19150827,19150827,1,0,2b1
 boxscores/1915/1915-GFDH,1915,Northern League,derose,P3667384,Deros,,,Fort William-Port Arthur,19150720,19150720,1,0,c1
-boxscores/1915/1915-DNT,1915,Northern League,derose,P4031146,Derose,,,Fort William-Port Arthur,19150526,19150827,32,0,c16of18lf2cf1rf15
-boxscores/1915/1915-GFDH,1915,Northern League,derose,P6676765,Derose,,,Fort William-Port Arthur,19150625,19150821,7,0,c6of1rf1
-boxscores/1915/1915-WT,1915,Northern League,derose,P1786927,Derose,,,Fort William-Port Arthur,19150615,19150829,10,0,c5of5rf5
+boxscores/1915/1915-DNT,1915,Northern League,derose,P4031146,Derose,,,Fort William-Port Arthur,19150526,19150827,32,0,"c16,of18,lf2,cf1,rf15"
+boxscores/1915/1915-GFDH,1915,Northern League,derose,P6676765,Derose,,,Fort William-Port Arthur,19150625,19150821,7,0,"c6,of1,rf1"
+boxscores/1915/1915-WT,1915,Northern League,derose,P1786927,Derose,,,Fort William-Port Arthur,19150615,19150829,10,0,"c5,of5,rf5"
 boxscores/1915/1915-DNT,1915,Northern League,dorman,P9163696,Dorman,,,Virginia,19150511,19150601,4,4,p4
 boxscores/1915/1915-GFDH,1915,Northern League,dorman,P7247395,Dorman,,,Virginia,19150511,19150520,2,2,p2
 boxscores/1915/1915-WT,1915,Northern League,dorman,P3929397,Dorman,,,Virginia,19150511,19150527,3,3,p3
-boxscores/1915/1915-DNT,1915,Northern League,doyle,P4650974,Doyle,,,Fargo-Moorhead,19150514,19150531,3,0,of2rf2
-boxscores/1915/1915-DNT,1915,Northern League,doyle,P7654473,Doyle,,,Duluth,19150603,19150604,2,0,of2lf1rf1
-boxscores/1915/1915-DNT,1915,Northern League,doyle,P9865580,Doyle,,,Superior,19150616,19150705,19,0,of19rf19
-boxscores/1915/1915-GFDH,1915,Northern League,doyle,P2534783,Doyle,,,Superior,19150616,19150617,2,0,of2rf2
-boxscores/1915/1915-WT,1915,Northern League,doyle,P1828177,Doyle,,,Superior,19150619,19150630,7,0,of7rf7
-boxscores/1915/1915-WT,1915,Northern League,doyle,P6206467,Doyle,,,Fargo-Moorhead,19150521,19150531,12,0,of11rf11
+boxscores/1915/1915-DNT,1915,Northern League,doyle,P4650974,Doyle,,,Fargo-Moorhead,19150514,19150531,3,0,"of2,rf2"
+boxscores/1915/1915-DNT,1915,Northern League,doyle,P7654473,Doyle,,,Duluth,19150603,19150604,2,0,"of2,lf1,rf1"
+boxscores/1915/1915-DNT,1915,Northern League,doyle,P9865580,Doyle,,,Superior,19150616,19150705,19,0,"of19,rf19"
+boxscores/1915/1915-GFDH,1915,Northern League,doyle,P2534783,Doyle,,,Superior,19150616,19150617,2,0,"of2,rf2"
+boxscores/1915/1915-WT,1915,Northern League,doyle,P1828177,Doyle,,,Superior,19150619,19150630,7,0,"of7,rf7"
+boxscores/1915/1915-WT,1915,Northern League,doyle,P6206467,Doyle,,,Fargo-Moorhead,19150521,19150531,12,0,"of11,rf11"
 minoraverages/1916Reach,1915,Northern League,doyle,B00174,Doyle,,0,Duluth,,,45,,
 minoraverages/1916Reach,1915,Northern League,doyle,F20620,Doyle,,0,Duluth,,,,,of45
 boxscores/1915/1915-DNT,1915,Northern League,dreis,P7176600,Dreis,,,Fargo-Moorhead,19150514,19150830,34,0,3b34
@@ -395,7 +395,7 @@ minoraverages/1916Reach,1915,Northern League,dreis,B00356,Dreis,,0,Winnipeg,,,12
 minoraverages/1916Reach,1915,Northern League,dreis,F20233,Dreis,,0,Winnipeg,,,,,3b122
 boxscores/1915/1915-DNT,1915,Northern League,dreis,P0734744,Dries,,,Fargo-Moorhead,19150724,19150805,8,0,3b8
 boxscores/1915/1915-GFDH,1915,Northern League,dreis,P7993451,Dries,,,Fargo-Moorhead,19150609,19150611,2,0,3b2
-boxscores/1915/1915-WT,1915,Northern League,dreis,P2290237,Dries,,,Fargo-Moorhead,19150521,19150903,16,1,p13b16
+boxscores/1915/1915-WT,1915,Northern League,dreis,P2290237,Dries,,,Fargo-Moorhead,19150521,19150903,16,1,"p1,3b16"
 boxscores/1915/1915-WT,1915,Northern League,dreis,P5437139,Dries,,,Winnipeg,19150904,19150904,2,0,3b2
 boxscores/1915/1915-GFDH,1915,Northern League,dreis,P1701854,Driess,,,Fargo-Moorhead,19150609,19150609,1,0,3b1
 boxscores/1915/1915-DNT,1915,Northern League,gervais,P5344309,Duffy,,,Winnipeg,19150524,19150524,1,1,p1
@@ -406,20 +406,20 @@ boxscores/1915/1915-WT,1915,Northern League,dumont,P2544989,Dumont,,,Fargo-Moorh
 minoraverages/1916Reach,1915,Northern League,dumont,B00854,Dumont,,0,Fargo-Moorhead,,,35,,
 minoraverages/1916Reach,1915,Northern League,dumont,F20855,Dumont,,0,Fargo-Moorhead,,,,,p35
 minoraverages/1916Reach,1915,Northern League,dumont,P10043,Dumont,,0,Fargo-Moorhead,,,,,
-boxscores/1915/1915-DNT,1915,Northern League,durham,P0901609,Durham,,,Fort William-Port Arthur,19150526,19150602,6,0,1b1of5lf4rf1
+boxscores/1915/1915-DNT,1915,Northern League,durham,P0901609,Durham,,,Fort William-Port Arthur,19150526,19150602,6,0,"1b1,of5,lf4,rf1"
 boxscores/1915/1915-GFDH,1915,Northern League,durham,P3547228,Durham,,,Fort William-Port Arthur,19150527,19150528,2,0,c2
-boxscores/1915/1915-WT,1915,Northern League,durham,P8657390,Durham,,,Fort William-Port Arthur,19150515,19150520,2,0,of1lf1
+boxscores/1915/1915-WT,1915,Northern League,durham,P8657390,Durham,,,Fort William-Port Arthur,19150515,19150520,2,0,"of1,lf1"
 boxscores/1915/1915-GFDH,1915,Northern League,rhoades@ump,P6678234,Dusty Rhoades,,,#umpire,19150530,19150530,,,
 boxscores/1915/1915-GFDH,1915,Northern League,gervais,P2399221,Duzes,,,Winnipeg,19150524,19150524,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,ellis,P9536282,Ellis,,,Fargo-Moorhead,19150519,19150906,13,7,p71b3of4lf1cf3
+boxscores/1915/1915-DNT,1915,Northern League,ellis,P9536282,Ellis,,,Fargo-Moorhead,19150519,19150906,13,7,"p7,1b3,of4,lf1,cf3"
 boxscores/1915/1915-GFDH,1915,Northern League,ellis,P6794989,Ellis,,,Fargo-Moorhead,19150519,19150825,3,3,p3
-boxscores/1915/1915-WT,1915,Northern League,ellis,P1091775,Ellis,,,Fargo-Moorhead,19150519,19150903,11,4,p42b1of6lf3cf2rf1
+boxscores/1915/1915-WT,1915,Northern League,ellis,P1091775,Ellis,,,Fargo-Moorhead,19150519,19150903,11,4,"p4,2b1,of6,lf3,cf2,rf1"
 minoraverages/1916Reach,1915,Northern League,ellis,B00013,Ellis,,0,Fargo-Moorhead,,,20,,
 minoraverages/1916Reach,1915,Northern League,ellis,F20505,Ellis,,0,Fargo-Moorhead,,,,,of20
 minoraverages/1916Reach,1915,Northern League,ellis,P10290,Ellis,,0,Fargo-Moorhead,,,,,
-boxscores/1915/1915-DNT,1915,Northern League,faeth,P6005047,Faeth,,,Virginia,19150512,19150831,38,30,p30of6rf6
+boxscores/1915/1915-DNT,1915,Northern League,faeth,P6005047,Faeth,,,Virginia,19150512,19150831,38,30,"p30,of6,rf6"
 boxscores/1915/1915-GFDH,1915,Northern League,faeth,P8674250,Faeth,,,Virginia,19150512,19150831,21,21,p21
-boxscores/1915/1915-WT,1915,Northern League,faeth,P7967644,Faeth,,,Virginia,19150518,19150831,17,16,p16of1rf1
+boxscores/1915/1915-WT,1915,Northern League,faeth,P7967644,Faeth,,,Virginia,19150518,19150831,17,16,"p16,of1,rf1"
 minoraverages/1916Reach,1915,Northern League,faeth,B00726,Faeth,,0,Virginia,,,40,,
 minoraverages/1916Reach,1915,Northern League,faeth,F20924,Faeth,,0,Virginia,,,,,p40
 minoraverages/1916Reach,1915,Northern League,faeth,P10277,Faeth,,0,Virginia,,,,,
@@ -437,26 +437,26 @@ boxscores/1915/1915-GFDH,1915,Northern League,faeth,P0614094,Faith,,,Virginia,19
 boxscores/1915/1915-GFDH,1915,Northern League,fait,P4464608,Faith,,,Fargo-Moorhead,19150510,19150525,3,3,p3
 boxscores/1915/1915-GFDH,1915,Northern League,fusner,P0432423,Feisner,,,Fort William-Port Arthur,19150510,19150510,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,fusner,P4608380,Fisher,,,Fort William-Port Arthur,19150724,19150724,1,0,c1
-boxscores/1915/1915-DNT,1915,Northern League,flaherty,P6777190,Flaherty,,,Grand Forks,19150518,19150705,14,0,of14rf14
-boxscores/1915/1915-DNT,1915,Northern League,flaherty,P9306432,Flaherty,,,Fargo-Moorhead,19150718,19150906,30,0,of30rf30
-boxscores/1915/1915-GFDH,1915,Northern League,flaherty,P4035897,Flaherty,,,Grand Forks,19150530,19150530,1,0,of1rf1
-boxscores/1915/1915-GFDH,1915,Northern League,flaherty,P4035897,Flaherty,,,Grand Forks,19150508,19150705,53,0,ss2of51cf2rf49
-boxscores/1915/1915-WT,1915,Northern League,flaherty,P8332683,Flaherty,,,Grand Forks,19150521,19150705,23,0,ss2of21cf1rf20
-boxscores/1915/1915-WT,1915,Northern League,flaherty,P9058373,Flaherty,,,Fargo-Moorhead,19150707,19150903,28,0,of28lf1cf1rf26
+boxscores/1915/1915-DNT,1915,Northern League,flaherty,P6777190,Flaherty,,,Grand Forks,19150518,19150705,14,0,"of14,rf14"
+boxscores/1915/1915-DNT,1915,Northern League,flaherty,P9306432,Flaherty,,,Fargo-Moorhead,19150718,19150906,30,0,"of30,rf30"
+boxscores/1915/1915-GFDH,1915,Northern League,flaherty,P4035897,Flaherty,,,Grand Forks,19150530,19150530,1,0,"of1,rf1"
+boxscores/1915/1915-GFDH,1915,Northern League,flaherty,P4035897,Flaherty,,,Grand Forks,19150508,19150705,53,0,"ss2,of51,cf2,rf49"
+boxscores/1915/1915-WT,1915,Northern League,flaherty,P8332683,Flaherty,,,Grand Forks,19150521,19150705,23,0,"ss2,of21,cf1,rf20"
+boxscores/1915/1915-WT,1915,Northern League,flaherty,P9058373,Flaherty,,,Fargo-Moorhead,19150707,19150903,28,0,"of28,lf1,cf1,rf26"
 minoraverages/1916Reach,1915,Northern League,flaherty,B00403,Flaherty,,0,Fargo-Moorhead,,,123,,
 minoraverages/1916Reach,1915,Northern League,flaherty,F20375,Flaherty,,0,Fargo-Moorhead,,,,,of123
-boxscores/1915/1915-DNT,1915,Northern League,ford,P6146423,Ford,,,Duluth,19150510,19150705,37,0,2b13b4ss4of25lf3cf13rf10
-boxscores/1915/1915-GFDH,1915,Northern League,ford,P4673642,Ford,,,Duluth,19150518,19150621,5,0,of5cf5rf1
-boxscores/1915/1915-WT,1915,Northern League,ford,P8980604,Ford,,,Duluth,19150508,19150626,11,0,ss1of11lf3cf2rf6
+boxscores/1915/1915-DNT,1915,Northern League,ford,P6146423,Ford,,,Duluth,19150510,19150705,37,0,"2b1,3b4,ss4,of25,lf3,cf13,rf10"
+boxscores/1915/1915-GFDH,1915,Northern League,ford,P4673642,Ford,,,Duluth,19150518,19150621,5,0,"of5,cf5,rf1"
+boxscores/1915/1915-WT,1915,Northern League,ford,P8980604,Ford,,,Duluth,19150508,19150626,11,0,"ss1,of11,lf3,cf2,rf6"
 boxscores/1915/1915-DNT,1915,Northern League,fortman,P3149483,Forteman,,,Virginia,19150606,19150606,1,0,2b1
-boxscores/1915/1915-DNT,1915,Northern League,fortier,P7268355,Fortier,,,Fort William-Port Arthur,19150526,19150830,47,0,2b4of45lf11cf32rf3
-boxscores/1915/1915-GFDH,1915,Northern League,fortier,P4573782,Fortier,,,Fort William-Port Arthur,19150508,19150626,6,0,of6cf6
-boxscores/1915/1915-WT,1915,Northern League,fortier,P3209128,Fortier,,,Fort William-Port Arthur,19150514,19150831,30,0,of30lf19cf11
+boxscores/1915/1915-DNT,1915,Northern League,fortier,P7268355,Fortier,,,Fort William-Port Arthur,19150526,19150830,47,0,"2b4,of45,lf11,cf32,rf3"
+boxscores/1915/1915-GFDH,1915,Northern League,fortier,P4573782,Fortier,,,Fort William-Port Arthur,19150508,19150626,6,0,"of6,cf6"
+boxscores/1915/1915-WT,1915,Northern League,fortier,P3209128,Fortier,,,Fort William-Port Arthur,19150514,19150831,30,0,"of30,lf19,cf11"
 minoraverages/1916Reach,1915,Northern League,fortier,B00434,Fortier,,0,Fort William,,,101,,
 minoraverages/1916Reach,1915,Northern League,fortier,F20449,Fortier,,0,Fort William,,,,,of101
-boxscores/1915/1915-DNT,1915,Northern League,fortman,P4969862,Fortman,,,Virginia,19150526,19150903,100,1,p12b833b16
+boxscores/1915/1915-DNT,1915,Northern League,fortman,P4969862,Fortman,,,Virginia,19150526,19150903,100,1,"p1,2b83,3b16"
 boxscores/1915/1915-GFDH,1915,Northern League,fortman,P1731929,Fortman,,,Virginia,19150628,19150630,3,0,2b3
-boxscores/1915/1915-WT,1915,Northern League,fortman,P2237995,Fortman,,,Virginia,19150514,19150903,29,1,p12b28
+boxscores/1915/1915-WT,1915,Northern League,fortman,P2237995,Fortman,,,Virginia,19150514,19150903,29,1,"p1,2b28"
 minoraverages/1916Reach,1915,Northern League,fortman,B00278,Fortman,,0,Virginia,,,122,,
 minoraverages/1916Reach,1915,Northern League,fortman,F20144,Fortman,,0,Virginia,,,,,2b122
 boxscores/1915/1915-GFDH,1915,Northern League,fortman,P9624158,Fortnen,,,Virginia,19150510,19150513,4,0,2b4
@@ -474,22 +474,22 @@ boxscores/1915/1915-GFDH,1915,Northern League,fox,P4676839,Fox,,,Grand Forks,191
 boxscores/1915/1915-GFDH,1915,Northern League,fox@ump,P8004104,Fox,,,#umpire,19150713,19150724,,,
 boxscores/1915/1915-WT,1915,Northern League,fox,P1358841,Fox,,,Grand Forks,19150521,19150705,23,0,2b23
 boxscores/1915/1915-WT,1915,Northern League,fox@ump,P8134618,Fox,,,#umpire,19150723,19150903,,,
-boxscores/1915/1915-DNT,1915,Northern League,flaherty,P9015366,Fraherty,,,Fargo-Moorhead,19150821,19150821,1,0,of1rf1
+boxscores/1915/1915-DNT,1915,Northern League,flaherty,P9015366,Fraherty,,,Fargo-Moorhead,19150821,19150821,1,0,"of1,rf1"
 boxscores/1915/1915-WT,1915,Northern League,fremer,P1236451,Framer,,,Fargo-Moorhead,19150521,19150521,1,0,2b1
 boxscores/1915/1915-GFDH,1915,Northern League,frankenhoff,P6806730,Frankenhoff,,,Virginia,19150511,19150513,2,0,1b1
 boxscores/1915/1915-WT,1915,Northern League,frankenhoff,P9881140,Frankenoff,,,Virginia,19150514,19150515,2,0,1b2
 boxscores/1915/1915-DNT,1915,Northern League,fremer,P2356031,Freeman,,,Fargo-Moorhead,19150514,19150514,1,0,2b1
-boxscores/1915/1915-DNT,1915,Northern League,fremer,P8180770,Fremer,,,Fargo-Moorhead,19150516,19150630,12,0,2b7of5lf1rf4
-boxscores/1915/1915-GFDH,1915,Northern League,fremer,P7718101,Fremer,,,Fargo-Moorhead,19150607,19150613,5,0,2b4of1rf1
+boxscores/1915/1915-DNT,1915,Northern League,fremer,P8180770,Fremer,,,Fargo-Moorhead,19150516,19150630,12,0,"2b7,of5,lf1,rf4"
+boxscores/1915/1915-GFDH,1915,Northern League,fremer,P7718101,Fremer,,,Fargo-Moorhead,19150607,19150613,5,0,"2b4,of1,rf1"
 boxscores/1915/1915-WT,1915,Northern League,fremer,P9512039,Fremer,,,Fargo-Moorhead,19150522,19150606,16,0,2b16
 boxscores/1915/1915-WT,1915,Northern League,fremer,P1874100,Fremmer,,,Fargo-Moorhead,19150604,19150604,1,0,2b1
 boxscores/1915/1915-DNT,1915,Northern League,fusner,P0811872,Fuesner,,,Fort William-Port Arthur,19150518,19150518,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,fusner,P8117299,Fuesner,,,Fort William-Port Arthur,19150518,19150518,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,fusner,P0738568,Fusher,,,Fort William-Port Arthur,19150716,19150716,1,0,c1
 boxscores/1915/1915-WT,1915,Northern League,fusner,P5848730,Fusher,,,Fort William-Port Arthur,19150829,19150829,1,0,c1
-boxscores/1915/1915-DNT,1915,Northern League,fusner,P2227995,Fusner,,,Fort William-Port Arthur,19150508,19150906,99,0,c98of2lf1rf1
+boxscores/1915/1915-DNT,1915,Northern League,fusner,P2227995,Fusner,,,Fort William-Port Arthur,19150508,19150906,99,0,"c98,of2,lf1,rf1"
 boxscores/1915/1915-GFDH,1915,Northern League,fusner,P4873614,Fusner,,,Fort William-Port Arthur,19150508,19150906,90,0,c90
-boxscores/1915/1915-WT,1915,Northern League,fusner,P9983776,Fusner,,,Fort William-Port Arthur,19150513,19150903,56,0,c54of1lf1
+boxscores/1915/1915-WT,1915,Northern League,fusner,P9983776,Fusner,,,Fort William-Port Arthur,19150513,19150903,56,0,"c54,of1,lf1"
 minoraverages/1916Reach,1915,Northern League,fusner,B00182,Fusner,,0,Fort William,,,109,,
 minoraverages/1916Reach,1915,Northern League,fusner,F20700,Fusner,,0,Fort William,,,,,c109
 boxscores/1915/1915-WT,1915,Northern League,fusner,P3411561,Fusnier,,,Fort William-Port Arthur,19150828,19150828,1,0,c1
@@ -506,11 +506,11 @@ boxscores/1915/1915-GFDH,1915,Northern League,gervais,P3652343,Garvias,,,Winnipe
 boxscores/1915/1915-DNT,1915,Northern League,gervais,P1797544,Garvies,,,Winnipeg,19150606,19150606,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,gervais,P7046449,Garvin,,,Winnipeg,19150703,19150703,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,gervais,P7000937,Gervaia,,,Winnipeg,19150706,19150706,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,gervais,P4998952,Gervais,,,Winnipeg,19150529,19150906,24,22,p221b2
+boxscores/1915/1915-DNT,1915,Northern League,gervais,P4998952,Gervais,,,Winnipeg,19150529,19150906,24,22,"p22,1b2"
 boxscores/1915/1915-GFDH,1915,Northern League,gervais,P1761019,Gervais,,,Winnipeg,19150530,19150530,1,0,1b1
-boxscores/1915/1915-GFDH,1915,Northern League,gervais,P1761019,Gervais,,,Winnipeg,19150526,19150906,23,19,p191b4
+boxscores/1915/1915-GFDH,1915,Northern League,gervais,P1761019,Gervais,,,Winnipeg,19150526,19150906,23,19,"p19,1b4"
 boxscores/1915/1915-GFDH,1915,Northern League,gervais@ump,P3749836,Gervais,,,#umpire,19150712,19150712,,,
-boxscores/1915/1915-WT,1915,Northern League,gervais,P2267085,Gervais,,,Winnipeg,19150524,19150906,39,26,p261b7of6cf6
+boxscores/1915/1915-WT,1915,Northern League,gervais,P2267085,Gervais,,,Winnipeg,19150524,19150906,39,26,"p26,1b7,of6,cf6"
 boxscores/1915/1915-WT,1915,Northern League,gervais@ump,P3043230,Gervais,,,#umpire,19150712,19150712,,,
 minoraverages/1916Reach,1915,Northern League,gervais,B00771,Gervais,,0,Winnipeg,,,40,,
 minoraverages/1916Reach,1915,Northern League,gervais,F20864,Gervais,,0,Winnipeg,,,,,p40
@@ -520,31 +520,31 @@ boxscores/1915/1915-DNT,1915,Northern League,griffen,P1108539,Giffin,,,Fort Will
 boxscores/1915/1915-DNT,1915,Northern League,girth,P5424045,Girth,,,Superior,19150522,19150603,14,0,ss14
 boxscores/1915/1915-GFDH,1915,Northern League,girth,P8093248,Girth,,,Superior,19150514,19150516,2,0,ss2
 boxscores/1915/1915-WT,1915,Northern League,girth,P7386642,Girth,,,Superior,19150508,19150513,6,0,ss6
-boxscores/1915/1915-DNT,1915,Northern League,glass,P4372969,Glass,,,Superior,19150522,19150603,14,0,of14rf14
-boxscores/1915/1915-GFDH,1915,Northern League,glass,P7042172,Glass,,,Superior,19150514,19150516,2,0,of2rf2
-boxscores/1915/1915-WT,1915,Northern League,glass,P6335566,Glass,,,Superior,19150508,19150513,6,0,of6rf6
+boxscores/1915/1915-DNT,1915,Northern League,glass,P4372969,Glass,,,Superior,19150522,19150603,14,0,"of14,rf14"
+boxscores/1915/1915-GFDH,1915,Northern League,glass,P7042172,Glass,,,Superior,19150514,19150516,2,0,"of2,rf2"
+boxscores/1915/1915-WT,1915,Northern League,glass,P6335566,Glass,,,Superior,19150508,19150513,6,0,"of6,rf6"
 boxscores/1915/1915-WT,1915,Northern League,dorman,P5559768,Gorman,,,Virginia,19150531,19150531,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,greisch,P6677300,Greisch,,,Virginia,19150613,19150902,39,0,of38lf38
-boxscores/1915/1915-GFDH,1915,Northern League,greisch,P3439367,Greisch,,,Virginia,19150510,19150630,5,0,of5lf5
-boxscores/1915/1915-WT,1915,Northern League,greisch,P3945433,Greisch,,,Virginia,19150514,19150730,19,0,of19lf19
+boxscores/1915/1915-DNT,1915,Northern League,greisch,P6677300,Greisch,,,Virginia,19150613,19150902,39,0,"of38,lf38"
+boxscores/1915/1915-GFDH,1915,Northern League,greisch,P3439367,Greisch,,,Virginia,19150510,19150630,5,0,"of5,lf5"
+boxscores/1915/1915-WT,1915,Northern League,greisch,P3945433,Greisch,,,Virginia,19150514,19150730,19,0,"of19,lf19"
 minoraverages/1916Reach,1915,Northern League,greisch,B00335,Greisch,,0,Virginia,,,119,,
 minoraverages/1916Reach,1915,Northern League,greisch,F20474,Greisch,,0,Virginia,,,,,of119
-boxscores/1915/1915-DNT,1915,Northern League,greisch,P5152564,Griesch,,,Virginia,19150526,19150903,58,0,of57lf57
-boxscores/1915/1915-GFDH,1915,Northern League,greisch,P1914631,Griesch,,,Virginia,19150628,19150629,2,0,of2lf2
-boxscores/1915/1915-WT,1915,Northern League,greisch,P2420697,Griesch,,,Virginia,19150619,19150731,9,0,of8lf8
+boxscores/1915/1915-DNT,1915,Northern League,greisch,P5152564,Griesch,,,Virginia,19150526,19150903,58,0,"of57,lf57"
+boxscores/1915/1915-GFDH,1915,Northern League,greisch,P1914631,Griesch,,,Virginia,19150628,19150629,2,0,"of2,lf2"
+boxscores/1915/1915-WT,1915,Northern League,greisch,P2420697,Griesch,,,Virginia,19150619,19150731,9,0,"of8,lf8"
 minoraverages/1916Reach,1915,Northern League,griffen,B00904,Griffen,,0,St. Boniface,,,34,,
 minoraverages/1916Reach,1915,Northern League,griffen,F20810,Griffen,,0,St. Boniface,,,,,p33
-boxscores/1915/1915-DNT,1915,Northern League,griffen,P1748493,Griffin,,,Fort William-Port Arthur,19150512,19150824,20,17,p17of3lf2cf1
+boxscores/1915/1915-DNT,1915,Northern League,griffen,P1748493,Griffin,,,Fort William-Port Arthur,19150512,19150824,20,17,"p17,of3,lf2,cf1"
 boxscores/1915/1915-GFDH,1915,Northern League,griffen,P3419034,Griffin,,,St. Boniface,19150903,19150903,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,griffen,P9053920,Griffin,,,Fort William-Port Arthur,19150512,19150830,13,13,p13
-boxscores/1915/1915-WT,1915,Northern League,griffen,P7689266,Griffin,,,Fort William-Port Arthur,19150518,19150903,13,11,p11of1lf1
+boxscores/1915/1915-WT,1915,Northern League,griffen,P7689266,Griffin,,,Fort William-Port Arthur,19150518,19150903,13,11,"p11,of1,lf1"
 boxscores/1915/1915-WT,1915,Northern League,griffen,P7715820,Griffin,,,St. Boniface,19150903,19150903,1,1,p1
 minoraverages/1916Reach,1915,Northern League,griffen,P10231,Griffin,,0,St. Boniface,,,,,
 boxscores/1915/1915-DNT,1915,Northern League,griffen,P2569685,Griffith,,,St. Boniface,19150903,19150903,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,griffen,P5413531,Griffith,,,Fort William-Port Arthur,19150518,19150830,4,3,p3of1lf1
+boxscores/1915/1915-DNT,1915,Northern League,griffen,P5413531,Griffith,,,Fort William-Port Arthur,19150518,19150830,4,3,"p3,of1,lf1"
 boxscores/1915/1915-GFDH,1915,Northern League,griffen,P6492622,Griffith,,,Fort William-Port Arthur,19150622,19150812,2,2,p2
 boxscores/1915/1915-GFDH,1915,Northern League,gruno,P5932532,Grino,,,St. Boniface,19150814,19150814,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,greisch,P9904943,Grisch,,,Virginia,19150717,19150717,1,0,of1lf1
+boxscores/1915/1915-DNT,1915,Northern League,greisch,P9904943,Grisch,,,Virginia,19150717,19150717,1,0,"of1,lf1"
 boxscores/1915/1915-DNT,1915,Northern League,gruno,P0402722,Grund,,,St. Boniface,19150812,19150812,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,gruno,P4916214,Grune,,,St. Boniface,19150812,19150812,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,gruno,P7250541,Gruno,,,St. Boniface,19150801,19150814,5,5,p5
@@ -557,13 +557,13 @@ boxscores/1915/1915-WT,1915,Northern League,kurke,P0096498,Gurke,,,Superior,1915
 boxscores/1915/1915-WT,1915,Northern League,fusner,P1841793,Gusner,,,Fort William-Port Arthur,19150831,19150831,1,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,guyer,P0193720,Guyer,,,Duluth,19150626,19150626,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,guyer,P3721693,Guyer,,,Duluth,19150626,19150626,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,hallman,P9099433,Hallman,,,Duluth,19150703,19150806,13,11,p11of1lf1
+boxscores/1915/1915-DNT,1915,Northern League,hallman,P9099433,Hallman,,,Duluth,19150703,19150806,13,11,"p11,of1,lf1"
 boxscores/1915/1915-GFDH,1915,Northern League,hallman,P1768636,Hallman,,,Duluth,19150703,19150806,5,5,p5
 boxscores/1915/1915-WT,1915,Northern League,hallman,P1062030,Hallman,,,Duluth,19150706,19150806,6,5,p5
 boxscores/1915/1915-WT,1915,Northern League,hammond,P1035307,Hammond [dubious],,,Virginia,19150808,19150808,1,0,c1
 boxscores/1915/1915-WT,1915,Northern League,harkness@ump,P7537228,Harkness,,,#umpire,19150703,19150722,,,
 boxscores/1915/1915-GFDH,1915,Northern League,hallman,P0450596,Harmon,,,Duluth,19150706,19150706,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,hawkins,P2639876,Hawkins,,,Virginia,19150707,19150903,19,16,p16of3lf1rf2
+boxscores/1915/1915-DNT,1915,Northern League,hawkins,P2639876,Hawkins,,,Virginia,19150707,19150903,19,16,"p16,of3,lf1,rf2"
 boxscores/1915/1915-DNT,1915,Northern League,hawkins,P4602148,Hawkins,,,Superior,19150615,19150704,6,6,p6
 boxscores/1915/1915-DNT,1915,Northern League,hawkins,P5743485,Hawkins,,,#umpire,19150901,19150902,,,
 boxscores/1915/1915-DNT,1915,Northern League,hawkins,P8092669,Hawkins,,,Fort William-Port Arthur,19150509,19150609,8,8,p8
@@ -572,7 +572,7 @@ boxscores/1915/1915-GFDH,1915,Northern League,hawkins,P5398096,Hawkins,,,Fort Wi
 boxscores/1915/1915-GFDH,1915,Northern League,hawkins,P9401943,Hawkins,,,Virginia,19150707,19150906,14,14,p14
 boxscores/1915/1915-WT,1915,Northern League,hawkins,P1870281,Hawkins,,,Superior,19150620,19150628,2,2,p2
 boxscores/1915/1915-WT,1915,Northern League,hawkins,P4033442,Hawkins,,,Fort William-Port Arthur,19150514,19150604,5,5,p5
-boxscores/1915/1915-WT,1915,Northern League,hawkins,P9908009,Hawkins,,,Virginia,19150723,19150903,12,9,p9of2rf2
+boxscores/1915/1915-WT,1915,Northern League,hawkins,P9908009,Hawkins,,,Virginia,19150723,19150903,12,9,"p9,of2,rf2"
 minoraverages/1916Reach,1915,Northern League,hawkins,B00957,Hawkins,,0,Virginia,,,31,,
 minoraverages/1916Reach,1915,Northern League,hawkins,F21021,Hawkins,,0,Virginia,,,,,p31
 minoraverages/1916Reach,1915,Northern League,hawkins,P10304,Hawkins,,0,Virginia,,,,,
@@ -585,22 +585,22 @@ boxscores/1915/1915-GFDH,1915,Northern League,hewitt,P7117532,Hewell,,,Fort Will
 boxscores/1915/1915-DNT,1915,Northern League,hewitt,P6364281,Hewett,,,Fort William-Port Arthur,19150513,19150513,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,hewitt,P9009900,Hewett,,,Fort William-Port Arthur,19150524,19150702,4,4,p4
 boxscores/1915/1915-WT,1915,Northern League,hewitt,P5336206,Hewit,,,Fort William-Port Arthur,19150531,19150531,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,hewitt,P5787645,Hewitt,,,Fort William-Port Arthur,19150508,19150903,42,30,p30of10lf5rf5
+boxscores/1915/1915-DNT,1915,Northern League,hewitt,P5787645,Hewitt,,,Fort William-Port Arthur,19150508,19150903,42,30,"p30,of10,lf5,rf5"
 boxscores/1915/1915-DNT,1915,Northern League,hewitt,P5821949,Hewitt,,,#umpire,19150810,19150810,,,
 boxscores/1915/1915-GFDH,1915,Northern League,benton,P6375775,Hewitt,,,Winnipeg,19150731,19150731,1,1,p1
-boxscores/1915/1915-GFDH,1915,Northern League,hewitt,P8433264,Hewitt,,,Fort William-Port Arthur,19150508,19150903,17,16,p16of1lf1
-boxscores/1915/1915-WT,1915,Northern League,hewitt,P3543426,Hewitt,,,Fort William-Port Arthur,19150513,19150903,28,21,p21of7lf7
+boxscores/1915/1915-GFDH,1915,Northern League,hewitt,P8433264,Hewitt,,,Fort William-Port Arthur,19150508,19150903,17,16,"p16,of1,lf1"
+boxscores/1915/1915-WT,1915,Northern League,hewitt,P3543426,Hewitt,,,Fort William-Port Arthur,19150513,19150903,28,21,"p21,of7,lf7"
 minoraverages/1916Reach,1915,Northern League,hewitt,B00752,Hewitt,,0,Fort William,,,62,,
 minoraverages/1916Reach,1915,Northern League,hewitt,F20518,Hewitt,,0,Fort William,,,,,of26
 minoraverages/1916Reach,1915,Northern League,hewitt,F20943,Hewitt,,0,Fort William,,,,,p36
 minoraverages/1916Reach,1915,Northern League,hewitt,P10244,Hewitt,,0,Fort William,,,,,
 boxscores/1915/1915-DNT,1915,Northern League,huggins,P3812209,Higgins,,,Fort William-Port Arthur,19150519,19150519,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,huggins,P1117636,Higgins,,,Fort William-Port Arthur,19150712,19150813,2,2,p2
-boxscores/1915/1915-DNT,1915,Northern League,hoffman,P5560038,Hoffman,,,Grand Forks,19150605,19150705,6,5,p5of1lf1
-boxscores/1915/1915-DNT,1915,Northern League,hoffman,P7880747,Hoffman,,,Duluth,19150514,19150531,5,4,p4of1rf1
-boxscores/1915/1915-GFDH,1915,Northern League,hoffman,P0549950,Hoffman,,,Duluth,19150519,19150528,2,1,p1of1rf1
-boxscores/1915/1915-GFDH,1915,Northern League,hoffman,P3961817,Hoffman,,,Grand Forks,19150605,19150705,11,5,p51b1of6lf4cf2
-boxscores/1915/1915-WT,1915,Northern League,hoffman,P0455659,Hoffman,,,Grand Forks,19150605,19150705,6,2,p21b1of4lf4
+boxscores/1915/1915-DNT,1915,Northern League,hoffman,P5560038,Hoffman,,,Grand Forks,19150605,19150705,6,5,"p5,of1,lf1"
+boxscores/1915/1915-DNT,1915,Northern League,hoffman,P7880747,Hoffman,,,Duluth,19150514,19150531,5,4,"p4,of1,rf1"
+boxscores/1915/1915-GFDH,1915,Northern League,hoffman,P0549950,Hoffman,,,Duluth,19150519,19150528,2,1,"p1,of1,rf1"
+boxscores/1915/1915-GFDH,1915,Northern League,hoffman,P3961817,Hoffman,,,Grand Forks,19150605,19150705,11,5,"p5,1b1,of6,lf4,cf2"
+boxscores/1915/1915-WT,1915,Northern League,hoffman,P0455659,Hoffman,,,Grand Forks,19150605,19150705,6,2,"p2,1b1,of4,lf4"
 boxscores/1915/1915-WT,1915,Northern League,hoffman,P9843344,Hoffman,,,Duluth,19150514,19150531,2,2,p2
 boxscores/1915/1915-DNT,1915,Northern League,hogue,P0410383,Hogue,,,Winnipeg,19150619,19150707,5,5,p5
 boxscores/1915/1915-GFDH,1915,Northern League,hogue,P3079586,Hogue,,,Winnipeg,19150619,19150703,4,4,p4
@@ -610,9 +610,9 @@ boxscores/1915/1915-WT,1915,Northern League,hallman,P0114012,Hollman,,,Duluth,19
 boxscores/1915/1915-DNT,1915,Northern League,holt,P6445976,Holt,,,Fargo-Moorhead,19150603,19150603,1,0,
 boxscores/1915/1915-GFDH,1915,Northern League,hogue,P0860961,Holt,,,Winnipeg,19150707,19150707,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,holt,P1341597,Holt,,,Fargo-Moorhead,19150603,19150603,1,0,
-boxscores/1915/1915-DNT,1915,Northern League,hooper,P5749230,Hooper,,,Fargo-Moorhead,19150531,19150830,40,0,2b27ss13
+boxscores/1915/1915-DNT,1915,Northern League,hooper,P5749230,Hooper,,,Fargo-Moorhead,19150531,19150830,40,0,"2b27,ss13"
 boxscores/1915/1915-GFDH,1915,Northern League,hooper,P5286561,Hooper,,,Fargo-Moorhead,19150607,19150613,5,0,ss5
-boxscores/1915/1915-WT,1915,Northern League,hooper,P7080499,Hooper,,,Fargo-Moorhead,19150521,19150820,46,0,2b153b1ss31
+boxscores/1915/1915-WT,1915,Northern League,hooper,P7080499,Hooper,,,Fargo-Moorhead,19150521,19150820,46,0,"2b15,3b1,ss31"
 minoraverages/1916Reach,1915,Northern League,hooper,B00739,Hooper,,0,Fargo-Moorhead,,,103,,
 minoraverages/1916Reach,1915,Northern League,hooper,F20102,Hooper,,0,Fargo-Moorhead,,,,,2b47
 minoraverages/1916Reach,1915,Northern League,hooper,F20327,Hooper,,0,Fargo-Moorhead,,,,,ss56
@@ -651,10 +651,10 @@ boxscores/1915/1915-WT,1915,Northern League,johnson,P6811955,Johnson,,,Virginia,
 boxscores/1915/1915-DNT,1915,Northern League,jones,P7497003,Jones,,,Duluth,19150511,19150813,3,3,p3
 boxscores/1915/1915-GFDH,1915,Northern League,jones,P8895230,Jones,,,Duluth,19150511,19150813,2,2,p2
 boxscores/1915/1915-WT,1915,Northern League,jones,P1024976,Jones,,,Duluth,19150511,19150514,2,2,p2
-boxscores/1915/1915-DNT,1915,Northern League,jude,P0855391,Jude,,,Winnipeg,19150531,19150810,38,0,of38cf17rf22
-boxscores/1915/1915-GFDH,1915,Northern League,jude,P6996882,Jude,,,Winnipeg,19150530,19150530,1,0,of1rf1
-boxscores/1915/1915-GFDH,1915,Northern League,jude,P6996882,Jude,,,Winnipeg,19150526,19150705,10,0,of10rf10
-boxscores/1915/1915-WT,1915,Northern League,jude,P7278500,Jude,,,Winnipeg,19150508,19150906,124,0,of124cf37rf88
+boxscores/1915/1915-DNT,1915,Northern League,jude,P0855391,Jude,,,Winnipeg,19150531,19150810,38,0,"of38,cf17,rf22"
+boxscores/1915/1915-GFDH,1915,Northern League,jude,P6996882,Jude,,,Winnipeg,19150530,19150530,1,0,"of1,rf1"
+boxscores/1915/1915-GFDH,1915,Northern League,jude,P6996882,Jude,,,Winnipeg,19150526,19150705,10,0,"of10,rf10"
+boxscores/1915/1915-WT,1915,Northern League,jude,P7278500,Jude,,,Winnipeg,19150508,19150906,124,0,"of124,cf37,rf88"
 minoraverages/1916Reach,1915,Northern League,jude,B00381,Jude,,0,Winnipeg,,,128,,
 minoraverages/1916Reach,1915,Northern League,jude,F20458,Jude,,0,Winnipeg,,,,,of128
 boxscores/1915/1915-DNT,1915,Northern League,cavanaugh,P8217317,Kavanaugh,,,Superior,19150626,19150630,5,0,ss5
@@ -664,39 +664,39 @@ boxscores/1915/1915-DNT,1915,Northern League,kennedy@ump,P2573846,Kennedy,,,#ump
 boxscores/1915/1915-GFDH,1915,Northern League,nelson,P7869976,Kennedy,,,Winnipeg,19150519,19150519,1,0,c1
 boxscores/1915/1915-WT,1915,Northern League,kennedy@ump,P4536443,Kennedy,,,#umpire,19150508,19150701,,,
 boxscores/1915/1915-WT,1915,Northern League,kernan,P4676805,Keran,,,Virginia,19150711,19150711,1,0,3b1
-boxscores/1915/1915-DNT,1915,Northern League,kernan,P9727566,Kernan,,,Virginia,19150527,19150906,101,1,p12b163b84
+boxscores/1915/1915-DNT,1915,Northern League,kernan,P9727566,Kernan,,,Virginia,19150527,19150906,101,1,"p1,2b16,3b84"
 boxscores/1915/1915-GFDH,1915,Northern League,kernan,P7811265,Kernan,,,Virginia,19150628,19150630,3,0,3b3
 boxscores/1915/1915-WT,1915,Northern League,kernan,P4493267,Kernan,,,Virginia,19150619,19150731,21,0,3b21
 minoraverages/1916Reach,1915,Northern League,kernan,B00286,Kernan,,0,Virginia,,,106,,
 minoraverages/1916Reach,1915,Northern League,kernan,F20190,Kernan,,0,Virginia,,,,,3b106
 boxscores/1915/1915-WT,1915,Northern League,kernan,P6668705,Kernon,,,Virginia,19150724,19150724,1,0,3b1
 boxscores/1915/1915-GFDH,1915,Northern League,kurke,P1248664,Kirke,,,Superior,19150607,19150607,1,0,c1
-boxscores/1915/1915-DNT,1915,Northern League,kirkham,P0819048,Kirkham,,,Fargo-Moorhead,19150516,19150531,2,0,of2lf2
-boxscores/1915/1915-DNT,1915,Northern League,kirkham,P6619126,Kirkham,,,Superior,19150604,19150705,26,0,of26lf2cf19rf5
-boxscores/1915/1915-DNT,1915,Northern League,kirkham,P8239187,Kirkham,,,Duluth,19150709,19150906,65,0,of64cf64
-boxscores/1915/1915-GFDH,1915,Northern League,kirkham,P3381193,Kirkham,,,Superior,19150615,19150617,3,0,of3cf2rf1
-boxscores/1915/1915-WT,1915,Northern League,kirkham,P0201784,Kirkham,,,Duluth,19150728,19150810,15,0,of15cf15
-boxscores/1915/1915-WT,1915,Northern League,kirkham,P3887259,Kirkham,,,Superior,19150619,19150630,7,0,of7cf7
-boxscores/1915/1915-WT,1915,Northern League,kirkham,P4750925,Kirkham,,,Fargo-Moorhead,19150521,19150531,12,0,of12lf12
+boxscores/1915/1915-DNT,1915,Northern League,kirkham,P0819048,Kirkham,,,Fargo-Moorhead,19150516,19150531,2,0,"of2,lf2"
+boxscores/1915/1915-DNT,1915,Northern League,kirkham,P6619126,Kirkham,,,Superior,19150604,19150705,26,0,"of26,lf2,cf19,rf5"
+boxscores/1915/1915-DNT,1915,Northern League,kirkham,P8239187,Kirkham,,,Duluth,19150709,19150906,65,0,"of64,cf64"
+boxscores/1915/1915-GFDH,1915,Northern League,kirkham,P3381193,Kirkham,,,Superior,19150615,19150617,3,0,"of3,cf2,rf1"
+boxscores/1915/1915-WT,1915,Northern League,kirkham,P0201784,Kirkham,,,Duluth,19150728,19150810,15,0,"of15,cf15"
+boxscores/1915/1915-WT,1915,Northern League,kirkham,P3887259,Kirkham,,,Superior,19150619,19150630,7,0,"of7,cf7"
+boxscores/1915/1915-WT,1915,Northern League,kirkham,P4750925,Kirkham,,,Fargo-Moorhead,19150521,19150531,12,0,"of12,lf12"
 minoraverages/1916Reach,1915,Northern League,kirkham,B00021,Kirkham,,0,Duluth,,,110,,
 minoraverages/1916Reach,1915,Northern League,kirkham,F20430,Kirkham,,0,Duluth,,,,,of110
 boxscores/1915/1915-DNT,1915,Northern League,kline,P3455146,Klein,,,Winnipeg,19150706,19150706,1,0,1b1
-boxscores/1915/1915-DNT,1915,Northern League,cline,P1941471,Kline,,,Duluth,19150813,19150827,13,0,c13b7ss4of3cf1rf2
+boxscores/1915/1915-DNT,1915,Northern League,cline,P1941471,Kline,,,Duluth,19150813,19150827,13,0,"c1,3b7,ss4,of3,cf1,rf2"
 boxscores/1915/1915-DNT,1915,Northern League,kline,P3414718,Kline,F.,,Winnipeg,19150810,19150810,1,0,1b1
-boxscores/1915/1915-DNT,1915,Northern League,cline,P3889104,Kline,C.,,Duluth,19150810,19150810,1,0,of1rf1
-boxscores/1915/1915-DNT,1915,Northern League,kline,P6649034,Kline,,,Winnipeg,19150531,19150809,36,0,1b20ss2of14rf14
-boxscores/1915/1915-GFDH,1915,Northern League,kline,P9318237,Kline,,,Winnipeg,19150526,19150529,5,0,3b1ss4
+boxscores/1915/1915-DNT,1915,Northern League,cline,P3889104,Kline,C.,,Duluth,19150810,19150810,1,0,"of1,rf1"
+boxscores/1915/1915-DNT,1915,Northern League,kline,P6649034,Kline,,,Winnipeg,19150531,19150809,36,0,"1b20,ss2,of14,rf14"
+boxscores/1915/1915-GFDH,1915,Northern League,kline,P9318237,Kline,,,Winnipeg,19150526,19150529,5,0,"3b1,ss4"
 boxscores/1915/1915-WT,1915,Northern League,kline,P0682851,Kline,F.,,Winnipeg,19150512,19150513,2,0,3b2
-boxscores/1915/1915-WT,1915,Northern League,cline,P5851701,Kline,C.,,Duluth,19150810,19150810,1,0,of1rf1
-boxscores/1915/1915-WT,1915,Northern League,kline,P8611631,Kline,,,Winnipeg,19150508,19150906,116,0,1b683b11ss7of32rf32
+boxscores/1915/1915-WT,1915,Northern League,cline,P5851701,Kline,C.,,Duluth,19150810,19150810,1,0,"of1,rf1"
+boxscores/1915/1915-WT,1915,Northern League,kline,P8611631,Kline,,,Winnipeg,19150508,19150906,116,0,"1b68,3b11,ss7,of32,rf32"
 boxscores/1915/1915-WT,1915,Northern League,kline,P8631981,Kline,[F],,Winnipeg,19150810,19150810,1,0,1b1
 minoraverages/1916Reach,1915,Northern League,kline,B00241,Kline,,0,Winnipeg,,,124,,
 minoraverages/1916Reach,1915,Northern League,kline,F20095,Kline,,0,Winnipeg,,,,,1b94
 boxscores/1915/1915-GFDH,1915,Northern League,cronin,P0207539,Kronin,,,Virginia,19150513,19150513,1,0,
 boxscores/1915/1915-DNT,1915,Northern League,kuhn,P8530082,Kuhn,,,Duluth,19150701,19150708,11,0,1b11
 boxscores/1915/1915-WT,1915,Northern League,kuhn,P1364263,Kuhn,,,Duluth,19150706,19150708,4,0,1b4
-boxscores/1915/1915-DNT,1915,Northern League,kurke,P0624017,Kurke,,,Superior,19150508,19150704,26,0,c211b1
-boxscores/1915/1915-DNT,1915,Northern League,kurke,P9657006,Kurke,,,Duluth,19150706,19150713,7,0,c6of1lf1
+boxscores/1915/1915-DNT,1915,Northern League,kurke,P0624017,Kurke,,,Superior,19150508,19150704,26,0,"c21,1b1"
+boxscores/1915/1915-DNT,1915,Northern League,kurke,P9657006,Kurke,,,Duluth,19150706,19150713,7,0,"c6,of1,lf1"
 boxscores/1915/1915-GFDH,1915,Northern League,kurke,P1055233,Kurke,,,Duluth,19150706,19150713,5,0,c5
 boxscores/1915/1915-GFDH,1915,Northern League,kurke,P3293220,Kurke,,,Superior,19150508,19150626,17,0,c17
 boxscores/1915/1915-WT,1915,Northern League,kurke,P2586614,Kurke,,,Superior,19150509,19150630,14,0,c12
@@ -705,13 +705,13 @@ boxscores/1915/1915-WT,1915,Northern League,kernan,P4453731,Kurnan,,,Virginia,19
 boxscores/1915/1915-DNT,1915,Northern League,landry@ump,P2320658,Landry,,,#umpire,19150514,19150903,,,
 boxscores/1915/1915-GFDH,1915,Northern League,landry@ump,P8462149,Landry,,,#umpire,19150508,19150728,,,
 boxscores/1915/1915-WT,1915,Northern League,landry@ump,P8743767,Landry,,,#umpire,19150509,19150831,,,
-boxscores/1915/1915-DNT,1915,Northern League,lane,P3227170,Lane,,,St. Boniface,19150510,19150805,31,0,3b3ss1of28lf28
-boxscores/1915/1915-GFDH,1915,Northern League,lane,P6375381,Lane,,,St. Boniface,19150521,19150703,13,0,of13lf13
-boxscores/1915/1915-WT,1915,Northern League,lane,P3075559,Lane,,,St. Boniface,19150508,19150906,119,0,3b3ss4of114lf113rf2
+boxscores/1915/1915-DNT,1915,Northern League,lane,P3227170,Lane,,,St. Boniface,19150510,19150805,31,0,"3b3,ss1,of28,lf28"
+boxscores/1915/1915-GFDH,1915,Northern League,lane,P6375381,Lane,,,St. Boniface,19150521,19150703,13,0,"of13,lf13"
+boxscores/1915/1915-WT,1915,Northern League,lane,P3075559,Lane,,,St. Boniface,19150508,19150906,119,0,"3b3,ss4,of114,lf113,rf2"
 minoraverages/1916Reach,1915,Northern League,lane,B00207,Lane,,0,St. Boniface,,,121,,
 minoraverages/1916Reach,1915,Northern League,lane,F20496,Lane,,0,St. Boniface,,,,,of121
 boxscores/1915/1915-WT,1915,Northern League,larson,P5123857,Larsen,,,Grand Forks,19150625,19150625,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,larson,P6352310,Larson,,,Grand Forks,19150613,19150705,6,5,p5c1
+boxscores/1915/1915-DNT,1915,Northern League,larson,P6352310,Larson,,,Grand Forks,19150613,19150705,6,5,"p5,c1"
 boxscores/1915/1915-GFDH,1915,Northern League,larson,P0243273,Larson,,,Grand Forks,19150613,19150705,7,7,p7
 boxscores/1915/1915-WT,1915,Northern League,larson,P1349147,Larson,,,Grand Forks,19150701,19150705,2,2,p2
 boxscores/1915/1915-DNT,1915,Northern League,lawler,P0499518,Lawler,,,Winnipeg,19150619,19150810,35,0,ss35
@@ -723,7 +723,7 @@ minoraverages/1916Reach,1915,Northern League,lawler,F20334,Lawler,,0,Fargo-Moorh
 boxscores/1915/1915-DNT,1915,Northern League,leahy,P2676223,Leahy,,,Duluth,19150511,19150512,2,2,p2
 boxscores/1915/1915-GFDH,1915,Northern League,leahy,P4074450,Leahy,,,Duluth,19150512,19150512,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,leahy,P6204196,Leahy,,,Duluth,19150511,19150512,2,2,p2
-boxscores/1915/1915-DNT,1915,Northern League,lane,P3501314,Lean,,,St. Boniface,19150624,19150624,1,0,of1lf1
+boxscores/1915/1915-DNT,1915,Northern League,lane,P3501314,Lean,,,St. Boniface,19150624,19150624,1,0,"of1,lf1"
 boxscores/1915/1915-GFDH,1915,Northern League,lennehan,P2305009,Lenahan,,,Grand Forks,19150522,19150529,8,0,1b8
 boxscores/1915/1915-WT,1915,Northern League,lennehan,P8798851,Lenahan,,,Grand Forks,19150521,19150602,12,0,1b12
 boxscores/1915/1915-GFDH,1915,Northern League,lennehan,P4041333,Lenehan,,,Grand Forks,19150510,19150510,1,0,1b1
@@ -752,12 +752,12 @@ boxscores/1915/1915-GFDH,1915,Northern League,lorenzen,P4790777,Lovengen,,,Fort 
 boxscores/1915/1915-GFDH,1915,Northern League,mueller,P9005706,Lueller,,,St. Boniface,19150510,19150510,1,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,sundheim,P5749253,Lundheim,,,Virginia,19150606,19150606,2,0,ss2
 boxscores/1915/1915-DNT,1915,Northern League,landry@ump,P2019878,Lundry,,,#umpire,19150718,19150718,,,
-boxscores/1915/1915-DNT,1915,Northern League,mccabe,P7437194,McCabe,,,Virginia,19150526,19150713,41,0,2b13b1of41cf1rf40
-boxscores/1915/1915-DNT,1915,Northern League,mccabe,P7687427,McCabe,,,Fort William-Port Arthur,19150718,19150830,21,1,p12b1of21cf21
+boxscores/1915/1915-DNT,1915,Northern League,mccabe,P7437194,McCabe,,,Virginia,19150526,19150713,41,0,"2b1,3b1,of41,cf1,rf40"
+boxscores/1915/1915-DNT,1915,Northern League,mccabe,P7687427,McCabe,,,Fort William-Port Arthur,19150718,19150830,21,1,"p1,2b1,of21,cf21"
 boxscores/1915/1915-GFDH,1915,Northern League,mccabe,P0333046,McCabe,,,Fort William-Port Arthur,19150906,19150906,1,1,p1
-boxscores/1915/1915-GFDH,1915,Northern League,mccabe,P5520893,McCabe,,,Virginia,19150510,19150630,7,0,of7lf3rf4
-boxscores/1915/1915-WT,1915,Northern League,mccabe,P2202895,McCabe,,,Virginia,19150514,19150712,18,0,2b1of18cf1rf17
-boxscores/1915/1915-WT,1915,Northern League,mccabe,P5443208,McCabe,,,Fort William-Port Arthur,19150724,19150903,35,1,p1of34cf34
+boxscores/1915/1915-GFDH,1915,Northern League,mccabe,P5520893,McCabe,,,Virginia,19150510,19150630,7,0,"of7,lf3,rf4"
+boxscores/1915/1915-WT,1915,Northern League,mccabe,P2202895,McCabe,,,Virginia,19150514,19150712,18,0,"2b1,of18,cf1,rf17"
+boxscores/1915/1915-WT,1915,Northern League,mccabe,P5443208,McCabe,,,Fort William-Port Arthur,19150724,19150903,35,1,"p1,of34,cf34"
 minoraverages/1916Reach,1915,Northern League,mccabe,B00210,McCabe,,0,Fort William,,,120,,
 minoraverages/1916Reach,1915,Northern League,mccabe,F20571,McCabe,,0,Fort William,,,,,of120
 boxscores/1915/1915-WT,1915,Northern League,mccauley,P9286639,McCauley,,,Winnipeg,19150524,19150525,3,0,3b3
@@ -768,55 +768,55 @@ boxscores/1915/1915-WT,1915,Northern League,mccullough,P1039406,McCulloch,,,Virg
 boxscores/1915/1915-GFDH,1915,Northern League,mccullough,P1117905,McCullouch,,,Virginia,19150510,19150510,1,0,1b1
 boxscores/1915/1915-DNT,1915,Northern League,mccullough,P7623394,McCullough,,,Virginia,19150526,19150613,8,0,1b8
 boxscores/1915/1915-DNT,1915,Northern League,mccullough,P4370742,McCulough,,,Virginia,19150611,19150611,1,0,1b1
-boxscores/1915/1915-DNT,1915,Northern League,mcgee,P6330648,McGee,,,Winnipeg,19150723,19150810,19,0,2b53b13
-boxscores/1915/1915-DNT,1915,Northern League,mcgee,P8088016,McGee,,,Superior,19150522,19150705,37,0,2b33ss4
+boxscores/1915/1915-DNT,1915,Northern League,mcgee,P6330648,McGee,,,Winnipeg,19150723,19150810,19,0,"2b5,3b13"
+boxscores/1915/1915-DNT,1915,Northern League,mcgee,P8088016,McGee,,,Superior,19150522,19150705,37,0,"2b33,ss4"
 boxscores/1915/1915-GFDH,1915,Northern League,mcgee,P0757219,McGee,,,Superior,19150514,19150617,5,0,2b5
 boxscores/1915/1915-WT,1915,Northern League,mcgee,P0050613,McGee,,,Superior,19150508,19150630,13,0,2b13
-boxscores/1915/1915-WT,1915,Northern League,mcgee,P8293245,McGee,,,Winnipeg,19150709,19150906,66,0,2b343b26ss6
+boxscores/1915/1915-WT,1915,Northern League,mcgee,P8293245,McGee,,,Winnipeg,19150709,19150906,66,0,"2b34,3b26,ss6"
 minoraverages/1916Reach,1915,Northern League,mcgee,B00491,McGee,,0,Winnipeg,,,120,,
 minoraverages/1916Reach,1915,Northern League,mcgee,F20153,McGee,,0,Winnipeg,,,,,2b120
 boxscores/1915/1915-DNT,1915,Northern League,mcgee,P5489496,McGhee,,,Superior,19150628,19150628,1,0,2b1
 boxscores/1915/1915-DNT,1915,Northern League,mcgee,P8163494,McGheen,,,Superior,19150607,19150609,2,0,ss2
-boxscores/1915/1915-DNT,1915,Northern League,mcgraw-dul,P4803533,McGraw,,,Duluth,19150522,19150906,19,0,3b12of7rf7
-boxscores/1915/1915-DNT,1915,Northern League,mcgraw-gf,P6324936,McGraw,,,Grand Forks,19150519,19150630,3,0,of2lf2
-boxscores/1915/1915-DNT,1915,Northern League,mcgraw-for,P6912201,McGraw,,,Fort William-Port Arthur,19150718,19150718,1,0,of1lf1
-boxscores/1915/1915-GFDH,1915,Northern League,mcgraw-gf,P0215899,McGraw,,,Grand Forks,19150508,19150701,7,0,of6lf4cf2
-boxscores/1915/1915-WT,1915,Northern League,mcgraw-gf,P1321773,McGraw,,,Grand Forks,19150701,19150701,2,0,of2lf2
+boxscores/1915/1915-DNT,1915,Northern League,mcgraw-dul,P4803533,McGraw,,,Duluth,19150522,19150906,19,0,"3b12,of7,rf7"
+boxscores/1915/1915-DNT,1915,Northern League,mcgraw-gf,P6324936,McGraw,,,Grand Forks,19150519,19150630,3,0,"of2,lf2"
+boxscores/1915/1915-DNT,1915,Northern League,mcgraw-for,P6912201,McGraw,,,Fort William-Port Arthur,19150718,19150718,1,0,"of1,lf1"
+boxscores/1915/1915-GFDH,1915,Northern League,mcgraw-gf,P0215899,McGraw,,,Grand Forks,19150508,19150701,7,0,"of6,lf4,cf2"
+boxscores/1915/1915-WT,1915,Northern League,mcgraw-gf,P1321773,McGraw,,,Grand Forks,19150701,19150701,2,0,"of2,lf2"
 minoraverages/1916Reach,1915,Northern League,mcgraw-dul,B00045,McGraw,,0,Duluth,,,20,,
 minoraverages/1916Reach,1915,Northern League,mcgraw-dul,F20265,McGraw,,0,Duluth,,,,,3b20
-boxscores/1915/1915-DNT,1915,Northern League,mclennan,P4103726,McLennan,,,St. Boniface,19150512,19150513,2,0,of2rf2
-boxscores/1915/1915-WT,1915,Northern League,mclennan,P5434995,McLennan,,,St. Boniface,19150512,19150513,2,0,of2rf2
-boxscores/1915/1915-WT,1915,Northern League,mclennan,P3043393,McLennon,,,St. Boniface,19150515,19150515,1,0,of1rf1
+boxscores/1915/1915-DNT,1915,Northern League,mclennan,P4103726,McLennan,,,St. Boniface,19150512,19150513,2,0,"of2,rf2"
+boxscores/1915/1915-WT,1915,Northern League,mclennan,P5434995,McLennan,,,St. Boniface,19150512,19150513,2,0,"of2,rf2"
+boxscores/1915/1915-WT,1915,Northern League,mclennan,P3043393,McLennon,,,St. Boniface,19150515,19150515,1,0,"of1,rf1"
 boxscores/1915/1915-DNT,1915,Northern League,mcneeley,P3929657,McNeeley,,,Grand Forks,19150611,19150616,4,0,c4
-boxscores/1915/1915-GFDH,1915,Northern League,mcneeley,P1188364,McNeeley,,,Grand Forks,19150529,19150615,8,0,c4of3rf3
-boxscores/1915/1915-WT,1915,Northern League,mcneeley,P5485150,McNeeley,,,Grand Forks,19150525,19150606,6,0,c2of3rf3
-boxscores/1915/1915-GFDH,1915,Northern League,mcneeley,P1050567,McNeely,,,Grand Forks,19150522,19150616,5,0,c3of1rf1
+boxscores/1915/1915-GFDH,1915,Northern League,mcneeley,P1188364,McNeeley,,,Grand Forks,19150529,19150615,8,0,"c4,of3,rf3"
+boxscores/1915/1915-WT,1915,Northern League,mcneeley,P5485150,McNeeley,,,Grand Forks,19150525,19150606,6,0,"c2,of3,rf3"
+boxscores/1915/1915-GFDH,1915,Northern League,mcneeley,P1050567,McNeely,,,Grand Forks,19150522,19150616,5,0,"c3,of1,rf1"
 boxscores/1915/1915-WT,1915,Northern League,mcneeley,P7544409,McNeely,,,Grand Forks,19150522,19150524,2,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,mcneeley,P0023684,McNeilly,,,Grand Forks,19150525,19150525,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,mcneeley,P7282391,McNeilly,,,Grand Forks,19150521,19150521,1,0,
 boxscores/1915/1915-WT,1915,Northern League,mcneeley,P1579177,McNeilly,,,Grand Forks,19150521,19150521,1,0,
 boxscores/1915/1915-GFDH,1915,Northern League,mcneeley,P6726931,McNelley,,,Grand Forks,19150530,19150530,1,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,snyder,P0144075,McNelly,,,Winnipeg,19150529,19150529,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,menice,P2414845,Menice,,,Duluth,19150718,19150718,1,0,of1lf1
-boxscores/1915/1915-DNT,1915,Northern League,menice,P0140546,Meniece,,,Duluth,19150627,19150627,1,0,of1rf1
+boxscores/1915/1915-DNT,1915,Northern League,menice,P2414845,Menice,,,Duluth,19150718,19150718,1,0,"of1,lf1"
+boxscores/1915/1915-DNT,1915,Northern League,menice,P0140546,Meniece,,,Duluth,19150627,19150627,1,0,"of1,rf1"
 boxscores/1915/1915-GFDH,1915,Northern League,mueller,P2604299,Meuller,,,St. Boniface,19150807,19150807,1,0,c1
-boxscores/1915/1915-DNT,1915,Northern League,miller.of-sb,P1311869,Miller,H.,,St. Boniface,19150510,19150710,5,0,of5cf5
+boxscores/1915/1915-DNT,1915,Northern League,miller.of-sb,P1311869,Miller,H.,,St. Boniface,19150510,19150710,5,0,"of5,cf5"
 boxscores/1915/1915-DNT,1915,Northern League,miller-win,P2482364,Miller,,,Winnipeg,19150730,19150812,3,3,p3
-boxscores/1915/1915-DNT,1915,Northern League,miller.p-sb,P3801985,Miller,L.,,St. Boniface,19150728,19150805,2,1,p1of1cf1
-boxscores/1915/1915-DNT,1915,Northern League,miller.p-sb,P4272007,Miller,,,St. Boniface,19150508,19150831,37,11,p11c12b1ss4of21cf21
+boxscores/1915/1915-DNT,1915,Northern League,miller.p-sb,P3801985,Miller,L.,,St. Boniface,19150728,19150805,2,1,"p1,of1,cf1"
+boxscores/1915/1915-DNT,1915,Northern League,miller.p-sb,P4272007,Miller,,,St. Boniface,19150508,19150831,37,11,"p11,c1,2b1,ss4,of21,cf21"
 boxscores/1915/1915-DNT,1915,Northern League,miller-win,P5382190,Miller,D.,,Winnipeg,19150724,19150724,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,miller.p-sb,P9444282,Miller,E.,,St. Boniface,19150710,19150710,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,miller-win,P0566063,Miller,,,Winnipeg,19150724,19150812,3,3,p3
-boxscores/1915/1915-GFDH,1915,Northern League,miller.of-sb,P0849200,Miller,H.,,St. Boniface,19150524,19150703,4,0,of4cf4
-boxscores/1915/1915-GFDH,1915,Northern League,miller.p-sb,P2673786,Miller,,,St. Boniface,19150521,19150831,23,12,p12c2of9cf9
+boxscores/1915/1915-GFDH,1915,Northern League,miller.of-sb,P0849200,Miller,H.,,St. Boniface,19150524,19150703,4,0,"of4,cf4"
+boxscores/1915/1915-GFDH,1915,Northern League,miller.p-sb,P2673786,Miller,,,St. Boniface,19150521,19150831,23,12,"p12,c2,of9,cf9"
 boxscores/1915/1915-GFDH,1915,Northern League,miller.p-sb,P8981613,Miller,E.,,St. Boniface,19150701,19150701,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,miller.p-sb,P0775551,Miller,E.,,St. Boniface,19150508,19150819,10,10,p10
-boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P2643138,Miller,H.,,St. Boniface,19150508,19150824,29,0,of29cf29
+boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P2643138,Miller,H.,,St. Boniface,19150508,19150824,29,0,"of29,cf29"
 boxscores/1915/1915-WT,1915,Northern League,miller.p-sb,P4883587,Miller,Ed.,,St. Boniface,19150717,19150720,2,2,p2
-boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P5133254,Miller,L.,,St. Boniface,19150819,19150819,1,0,of1cf1
+boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P5133254,Miller,L.,,St. Boniface,19150819,19150819,1,0,"of1,cf1"
 boxscores/1915/1915-WT,1915,Northern League,miller.p-sb,P7215753,Miller,[E],,St. Boniface,19150824,19150824,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,miller-win,P7248065,Miller,,,Winnipeg,19150724,19150812,4,4,p4
-boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P9167628,Miller,,,St. Boniface,19150510,19150906,83,0,2b1ss3of80lf1cf79rf1
+boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P9167628,Miller,,,St. Boniface,19150510,19150906,83,0,"2b1,ss3,of80,lf1,cf79,rf1"
 minoraverages/1916Reach,1915,Northern League,miller.of-sb,B00149,Miller,,0,St. Boniface,,,122,,
 minoraverages/1916Reach,1915,Northern League,miller.p-sb,B00920,Miller,,0,St. Boniface,,,17,,
 minoraverages/1916Reach,1915,Northern League,miller-win,B00985,Miller,,0,Winnipeg,,,6,,
@@ -825,41 +825,41 @@ minoraverages/1916Reach,1915,Northern League,miller-win,F20745,Miller,,0,Winnipe
 minoraverages/1916Reach,1915,Northern League,miller.p-sb,F20956,Miller,,0,St. Boniface,,,,,p17
 minoraverages/1916Reach,1915,Northern League,miller.p-sb,P10228,Miller,,0,St. Boniface,,,,,
 minoraverages/1916Reach,1915,Northern League,miller-win,P10289,Miller,,0,Winnipeg,,,,,
-boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P2178765,Miller [CF],,,St. Boniface,19150724,19150724,1,0,of1cf1
+boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P2178765,Miller [CF],,,St. Boniface,19150724,19150724,1,0,"of1,cf1"
 boxscores/1915/1915-GFDH,1915,Northern League,miller.p-sb,P8200327,Miller [SB],,,St. Boniface,19150508,19150508,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,miller-sup,P1834647,Miller [SUP],,,Superior,19150508,19150508,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,miller-win,P2612903,Miller [WIN],,,Winnipeg,19150720,19150720,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,miller.of-sb,P1645928,Miller [cf],,,St. Boniface,19150801,19150801,1,0,of1cf1
-boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P3459981,Miller [cf],,,St. Boniface,19150720,19150831,5,0,of5cf5
+boxscores/1915/1915-DNT,1915,Northern League,miller.of-sb,P1645928,Miller [cf],,,St. Boniface,19150801,19150801,1,0,"of1,cf1"
+boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P3459981,Miller [cf],,,St. Boniface,19150720,19150831,5,0,"of5,cf5"
 boxscores/1915/1915-DNT,1915,Northern League,miller.p-sb,P8506895,Miller [p],,,St. Boniface,19150801,19150801,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,miller.p-sb,P8258836,Miller [p],,,St. Boniface,19150801,19150831,5,5,p5
 boxscores/1915/1915-WT,1915,Northern League,miller.of-sb,P7470218,Miller [ss],,,St. Boniface,19150805,19150805,1,0,ss1
 boxscores/1915/1915-DNT,1915,Northern League,mitchell,P1124073,Mitchell,,,Winnipeg,19150531,19150708,20,0,3b20
-boxscores/1915/1915-DNT,1915,Northern League,mitchell,P8450996,Mitchell,,,St. Boniface,19150728,19150801,6,0,3b5of1rf1
+boxscores/1915/1915-DNT,1915,Northern League,mitchell,P8450996,Mitchell,,,St. Boniface,19150728,19150801,6,0,"3b5,of1,rf1"
 boxscores/1915/1915-GFDH,1915,Northern League,mitchell,P4272284,Mitchell,,,Winnipeg,19150530,19150530,1,0,3b1
-boxscores/1915/1915-GFDH,1915,Northern League,mitchell,P4272284,Mitchell,,,Winnipeg,19150526,19150705,10,0,3b9ss1
-boxscores/1915/1915-WT,1915,Northern League,mitchell,P0972462,Mitchell,,,Winnipeg,19150513,19150715,61,0,3b46ss14
-boxscores/1915/1915-WT,1915,Northern League,mitchell,P9782265,Mitchell,,,St. Boniface,19150724,19150801,11,0,3b5ss5of1rf1
+boxscores/1915/1915-GFDH,1915,Northern League,mitchell,P4272284,Mitchell,,,Winnipeg,19150526,19150705,10,0,"3b9,ss1"
+boxscores/1915/1915-WT,1915,Northern League,mitchell,P0972462,Mitchell,,,Winnipeg,19150513,19150715,61,0,"3b46,ss14"
+boxscores/1915/1915-WT,1915,Northern League,mitchell,P9782265,Mitchell,,,St. Boniface,19150724,19150801,11,0,"3b5,ss5,of1,rf1"
 minoraverages/1916Reach,1915,Northern League,mitchell,B00324,Mitchell,,0,St. Boniface,,,72,,
 minoraverages/1916Reach,1915,Northern League,mitchell,F20254,Mitchell,,0,St. Boniface,,,,,3b72
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P5179219,Moore [Paul],,,Grand Forks,19150528,19150528,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P9881990,Moorse [Paul],,,Grand Forks,19150704,19150704,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P8907559,Moorse [Pete],,,Duluth,19150708,19150710,2,0,2b1ss1
+boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P8907559,Moorse [Pete],,,Duluth,19150708,19150710,2,0,"2b1,ss1"
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P0809498,Morse,P. [Paul],,Duluth,19150729,19150729,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P0869847,Morse,[Paul],,Grand Forks,19150509,19150626,7,7,p7
 boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P1391195,Morse,Pete,,Grand Forks,19150621,19150621,1,0,ss1
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P2439869,Morse,S. [Paul],,Duluth,19150707,19150707,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P2753660,Morse,[Paul],,Duluth,19150717,19150905,9,9,p9
-boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P2895155,Morse,[Pete],,Grand Forks,19150518,19150705,7,1,p1ss6
+boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P2895155,Morse,[Pete],,Grand Forks,19150518,19150705,7,1,"p1,ss6"
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P6764984,Morse,S. [Paul],,Grand Forks,19150616,19150630,2,2,p2
 boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P7137654,Morse,P. [Pete],,Duluth,19150707,19150731,4,0,2b4
-boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P7684096,Morse,Pete,,Duluth,19150711,19150803,7,0,2b3ss5
-boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P7795364,Morse,Paul,,Duluth,19150711,19150803,7,5,p5of1lf1
+boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P7684096,Morse,Pete,,Duluth,19150711,19150803,7,0,"2b3,ss5"
+boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P7795364,Morse,Paul,,Duluth,19150711,19150803,7,5,"p5,of1,lf1"
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P8299519,Morse,Paul,,Grand Forks,19150621,19150621,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P8481650,Morse,,,Duluth,19150808,19150827,2,1,p12b1
+boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P8481650,Morse,,,Duluth,19150808,19150827,2,1,"p1,2b1"
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P8768025,Morse,S. [Pete],,Duluth,19150729,19150729,1,0,2b1
 boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P8969489,Morse,P. [Pete],,Grand Forks,19150616,19150630,7,0,ss7
-boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P9081816,Morse,[Pete],,Duluth,19150706,19150809,22,0,2b18ss5
+boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P9081816,Morse,[Pete],,Duluth,19150706,19150809,22,0,"2b18,ss5"
 boxscores/1915/1915-GFDH,1915,Northern League,morse.pete,P0928526,Morse,Pete,,Grand Forks,19150621,19150621,1,0,ss1
 boxscores/1915/1915-GFDH,1915,Northern League,morse.paul,P2684376,Morse,Pete [Paul],,Grand Forks,19150514,19150514,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,morse.pete,P3342509,Morse,Steve [Pete],,Grand Forks,19150509,19150514,2,0,ss2
@@ -876,7 +876,7 @@ boxscores/1915/1915-WT,1915,Northern League,morse.paul,P0621788,Morse,[Paul],,Gr
 boxscores/1915/1915-WT,1915,Northern League,morse.paul,P2268701,Morse,S. [Paul],,Grand Forks,19150521,19150521,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,morse.pete,P2647096,Morse,[Pete],,Grand Forks,19150521,19150705,22,0,ss21
 boxscores/1915/1915-WT,1915,Northern League,morse.paul,P3771138,Morse,S. [Paul],,Duluth,19150707,19150729,2,2,p2
-boxscores/1915/1915-WT,1915,Northern League,morse.pete,P4078653,Morse,[Pete],,Duluth,19150706,19150809,11,0,2b10ss1
+boxscores/1915/1915-WT,1915,Northern League,morse.pete,P4078653,Morse,[Pete],,Duluth,19150706,19150809,11,0,"2b10,ss1"
 boxscores/1915/1915-WT,1915,Northern League,morse.pete,P4952229,Morse,Pete,,Duluth,19150730,19150730,1,0,ss1
 boxscores/1915/1915-WT,1915,Northern League,morse.paul,P5063497,Morse,Paul,,Duluth,19150801,19150803,2,2,p2
 boxscores/1915/1915-WT,1915,Northern League,morse.paul,P7750497,Morse,[Paul],,Duluth,19150812,19150820,2,2,p2
@@ -887,38 +887,38 @@ minoraverages/1916Reach,1915,Northern League,morse.pete,F20115,Morse,,0,Duluth,,
 minoraverages/1916Reach,1915,Northern League,morse.pete,F20287,Morse,,0,Duluth,,,,,ss60
 minoraverages/1916Reach,1915,Northern League,morse.paul,F20807,Morse,,0,Duluth,,,,,p33
 minoraverages/1916Reach,1915,Northern League,morse.paul,P10113,Morse,,0,Duluth,,,,,
-boxscores/1915/1915-WT,1915,Northern League,morse.pete,P9416963,Morse [2b],,,Duluth,19150806,19150806,1,0,2b1ss1
+boxscores/1915/1915-WT,1915,Northern League,morse.pete,P9416963,Morse [2b],,,Duluth,19150806,19150806,1,0,"2b1,ss1"
 boxscores/1915/1915-WT,1915,Northern League,morse.paul,P5781985,Morse [Paul],,,Duluth,19150828,19150901,2,2,p2
 boxscores/1915/1915-WT,1915,Northern League,morse.paul,P7091615,Morse [p],,,Duluth,19150806,19150806,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P4917207,Morse {Paul],,,Grand Forks,19150514,19150514,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,mueller,P5020600,Mueller,,,St. Boniface,19150510,19150906,53,1,p1c37of16rf16
-boxscores/1915/1915-GFDH,1915,Northern League,mueller,P2279307,Mueller,,,St. Boniface,19150531,19150906,31,0,c26of5rf5
+boxscores/1915/1915-DNT,1915,Northern League,mueller,P5020600,Mueller,,,St. Boniface,19150510,19150906,53,1,"p1,c37,of16,rf16"
+boxscores/1915/1915-GFDH,1915,Northern League,mueller,P2279307,Mueller,,,St. Boniface,19150531,19150906,31,0,"c26,of5,rf5"
 boxscores/1915/1915-GFDH,1915,Northern League,mueller,P2506627,Mueller,J.,,St. Boniface,19150713,19150713,1,0,c1
-boxscores/1915/1915-WT,1915,Northern League,mueller,P6576093,Mueller,,,St. Boniface,19150508,19150906,80,0,c42of38lf3rf35
+boxscores/1915/1915-WT,1915,Northern League,mueller,P6576093,Mueller,,,St. Boniface,19150508,19150906,80,0,"c42,of38,lf3,rf35"
 minoraverages/1916Reach,1915,Northern League,mueller,B00566,Mueller,,0,St. Boniface,,,82,,
 minoraverages/1916Reach,1915,Northern League,mueller,F20583,Mueller,,0,St. Boniface,,,,,of89
 minoraverages/1916Reach,1915,Northern League,mueller,F20661,Mueller,,0,St. Boniface,,,,,c53
 boxscores/1915/1915-GFDH,1915,Northern League,mueller,P1818276,Muellery,,,St. Boniface,19150714,19150714,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,mueller,P1006059,Muleler,,,St. Boniface,19150715,19150715,1,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,mueller,P6842515,Muller,,,St. Boniface,19150830,19150830,1,0,c1
-boxscores/1915/1915-WT,1915,Northern League,mueller,P1738136,Muller,,,St. Boniface,19150531,19150531,1,0,of1rf1
-boxscores/1915/1915-DNT,1915,Northern League,murphy-sb,P5514951,Murphy,,,St. Boniface,19150510,19150805,27,0,c13b21ss5
+boxscores/1915/1915-WT,1915,Northern League,mueller,P1738136,Muller,,,St. Boniface,19150531,19150531,1,0,"of1,rf1"
+boxscores/1915/1915-DNT,1915,Northern League,murphy-sb,P5514951,Murphy,,,St. Boniface,19150510,19150805,27,0,"c1,3b21,ss5"
 boxscores/1915/1915-DNT,1915,Northern League,murphy-sb,P6122943,Murphy,J.,,St. Boniface,19150605,19150605,1,0,3b1
-boxscores/1915/1915-DNT,1915,Northern League,murphy-fm,P7754278,Murphy,,,Fargo-Moorhead,19150516,19150906,57,0,c511b5of2rf2
+boxscores/1915/1915-DNT,1915,Northern League,murphy-fm,P7754278,Murphy,,,Fargo-Moorhead,19150516,19150906,57,0,"c51,1b5,of2,rf2"
 boxscores/1915/1915-GFDH,1915,Northern League,derose,P2203776,Murphy,,,Fort William-Port Arthur,19150824,19150824,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,murphy-sb,P3916730,Murphy,,,St. Boniface,19150521,19150703,13,0,3b13
-boxscores/1915/1915-GFDH,1915,Northern League,murphy-fm,P7291609,Murphy,,,Fargo-Moorhead,19150518,19150906,43,0,c421b1
-boxscores/1915/1915-WT,1915,Northern League,murphy-sb,P0410572,Murphy,,,St. Boniface,19150508,19150906,110,0,3b105ss5
+boxscores/1915/1915-GFDH,1915,Northern League,murphy-fm,P7291609,Murphy,,,Fargo-Moorhead,19150518,19150906,43,0,"c42,1b1"
+boxscores/1915/1915-WT,1915,Northern League,murphy-sb,P0410572,Murphy,,,St. Boniface,19150508,19150906,110,0,"3b105,ss5"
 boxscores/1915/1915-WT,1915,Northern League,murphy@ump,P1007826,Murphy,,,#umpire,19150820,19150820,,,
 boxscores/1915/1915-WT,1915,Northern League,murphy-sb,P7454212,Murphy,J.,,St. Boniface,19150605,19150605,1,0,3b1
-boxscores/1915/1915-WT,1915,Northern League,murphy-fm,P9085547,Murphy,,,Fargo-Moorhead,19150520,19150903,33,0,c261b5of2rf2
+boxscores/1915/1915-WT,1915,Northern League,murphy-fm,P9085547,Murphy,,,Fargo-Moorhead,19150520,19150903,33,0,"c26,1b5,of2,rf2"
 minoraverages/1916Reach,1915,Northern League,murphy-fm,B00475,Murphy,,0,Fargo-Moorhead,,,75,,
 minoraverages/1916Reach,1915,Northern League,murphy-sb,B00794,Murphy,,0,St. Boniface,,,119,,
 minoraverages/1916Reach,1915,Northern League,murphy-sb,F20222,Murphy,,0,St. Boniface,,,,,3b119
 minoraverages/1916Reach,1915,Northern League,murphy-fm,F20657,Murphy,,0,Fargo-Moorhead,,,,,c75
 boxscores/1915/1915-WT,1915,Northern League,murphy-fm,P7748828,Murphy [FAR],,,Fargo-Moorhead,19150605,19150605,1,0,c1
-boxscores/1915/1915-DNT,1915,Northern League,murphy-fm,P0163633,Murphy [FM],,,Fargo-Moorhead,19150603,19150604,2,0,c11b1
-boxscores/1915/1915-WT,1915,Northern League,murphy-fm,P5667350,Murphy [FM],,,Fargo-Moorhead,19150603,19150809,6,0,c41b1of1rf1
+boxscores/1915/1915-DNT,1915,Northern League,murphy-fm,P0163633,Murphy [FM],,,Fargo-Moorhead,19150603,19150604,2,0,"c1,1b1"
+boxscores/1915/1915-WT,1915,Northern League,murphy-fm,P5667350,Murphy [FM],,,Fargo-Moorhead,19150603,19150809,6,0,"c4,1b1,of1,rf1"
 boxscores/1915/1915-DNT,1915,Northern League,murphy-sb,P7053172,Murphy [SB],,,St. Boniface,19150603,19150604,2,0,3b2
 boxscores/1915/1915-WT,1915,Northern League,murphy-sb,P8867225,Murphy [SB],,,St. Boniface,19150603,19150809,6,0,3b6
 boxscores/1915/1915-DNT,1915,Northern League,nagle,P9894729,Nagel,,,St. Boniface,19150710,19150710,1,0,2b1
@@ -947,9 +947,9 @@ minoraverages/1916Reach,1915,Northern League,nelson,F20737,Nelson,,0,Fargo-Moorh
 minoraverages/1916Reach,1915,Northern League,nelson,P10266,Nelson,,0,Fargo-Moorhead,,,,,
 boxscores/1915/1915-WT,1915,Northern League,nifnecker,P2947707,Nifeckner,,,Fargo-Moorhead,19150711,19150711,1,0,2b1
 boxscores/1915/1915-DNT,1915,Northern League,nifnecker,P0828156,Niffnecker,,,Fargo-Moorhead,19150822,19150822,1,0,ss1
-boxscores/1915/1915-DNT,1915,Northern League,nifnecker,P2746550,Nifnecker,,,Fargo-Moorhead,19150718,19150906,30,2,p23b2ss27
+boxscores/1915/1915-DNT,1915,Northern League,nifnecker,P2746550,Nifnecker,,,Fargo-Moorhead,19150718,19150906,30,2,"p2,3b2,ss27"
 boxscores/1915/1915-GFDH,1915,Northern League,nifnecker,P5810697,Nifnecker,,,Fargo-Moorhead,19150906,19150906,1,1,p1
-boxscores/1915/1915-WT,1915,Northern League,nifnecker,P4560603,Nifnecker,,,Fargo-Moorhead,19150705,19150906,31,1,p12b8ss22
+boxscores/1915/1915-WT,1915,Northern League,nifnecker,P4560603,Nifnecker,,,Fargo-Moorhead,19150705,19150906,31,1,"p1,2b8,ss22"
 minoraverages/1916Reach,1915,Northern League,nifnecker,B00667,Nifnecker,,0,Fargo-Moorhead,,,72,,
 minoraverages/1916Reach,1915,Northern League,nifnecker,F20279,Nifnecker,,0,Fargo-Moorhead,,,,,ss72
 boxscores/1915/1915-DNT,1915,Northern League,noble,P4842808,Noble,,,Fort William-Port Arthur,19150510,19150901,27,26,p26
@@ -959,9 +959,9 @@ minoraverages/1916Reach,1915,Northern League,noble,B00865,Noble,,0,Fort William,
 minoraverages/1916Reach,1915,Northern League,noble,F20981,Noble,,0,Fort William,,,,,p30
 minoraverages/1916Reach,1915,Northern League,noble,P10202,Noble,,0,Fort William,,,,,
 boxscores/1915/1915-DNT,1915,Northern League,nagle,P4886647,Nogle,,,St. Boniface,19150624,19150624,1,0,2b1
-boxscores/1915/1915-DNT,1915,Northern League,obrien,P3784338,O'Brien,,,Duluth,19150510,19150906,93,0,2b853b1of3lf2rf1
+boxscores/1915/1915-DNT,1915,Northern League,obrien,P3784338,O'Brien,,,Duluth,19150510,19150906,93,0,"2b85,3b1,of3,lf2,rf1"
 boxscores/1915/1915-GFDH,1915,Northern League,obrien,P6453541,O'Brien,,,Duluth,19150518,19150622,7,0,2b7
-boxscores/1915/1915-WT,1915,Northern League,obrien,P5746935,O'Brien,,,Duluth,19150508,19150810,18,0,2b15of1rf1
+boxscores/1915/1915-WT,1915,Northern League,obrien,P5746935,O'Brien,,,Duluth,19150508,19150810,18,0,"2b15,of1,rf1"
 minoraverages/1916Reach,1915,Northern League,obrien,B00651,O'Brien,,0,Duluth,,,96,,
 minoraverages/1916Reach,1915,Northern League,obrien,F20177,O'Brien,,0,Duluth,,,,,2b96
 boxscores/1915/1915-DNT,1915,Northern League,odonnell,P4870873,O'Donnell,,,Winnipeg,19150510,19150515,4,0,c4
@@ -978,17 +978,17 @@ boxscores/1915/1915-DNT,1915,Northern League,patterson-win+fm,P1647873,Patterson
 boxscores/1915/1915-DNT,1915,Northern League,patterson-win+fm,P6380183,Patterson,,,Winnipeg,19150513,19150705,12,12,p12
 boxscores/1915/1915-GFDH,1915,Northern League,patterson-win+fm,P0271146,Patterson,,,Winnipeg,19150508,19150705,12,12,p12
 boxscores/1915/1915-GFDH,1915,Northern League,patterson-win+fm,P4712020,Patterson,,,Fargo-Moorhead,19150713,19150904,13,13,p13
-boxscores/1915/1915-WT,1915,Northern League,patterson-win+fm,P1377020,Patterson,,,Winnipeg,19150508,19150705,14,13,p133b1
-boxscores/1915/1915-WT,1915,Northern League,patterson-win+fm,P3461926,Patterson,,,Fargo-Moorhead,19150719,19150820,8,7,p71b1
+boxscores/1915/1915-WT,1915,Northern League,patterson-win+fm,P1377020,Patterson,,,Winnipeg,19150508,19150705,14,13,"p13,3b1"
+boxscores/1915/1915-WT,1915,Northern League,patterson-win+fm,P3461926,Patterson,,,Fargo-Moorhead,19150719,19150820,8,7,"p7,1b1"
 minoraverages/1916Reach,1915,Northern League,patterson-win+fm,B00806,Patterson,,0,Fargo-Moorhead,,,27,,
 minoraverages/1916Reach,1915,Northern League,patterson-win+fm,F20776,Patterson,,0,Fargo-Moorhead,,,,,p27
 minoraverages/1916Reach,1915,Northern League,patterson-win+fm,P10019,Patterson,,0,Fargo-Moorhead,,,,,
 boxscores/1915/1915-DNT,1915,Northern League,patterson.2b-fm,P4705421,Patterson [2b],,,Fargo-Moorhead,19150615,19150630,8,0,2b7
 boxscores/1915/1915-GFDH,1915,Northern League,patterson.2b-fm,P1760192,Patterson [2b],,,Fargo-Moorhead,19150613,19150613,1,0,2b1
 boxscores/1915/1915-WT,1915,Northern League,patterson.2b-fm,P1783250,Patterson [2b],,,Fargo-Moorhead,19150701,19150701,1,0,2b1
-boxscores/1915/1915-DNT,1915,Northern League,pedone,P2550812,Pedone,,,Fargo-Moorhead,19150531,19150627,5,0,of5lf4rf1
-boxscores/1915/1915-WT,1915,Northern League,pedone,P3882081,Pedone,,,Fargo-Moorhead,19150530,19150706,7,0,of6lf2rf4
-boxscores/1915/1915-DNT,1915,Northern League,pedone,P7035917,Pedrome,,,Fargo-Moorhead,19150624,19150624,1,0,of1lf1
+boxscores/1915/1915-DNT,1915,Northern League,pedone,P2550812,Pedone,,,Fargo-Moorhead,19150531,19150627,5,0,"of5,lf4,rf1"
+boxscores/1915/1915-WT,1915,Northern League,pedone,P3882081,Pedone,,,Fargo-Moorhead,19150530,19150706,7,0,"of6,lf2,rf4"
+boxscores/1915/1915-DNT,1915,Northern League,pedone,P7035917,Pedrome,,,Fargo-Moorhead,19150624,19150624,1,0,"of1,lf1"
 boxscores/1915/1915-DNT,1915,Northern League,penfold,P4168976,Penfold,,,Fort William-Port Arthur,19150701,19150903,6,6,p6
 boxscores/1915/1915-GFDH,1915,Northern League,penfold,P1474403,Penfold,,,Fort William-Port Arthur,19150617,19150903,9,9,p9
 boxscores/1915/1915-WT,1915,Northern League,penfold,P0109749,Penfold,,,Fort William-Port Arthur,19150617,19150903,7,7,p7
@@ -1003,19 +1003,19 @@ minoraverages/1916Reach,1915,Northern League,pfeffer,F20298,Pfeffer,,0,St. Bonif
 boxscores/1915/1915-DNT,1915,Northern League,pfeffer,P2184201,Pfeiffer,,,St. Boniface,19150512,19150513,2,0,ss2
 boxscores/1915/1915-WT,1915,Northern League,pfeffer,P3515470,Pfeiffer,,,St. Boniface,19150512,19150512,1,0,ss1
 boxscores/1915/1915-WT,1915,Northern League,pfeffer,P5948711,Pheffer,,,St. Boniface,19150518,19150518,1,0,ss1
-boxscores/1915/1915-DNT,1915,Northern League,pickering,P0395710,Pickering,,,St. Boniface,19150709,19150711,3,0,of3rf3
-boxscores/1915/1915-DNT,1915,Northern League,pickering,P0779507,Pickering,,,Winnipeg,19150531,19150708,20,0,of20lf20
-boxscores/1915/1915-GFDH,1915,Northern League,pickering,P4670470,Pickering,,,Winnipeg,19150530,19150530,1,0,of1lf1
-boxscores/1915/1915-GFDH,1915,Northern League,pickering,P4670470,Pickering,,,Winnipeg,19150526,19150705,10,0,of10lf10
-boxscores/1915/1915-WT,1915,Northern League,pickering,P4327587,Pickering,,,St. Boniface,19150709,19150711,3,0,of3rf3
-boxscores/1915/1915-WT,1915,Northern League,pickering,P5776344,Pickering,,,Winnipeg,19150521,19150708,48,0,of48lf48
+boxscores/1915/1915-DNT,1915,Northern League,pickering,P0395710,Pickering,,,St. Boniface,19150709,19150711,3,0,"of3,rf3"
+boxscores/1915/1915-DNT,1915,Northern League,pickering,P0779507,Pickering,,,Winnipeg,19150531,19150708,20,0,"of20,lf20"
+boxscores/1915/1915-GFDH,1915,Northern League,pickering,P4670470,Pickering,,,Winnipeg,19150530,19150530,1,0,"of1,lf1"
+boxscores/1915/1915-GFDH,1915,Northern League,pickering,P4670470,Pickering,,,Winnipeg,19150526,19150705,10,0,"of10,lf10"
+boxscores/1915/1915-WT,1915,Northern League,pickering,P4327587,Pickering,,,St. Boniface,19150709,19150711,3,0,"of3,rf3"
+boxscores/1915/1915-WT,1915,Northern League,pickering,P5776344,Pickering,,,Winnipeg,19150521,19150708,48,0,"of48,lf48"
 minoraverages/1916Reach,1915,Northern League,pickering,B00515,Pickering,,0,St. Boniface,,,51,,
 minoraverages/1916Reach,1915,Northern League,pickering,F20594,Pickering,,0,St. Boniface,,,,,of51
-boxscores/1915/1915-WT,1915,Northern League,piper,P2004348,Piper,,,Winnipeg,19150904,19150906,3,0,of3cf3
+boxscores/1915/1915-WT,1915,Northern League,piper,P2004348,Piper,,,Winnipeg,19150904,19150906,3,0,"of3,cf3"
 boxscores/1915/1915-DNT,1915,Northern League,posten,P9334525,Polsen,,,Duluth,19150809,19150809,1,1,p1
 boxscores/1915/1915-WT,1915,Northern League,posten,P5757634,Polsen,,,Duluth,19150809,19150809,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,quarders,P2544971,Porter,,,Virginia,19150525,19150525,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,posten,P0686693,Posten,,,Duluth,19150512,19150902,25,24,p24c1of2rf2
+boxscores/1915/1915-DNT,1915,Northern League,posten,P0686693,Posten,,,Duluth,19150512,19150902,25,24,"p24,c1,of2,rf2"
 boxscores/1915/1915-GFDH,1915,Northern League,posten,P6828184,Posten,,,Duluth,19150519,19150902,14,14,p14
 boxscores/1915/1915-WT,1915,Northern League,posten,P7109802,Posten,,,Duluth,19150519,19150902,10,10,p10
 minoraverages/1916Reach,1915,Northern League,posten,B00879,Posten,,0,Duluth,,,23,,
@@ -1043,7 +1043,7 @@ boxscores/1915/1915-DNT,1915,Northern League,rhoades,P8713512,Rhoades,,,St. Boni
 boxscores/1915/1915-GFDH,1915,Northern League,rhoades,P5719130,Rhoades,,,Fargo-Moorhead,19150701,19150729,3,3,p3
 boxscores/1915/1915-GFDH,1915,Northern League,rhoades,P5972219,Rhoades,,,St. Boniface,19150818,19150818,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,rhoades@ump,P7076289,Rhoades,,,#umpire,19150712,19150712,,,
-boxscores/1915/1915-WT,1915,Northern League,rhoades,P4919084,Rhoades,,,Fargo-Moorhead,19150701,19150802,6,4,p42b2
+boxscores/1915/1915-WT,1915,Northern League,rhoades,P4919084,Rhoades,,,Fargo-Moorhead,19150701,19150802,6,4,"p4,2b2"
 boxscores/1915/1915-WT,1915,Northern League,rhoades@ump,P6369683,Rhoades,,,#umpire,19150712,19150712,,,
 minoraverages/1916Reach,1915,Northern League,rhoades,B00370,Rhoades,,0,St. Boniface,,,13,,
 minoraverages/1916Reach,1915,Northern League,rhoades,F20759,Rhoades,,0,St. Boniface,,,,,p13
@@ -1081,23 +1081,23 @@ boxscores/1915/1915-WT,1915,Northern League,schorr,P0162285,Schorr,,,Winnipeg,19
 minoraverages/1916Reach,1915,Northern League,schorr,B00833,Schorr,,0,Winnipeg,,,14,,
 minoraverages/1916Reach,1915,Northern League,schorr,F20970,Schorr,,0,Winnipeg,,,,,p14
 minoraverages/1916Reach,1915,Northern League,schorr,P10097,Schorr,,0,Winnipeg,,,,,
-boxscores/1915/1915-DNT,1915,Northern League,schroeder,P3119083,Schroeder,,,Duluth,19150706,19150906,58,0,1b54of4rf4
-boxscores/1915/1915-DNT,1915,Northern League,schroeder,P3586086,Schroeder,,,Grand Forks,19150615,19150705,12,1,p11b11
+boxscores/1915/1915-DNT,1915,Northern League,schroeder,P3119083,Schroeder,,,Duluth,19150706,19150906,58,0,"1b54,of4,rf4"
+boxscores/1915/1915-DNT,1915,Northern League,schroeder,P3586086,Schroeder,,,Grand Forks,19150615,19150705,12,1,"p1,1b11"
 boxscores/1915/1915-DNT,1915,Northern League,schroeder,P3635105,Schroeder,,,St. Boniface,19150603,19150604,2,0,1b2
-boxscores/1915/1915-GFDH,1915,Northern League,schroeder,P3123417,Schroeder,,,Grand Forks,19150613,19150705,21,2,p21b21
-boxscores/1915/1915-GFDH,1915,Northern League,schroeder,P8367028,Schroeder,,,St. Boniface,19150521,19150602,8,0,1b3of5rf5
-boxscores/1915/1915-WT,1915,Northern League,schroeder,P0387216,Schroeder,,,Duluth,19150706,19150810,18,0,1b14of4rf4
-boxscores/1915/1915-WT,1915,Northern League,schroeder,P4917355,Schroeder,,,Grand Forks,19150701,19150705,6,2,p21b6
-boxscores/1915/1915-WT,1915,Northern League,schroeder,P7566982,Schroeder,,,St. Boniface,19150520,19150604,17,1,p11b8of9rf9
+boxscores/1915/1915-GFDH,1915,Northern League,schroeder,P3123417,Schroeder,,,Grand Forks,19150613,19150705,21,2,"p2,1b21"
+boxscores/1915/1915-GFDH,1915,Northern League,schroeder,P8367028,Schroeder,,,St. Boniface,19150521,19150602,8,0,"1b3,of5,rf5"
+boxscores/1915/1915-WT,1915,Northern League,schroeder,P0387216,Schroeder,,,Duluth,19150706,19150810,18,0,"1b14,of4,rf4"
+boxscores/1915/1915-WT,1915,Northern League,schroeder,P4917355,Schroeder,,,Grand Forks,19150701,19150705,6,2,"p2,1b6"
+boxscores/1915/1915-WT,1915,Northern League,schroeder,P7566982,Schroeder,,,St. Boniface,19150520,19150604,17,1,"p1,1b8,of9,rf9"
 minoraverages/1916Reach,1915,Northern League,schroeder,B00125,Schroeder,,0,Duluth,,,109,,
 minoraverages/1916Reach,1915,Northern League,schroeder,F20051,Schroeder,,0,Duluth,,,,,1b109
 boxscores/1915/1915-GFDH,1915,Northern League,berger,P9191530,Serger,,,Superior,19150528,19150528,1,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,shannon,P4371671,Shannon,,,St. Boniface,19150513,19150826,2,2,p2
 boxscores/1915/1915-GFDH,1915,Northern League,shannon,P1630378,Shannon,,,St. Boniface,19150513,19150826,2,2,p2
 boxscores/1915/1915-WT,1915,Northern League,shannon,P5927164,Shannon,,,St. Boniface,19150513,19150826,2,2,p2
-boxscores/1915/1915-DNT,1915,Northern League,sheffield,P7525388,Sheffield,,,St. Boniface,19150712,19150906,17,6,p6of11cf4rf7
+boxscores/1915/1915-DNT,1915,Northern League,sheffield,P7525388,Sheffield,,,St. Boniface,19150712,19150906,17,6,"p6,of11,cf4,rf7"
 boxscores/1915/1915-GFDH,1915,Northern League,sheffield,P2257311,Sheffield,,,St. Boniface,19150821,19150906,5,5,p5
-boxscores/1915/1915-WT,1915,Northern League,sheffield,P1457265,Sheffield,,,St. Boniface,19150712,19150906,59,6,p6of53cf5rf48
+boxscores/1915/1915-WT,1915,Northern League,sheffield,P1457265,Sheffield,,,St. Boniface,19150712,19150906,59,6,"p6,of53,cf5,rf48"
 minoraverages/1916Reach,1915,Northern League,sheffield,B00196,Sheffield,,0,St. Boniface,,,61,,
 minoraverages/1916Reach,1915,Northern League,sheffield,F20612,Sheffield,,0,St. Boniface,,,,,of61
 minoraverages/1916Reach,1915,Northern League,sheffield,P10184,Sheffield,,0,St. Boniface,,,,,
@@ -1111,14 +1111,14 @@ minoraverages/1916Reach,1915,Northern League,shirley,P10336,Shirley,,0,Winnipeg,
 boxscores/1915/1915-GFDH,1915,Northern League,schorr,P3100651,Shore,,,Winnipeg,19150726,19150820,2,2,p2
 boxscores/1915/1915-GFDH,1915,Northern League,schorr,P1538488,Shorr,,,Winnipeg,19150906,19150906,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,schroeder,P7718216,Shroeder,,,Duluth,19150717,19150829,11,0,1b11
-boxscores/1915/1915-GFDH,1915,Northern League,schroeder,P7843313,Shroeder,,,St. Boniface,19150524,19150524,1,1,p1of1rf1
+boxscores/1915/1915-GFDH,1915,Northern League,schroeder,P7843313,Shroeder,,,St. Boniface,19150524,19150524,1,1,"p1,of1,rf1"
 boxscores/1915/1915-WT,1915,Northern League,schroeder,P2483917,Shroeder,,,Duluth,19150801,19150801,1,0,1b1
-boxscores/1915/1915-DNT,1915,Northern League,smith-fm,P4589478,Smith,,,Fargo-Moorhead,19150508,19150906,78,0,c711b13b2of5lf2cf2rf1
+boxscores/1915/1915-DNT,1915,Northern League,smith-fm,P4589478,Smith,,,Fargo-Moorhead,19150508,19150906,78,0,"c71,1b1,3b2,of5,lf2,cf2,rf1"
 boxscores/1915/1915-DNT,1915,Northern League,smith-win,P8287228,Smith,,,Winnipeg,19150621,19150627,4,0,c3
 boxscores/1915/1915-GFDH,1915,Northern League,smith-win,P0956431,Smith,,,Winnipeg,19150622,19150622,1,0,c1
-boxscores/1915/1915-GFDH,1915,Northern League,smith-fm,P1848185,Smith,,,Fargo-Moorhead,19150510,19150904,57,0,c56of1rf1
+boxscores/1915/1915-GFDH,1915,Northern League,smith-fm,P1848185,Smith,,,Fargo-Moorhead,19150510,19150904,57,0,"c56,of1,rf1"
 boxscores/1915/1915-WT,1915,Northern League,smith-win,P0249825,Smith,,,Winnipeg,19150621,19150627,4,0,c3
-boxscores/1915/1915-WT,1915,Northern League,smith-fm,P6144971,Smith,,,Fargo-Moorhead,19150513,19150906,59,0,c481b12b5of5lf3rf2
+boxscores/1915/1915-WT,1915,Northern League,smith-fm,P6144971,Smith,,,Fargo-Moorhead,19150513,19150906,59,0,"c48,1b1,2b5,of5,lf3,rf2"
 minoraverages/1916Reach,1915,Northern League,smith-fm,B00589,Smith,,0,Fargo-Moorhead,,,96,,
 minoraverages/1916Reach,1915,Northern League,smith-fm,F20685,Smith,,0,Fargo-Moorhead,,,,,c96
 boxscores/1915/1915-DNT,1915,Northern League,snow,P4006518,Snow,,,Superior,19150607,19150630,5,5,p5
@@ -1139,32 +1139,32 @@ boxscores/1915/1915-WT,1915,Northern League,sorenson,P3999307,Sorenson,,,Virgini
 minoraverages/1916Reach,1915,Northern League,sorenson,B00973,Sorenson,,0,Virginia,,,29,,
 minoraverages/1916Reach,1915,Northern League,sorenson,F20841,Sorenson,,0,Virginia,,,,,p29
 minoraverages/1916Reach,1915,Northern League,sorenson,P10145,Sorenson,,0,Virginia,,,,,
-boxscores/1915/1915-DNT,1915,Northern League,spellman,P1471998,Spellman,,,St. Boniface,19150510,19150906,78,0,c75of3rf3
-boxscores/1915/1915-GFDH,1915,Northern League,spellman,P1009329,Spellman,,,St. Boniface,19150508,19150906,73,0,c71of2rf2
-boxscores/1915/1915-WT,1915,Northern League,spellman,P2803267,Spellman,,,St. Boniface,19150508,19150906,104,0,c831b5of14rf14
+boxscores/1915/1915-DNT,1915,Northern League,spellman,P1471998,Spellman,,,St. Boniface,19150510,19150906,78,0,"c75,of3,rf3"
+boxscores/1915/1915-GFDH,1915,Northern League,spellman,P1009329,Spellman,,,St. Boniface,19150508,19150906,73,0,"c71,of2,rf2"
+boxscores/1915/1915-WT,1915,Northern League,spellman,P2803267,Spellman,,,St. Boniface,19150508,19150906,104,0,"c83,1b5,of14,rf14"
 minoraverages/1916Reach,1915,Northern League,spellman,B00232,Spellman,,0,St. Boniface,,,106,,
 minoraverages/1916Reach,1915,Northern League,spellman,F20699,Spellman,,0,St. Boniface,,,,,c106
 boxscores/1915/1915-GFDH,1915,Northern League,spellman,P9284917,Spillman,,,St. Boniface,19150726,19150726,1,0,c1
 boxscores/1915/1915-WT,1915,Northern League,stephenson,P5645212,Stefenson,,,St. Boniface,19150721,19150721,1,0,1b1
-boxscores/1915/1915-WT,1915,Northern League,stephenson,P0359722,Stephanson,,,St. Boniface,19150511,19150511,1,0,of1rf1
-boxscores/1915/1915-DNT,1915,Northern League,stephenson,P1464617,Stephenson,,,St. Boniface,19150510,19150814,5,2,p2of2rf2
-boxscores/1915/1915-WT,1915,Northern League,stephenson,P1216558,Stephenson,,,St. Boniface,19150605,19150729,2,1,p11b1
+boxscores/1915/1915-WT,1915,Northern League,stephenson,P0359722,Stephanson,,,St. Boniface,19150511,19150511,1,0,"of1,rf1"
+boxscores/1915/1915-DNT,1915,Northern League,stephenson,P1464617,Stephenson,,,St. Boniface,19150510,19150814,5,2,"p2,of2,rf2"
+boxscores/1915/1915-WT,1915,Northern League,stephenson,P1216558,Stephenson,,,St. Boniface,19150605,19150729,2,1,"p1,1b1"
 minoraverages/1916Reach,1915,Northern League,stephenson,B00308,Stephenson,,0,St. Boniface,,,53,,
 minoraverages/1916Reach,1915,Northern League,stephenson,F20792,Stephenson,,0,St. Boniface,,,,,p55
 minoraverages/1916Reach,1915,Northern League,stephenson,P10024,Stephenson,,0,St. Boniface,,,,,
 boxscores/1915/1915-GFDH,1915,Northern League,stephenson,P3073821,Stevens,,,St. Boniface,19150626,19150626,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,stephenson,P4815687,Stevenson,,,St. Boniface,19150512,19150901,32,27,p271b1of3lf3
+boxscores/1915/1915-DNT,1915,Northern League,stephenson,P4815687,Stevenson,,,St. Boniface,19150512,19150901,32,27,"p27,1b1,of3,lf3"
 boxscores/1915/1915-DNT,1915,Northern League,sorenson,P9547540,Stevenson,,,Virginia,19150524,19150524,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,sorenson,P3438503,Stevenson,,,Virginia,19150706,19150706,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,stephenson,P9547610,Stevenson,,,St. Boniface,19150512,19150904,23,23,p23
 boxscores/1915/1915-WT,1915,Northern League,stevenson@ump,P2255794,Stevenson,,,#umpire,19150820,19150906,,,
-boxscores/1915/1915-WT,1915,Northern League,stephenson,P8747564,Stevenson,,,St. Boniface,19150509,19150904,49,31,p311b3of9lf6rf3
+boxscores/1915/1915-WT,1915,Northern League,stephenson,P8747564,Stevenson,,,St. Boniface,19150509,19150904,49,31,"p31,1b3,of9,lf6,rf3"
 boxscores/1915/1915-GFDH,1915,Northern League,wahlstrom,P3805385,Strom,,,Fargo-Moorhead,19150526,19150526,1,1,p1
 boxscores/1915/1915-GFDH,1915,Northern League,culver,P4185028,Sulder,,,St. Boniface,19150510,19150510,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,sullivan,P0081558,Sullivan,,,Fort William-Port Arthur,19150526,19150830,45,0,3b4of40lf31cf4rf7
+boxscores/1915/1915-DNT,1915,Northern League,sullivan,P0081558,Sullivan,,,Fort William-Port Arthur,19150526,19150830,45,0,"3b4,of40,lf31,cf4,rf7"
 boxscores/1915/1915-DNT,1915,Northern League,sullivan,P3254992,Sullivan,,,St. Boniface,19150508,19150508,1,0,c1
-boxscores/1915/1915-GFDH,1915,Northern League,sullivan,P1160649,Sullivan,,,Fort William-Port Arthur,19150508,19150625,5,0,of5lf5
-boxscores/1915/1915-WT,1915,Northern League,sullivan,P6127067,Sullivan,,,Fort William-Port Arthur,19150514,19150903,31,0,3b2of27lf11rf16
+boxscores/1915/1915-GFDH,1915,Northern League,sullivan,P1160649,Sullivan,,,Fort William-Port Arthur,19150508,19150625,5,0,"of5,lf5"
+boxscores/1915/1915-WT,1915,Northern League,sullivan,P6127067,Sullivan,,,Fort William-Port Arthur,19150514,19150903,31,0,"3b2,of27,lf11,rf16"
 minoraverages/1916Reach,1915,Northern League,sullivan,B00092,Sullivan,,0,Fort William,,,97,,
 minoraverages/1916Reach,1915,Northern League,sullivan,F20401,Sullivan,,0,Fort William,,,,,of97
 boxscores/1915/1915-DNT,1915,Northern League,sundheim,P8521964,Sundheim,,,Virginia,19150526,19150903,101,0,ss99
@@ -1173,11 +1173,11 @@ boxscores/1915/1915-WT,1915,Northern League,sundheim,P8370353,Sundheim,,,Virgini
 minoraverages/1916Reach,1915,Northern League,sundheim,B00397,Sundheim,,0,Virginia,,,122,,
 minoraverages/1916Reach,1915,Northern League,sundheim,F20303,Sundheim,,0,Virginia,,,,,ss122
 minoraverages/1916Reach,1915,Northern League,swalm,F20547,Swaim,,0,Winnipeg,,,,,of121
-boxscores/1915/1915-DNT,1915,Northern League,swalm,P5952379,Swalm,,,Winnipeg,19150723,19150810,17,0,of17lf17
-boxscores/1915/1915-DNT,1915,Northern League,swalm,P7709747,Swalm,,,Superior,19150522,19150705,40,0,of40lf38rf2
-boxscores/1915/1915-GFDH,1915,Northern League,swalm,P0378950,Swalm,,,Superior,19150514,19150617,5,0,of5lf5
-boxscores/1915/1915-WT,1915,Northern League,swalm,P7914976,Swalm,,,Winnipeg,19150709,19150906,66,0,of66lf66
-boxscores/1915/1915-WT,1915,Northern League,swalm,P9672344,Swalm,,,Superior,19150508,19150630,13,0,of13lf13
+boxscores/1915/1915-DNT,1915,Northern League,swalm,P5952379,Swalm,,,Winnipeg,19150723,19150810,17,0,"of17,lf17"
+boxscores/1915/1915-DNT,1915,Northern League,swalm,P7709747,Swalm,,,Superior,19150522,19150705,40,0,"of40,lf38,rf2"
+boxscores/1915/1915-GFDH,1915,Northern League,swalm,P0378950,Swalm,,,Superior,19150514,19150617,5,0,"of5,lf5"
+boxscores/1915/1915-WT,1915,Northern League,swalm,P7914976,Swalm,,,Winnipeg,19150709,19150906,66,0,"of66,lf66"
+boxscores/1915/1915-WT,1915,Northern League,swalm,P9672344,Swalm,,,Superior,19150508,19150630,13,0,"of13,lf13"
 minoraverages/1916Reach,1915,Northern League,swalm,B00059,Swalm,,0,Winnipeg,,,121,,
 boxscores/1915/1915-DNT,1915,Northern League,sweeley,P3190506,Sweeley,,,Duluth,19150510,19150905,107,0,c107
 boxscores/1915/1915-GFDH,1915,Northern League,sweeley,P5859709,Sweeley,,,Duluth,19150508,19150904,85,0,c85
@@ -1190,7 +1190,7 @@ boxscores/1915/1915-WT,1915,Northern League,sweeley,P0972778,Sweely,,,Duluth,191
 boxscores/1915/1915-DNT,1915,Northern League,sweeley,P3719404,Sweeney,,,Duluth,19150703,19150703,1,0,c1
 boxscores/1915/1915-WT,1915,Northern League,sweeley,P1240822,Swelley,,,Duluth,19150803,19150803,1,0,c1
 boxscores/1915/1915-GFDH,1915,Northern League,sorenson,P0192687,Swenson,,,Virginia,19150817,19150817,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,swalm,P7741833,Swolm,,,Winnipeg,19150809,19150809,1,0,of1lf1
+boxscores/1915/1915-DNT,1915,Northern League,swalm,P7741833,Swolm,,,Winnipeg,19150809,19150809,1,0,"of1,lf1"
 boxscores/1915/1915-GFDH,1915,Northern League,fusner,P3944767,Tessner,,,Fort William-Port Arthur,19150828,19150828,1,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,thomas-win,P4517315,Thomas,,,Winnipeg,19150531,19150715,10,10,p10
 boxscores/1915/1915-DNT,1915,Northern League,thomas@ump,P5809300,Thomas,,,#umpire,19150705,19150705,,,
@@ -1200,14 +1200,14 @@ boxscores/1915/1915-GFDH,1915,Northern League,thomas-win,P2601014,Thomas,,,Winni
 boxscores/1915/1915-WT,1915,Northern League,thomas@ump,P2232409,Thomas,,,#umpire,19150705,19150711,,,
 boxscores/1915/1915-WT,1915,Northern League,thomas-win,P9283016,Thomas,,,Winnipeg,19150531,19150715,11,11,p11
 boxscores/1915/1915-WT,1915,Northern League,tisman,P7598152,Tisman,,,Winnipeg,19150522,19150522,1,0,3b1
-boxscores/1915/1915-DNT,1915,Northern League,tollers,P1430577,Tollers,,,Duluth,19150808,19150814,4,0,c3of1rf1
+boxscores/1915/1915-DNT,1915,Northern League,tollers,P1430577,Tollers,,,Duluth,19150808,19150814,4,0,"c3,of1,rf1"
 boxscores/1915/1915-GFDH,1915,Northern League,tollers,P4099780,Tollers,,,Duluth,19150814,19150814,1,0,c1
-boxscores/1915/1915-WT,1915,Northern League,tollers,P3393174,Tollers,,,Duluth,19150809,19150809,1,0,of1rf1
+boxscores/1915/1915-WT,1915,Northern League,tollers,P3393174,Tollers,,,Duluth,19150809,19150809,1,0,"of1,rf1"
 boxscores/1915/1915-DNT,1915,Northern League,thomas-win,P4956443,Tomas,,,Winnipeg,19150611,19150611,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,truman,P1909832,Trueman,,,Duluth,19150531,19150531,2,0,of2rf2
-boxscores/1915/1915-DNT,1915,Northern League,truman,P6651107,Truman,,,Duluth,19150524,19150626,25,0,1b12b13b1ss3of21cf1rf20
-boxscores/1915/1915-GFDH,1915,Northern League,truman,P2792598,Truman,,,Duluth,19150619,19150620,2,0,2b1of2rf2
-boxscores/1915/1915-WT,1915,Northern League,truman,P3074216,Truman,,,Duluth,19150615,19150626,6,0,1b1ss3of3cf1rf2
+boxscores/1915/1915-DNT,1915,Northern League,truman,P1909832,Trueman,,,Duluth,19150531,19150531,2,0,"of2,rf2"
+boxscores/1915/1915-DNT,1915,Northern League,truman,P6651107,Truman,,,Duluth,19150524,19150626,25,0,"1b1,2b1,3b1,ss3,of21,cf1,rf20"
+boxscores/1915/1915-GFDH,1915,Northern League,truman,P2792598,Truman,,,Duluth,19150619,19150620,2,0,"2b1,of2,rf2"
+boxscores/1915/1915-WT,1915,Northern League,truman,P3074216,Truman,,,Duluth,19150615,19150626,6,0,"1b1,ss3,of3,cf1,rf2"
 boxscores/1915/1915-DNT,1915,Northern League,turner,P1770764,Turner,,,Duluth,19150526,19150621,6,6,p6
 boxscores/1915/1915-GFDH,1915,Northern League,turner,P7912255,Turner,,,Duluth,19150526,19150621,4,4,p4
 boxscores/1915/1915-WT,1915,Northern League,turner,P8193873,Turner,,,Duluth,19150603,19150621,3,3,p3
@@ -1228,54 +1228,54 @@ boxscores/1915/1915-DNT,1915,Northern League,wahlstrom,P8709165,Wahl,,,Fargo-Moo
 boxscores/1915/1915-DNT,1915,Northern League,wahlstrom,P5019906,Wahlstrom,,,Fargo-Moorhead,19150510,19150526,3,3,p3
 boxscores/1915/1915-GFDH,1915,Northern League,wahlstrom,P8084053,Wahlstrom,,,Fargo-Moorhead,19150511,19150524,2,2,p2
 boxscores/1915/1915-WT,1915,Northern League,wahlstrom,P6833959,Wahlstrom,,,Fargo-Moorhead,19150524,19150526,2,2,p2
-boxscores/1915/1915-GFDH,1915,Northern League,walban,P6648009,Walban,,,Fargo-Moorhead,19150613,19150613,1,0,of1lf1
-boxscores/1915/1915-DNT,1915,Northern League,wallace,P2110778,Wallace,,,Fargo-Moorhead,19150624,19150906,7,5,p5of2lf1cf1
+boxscores/1915/1915-GFDH,1915,Northern League,walban,P6648009,Walban,,,Fargo-Moorhead,19150613,19150613,1,0,"of1,lf1"
+boxscores/1915/1915-DNT,1915,Northern League,wallace,P2110778,Wallace,,,Fargo-Moorhead,19150624,19150906,7,5,"p5,of2,lf1,cf1"
 boxscores/1915/1915-GFDH,1915,Northern League,wallace,P6842701,Wallace,,,Fargo-Moorhead,19150624,19150906,5,5,p5
-boxscores/1915/1915-WT,1915,Northern League,wallace,P6042655,Wallace,,,Fargo-Moorhead,19150701,19150906,8,4,p4of4lf4
+boxscores/1915/1915-WT,1915,Northern League,wallace,P6042655,Wallace,,,Fargo-Moorhead,19150701,19150906,8,4,"p4,of4,lf4"
 minoraverages/1916Reach,1915,Northern League,wallace,B00638,Wallace,,0,Fargo-Moorhead,,,10,,
 boxscores/1915/1915-DNT,1915,Northern League,watkins-dul,P7849037,Watkins,,,Duluth,19150829,19150905,2,2,p2
 boxscores/1915/1915-DNT,1915,Northern League,watkins-vir,P9783504,Watkins,,,Virginia,19150526,19150526,1,0,3b1
 boxscores/1915/1915-GFDH,1915,Northern League,watkins-vir,P6545571,Watkins,,,Virginia,19150510,19150513,4,0,3b4
 boxscores/1915/1915-WT,1915,Northern League,watkins-vir,P7051637,Watkins,,,Virginia,19150514,19150520,5,0,3b5
 boxscores/1915/1915-WT,1915,Northern League,watkins-dul,P9811634,Watkins,,,Duluth,19150829,19150829,1,1,p1
-boxscores/1915/1915-DNT,1915,Northern League,weidell-fm,P0857339,Weidel,,,Fargo-Moorhead,19150514,19150514,1,0,of1cf1
+boxscores/1915/1915-DNT,1915,Northern League,weidell-fm,P0857339,Weidel,,,Fargo-Moorhead,19150514,19150514,1,0,"of1,cf1"
 boxscores/1915/1915-DNT,1915,Northern League,weidell-fw,P5936546,Weidel,,,Fort William-Port Arthur,19150718,19150718,1,0,ss1
 boxscores/1915/1915-WT,1915,Northern League,weidell-fw,P3692327,Weidel,,,Fort William-Port Arthur,19150514,19150724,4,0,ss4
-boxscores/1915/1915-DNT,1915,Northern League,weidell-fm,P0671591,Weidell,,,Fargo-Moorhead,19150516,19150516,1,0,of1cf1
+boxscores/1915/1915-DNT,1915,Northern League,weidell-fm,P0671591,Weidell,,,Fargo-Moorhead,19150516,19150516,1,0,"of1,cf1"
 boxscores/1915/1915-DNT,1915,Northern League,weidell-fw,P5063694,Weidell,,,Fort William-Port Arthur,19150531,19150830,35,0,ss35
 boxscores/1915/1915-GFDH,1915,Northern League,weidell-fw,P2369121,Weidell,,,Fort William-Port Arthur,19150509,19150625,4,0,ss4
 boxscores/1915/1915-WT,1915,Northern League,weidell-fw,P1004467,Weidell,,,Fort William-Port Arthur,19150518,19150903,27,0,ss27
 minoraverages/1916Reach,1915,Northern League,weidell-fw,B00502,Weidell,,0,Fort William,,,125,,
 minoraverages/1916Reach,1915,Northern League,weidell-fw,F20342,Weidell,,0,Fort William,,,,,ss125
 boxscores/1915/1915-DNT,1915,Northern League,wertz,P0686506,Wert,,,Fort William-Port Arthur,19150526,19150526,1,0,3b1
-boxscores/1915/1915-DNT,1915,Northern League,wertz,P8821540,Wertz,,,Fort William-Port Arthur,19150527,19150830,48,0,2b463b2of1lf1
+boxscores/1915/1915-DNT,1915,Northern League,wertz,P8821540,Wertz,,,Fort William-Port Arthur,19150527,19150830,48,0,"2b46,3b2,of1,lf1"
 boxscores/1915/1915-GFDH,1915,Northern League,wertz,P1628983,Wertz,,,Fort William-Port Arthur,19150508,19150509,2,0,2b2
 minoraverages/1916Reach,1915,Northern League,wertz,B00623,Wertz,,0,Fort William,,,127,,
 minoraverages/1916Reach,1915,Northern League,wertz,F20128,Wertz,,0,Fort William,,,,,2b127
-boxscores/1915/1915-WT,1915,Northern League,wertz,P4519694,Wertze,,,Fort William-Port Arthur,19150514,19150616,6,0,2b13b5
+boxscores/1915/1915-WT,1915,Northern League,wertz,P4519694,Wertze,,,Fort William-Port Arthur,19150514,19150616,6,0,"2b1,3b5"
 boxscores/1915/1915-GFDH,1915,Northern League,wertz,P8555008,Wertzi,,,Fort William-Port Arthur,19150624,19150626,4,0,2b4
 boxscores/1915/1915-WT,1915,Northern League,wertz,P3665170,Wertzi,,,Fort William-Port Arthur,19150615,19150903,39,0,2b39
 boxscores/1915/1915-DNT,1915,Northern League,wertz,P5305074,Wetz,,,Fort William-Port Arthur,19150528,19150528,1,0,3b1
-boxscores/1915/1915-DNT,1915,Northern League,whiting,P2696219,Whiting,,,Fargo-Moorhead,19150603,19150605,3,0,of3lf3
-boxscores/1915/1915-GFDH,1915,Northern League,whiting,P7428142,Whiting,,,Fargo-Moorhead,19150607,19150611,4,0,of4lf4
-boxscores/1915/1915-WT,1915,Northern League,whiting,P6628096,Whiting,,,Fargo-Moorhead,19150603,19150606,4,0,of4lf4
+boxscores/1915/1915-DNT,1915,Northern League,whiting,P2696219,Whiting,,,Fargo-Moorhead,19150603,19150605,3,0,"of3,lf3"
+boxscores/1915/1915-GFDH,1915,Northern League,whiting,P7428142,Whiting,,,Fargo-Moorhead,19150607,19150611,4,0,"of4,lf4"
+boxscores/1915/1915-WT,1915,Northern League,whiting,P6628096,Whiting,,,Fargo-Moorhead,19150603,19150606,4,0,"of4,lf4"
 boxscores/1915/1915-DNT,1915,Northern League,weidell-fw,P7273257,Widell,,,Fort William-Port Arthur,19150526,19150810,15,0,ss15
 boxscores/1915/1915-DNT,1915,Northern League,weidell-fw,P0452366,Wiedell,,,Fort William-Port Arthur,19150711,19150711,1,0,ss1
 boxscores/1915/1915-GFDH,1915,Northern League,weidell-fw,P7757793,Wiedell,,,Fort William-Port Arthur,19150626,19150626,1,0,ss1
 boxscores/1915/1915-WT,1915,Northern League,weidell-fw,P6393139,Wiedell,,,Fort William-Port Arthur,19150811,19150820,14,0,ss14
-boxscores/1915/1915-DNT,1915,Northern League,williams-dul,P3485198,Williams,,,Duluth,19150510,19150906,120,14,p142b23b3ss1of116lf23cf25rf69
+boxscores/1915/1915-DNT,1915,Northern League,williams-dul,P3485198,Williams,,,Duluth,19150510,19150906,120,14,"p14,2b2,3b3,ss1,of116,lf23,cf25,rf69"
 boxscores/1915/1915-DNT,1915,Northern League,wilson-win,P7767737,Williams,,,Winnipeg,19150622,19150622,1,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,williams-sb,P9105540,Williams,,,St. Boniface,19150626,19150626,1,0,1b1
 boxscores/1915/1915-DNT,1915,Northern League,williams-sup,P9525105,Williams,,,Superior,19150513,19150617,6,6,p6
-boxscores/1915/1915-GFDH,1915,Northern League,williams-dul,P1568897,Williams,,,Duluth,19150518,19150623,9,4,p4of7lf3cf3rf1
+boxscores/1915/1915-GFDH,1915,Northern League,williams-dul,P1568897,Williams,,,Duluth,19150518,19150623,9,4,"p4,of7,lf3,cf3,rf1"
 boxscores/1915/1915-GFDH,1915,Northern League,williams-sup,P2673316,Williams,,,Superior,19150513,19150617,5,5,p5
 boxscores/1915/1915-WT,1915,Northern League,williams-sb,P0436809,Williams,,,St. Boniface,19150626,19150626,1,0,1b1
-boxscores/1915/1915-WT,1915,Northern League,williams-dul,P8250899,Williams,,,Duluth,19150508,19150809,32,6,p6ss1of30lf6cf10rf14
+boxscores/1915/1915-WT,1915,Northern League,williams-dul,P8250899,Williams,,,Duluth,19150508,19150809,32,6,"p6,ss1,of30,lf6,cf10,rf14"
 boxscores/1915/1915-WT,1915,Northern League,williams-sup,P9373494,Williams,,,Superior,19150509,19150603,3,3,p3
 minoraverages/1916Reach,1915,Northern League,williams-dul,B00084,Williams,,0,Duluth,,,125,,
 minoraverages/1916Reach,1915,Northern League,williams-dul,F20463,Williams,,0,Duluth,,,,,of125
-boxscores/1915/1915-DNT,1915,Northern League,williams-dul,P2708363,Williams [DUL],,,Duluth,19150523,19150523,1,0,of1lf1
-boxscores/1915/1915-DNT,1915,Northern League,williams-dul,P2033227,Williams [Dul],,,Duluth,19150526,19150526,1,0,of1lf1
+boxscores/1915/1915-DNT,1915,Northern League,williams-dul,P2708363,Williams [DUL],,,Duluth,19150523,19150523,1,0,"of1,lf1"
+boxscores/1915/1915-DNT,1915,Northern League,williams-dul,P2033227,Williams [Dul],,,Duluth,19150526,19150526,1,0,"of1,lf1"
 boxscores/1915/1915-DNT,1915,Northern League,williams-sup,P6014753,Williams [SUP],,,Superior,19150523,19150523,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,spellman,P3443998,Wilson,,,St. Boniface,19150527,19150527,1,0,c1
 boxscores/1915/1915-DNT,1915,Northern League,wilson-win,P5022035,Wilson,,,Winnipeg,19150512,19150707,36,0,c35
@@ -1284,14 +1284,14 @@ boxscores/1915/1915-GFDH,1915,Northern League,wilson-win,P3105734,Wilson,,,Winni
 boxscores/1915/1915-GFDH,1915,Northern League,wilson-gf,P9592470,Wilson,,,Grand Forks,19150703,19150703,1,0,c1
 boxscores/1915/1915-WT,1915,Northern League,wilson-gf,P0698344,Wilson,,,Grand Forks,19150703,19150703,1,0,c1
 boxscores/1915/1915-WT,1915,Northern League,wilson-win,P9787736,Wilson,,,Winnipeg,19150526,19150707,36,0,c35
-boxscores/1915/1915-DNT,1915,Northern League,wines,P7611950,Wines,,,Fort William-Port Arthur,19150528,19150827,46,0,2b13b45
+boxscores/1915/1915-DNT,1915,Northern League,wines,P7611950,Wines,,,Fort William-Port Arthur,19150528,19150827,46,0,"2b1,3b45"
 boxscores/1915/1915-GFDH,1915,Northern League,wines,P0419393,Wines,,,Fort William-Port Arthur,19150508,19150626,6,0,3b6
 boxscores/1915/1915-WT,1915,Northern League,wines,P1180307,Wines,,,Fort William-Port Arthur,19150514,19150902,43,0,3b43
 minoraverages/1916Reach,1915,Northern League,wines,B00531,Wines,,0,Fort William,,,115,,
 minoraverages/1916Reach,1915,Northern League,wines,F20206,Wines,,0,Fort William,,,,,3b115
 boxscores/1915/1915-DNT,1915,Northern League,wingfield,P9965086,Winfield,,,Duluth,19150826,19150826,1,0,2b1
 boxscores/1915/1915-DNT,1915,Northern League,wingfield,P0053345,Wingfield,,,#umpire,19150901,19150901,,,
-boxscores/1915/1915-DNT,1915,Northern League,wingfield,P1775845,Wingfield,,,Duluth,19150825,19150906,10,0,c7of4cf1rf3
+boxscores/1915/1915-DNT,1915,Northern League,wingfield,P1775845,Wingfield,,,Duluth,19150825,19150906,10,0,"c7,of4,cf1,rf3"
 boxscores/1915/1915-GFDH,1915,Northern League,wingfield,P8537912,Wingfield,,,Duluth,19150825,19150906,5,0,c5
 boxscores/1915/1915-WT,1915,Northern League,wingfield,P9043978,Wingfield,,,Duluth,19150829,19150906,4,0,c4
 minoraverages/1916Reach,1915,Northern League,wingfield,B00362,Wingfield,,0,Duluth,,,12,,
@@ -1300,10 +1300,10 @@ boxscores/1915/1915-DNT,1915,Northern League,wertz,P9792552,Wirtz,,,Fort William
 boxscores/1915/1915-DNT,1915,Northern League,wolfe-dul,P0327076,Wolf,,,Duluth,19150614,19150614,1,0,ss1
 boxscores/1915/1915-DNT,1915,Northern League,wolfe-gf,P2382335,Wolf,,,Grand Forks,19150629,19150630,2,0,c2
 boxscores/1915/1915-GFDH,1915,Northern League,wolfe-gf,P9144402,Wolf,,,Grand Forks,19150629,19150629,1,0,c1
-boxscores/1915/1915-DNT,1915,Northern League,wolfe-gf,P7513028,Wolfe,,,Grand Forks,19150508,19150705,37,1,p1c35
-boxscores/1915/1915-DNT,1915,Northern League,wolfe-dul,P9519177,Wolfe,,,Duluth,19150510,19150822,75,0,2b13b1ss73
+boxscores/1915/1915-DNT,1915,Northern League,wolfe-gf,P7513028,Wolfe,,,Grand Forks,19150508,19150705,37,1,"p1,c35"
+boxscores/1915/1915-DNT,1915,Northern League,wolfe-dul,P9519177,Wolfe,,,Duluth,19150510,19150822,75,0,"2b1,3b1,ss73"
 boxscores/1915/1915-GFDH,1915,Northern League,wolfe-gf,P0661239,Wolfe,,,Grand Forks,19150508,19150705,38,0,c37
-boxscores/1915/1915-WT,1915,Northern League,wolfe-dul,P3047150,Wolfe,,,Duluth,19150508,19150810,17,0,2b1ss16
+boxscores/1915/1915-WT,1915,Northern League,wolfe-dul,P3047150,Wolfe,,,Duluth,19150508,19150810,17,0,"2b1,ss16"
 boxscores/1915/1915-WT,1915,Northern League,wolfe-gf,P7361417,Wolfe,,,Grand Forks,19150513,19150705,28,0,c27
 minoraverages/1916Reach,1915,Northern League,wolfe-dul,B00068,Wolfe,,0,Duluth,,,85,,
 minoraverages/1916Reach,1915,Northern League,wolfe-dul,F20316,Wolfe,,0,Duluth,,,,,ss85
@@ -1311,10 +1311,10 @@ boxscores/1915/1915-DNT,1915,Northern League,wolfe-dul,P6827014,Wolfe [DUL],,,Du
 boxscores/1915/1915-GFDH,1915,Northern League,wolfe-dul,P0717977,Wolfe [DUL],,,Duluth,19150518,19150622,7,0,ss7
 boxscores/1915/1915-DNT,1915,Northern League,wolfe-gf,P0480457,Wolfe [GF],,,Grand Forks,19150518,19150622,7,0,c7
 boxscores/1915/1915-GFDH,1915,Northern League,wolfe-gf,P5212380,Wolfe [GF],,,Grand Forks,19150518,19150622,7,0,c7
-boxscores/1915/1915-DNT,1915,Northern League,wright,P4588196,Wright,,,Virginia,19150508,19150901,42,30,p30of6rf6
+boxscores/1915/1915-DNT,1915,Northern League,wright,P4588196,Wright,,,Virginia,19150508,19150901,42,30,"p30,of6,rf6"
 boxscores/1915/1915-DNT,1915,Northern League,wright@ump,P6654365,Wright,,,#umpire,19150810,19150810,,,
 boxscores/1915/1915-GFDH,1915,Northern League,wright,P2671895,Wright,,,Virginia,19150514,19150904,25,25,p25
-boxscores/1915/1915-WT,1915,Northern League,wright,P9353897,Wright,,,Virginia,19150514,19150901,21,16,p16of5rf5
+boxscores/1915/1915-WT,1915,Northern League,wright,P9353897,Wright,,,Virginia,19150514,19150901,21,16,"p16,of5,rf5"
 minoraverages/1916Reach,1915,Northern League,wright,B00822,Wright,,0,Virginia,,,45,,
 minoraverages/1916Reach,1915,Northern League,wright,F20784,Wright,,0,Virginia,,,,,p45
 minoraverages/1916Reach,1915,Northern League,wright,P10100,Wright,,0,Virginia,,,,,

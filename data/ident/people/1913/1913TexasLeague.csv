@@ -1,7 +1,7 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1914Spalding,1913,Texas League,,B00434,Akin,,0,Houston,,,132,,
-minoraverages/1914Spalding,1913,Texas League,,F20482,Akin,,1,Fort Worth,,,,,3b.
-minoraverages/1914Spalding,1913,Texas League,,F20482,Akin,,2,Houston,,,,,3b.
+minoraverages/1914Spalding,1913,Texas League,,F20482,Akin,,1,Fort Worth,,,,,3b
+minoraverages/1914Spalding,1913,Texas League,,F20482,Akin,,2,Houston,,,,,3b
 minoraverages/1914Spalding,1913,Texas League,,F20482,Akin,,T,,,,,,3b131
 minoraverages/1914Spalding,1913,Texas League,,B00059,Allen,R. L.,0,San Antonio,,,35,,
 minoraverages/1914Spalding,1913,Texas League,,B00450,Allen,G.,0,Fort Worth,,,22,,
@@ -20,8 +20,8 @@ minoraverages/1914Spalding,1913,Texas League,,B01722,Archibald,,0,Dallas,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01345,Ashton,,1,Austin,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01345,Ashton,,2,Waco,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01345,Ashton,,T,,,,46,,
-minoraverages/1914Spalding,1913,Texas League,,F21718,Ashton,,1,Austin,,,,,p.
-minoraverages/1914Spalding,1913,Texas League,,F21718,Ashton,,2,Waco,,,,,p.
+minoraverages/1914Spalding,1913,Texas League,,F21718,Ashton,,1,Austin,,,,,p
+minoraverages/1914Spalding,1913,Texas League,,F21718,Ashton,,2,Waco,,,,,p
 minoraverages/1914Spalding,1913,Texas League,,F21718,Ashton,,T,,,,,,p36
 minoraverages/1914Spalding,1913,Texas League,,P10176,Ashton,,1,Austin,,,,,
 minoraverages/1914Spalding,1913,Texas League,,P10176,Ashton,,2,Waco,,,,,
@@ -37,8 +37,8 @@ minoraverages/1914Spalding,1913,Texas League,,B02244,Bates,,0,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01227,Bauer,,1,San Antonio,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01227,Bauer,,2,Galveston,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01227,Bauer,,T,,,,19,,
-minoraverages/1914Spalding,1913,Texas League,,F21158,Bauer,,1,San Antonio,,,,,rf.
-minoraverages/1914Spalding,1913,Texas League,,F21158,Bauer,,2,Galveston,,,,,rf.
+minoraverages/1914Spalding,1913,Texas League,,F21158,Bauer,,1,San Antonio,,,,,rf
+minoraverages/1914Spalding,1913,Texas League,,F21158,Bauer,,2,Galveston,,,,,rf
 minoraverages/1914Spalding,1913,Texas League,,F21158,Bauer,,T,,,,,,rf14
 minoraverages/1914Spalding,1913,Texas League,,B00343,Beck,,0,Waco,,,143,,
 minoraverages/1914Spalding,1913,Texas League,,F20560,Beck,,0,Waco,,,,,ss15
@@ -142,8 +142,8 @@ minoraverages/1914Spalding,1913,Texas League,,F21196,Eberline,,0,Fort Worth,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01032,Edmiston,,1,Galveston,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01032,Edmiston,,2,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01032,Edmiston,,T,,,,131,,
-minoraverages/1914Spalding,1913,Texas League,,F20648,Edmiston,,1,Galveston,,,,,ss.
-minoraverages/1914Spalding,1913,Texas League,,F20648,Edmiston,,2,Beaumont,,,,,ss.
+minoraverages/1914Spalding,1913,Texas League,,F20648,Edmiston,,1,Galveston,,,,,ss
+minoraverages/1914Spalding,1913,Texas League,,F20648,Edmiston,,2,Beaumont,,,,,ss
 minoraverages/1914Spalding,1913,Texas League,,F20648,Edmiston,,T,,,,,,ss122
 minoraverages/1914Spalding,1913,Texas League,,B00752,Fentress,,0,Fort Worth,,,21,,
 minoraverages/1914Spalding,1913,Texas League,,F21427,Fentress,,0,Fort Worth,,,,,p20
@@ -188,8 +188,8 @@ minoraverages/1914Spalding,1913,Texas League,,P10202,Harben,,0,Galveston,,,,44,
 minoraverages/1914Spalding,1913,Texas League,,B00553,Harris,,1,Dallas,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B00553,Harris,,2,Galveston,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B00553,Harris,,T,,,,12,,
-minoraverages/1914Spalding,1913,Texas League,,F20279,Harris,,1,Dallas,,,,,2b.
-minoraverages/1914Spalding,1913,Texas League,,F20279,Harris,,2,Galveston,,,,,2b.
+minoraverages/1914Spalding,1913,Texas League,,F20279,Harris,,1,Dallas,,,,,2b
+minoraverages/1914Spalding,1913,Texas League,,F20279,Harris,,2,Galveston,,,,,2b
 minoraverages/1914Spalding,1913,Texas League,,F20279,Harris,,T,,,,,,2b10
 minoraverages/1914Spalding,1913,Texas League,,B00985,Hauenstein,,0,San Antonio,,,17,,
 minoraverages/1914Spalding,1913,Texas League,,F22048,Hauenstein,,0,San Antonio,,,,,c16
@@ -252,8 +252,8 @@ minoraverages/1914Spalding,1913,Texas League,,B01124,King,,T,,,,12,,
 minoraverages/1914Spalding,1913,Texas League,,B01135,Kitchen,,1,Fort Worth,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01135,Kitchen,,2,Houston,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01135,Kitchen,,T,,,,100,,
-minoraverages/1914Spalding,1913,Texas League,,F21961,Kitchen,,1,Fort Worth,,,,,c.
-minoraverages/1914Spalding,1913,Texas League,,F21961,Kitchen,,2,Houston,,,,,c.
+minoraverages/1914Spalding,1913,Texas League,,F21961,Kitchen,,1,Fort Worth,,,,,c
+minoraverages/1914Spalding,1913,Texas League,,F21961,Kitchen,,2,Houston,,,,,c
 minoraverages/1914Spalding,1913,Texas League,,F21961,Kitchen,,T,,,,,,c92
 minoraverages/1914Spalding,1913,Texas League,,B00833,Knaupp,,0,Houston,,,151,,
 minoraverages/1914Spalding,1913,Texas League,,F20190,Knaupp,,0,Houston,,,,,2b151
@@ -264,9 +264,9 @@ minoraverages/1914Spalding,1913,Texas League,,B01428,Larson,,1,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01428,Larson,,2,Houston,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01428,Larson,,3,Austin,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01428,Larson,,T,,,,34,,
-minoraverages/1914Spalding,1913,Texas League,,F21854,Larson,,1,Beaumont,,,,,p.
-minoraverages/1914Spalding,1913,Texas League,,F21854,Larson,,2,Houston,,,,,p.
-minoraverages/1914Spalding,1913,Texas League,,F21854,Larson,,3,Austin,,,,,p.
+minoraverages/1914Spalding,1913,Texas League,,F21854,Larson,,1,Beaumont,,,,,p
+minoraverages/1914Spalding,1913,Texas League,,F21854,Larson,,2,Houston,,,,,p
+minoraverages/1914Spalding,1913,Texas League,,F21854,Larson,,3,Austin,,,,,p
 minoraverages/1914Spalding,1913,Texas League,,F21854,Larson,,T,,,,,,p32
 minoraverages/1914Spalding,1913,Texas League,,P10231,Larson,,1,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,P10231,Larson,,2,Houston,,,,,
@@ -275,8 +275,8 @@ minoraverages/1914Spalding,1913,Texas League,,P10231,Larson,,T,,,,,32,
 minoraverages/1914Spalding,1913,Texas League,,B01402,Leidy,,1,Austin,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01402,Leidy,,2,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01402,Leidy,,T,,,,56,,
-minoraverages/1914Spalding,1913,Texas League,,F20131,Leidy,,1,Austin,,,,,1b.
-minoraverages/1914Spalding,1913,Texas League,,F20131,Leidy,,2,Beaumont,,,,,1b.
+minoraverages/1914Spalding,1913,Texas League,,F20131,Leidy,,1,Austin,,,,,1b
+minoraverages/1914Spalding,1913,Texas League,,F20131,Leidy,,2,Beaumont,,,,,1b
 minoraverages/1914Spalding,1913,Texas League,,F20131,Leidy,,T,,,,,,1b36
 minoraverages/1914Spalding,1913,Texas League,,B00469,Lemon,,0,San Antonio,,,141,,
 minoraverages/1914Spalding,1913,Texas League,,F20342,Lemon,,0,San Antonio,,,,,2b13
@@ -304,18 +304,18 @@ minoraverages/1914Spalding,1913,Texas League,,P10277,Malloy,,0,Houston,,,,18,
 minoraverages/1914Spalding,1913,Texas League,,B00718,Maloney,W.,1,Fort Worth,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B00718,Maloney,W.,2,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B00718,Maloney,W.,T,,,,121,,
-minoraverages/1914Spalding,1913,Texas League,,F20832,Maloney,W.,1,Fort Worth,,,,,lf.
-minoraverages/1914Spalding,1913,Texas League,,F20832,Maloney,W.,2,Beaumont,,,,,lf.
+minoraverages/1914Spalding,1913,Texas League,,F20832,Maloney,W.,1,Fort Worth,,,,,lf
+minoraverages/1914Spalding,1913,Texas League,,F20832,Maloney,W.,2,Beaumont,,,,,lf
 minoraverages/1914Spalding,1913,Texas League,,F20832,Maloney,W.,T,,,,,,lf110
-minoraverages/1914Spalding,1913,Texas League,,F21324,Maloney,W.,1,Fort Worth,,,,,rf.
-minoraverages/1914Spalding,1913,Texas League,,F21324,Maloney,W.,2,Beaumont,,,,,rf.
+minoraverages/1914Spalding,1913,Texas League,,F21324,Maloney,W.,1,Fort Worth,,,,,rf
+minoraverages/1914Spalding,1913,Texas League,,F21324,Maloney,W.,2,Beaumont,,,,,rf
 minoraverages/1914Spalding,1913,Texas League,,F21324,Maloney,W.,T,,,,,,rf11
 minoraverages/1914Spalding,1913,Texas League,,B02168,Markle,,0,Galveston,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B00936,Markley,,1,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B00936,Markley,,2,Austin,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B00936,Markley,,T,,,,44,,
-minoraverages/1914Spalding,1913,Texas League,,F20327,Markley,,1,Beaumont,,,,,2b.
-minoraverages/1914Spalding,1913,Texas League,,F20327,Markley,,2,Austin,,,,,2b.
+minoraverages/1914Spalding,1913,Texas League,,F20327,Markley,,1,Beaumont,,,,,2b
+minoraverages/1914Spalding,1913,Texas League,,F20327,Markley,,2,Austin,,,,,2b
 minoraverages/1914Spalding,1913,Texas League,,F20327,Markley,,T,,,,,,2b42
 minoraverages/1914Spalding,1913,Texas League,,B00475,Marshall,,0,Dallas,,,100,,
 minoraverages/1914Spalding,1913,Texas League,,F22020,Marshall,,0,Dallas,,,,,c95
@@ -358,8 +358,8 @@ minoraverages/1914Spalding,1913,Texas League,,B02024,Morris,,0,Fort Worth,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01064,Morton,,1,Galveston,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01064,Morton,,2,San Antonio,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01064,Morton,,T,,,,42,,
-minoraverages/1914Spalding,1913,Texas League,,F21590,Morton,,1,Galveston,,,,,p.
-minoraverages/1914Spalding,1913,Texas League,,F21590,Morton,,2,San Antonio,,,,,p.
+minoraverages/1914Spalding,1913,Texas League,,F21590,Morton,,1,Galveston,,,,,p
+minoraverages/1914Spalding,1913,Texas League,,F21590,Morton,,2,San Antonio,,,,,p
 minoraverages/1914Spalding,1913,Texas League,,F21590,Morton,,T,,,,,,p40
 minoraverages/1914Spalding,1913,Texas League,,P10097,Morton,,1,Galveston,,,,,
 minoraverages/1914Spalding,1913,Texas League,,P10097,Morton,,2,San Antonio,,,,,
@@ -398,8 +398,8 @@ minoraverages/1914Spalding,1913,Texas League,,B01939,Paige,,0,Austin,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01572,Palm,,1,San Antonio,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01572,Palm,,2,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01572,Palm,,T,,,,20,,
-minoraverages/1914Spalding,1913,Texas League,,F21806,Palm,,1,San Antonio,,,,,p.
-minoraverages/1914Spalding,1913,Texas League,,F21806,Palm,,2,Beaumont,,,,,p.
+minoraverages/1914Spalding,1913,Texas League,,F21806,Palm,,1,San Antonio,,,,,p
+minoraverages/1914Spalding,1913,Texas League,,F21806,Palm,,2,Beaumont,,,,,p
 minoraverages/1914Spalding,1913,Texas League,,F21806,Palm,,T,,,,,,p20
 minoraverages/1914Spalding,1913,Texas League,,P10493,Palm,,1,San Antonio,,,,,
 minoraverages/1914Spalding,1913,Texas League,,P10493,Palm,,2,Beaumont,,,,,
@@ -416,9 +416,9 @@ minoraverages/1914Spalding,1913,Texas League,,B01300,Powers,,1,San Antonio,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01300,Powers,,2,Waco,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01300,Powers,,3,Galveston,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01300,Powers,,T,,,,26,,
-minoraverages/1914Spalding,1913,Texas League,,F22073,Powers,,1,San Antonio,,,,,c.
-minoraverages/1914Spalding,1913,Texas League,,F22073,Powers,,2,Waco,,,,,c.
-minoraverages/1914Spalding,1913,Texas League,,F22073,Powers,,3,Galveston,,,,,c.
+minoraverages/1914Spalding,1913,Texas League,,F22073,Powers,,1,San Antonio,,,,,c
+minoraverages/1914Spalding,1913,Texas League,,F22073,Powers,,2,Waco,,,,,c
+minoraverages/1914Spalding,1913,Texas League,,F22073,Powers,,3,Galveston,,,,,c
 minoraverages/1914Spalding,1913,Texas League,,F22073,Powers,,T,,,,,,c20
 minoraverages/1914Spalding,1913,Texas League,,B01359,Price,,0,San Antonio,,,106,,
 minoraverages/1914Spalding,1913,Texas League,,F21936,Price,,0,San Antonio,,,,,c106
@@ -507,17 +507,17 @@ minoraverages/1914Spalding,1913,Texas League,,P10244,Taylor,W.,0,Austin,,,,40,
 minoraverages/1914Spalding,1913,Texas League,,B01041,Thomson,,1,Austin,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01041,Thomson,,2,Galveston,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01041,Thomson,,T,,,,91,,
-minoraverages/1914Spalding,1913,Texas League,,F20298,Thomson,,1,Austin,,,,,2b.
-minoraverages/1914Spalding,1913,Texas League,,F20298,Thomson,,2,Galveston,,,,,2b.
+minoraverages/1914Spalding,1913,Texas League,,F20298,Thomson,,1,Austin,,,,,2b
+minoraverages/1914Spalding,1913,Texas League,,F20298,Thomson,,2,Galveston,,,,,2b
 minoraverages/1914Spalding,1913,Texas League,,F20298,Thomson,,T,,,,,,2b65
-minoraverages/1914Spalding,1913,Texas League,,F20594,Thomson,,1,Austin,,,,,ss.
-minoraverages/1914Spalding,1913,Texas League,,F20594,Thomson,,2,Galveston,,,,,ss.
+minoraverages/1914Spalding,1913,Texas League,,F20594,Thomson,,1,Austin,,,,,ss
+minoraverages/1914Spalding,1913,Texas League,,F20594,Thomson,,2,Galveston,,,,,ss
 minoraverages/1914Spalding,1913,Texas League,,F20594,Thomson,,T,,,,,,ss23
 minoraverages/1914Spalding,1913,Texas League,,B01466,Torrey,,1,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01466,Torrey,,2,Austin,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01466,Torrey,,T,,,,18,,
-minoraverages/1914Spalding,1913,Texas League,,F21794,Torrey,,1,Beaumont,,,,,p.
-minoraverages/1914Spalding,1913,Texas League,,F21794,Torrey,,2,Austin,,,,,p.
+minoraverages/1914Spalding,1913,Texas League,,F21794,Torrey,,1,Beaumont,,,,,p
+minoraverages/1914Spalding,1913,Texas League,,F21794,Torrey,,2,Austin,,,,,p
 minoraverages/1914Spalding,1913,Texas League,,F21794,Torrey,,T,,,,,,p18
 minoraverages/1914Spalding,1913,Texas League,,P10455,Torrey,,1,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,P10455,Torrey,,2,Austin,,,,,
@@ -535,11 +535,11 @@ minoraverages/1914Spalding,1913,Texas League,,F20956,Wakefield,,0,Fort Worth,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01288,Wallace,,1,Beaumont,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01288,Wallace,,2,Fort Worth,,,,,
 minoraverages/1914Spalding,1913,Texas League,,B01288,Wallace,,T,,,,125,,
-minoraverages/1914Spalding,1913,Texas League,,F20518,Wallace,,1,Beaumont,,,,,3b.
-minoraverages/1914Spalding,1913,Texas League,,F20518,Wallace,,2,Fort Worth,,,,,3b.
+minoraverages/1914Spalding,1913,Texas League,,F20518,Wallace,,1,Beaumont,,,,,3b
+minoraverages/1914Spalding,1913,Texas League,,F20518,Wallace,,2,Fort Worth,,,,,3b
 minoraverages/1914Spalding,1913,Texas League,,F20518,Wallace,,T,,,,,,3b63
-minoraverages/1914Spalding,1913,Texas League,,F20657,Wallace,,1,Beaumont,,,,,ss.
-minoraverages/1914Spalding,1913,Texas League,,F20657,Wallace,,2,Fort Worth,,,,,ss.
+minoraverages/1914Spalding,1913,Texas League,,F20657,Wallace,,1,Beaumont,,,,,ss
+minoraverages/1914Spalding,1913,Texas League,,F20657,Wallace,,2,Fort Worth,,,,,ss
 minoraverages/1914Spalding,1913,Texas League,,F20657,Wallace,,T,,,,,,ss47
 minoraverages/1914Spalding,1913,Texas League,,B00854,Ware,,0,Houston,,,43,,
 minoraverages/1914Spalding,1913,Texas League,,F21442,Ware,,0,Houston,,,,,p42

@@ -18,7 +18,7 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,asher,P10168,Asher,James 
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,asher,P10348,Asher,James Edward,0,Cedar Rapids,,,,1,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,asher,P10709,Asher,James Edward,0,Peoria,,,,1,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ayer,B00068,Ayer,,,Cedar Rapids,19060725,19060725,1,,lf1
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bacon,B00092,Bacon,Matthew,,Rock Island,,,,,1b.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bacon,B00092,Bacon,Matthew,,Rock Island,,,,,1b
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bailey,B00076,Bailey,Bert,,Davenport,19060820,19060916,6,,c6
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,baker,B00936,Baker,,0,Davenport,,,32,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,baker,P10304,Baker,,0,Davenport,,,,32,
@@ -38,13 +38,13 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,barker,B00149,Barker,Harr
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,barker,P10113,Barker,Harry,0,Bloomington,,,,26,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,beck,B00232,Beck,,0,Bloomington,,,115,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,beck,F20759,Beck,,0,Bloomington,,,,,of111
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,beck,B00158,Beck,"Frederick T. ""Fred""*",,Bloomington,19060504,19060904,115,,p5of111
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,beck,B00158,Beck,"Frederick T. ""Fred""*",,Bloomington,19060504,19060904,115,,"p5,of111"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,beck,P10202,Beck,"Frederick T. ""Fred""*",0,Bloomington,,,,5,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bennett,B00985,Bennett,,1,Springfield,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bennett,B00985,Bennett,,2,Davenport,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bennett,B00985,Bennett,,T,,,,71,,
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bennett,F20970,Bennett,,1,Springfield,,,,,of.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bennett,F20970,Bennett,,2,Davenport,,,,,of.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bennett,F20970,Bennett,,1,Springfield,,,,,of
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bennett,F20970,Bennett,,2,Davenport,,,,,of
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bennett,F20970,Bennett,,T,,,,,,of71
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bennett,B00163,Bennett,Si,1,Springfield,19060503,19060622,31,,lf31
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bennett,B00174,Bennett,Si,2,Davenport,19060006,19060008,40,,of40
@@ -56,7 +56,7 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,berry,B00196,Berry,Claude
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bewer,B00196,Bewer,,0,Peoria,,,121,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bewer,F20636,Bewer,,0,Peoria,,,,,3b29
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bewer,F20810,Bewer,,0,Peoria,,,,,of92
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bewer,B00207,Bewer,"Joseph J. ""Joe""",,Peoria,19060503,19060916,121,,3b29of92
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bewer,B00207,Bewer,"Joseph J. ""Joe""",,Peoria,19060503,19060916,121,,"3b29,of92"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bittrolff,P10455,Bitteroff,,0,Decatur,,,,31,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bittrolff,P10357,Bittroelff,,0,Decatur,,,,24,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bittrolff,B01288,Bittrolff,,0,Decatur,,,31,,
@@ -72,7 +72,7 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bockewitz,B00241,Bockewit
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bockewitz,P10312,Bockewitz,"Dennis ""Denny""",0,Cedar Rapids,,,,6,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bomar,B00623,Bomar,,0,Decatur,,,45,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bomar,P10253,Bomar,,0,Decatur,,,,36,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bomar,B00255,Bomar,Charles B.,,Decatur,19060503,19060916,45,,p36rf7
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bomar,B00255,Bomar,Charles B.,,Decatur,19060503,19060916,45,,"p36,rf7"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bomar,P10432,Bomar,Charles B.,0,Decatur,,,,40,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bosse,B00403,Bosse,,0,Dubuque,,,119,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bosse,F20334,Bosse,,0,Dubuque,,,,,1b119
@@ -80,15 +80,15 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bosse,B00264,Bosse,Henry,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,B00752,Boyle,,1,Davenport,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,B00752,Boyle,,2,Cedar Rapids,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,B00752,Boyle,,T,,,,71,,
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,F20458,Boyle,,1,Davenport,,,,,2b.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,F20458,Boyle,,2,Cedar Rapids,,,,,2b.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,F20458,Boyle,,1,Davenport,,,,,2b
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,F20458,Boyle,,2,Cedar Rapids,,,,,2b
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,F20458,Boyle,,T,,,,,,2b34
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,F20685,Boyle,,1,Davenport,,,,,of.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,F20685,Boyle,,2,Cedar Rapids,,,,,of.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,F20685,Boyle,,1,Davenport,,,,,of
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,F20685,Boyle,,2,Cedar Rapids,,,,,of
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,boyle,F20685,Boyle,,T,,,,,,of27
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,boyle,B00278,Boyle,Edward,1,Cedar Rapids,,19060628,,,2b34of27
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,boyle,B00286,Boyle,Edward,2,Davenport,19060801,19060823,,,2b.of.
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,boyle,B00293,Boyle,Edward,T,,,19060823,71,,2b.of.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,boyle,B00278,Boyle,Edward,1,Cedar Rapids,,19060628,,,"2b34,of27"
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,boyle,B00286,Boyle,Edward,2,Davenport,19060801,19060823,,,"2b,of"
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,boyle,B00293,Boyle,Edward,T,,,19060823,71,,"2b,of"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bruyette,B00488,Breyette,,0,Decatur,,,105,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bridges,B01181,Bridges,,1,Springfield,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,bridges,B01181,Bridges,,2,Cedar Rapids,,,,,
@@ -116,7 +116,7 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bushelman,B00381,Bushelma
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,bushelman,P10320,Bushelman,"John F. ""Jack""*",0,Cedar Rapids,,,,1,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,cameron,B00084,Cameron,,0,Springfield,,,111,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,cameron,F20474,Cameron,,0,Springfield,,,,,2b35
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,cameron,B00397,Cameron,"Donald A. ""Don""",,Springfield,19060509,19060916,114,,1b792b35
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,cameron,B00397,Cameron,"Donald A. ""Don""",,Springfield,19060509,19060916,114,,"1b79,2b35"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,carlisle,B00651,Carlisle,,0,Rock Island,,,84,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,carlisle,F20713,Carlisle,,0,Rock Island,,,,,of84
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,carlisle,B00403,Carlisle,Walter*,,Rock Island,19060626,19060811,84,,of84
@@ -143,14 +143,14 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,cook-ri,B00475,Cook,Louis
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,cook-dub,B00488,Cook,Paul,,Dubuque,19060512,19060722,,,p7
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,cook-dub,P10588,Cook,Paul,0,Dubuque,,,,7,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,cooper,B00948,Cooper,,0,Decatur,,,17,,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,cooper,B00491,Cooper,"Henry ""Harry""",,Decatur,,,17,,of.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,cooper,B00491,Cooper,"Henry ""Harry""",,Decatur,,,17,,of
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,copeland,B00502,Copeland,"Thomas C. ""Tommy""",1,Dubuque,19060503,19060503,1,,cf1
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,copeland,B00515,Copeland,"Thomas C. ""Tommy""",2,Decatur,,,,,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,copeland,B00528,Copeland,"Thomas C. ""Tommy""",T,,,,,,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,costal,B00531,Costal,Joseph,,Rock Island,19060821,19060907,5,,p5
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,costal,P10795,Costal,Joseph,0,Rock Island,,,,5,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,scott,P10883,Cott,,0,Rock Island,,,,1,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,craig,B00544,Craig,Ralph,,Bloomington,19060006,,,,rf.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,craig,B00544,Craig,Ralph,,Bloomington,19060006,,,,rf
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,crandall,B00335,Crandall,,0,Cedar Rapids,,,11,,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,crandall,B00553,Crandall,"James Otis ""Doc""*",,Cedar Rapids,19060505,19060516,11,,p11
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,crandall,P10304,Crandall,"James Otis ""Doc""*",0,Cedar Rapids,,,,11,
@@ -169,7 +169,7 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,crews,P10575,Crews,Cheste
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,crockett,B00324,Crockett,,0,Davenport,,,112,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,crockett,F20303,Crockett,,0,Davenport,,,,,1b112
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,crockett,B00590,Crockett,"David S. ""Davey""*",,Davenport,19060503,19060911,112,,1b112
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,curtin,B00609,Curtin,James,,Davenport,,,,,1b.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,curtin,B00609,Curtin,James,,Davenport,,,,,1b
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,curtis-dav,B00638,Curtis,,0,Davenport,,,120,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,curtis-cr,B01216,Curtis,,0,Cedar Rapids,,,44,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,curtis-cr,F20417,Curtis,,0,Cedar Rapids,,,,,1b44
@@ -191,7 +191,7 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,dickinson,B00667,Dickinso
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,dickinson,P10654,Dickinson,James,0,Peoria,,,,11,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,donnelly,B00076,Donnelly,,0,Springfield,,,113,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,donnelly,F20864,Donnelly,,0,Springfield,,,,,of113
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,donnelly,B00672,Donnelly,"Frank. M. ""Frank""*",,Springfield,19060503,19060916,118,,p1cf118
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,donnelly,B00672,Donnelly,"Frank. M. ""Frank""*",,Springfield,19060503,19060916,118,,"p1,cf118"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,donnelly,M90094,Donnelly,"Franklin M. ""Frank""*",,Springfield,,,,,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,donnelly,P10100,Donnelly,"Frank. M. ""Frank""*",0,Springfield,,,,1,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,donovan,B00130,Donovan,,0,Bloomington,,,21,,
@@ -209,11 +209,11 @@ minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,eastman,P10062,Eastman
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,eastman,B00726,Eastman,Chris J.,,Peoria,19060503,19060906,26,,p24
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,eastman,P10611,Eastman,Chris J.,0,Peoria,,,,27,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,egan,B00264,Egan,,0,Peoria,,,121,,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,egan,B00739,Egan,"Richard ""Dick""*",,Peoria,19060503,19060916,121,,1b173b104
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,egan,B00739,Egan,"Richard ""Dick""*",,Peoria,19060503,19060916,121,,"1b17,3b104"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,eul,B01029,Eul,,0,Davenport,,,56,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,eul,F20981,Eul,,0,Davenport,,,,,of19
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,eul,P10336,Eul,,0,Davenport,,,,28,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,eul,B00747,Eul,"Jacob ""Jake""",,Davenport,19060503,19060916,56,,p28of19
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,eul,B00747,Eul,"Jacob ""Jake""",,Davenport,19060503,19060916,56,,"p28,of19"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,eul,P10361,Eul,"Jacob ""Jake""",0,Davenport,,,,28,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,farrell,B00752,Farrell,E. S.,,Peoria,19060912,19060912,1,,p1
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,farrell,P10723,Farrell,E. S.,0,Peoria,,,,1,
@@ -222,12 +222,12 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,feeney,P10081,Feeney,"Jam
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,fleming,B00898,Fleming,,1,Decatur,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,fleming,B00898,Fleming,,2,Davenport,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,fleming,B00898,Fleming,,T,,,,59,,
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,fleming,F20878,Fleming,,1,Davenport,,,,,of.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,fleming,F20878,Fleming,,2,Decatur,,,,,of.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,fleming,F20878,Fleming,,1,Davenport,,,,,of
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,fleming,F20878,Fleming,,2,Decatur,,,,,of
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,fleming,F20878,Fleming,,T,,,,,,of59
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,fleming,B00771,Fleming,Harry J.,1,Decatur,19060714,19060719,,,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,fleming,B00783,Fleming,Harry J.,2,Davenport,19060818,19060823,,,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,fleming,B00794,Fleming,Harry J.,T,,19060714,19060823,59,,of59lf.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,fleming,B00794,Fleming,Harry J.,T,,19060714,19060823,59,,"of59,lf"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ford,B01275,Ford,,0,Cedar Rapids,,,32,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ford,P10056,Ford,,0,Cedar Rapids,,,,31,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ford,B00806,Ford,"Russell W. ""Russ""*",,Cedar Rapids,19060503,19060914,32,,p31
@@ -235,10 +235,10 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ford,P10253,Ford,"Russell
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,forney,B01156,Forney,,0,Rock Island,,,48,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,forney,F20051,Forney,,0,Rock Island,,,,,c25
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,forney,F20391,Forney,,0,Rock Island,,,,,1b15
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,forney,B00811,Forney,"William ""Will""",,Rock Island,19060508,19060916,48,,c281b5
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,forney,B00811,Forney,"William ""Will""",,Rock Island,19060508,19060916,48,,"c28,1b5"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,fromme,B00491,Fromme,,0,Springfield,,,22,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,fromme,P10361,Fromme,,0,Springfield,,,,19,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,fromme,B00822,Fromme,"Arthur H. ""Art""*",,Springfield,19060504,19060906,26,,p24rf2
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,fromme,B00822,Fromme,"Arthur H. ""Art""*",,Springfield,19060504,19060906,26,,"p24,rf2"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,fromme,P10056,Fromme,"Arthur H. ""Art""*",0,Springfield,,,,24,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,gibson,B00833,Gibson,Roy,,Decatur,19060512,19060512,1,,p1
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,gibson,P10527,Gibson,Roy,0,Decatur,,,,1,
@@ -249,13 +249,13 @@ minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,B00811,Gray,,1,Ro
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,B00811,Gray,,2,Davenport,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,B00811,Gray,,3,Bloomington,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,B00811,Gray,,T,,,,75,,
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,F20855,Gray,,1,Rock Island,,,,,of.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,F20855,Gray,,2,Davenport,,,,,of.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,F20855,Gray,,3,Bloomington,,,,,of.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,F20855,Gray,,1,Rock Island,,,,,of
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,F20855,Gray,,2,Davenport,,,,,of
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,F20855,Gray,,3,Bloomington,,,,,of
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,gray,F20855,Gray,,T,,,,,,of75
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,gray,B00854,Gray,Leonard,1,Rock Island,,,,,of.
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,gray,B00865,Gray,Leonard,2,Davenport,19060617,19060617,,,of.
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,gray,B00879,Gray,Leonard,3,Bloomington,19060705,19060904,,,cf.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,gray,B00854,Gray,Leonard,1,Rock Island,,,,,of
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,gray,B00865,Gray,Leonard,2,Davenport,19060617,19060617,,,of
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,gray,B00879,Gray,Leonard,3,Bloomington,19060705,19060904,,,cf
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,gray,B00887,Gray,Leonard,T,,,19060904,75,,of75
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,hadley,B00577,Hadley,,0,Dubuque,,,118,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,hadley,F20206,Hadley,,0,Dubuque,,,,,ss118
@@ -263,7 +263,7 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,hadley,B00898,Hadley,"Hub
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,haisman,B00904,Haisman,"Victor Hugo ""Vic""",,Decatur,19060616,19060617,2,,ss2
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,hall,B00045,Hall,,0,Cedar Rapids,,,15,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,hall,P10121,Hall,,0,Cedar Rapids,,,,14,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,hall,B00912,Hall,Clyde Austin,,Cedar Rapids,19060706,19060916,15,,p14lf1
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,hall,B00912,Hall,Clyde Austin,,Cedar Rapids,19060706,19060916,15,,"p14,lf1"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,hall,P10290,Hall,Clyde Austin,0,Cedar Rapids,,,,12,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,hammond,B00920,Hammond,"Leon Tilton ""Leo""",,Rock Island,19060516,19060523,3,,ss3
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,hannah,B00278,Hannah,,0,Dubuque,,,23,,
@@ -276,16 +276,16 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,hovlik,P10805,Havlik,Jose
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,henline,B00566,Henline,,1,Bloomington,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,henline,B00566,Henline,,2,Decatur,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,henline,B00566,Henline,,T,,,,40,,
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,henline,F21045,Henline,,1,Bloomington,,,,,of.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,henline,F21045,Henline,,2,Decatur,,,,,of.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,henline,F21045,Henline,,1,Bloomington,,,,,of
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,henline,F21045,Henline,,2,Decatur,,,,,of
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,henline,F21045,Henline,,T,,,,,,of40
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,henline,B00961,Henline,Noah Oscar A.,1,Bloomington,19060511,19060528,,,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,henline,B00973,Henline,Noah Oscar A.,2,Decatur,19060611,19060617,,,rf.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,henline,B00973,Henline,Noah Oscar A.,2,Decatur,19060611,19060617,,,rf
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,henline,B00985,Henline,Noah Oscar A.,T,,19060511,19060617,40,,of40
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,herbert,B00101,Herbert,,0,Bloomington,,,106,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,herbert,F20287,Herbert,,0,Bloomington,,,,,1b10
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,herbert,F20648,Herbert,,0,Bloomington,,,,,3b96
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,herbert,B00999,Herbert,"John Mark ""Jack""",,Bloomington,19060005,19060904,106,,1b103b96
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,herbert,B00999,Herbert,"John Mark ""Jack""",,Bloomington,19060005,19060904,106,,"1b10,3b96"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,hill,M90026,Hill,Belden L.*,,Cedar Rapids,,,,,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,hoffer,B01007,Hoffer,"Wm. L. ""Chick""*",,Springfield,19060507,19060605,6,,p6
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,hoffer,P10062,Hoffer,"Wm. L. ""Chick""*",0,Springfield,,,,6,
@@ -319,8 +319,8 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,kennedy-dub,B01093,Kenned
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,kennedy-dav,M90039,Kennedy,"Albert S. ""Snapper""",,Davenport,,19060627,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ketter,B00609,Ketter,,0,Bloomington,,,24,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ketter,F20721,Ketter,,0,Bloomington,,,,,of15
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ketter,B01108,Ketter,"Philip ""Phil""*",,Bloomington,19060816,19060911,24,,c10of15
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,king,B01119,King,"Bert ""Birdie""",,Decatur,19060503,19060005,,,of.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ketter,B01108,Ketter,"Philip ""Phil""*",,Bloomington,19060816,19060911,24,,"c10,of15"
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,king,B01119,King,"Bert ""Birdie""",,Decatur,19060503,19060005,,,of
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,kinsella,B01064,Kinsella,,0,Springfield,,,22,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,kinsella,P10024,Kinsella,,0,Springfield,,,,22,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,kinsella,B01124,Kinsella,"Edward W. ""Rube""*",,Springfield,19060621,19060912,23,,p23
@@ -350,8 +350,8 @@ minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lemon,B00544,Lemon,,1,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lemon,B00544,Lemon,,2,Davenport,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lemon,B00544,Lemon,,T,,,,46,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lemon,F20095,Lemon,,0,Decatur,,,,,c46
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lemon,B01203,Lemon,Lee Roy,1,Decatur,19060504,19060705,,,c.
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lemon,B01216,Lemon,Lee Roy,2,Davenport,19060725,19060811,,,c.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lemon,B01203,Lemon,Lee Roy,1,Decatur,19060504,19060705,,,c
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lemon,B01216,Lemon,Lee Roy,2,Davenport,19060725,19060811,,,c
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lemon,B01227,Lemon,Lee Roy,T,,19060504,19060811,46,,c46
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,leverage,B01234,Leverage,,,Rock Island,19060814,19060814,,,p1
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,leverage,P10852,Leveredge,,0,Rock Island,,,,1,
@@ -363,21 +363,21 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lewee,M90052,Lewee,"Edwar
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,B01078,Lewis,,1,Davenport,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,B01078,Lewis,,2,Decatur,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,B01078,Lewis,,T,,,,47,,
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,F20924,Lewis,,1,Davenport,,,,,of.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,F20924,Lewis,,2,Decatur,,,,,of.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,F20924,Lewis,,1,Davenport,,,,,of
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,F20924,Lewis,,2,Decatur,,,,,of
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,F20924,Lewis,,T,,,,,,of13
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,P10184,Lewis,,1,Decatur,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,P10184,Lewis,,2,Davenport,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lewis,P10184,Lewis,,T,,,,,11,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lewis,B01269,Lewis,Gordon Morris,1,Decatur,19060528,19060605,,,p11of13
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lewis,B01269,Lewis,Gordon Morris,1,Decatur,19060528,19060605,,,"p11,of13"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lewis,B01275,Lewis,Gordon Morris,2,Davenport,19060622,19060904,,,p3
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lewis,B01288,Lewis,Gordon Morris,T,,19060528,19060904,47,,p14of13
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lewis,B01288,Lewis,Gordon Morris,T,,19060528,19060904,47,,"p14,of13"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lewis,P10385,Lewis,Gordon Morris,0,Davenport,,,,14,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lewis,P10478,Lewis,Gordon Morris,0,Decatur,,,,3,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lelivelt,P10312,Lilevelt,,0,Davenport,,,,27,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lizette,B00912,Lizette,,0,Cedar Rapids,,,75,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,lizette,F20369,Lizzette,,0,Cedar Rapids,,,,,1b39
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lizette,B01291,Lizzette,"Arthur Jos. ""Art""",,Cedar Rapids,19060519,19060822,75,,c.1b39rf.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,lizette,B01291,Lizzette,"Arthur Jos. ""Art""",,Cedar Rapids,19060519,19060822,75,,"c,1b39,rf"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ludwig,B00760,Ludwig,,0,Springfield,,,78,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ludwig,F20072,Ludwig,,0,Springfield,,,,,c78
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ludwig,B01300,Ludwig,"Wm. L. ""Bill""*",,Springfield,19060503,19060916,82,,c82
@@ -405,16 +405,16 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,mcshane,B01392,McShane,Ja
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,miller,B00680,Miller,,0,Bloomington,,,11,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,miller,F21021,Miller,,0,Bloomington,,,,,of11
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,miller,B01402,Miller,"Alten ""Al""",,Bloomington,19060503,,11,,of11
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,milligan,B01415,Milligan,"David ""Dave""",,Rock Island,19060514,19060514,,,ss.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,milligan,B01415,Milligan,"David ""Dave""",,Rock Island,19060514,19060514,,,ss
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,milton,B01428,Milton,Lawrence,,Rock Island,19060731,19060804,2,,p2
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,milton,P10818,Milton,Lawrence,0,Rock Island,,,,2,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,more,B00718,Moore,,0,Springfield,,,30,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,more,P10215,Moore,,0,Springfield,,,,25,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,more,B01431,More,Forrest T.*,,Springfield,19060505,19060915,37,,p28rf8
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,more,B01431,More,Forrest T.*,,Springfield,19060505,19060915,37,,"p28,rf8"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,more,P10043,More,Forrest T.*,0,Springfield,,,,28,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,murphy,B00021,Murphy,,0,Decatur,,,84,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,murphy,F20962,Murphy,,0,Decatur,,,,,of84
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,murphy,B01444,Murphy,Howard*,,Decatur,19060524,19060818,84,,p2of84
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,murphy,B01444,Murphy,Howard*,,Decatur,19060524,19060818,84,,"p2,of84"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,murphy,P10493,Murphy,Howard*,0,Decatur,,,,2,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,neal,B01170,Neal,,0,Rock Island,,,20,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,neal,P10145,Neal,,0,Rock Island,,,,18,
@@ -427,10 +427,10 @@ minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,niemann,F20102,Nieman,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,niemann,B00904,Niemann,,0,Davenport,,,47,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,novacek,B00207,Novacek,,0,Springfield,,,116,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,novacek,F20832,Novacek,,0,Springfield,,,,,of105
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,novacek,B01489,Novacek,"James A. ""Jim""",,Springfield,19060503,19060916,120,,c14lf10rf96
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,novacek,B01489,Novacek,"James A. ""Jim""",,Springfield,19060503,19060916,120,,"c14,lf10,rf96"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,oconnor,B00726,O'Connor,,0,Decatur,,,51,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,oconnor,F20128,O'Connor,,0,Decatur,,,,,c51
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,oconnor,B01490,O'Connor,"Patrick ""Pat""",,Decatur,19060503,19060909,51,,c51ss.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,oconnor,B01490,O'Connor,"Patrick ""Pat""",,Decatur,19060503,19060909,51,,"c51,ss"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,oakes,B00469,Oakes,,0,Cedar Rapids,,,122,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,oakes,F20919,Oakes,,0,Cedar Rapids,,,,,of122
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,oakes,B01509,Oakes,"Ennis T. ""Rebel""*",,Cedar Rapids,19060503,19060916,122,,of122
@@ -448,8 +448,8 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,palmer,P10184,Palmer,Lest
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,pearce,B01086,Pearce,,1,Springfield,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,pearce,B01086,Pearce,,2,Bloomington,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,pearce,B01086,Pearce,,T,,,,39,,
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,pearce,F20067,Pearce,,1,Bloomington,,,,,c.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,pearce,F20067,Pearce,,2,Springfield,,,,,c.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,pearce,F20067,Pearce,,1,Bloomington,,,,,c
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,pearce,F20067,Pearce,,2,Springfield,,,,,c
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,pearce,F20067,Pearce,,T,,,,,,c39
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,pearce,B01551,Pearce,"Wm. C. ""Bunny""*",1,Springfield,19060509,19060531,15,,c15
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,pearce,B01567,Pearce,"Wm. C. ""Bunny""*",2,Bloomington,19060609,19060730,24,,c24
@@ -468,12 +468,12 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,radebaugh,P10277,Radebaug
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ramey,B00442,Ramey,,0,Davenport,,,90,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ramey,F20539,Ramey,,0,Davenport,,,,,2b22
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ramey,F21000,Ramey,,0,Davenport,,,,,of90
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ramey,B01625,Ramey,John W.,,Davenport,19060503,19060731,90,,2b22of68
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ramey,B01625,Ramey,John W.,,Davenport,19060503,19060731,90,,"2b22,of68"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,raymond,B00427,Raymond,,0,Peoria,,,117,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,raymond,F20222,Raymond,,0,Peoria,,,,,ss117
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,raymond,B01630,Raymond,"Frank C. ""Tealy""",,Peoria,19060503,19060916,117,,ss117
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,reagan,B00013,Reagan,,0,Dubuque,,,119,,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,reagan,B01649,Reagan,Steve,,Dubuque,19060504,,119,,cf.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,reagan,B01649,Reagan,Steve,,Dubuque,19060504,,119,,cf
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,reel,B01658,Reel,Frank,,Bloomington,19060607,,1,,cf1
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,reagan,F20829,Regan,,0,Dubuque,,,,,of119
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,reitz,B00528,Reitz,,0,Dubuque,,,112,,
@@ -489,11 +489,11 @@ minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,radebaugh,P10228,Rodab
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ronan,B00589,Ronan,,0,Cedar Rapids,,,74,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ronan,F20518,Ronan,,0,Cedar Rapids,,,,,2b74
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ronan,B01696,Ronan,"Thomas ""Tommy""",,Cedar Rapids,19060629,19060916,74,,2b74
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ruby,F20699,Ruby,,1,Davenport,,,,,of.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ruby,F20699,Ruby,,2,Springfield,,,,,of.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ruby,F20699,Ruby,,1,Davenport,,,,,of
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ruby,F20699,Ruby,,2,Springfield,,,,,of
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,ruby,F20699,Ruby,,T,,,,,,of112
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ruby,B01706,Ruby,Jesse Loring,1,Davenport,19060503,19060006,23,,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ruby,B01711,Ruby,Jesse Loring,2,Springfield,19060626,19060916,79,,p3lf79
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ruby,B01711,Ruby,Jesse Loring,2,Springfield,19060626,19060916,79,,"p3,lf79"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,ruby,B01722,Ruby,Jesse Loring,T,,19060503,19060916,102,,of112
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,rudd,B00531,Rudd,,0,Rock Island,,,59,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,rudd,F20316,Rudd,,0,Rock Island,,,,,1b59
@@ -524,8 +524,8 @@ minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,smith-spr,B00854,Smith
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,smith-blo,F20298,Smith,,0,Bloomington,,,,,1b101
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,smith-spr,F20526,Smith,,0,Springfield,,,,,2b25
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,smith-spr,F20935,Smith,,0,Springfield,,,,,of13
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,smith-blo,B01812,Smith,"Richard T. ""Dick""",,Bloomington,19060503,19060911,101,,p171b101
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,smith-spr,B01820,Smith,Elmer F.,,Springfield,19060703,19060909,43,,c92b25rf8
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,smith-blo,B01812,Smith,"Richard T. ""Dick""",,Bloomington,19060503,19060911,101,,"p17,1b101"
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,smith-spr,B01820,Smith,Elmer F.,,Springfield,19060703,19060909,43,,"c9,2b25,rf8"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,smith-blo,P10137,Smith,"Richard T. ""Dick""",0,Bloomington,,,,16,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,snooks,B01234,Snooks,,0,Davenport,,,16,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,snooks,F20014,Snooks,,0,Davenport,,,,,c16
@@ -550,7 +550,7 @@ minoraverages/Howard,1906,Illinois-Indiana-Iowa League,spencer-cr,P10336,Spencer
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,spencer-dub,P10591,Spencer,,0,Dubuque,,,,1,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,stark,B00553,Stark,,0,Dubuque,,,109,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,stark,F20144,Stark,,0,Dubuque,,,,,c109
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,stark,B01926,Stark,Claude M.,,Dubuque,19060503,19060907,109,,c972b.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,stark,B01926,Stark,Claude M.,,Dubuque,19060503,19060907,109,,"c97,2b"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,stauffer,B01291,Stauffer,,1,Davenport,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,stauffer,B01291,Stauffer,,2,Cedar Rapids,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,stauffer,B01291,Stauffer,,3,Peoria,,,,,
@@ -582,12 +582,12 @@ minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,syfert,B00163,Syfert,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,syfert,P10290,Syfert,,0,Decatur,,,,19,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,syfert,B02024,Syfert,Harry Ray,,Decatur,19060507,19060910,37,,p25
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,syfert,P10464,Syfert,Harry Ray,0,Decatur,,,,25,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,taylor,B02035,Taylor,"Peter ""Pete""",,Springfield,19060516,19060824,8,,p6rf1
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,taylor,B02035,Taylor,"Peter ""Pete""",,Springfield,19060516,19060824,8,,"p6,rf1"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,taylor,P10070,Taylor,"Peter ""Pete""",0,Springfield,,,,6,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,thiery,B00286,Thiery,,0,Peoria,,,100,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,thiery,F20080,Thiery,,0,Peoria,,,,,c34
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,thiery,F20776,Thiery,,0,Peoria,,,,,of66
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,thiery,B02043,Thiery,"John ""Jack""",,Peoria,19060524,19060908,100,,c34of66
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,thiery,B02043,Thiery,"John ""Jack""",,Peoria,19060524,19060908,100,,"c34,of66"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,thorsen,B02056,Thorsen,Edward S.,,Bloomington,19060505,19060914,14,,p14
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,thorsen,P10159,Thorsen,Edward S.,0,Bloomington,,,,14,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,thorsen,B01108,Thorson,,0,Bloomington,,,14,,
@@ -613,21 +613,21 @@ minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-ri+dub,B00416,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,B01055,Walters,,1,Bloomington,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,B01055,Walters,,2,Davenport,,,,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,B01055,Walters,,T,,,,72,,
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,F20463,Walters,,1,Bloomington,,,,,2b.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,F20463,Walters,,2,Davenport,,,,,2b.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,F20463,Walters,,1,Bloomington,,,,,2b
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,F20463,Walters,,2,Davenport,,,,,2b
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,F20463,Walters,,T,,,,,,2b56
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,F20657,Walters,,1,Bloomington,,,,,3b.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,F20657,Walters,,2,Davenport,,,,,3b.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,F20657,Walters,,1,Bloomington,,,,,3b
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,F20657,Walters,,2,Davenport,,,,,3b
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-blo+dav,F20657,Walters,,T,,,,,,3b13
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-ri+dub,F20700,Walters,,1,Rock Island,,,,,of.
-minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-ri+dub,F20700,Walters,,2,Decatur,,,,,of.
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-ri+dub,F20700,Walters,,1,Rock Island,,,,,of
+minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-ri+dub,F20700,Walters,,2,Decatur,,,,,of
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,walters-ri+dub,F20700,Walters,,T,,,,,,of74
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-ri+dub,B02137,Walters,"Henry Hanks""",1,Rock Island,19060719,19060811,,,of.
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-ri+dub,B02145,Walters,"Henry Hanks""",2,Decatur,19060909,19060916,,,of.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-ri+dub,B02137,Walters,"Henry Hanks""",1,Rock Island,19060719,19060811,,,of
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-ri+dub,B02145,Walters,"Henry Hanks""",2,Decatur,19060909,19060916,,,of
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-ri+dub,B02159,Walters,"Henry Hanks""",T,,19060719,19060916,74,,of74
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-blo+dav,B02168,Walters,"Louis ""Roxey""",1,Bloomington,19060508,19060718,,,p102b563b13
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-blo+dav,B02168,Walters,"Louis ""Roxey""",1,Bloomington,19060508,19060718,,,"p10,2b56,3b13"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-blo+dav,B02176,Walters,"Louis ""Roxey""",2,Davenport,19060730,19060904,,,p4
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-blo+dav,B02184,Walters,"Louis ""Roxey""",T,,19060508,19060904,72,,p142b563b13
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-blo+dav,B02184,Walters,"Louis ""Roxey""",T,,19060508,19060904,72,,"p14,2b56,3b13"
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-blo+dav,P10176,Walters,"Louis ""Roxey""",0,Bloomington,,,,10,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,walters-blo+dav,P10410,Walters,"Louis ""Roxey""",0,Davenport,,,,4,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,wanner,B00362,Wanner,,0,Rock Island,,,116,,
@@ -656,14 +656,14 @@ minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,wilson-blo,F20350,Wils
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,wilson-cr+spr,F20552,Wilson,,0,Cedar Rapids,,,,,2b47
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,wilson-ri,F21037,Wilson,,0,Rock Island,,,,,of23
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,wilson-ri,P10113,Wilson,,0,Rock Island,,,,15,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wilson-blo,B02266,Wilson,"Arthur E. ""Art""*",,Bloomington,19060503,19060916,88,,c681b18cf2
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wilson-ri,B02277,Wilson,Christy,,Rock Island,19060514,19060906,47,,p22cf23
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wilson-cr+spr,B02289,Wilson,"Fred ""Blackie""",1,Cedar Rapids,19060519,19060528,41,,2b.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wilson-blo,B02266,Wilson,"Arthur E. ""Art""*",,Bloomington,19060503,19060916,88,,"c68,1b18,cf2"
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wilson-ri,B02277,Wilson,Christy,,Rock Island,19060514,19060906,47,,"p22,cf23"
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wilson-cr+spr,B02289,Wilson,"Fred ""Blackie""",1,Cedar Rapids,19060519,19060528,41,,2b
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wilson-cr+spr,B02290,Wilson,"Fred ""Blackie""",2,Springfield,19060606,19060701,8,,2b7
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wilson-cr+spr,B02304,Wilson,"Fred ""Blackie""",T,,19060519,19060701,49,,2b.
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wilson-cr+spr,B02304,Wilson,"Fred ""Blackie""",T,,19060519,19060701,49,,2b
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wilson-ri,P10751,Wilson,,0,Rock Island,,,,22,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,wolfe,B01119,Wolf,,0,Springfield,,,14,,
-minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wolfe,B02312,Wolfe,Walter J.,,Springfield,19060503,19060521,15,,2b5rf9
+minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wolfe,B02312,Wolfe,Walter J.,,Springfield,19060503,19060521,15,,"2b5,rf9"
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,wright,B00705,Wright,,0,Bloomington,,,23,,
 minoraverages/1907Reach,1906,Illinois-Indiana-Iowa League,wright,P10081,Wright,,0,Bloomington,,,,23,
 minoraverages/Howard,1906,Illinois-Indiana-Iowa League,wright,B02320,Wright,"Wm. S. ""Lucky""",,Bloomington,19060701,19060916,26,,p23

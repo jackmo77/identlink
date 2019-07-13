@@ -3,7 +3,7 @@ minoraverages/Howard,1907,Eastern League,abel,B00013,Abel,,,Providence,19070727,
 minoraverages/1908Reach,1907,Eastern League,abstein,B00241,Abstein,,0,Providence,,,136,,
 minoraverages/1908Reach,1907,Eastern League,abstein,F20080,Abstein,,0,Providence,,,,,1b135
 minoraverages/Howard,1907,Eastern League,abstein,B00021,Abstein,"William H. ""Bill""*",,Providence,19070425,19070924,136,,1b136
-minoraverages/Howard,1907,Eastern League,ackerman,B00059,Ackerman,Robert B.,,Providence,19070425,19070501,7,,1b12b6
+minoraverages/Howard,1907,Eastern League,ackerman,B00059,Ackerman,Robert B.,,Providence,19070425,19070501,7,,"1b1,2b6"
 minoraverages/1908Reach,1907,Eastern League,adkins,B00577,Adkins,,0,Baltimore,,,39,,
 minoraverages/1908Reach,1907,Eastern League,adkins,F21528,Adkins,,0,Baltimore,,,,,p39
 minoraverages/1908Reach,1907,Eastern League,adkins,P10070,Adkins,,0,Baltimore,,,,,
@@ -17,15 +17,15 @@ minoraverages/1908Reach,1907,Eastern League,applegate,P10231,Applegate,,0,Toront
 minoraverages/Howard,1907,Eastern League,applegate,B00076,Applegate,"Frederick R. ""Fred""*",,Toronto,19070520,19070904,23,,p23
 minoraverages/Howard,1907,Eastern League,applegate,P10805,Applegate,"Frederick R. ""Fred""*",0,Toronto,,,,23,
 minoraverages/Howard,1907,Eastern League,bailey,B00084,Bailey,M. H.,,Toronto,19070424,19070424,1,,c1
-minoraverages/Howard,1907,Eastern League,baker,B00092,Baker,"John ""Home Run""*",,Baltimore,19070914,19070920,5,,3b1lf3
+minoraverages/Howard,1907,Eastern League,baker,B00092,Baker,"John ""Home Run""*",,Baltimore,19070914,19070920,5,,"3b1,lf3"
 minoraverages/1908Reach,1907,Eastern League,bannister,B01288,Bannister,,0,Rochester,,,41,,
 minoraverages/1908Reach,1907,Eastern League,bannister,F21370,Bannister,,0,Rochester,,,,,p40
 minoraverages/1908Reach,1907,Eastern League,bannister,P10385,Bannister,,0,Rochester,,,,,
-minoraverages/Howard,1907,Eastern League,bannister,B00101,Bannister,"Alex S. ""Sandy""",,Rochester,19070429,19070924,41,,p40rf1
+minoraverages/Howard,1907,Eastern League,bannister,B00101,Bannister,"Alex S. ""Sandy""",,Rochester,19070429,19070924,41,,"p40,rf1"
 minoraverages/Howard,1907,Eastern League,bannister,P10687,Bannister,"Alex S. ""Sandy""",0,Rochester,,,,40,
 minoraverages/1908Reach,1907,Eastern League,bannon,B00752,Bannon,,0,Rochester,,,114,,
 minoraverages/1908Reach,1907,Eastern League,bannon,F20893,Bannon,,0,Rochester,,,,,cf87
-minoraverages/Howard,1907,Eastern League,bannon,B00117,Bannon,"James H. ""Jimmy""*",,Rochester,19070424,19070909,114,,3b2ss9lf9cf87rf5
+minoraverages/Howard,1907,Eastern League,bannon,B00117,Bannon,"James H. ""Jimmy""*",,Rochester,19070424,19070909,114,,"3b2,ss9,lf9,cf87,rf5"
 minoraverages/1908Reach,1907,Eastern League,barger,B00101,Barger,,1,Montreal,,,,,
 minoraverages/1908Reach,1907,Eastern League,barger,B00101,Barger,,2,Rochester,,,,,
 minoraverages/1908Reach,1907,Eastern League,barger,B00101,Barger,,T,,,,20,,
@@ -33,9 +33,9 @@ minoraverages/1908Reach,1907,Eastern League,barger,F21182,Barger,,0,Rochester,,,
 minoraverages/1908Reach,1907,Eastern League,barger,P10516,Barger,,1,Montreal,,,,,
 minoraverages/1908Reach,1907,Eastern League,barger,P10516,Barger,,2,Rochester,,,,,
 minoraverages/1908Reach,1907,Eastern League,barger,P10516,Barger,,T,,,,,,
-minoraverages/Howard,1907,Eastern League,barger,B00125,Barger,"Eros B. ""Cy""*",1,Montreal,19070515,19070706,12,,p10cf1
-minoraverages/Howard,1907,Eastern League,barger,B00130,Barger,"Eros B. ""Cy""*",2,Rochester,19070714,19070919,9,,p5rf3
-minoraverages/Howard,1907,Eastern League,barger,B00149,Barger,"Eros B. ""Cy""*",T,,19070515,19070919,21,,p15cf1rf3
+minoraverages/Howard,1907,Eastern League,barger,B00125,Barger,"Eros B. ""Cy""*",1,Montreal,19070515,19070706,12,,"p10,cf1"
+minoraverages/Howard,1907,Eastern League,barger,B00130,Barger,"Eros B. ""Cy""*",2,Rochester,19070714,19070919,9,,"p5,rf3"
+minoraverages/Howard,1907,Eastern League,barger,B00149,Barger,"Eros B. ""Cy""*",T,,19070515,19070919,21,,"p15,cf1,rf3"
 minoraverages/Howard,1907,Eastern League,barger,P10407,Barger,"Eros B. ""Cy""*",0,Montreal,,,,10,
 minoraverages/Howard,1907,Eastern League,barger,P10738,Barger,"Eros B. ""Cy""*",0,Rochester,,,,5,
 minoraverages/Howard,1907,Eastern League,barger,P10860,Barger,"Eros B. ""Cy""*",1,Montreal,,,,,
@@ -55,20 +55,20 @@ minoraverages/1908Reach,1907,Eastern League,bean,B00794,Bean,,0,Jersey City,,,13
 minoraverages/1908Reach,1907,Eastern League,bean,F20526,Bean,,0,Jersey City,,,,,ss132
 minoraverages/Howard,1907,Eastern League,bean,B00196,Bean,"Joseph W. ""Joe""*",,Jersey City,19070425,19070924,132,,ss132
 minoraverages/Howard,1907,Eastern League,bean,M90047,Bean,"Joseph W. ""Joe""*",,Jersey City,,,,,
-minoraverages/Howard,1907,Eastern League,black,B00207,Black,,,Providence,19070721,19070729,8,,lf4cf1rf3
+minoraverages/Howard,1907,Eastern League,black,B00207,Black,,,Providence,19070721,19070729,8,,"lf4,cf1,rf3"
 minoraverages/Howard,1907,Eastern League,blake,B00210,Blake,,,Jersey City,19070514,19070514,1,,p1
 minoraverages/Howard,1907,Eastern League,blake,P10320,Blake,,0,Jersey City,,,,1,
 minoraverages/1908Reach,1907,Eastern League,brockett,B01291,Brocket,,0,Montreal,,,36,,
 minoraverages/1908Reach,1907,Eastern League,brockett,F20721,Brocket,,0,Montreal,,,,,cf26
 minoraverages/1908Reach,1907,Eastern League,brockett,F21609,Brocket,,0,Montreal,,,,,p7
 minoraverages/1908Reach,1907,Eastern League,brockett,P10176,Brockett,,0,Montreal,,,,,
-minoraverages/Howard,1907,Eastern League,brockett,B00229,Brockett,"Louis A. ""Lew""*",,Montreal,19070704,19070921,37,,p72b1cf26
+minoraverages/Howard,1907,Eastern League,brockett,B00229,Brockett,"Louis A. ""Lew""*",,Montreal,19070704,19070921,37,,"p7,2b1,cf26"
 minoraverages/Howard,1907,Eastern League,brockett,P10410,Brockett,"Louis A. ""Lew""*",0,Montreal,,,,7,
 minoraverages/1908Reach,1907,Eastern League,brown,B00590,Brown,,0,Montreal,,,132,,
 minoraverages/1908Reach,1907,Eastern League,brown,F20072,Brown,,0,Montreal,,,,,1b132
 minoraverages/Howard,1907,Eastern League,brown,B00232,Brown,Arthur,,Montreal,19070424,19070924,132,,1b132
 minoraverages/Howard,1907,Eastern League,buckenberger,M90094,Buckenberger,Albert C.*,,Rochester,,,,,
-minoraverages/Howard,1907,Eastern League,burchell,B00241,Burchel,"Frederick D. ""Fred""*",,Baltimore,19070425,19070917,35,,p34cf1
+minoraverages/Howard,1907,Eastern League,burchell,B00241,Burchel,"Frederick D. ""Fred""*",,Baltimore,19070425,19070917,35,,"p34,cf1"
 minoraverages/Howard,1907,Eastern League,burchell,P10035,Burchel,"Frederick D. ""Fred""*",0,Baltimore,,,,34,
 minoraverages/1908Reach,1907,Eastern League,burchell,B01135,Burchell,,0,Baltimore,,,34,,
 minoraverages/1908Reach,1907,Eastern League,burchell,F21319,Burchell,,0,Baltimore,,,,,p34
@@ -93,11 +93,11 @@ minoraverages/Howard,1907,Eastern League,carrick,B00293,Carrick,"William M. ""Bi
 minoraverages/Howard,1907,Eastern League,carrick,P10478,Carrick,"William M. ""Bill""*",0,Newark,,,,20,
 minoraverages/1908Reach,1907,Eastern League,carrigan,B00092,Carrigan,,0,Toronto,,,86,,
 minoraverages/1908Reach,1907,Eastern League,carrigan,F21739,Carrigan,,0,Toronto,,,,,c82
-minoraverages/Howard,1907,Eastern League,carrigan,B00308,Carrigan,"William F. ""Bill""*",,Toronto,19070509,19070922,86,,c801b13b1cf1rf2
+minoraverages/Howard,1907,Eastern League,carrigan,B00308,Carrigan,"William F. ""Bill""*",,Toronto,19070509,19070922,86,,"c80,1b1,3b1,cf1,rf2"
 minoraverages/Howard,1907,Eastern League,carver,B00319,Carver,,,Buffalo,19070702,19070702,1,,3b1
 minoraverages/1908Reach,1907,Eastern League,chadbourne,B00163,Chadbourne,,0,Providence,,,128,,
 minoraverages/1908Reach,1907,Eastern League,chadbourne,F20673,Chadbourne,,0,Providence,,,,,lf118
-minoraverages/Howard,1907,Eastern League,chadbourne,B00324,Chadbourne,"Chester J. ""Chet""*",,Providence,19070425,19070924,128,,ss6lf117cf5
+minoraverages/Howard,1907,Eastern League,chadbourne,B00324,Chadbourne,"Chester J. ""Chet""*",,Providence,19070425,19070924,128,,"ss6,lf117,cf5"
 minoraverages/1908Reach,1907,Eastern League,clancy,B00210,Clancy,,0,Rochester,,,15,,
 minoraverages/1908Reach,1907,Eastern League,clancy,F20023,Clancy,,0,Rochester,,,,,1b115
 minoraverages/Howard,1907,Eastern League,clancy,B00335,Clancy,"William E. ""Bill""*",,Rochester,19070424,19070924,115,,1b115
@@ -119,40 +119,40 @@ minoraverages/1908Reach,1907,Eastern League,clinton,B00948,Clinton,,0,Providence
 minoraverages/1908Reach,1907,Eastern League,clinton,F21068,Clinton,,0,Providence,,,,,rf21
 minoraverages/1908Reach,1907,Eastern League,clinton,F21450,Clinton,,0,Providence,,,,,p17
 minoraverages/1908Reach,1907,Eastern League,clinton,P10429,Clinton,,0,Providence,,,,,
-minoraverages/Howard,1907,Eastern League,clinton,B00397,Clinton,Jimmy L.,,Providence,19070425,19070731,42,,p21cf2rf20
+minoraverages/Howard,1907,Eastern League,clinton,B00397,Clinton,Jimmy L.,,Providence,19070425,19070731,42,,"p21,cf2,rf20"
 minoraverages/Howard,1907,Eastern League,clinton,P10611,Clinton,Jimmy L.,0,Providence,,,,21,
 minoraverages/1908Reach,1907,Eastern League,cockman,B00718,Cockman,,0,Newark,,,125,,
 minoraverages/1908Reach,1907,Eastern League,cockman,F20342,Cockman,,0,Newark,,,,,3b125
 minoraverages/Howard,1907,Eastern League,cockman,B00403,Cockman,"James ""Jim""*",,Newark,19070425,19070922,125,,3b125
 minoraverages/Howard,1907,Eastern League,collins,B00416,Collins,"Edward T. ""Eddie""*",,Newark,19070807,19070810,4,,ss4
 minoraverages/1908Reach,1907,Eastern League,connor-tor,B00021,Connor,,0,Toronto,,,14,,
-minoraverages/Howard,1907,Eastern League,connors-mon,B00427,Connor,"Joseph F. ""Joe""*",,Montreal,19070427,19070709,34,,c29rf2
+minoraverages/Howard,1907,Eastern League,connors-mon,B00427,Connor,"Joseph F. ""Joe""*",,Montreal,19070427,19070709,34,,"c29,rf2"
 minoraverages/Howard,1907,Eastern League,connor-jc,B00434,Connor,"James M. ""Mat""*",,Jersey City,19070913,19070924,9,,2b9
 minoraverages/1908Reach,1907,Eastern League,connors-mon,B00973,Connors,,0,Montreal,,,34,,
 minoraverages/1908Reach,1907,Eastern League,connors-mon,F21783,Connors,,0,Montreal,,,,,c29
-minoraverages/Howard,1907,Eastern League,connor-tor,B00442,Connors,"John Thomas ""Buck""",,Toronto,19070427,19070616,14,,c11b8
-minoraverages/Howard,1907,Eastern League,conway,B00450,Conway,,,Providence,19070514,19070525,8,,ss6rf2
+minoraverages/Howard,1907,Eastern League,connor-tor,B00442,Connors,"John Thomas ""Buck""",,Toronto,19070427,19070616,14,,"c1,1b8"
+minoraverages/Howard,1907,Eastern League,conway,B00450,Conway,,,Providence,19070514,19070525,8,,"ss6,rf2"
 minoraverages/1908Reach,1907,Eastern League,corcoran,B00488,Corcoran,,1,Buffalo,,,,,
 minoraverages/1908Reach,1907,Eastern League,corcoran,B00488,Corcoran,,2,Montreal,,,,,
 minoraverages/1908Reach,1907,Eastern League,corcoran,B00488,Corcoran,,T,,,,125,,
-minoraverages/1908Reach,1907,Eastern League,corcoran,F20425,Corcoran,,1,Montreal,,,,,3b.
-minoraverages/1908Reach,1907,Eastern League,corcoran,F20425,Corcoran,,2,Buffalo,,,,,3b.
+minoraverages/1908Reach,1907,Eastern League,corcoran,F20425,Corcoran,,1,Montreal,,,,,3b
+minoraverages/1908Reach,1907,Eastern League,corcoran,F20425,Corcoran,,2,Buffalo,,,,,3b
 minoraverages/1908Reach,1907,Eastern League,corcoran,F20425,Corcoran,,T,,,,,,3b54
-minoraverages/1908Reach,1907,Eastern League,corcoran,F20496,Corcoran,,1,Montreal,,,,,ss.
-minoraverages/1908Reach,1907,Eastern League,corcoran,F20496,Corcoran,,2,Buffalo,,,,,ss.
+minoraverages/1908Reach,1907,Eastern League,corcoran,F20496,Corcoran,,1,Montreal,,,,,ss
+minoraverages/1908Reach,1907,Eastern League,corcoran,F20496,Corcoran,,2,Buffalo,,,,,ss
 minoraverages/1908Reach,1907,Eastern League,corcoran,F20496,Corcoran,,T,,,,,,ss71
 minoraverages/Howard,1907,Eastern League,corcoran,B00469,Corcoran,"Michael J. ""Mickey""*",1,Buffalo,19070424,19070703,52,,3b52
 minoraverages/Howard,1907,Eastern League,corcoran,B00475,Corcoran,"Michael J. ""Mickey""*",2,Montreal,19070711,19070924,73,,ss73
-minoraverages/Howard,1907,Eastern League,corcoran,B00488,Corcoran,"Michael J. ""Mickey""*",T,,19070424,19070924,125,,3b52ss73
+minoraverages/Howard,1907,Eastern League,corcoran,B00488,Corcoran,"Michael J. ""Mickey""*",T,,19070424,19070924,125,,"3b52,ss73"
 minoraverages/1908Reach,1907,Eastern League,crawford,B00887,Crawford,,0,Providence,,,109,,
 minoraverages/1908Reach,1907,Eastern League,crawford,F20518,Crawford,,0,Providence,,,,,ss109
 minoraverages/Howard,1907,Eastern League,crawford,B00491,Crawford,Forrest A.*,,Providence,19070530,19070924,109,,ss109
 minoraverages/1908Reach,1907,Eastern League,cronin,B00822,Cronin,,0,Providence,,,36,,
 minoraverages/1908Reach,1907,Eastern League,cronin,F21427,Cronin,,0,Providence,,,,,p33
 minoraverages/1908Reach,1907,Eastern League,cronin,P10215,Cronin,,0,Providence,,,,,
-minoraverages/Howard,1907,Eastern League,cronin,B00502,Cronin,"John J. ""Jack""*",,Providence,19070429,19070924,36,,p33lf1rf2
+minoraverages/Howard,1907,Eastern League,cronin,B00502,Cronin,"John J. ""Jack""*",,Providence,19070429,19070924,36,,"p33,lf1,rf2"
 minoraverages/Howard,1907,Eastern League,cronin,P10569,Cronin,"John J. ""Jack""*",0,Providence,,,,33,
-minoraverages/Howard,1907,Eastern League,crooks,B00515,Crooke,"Thomas A. ""Tom""*",,Toronto,19070820,19070913,23,,3b1lf1cf20
+minoraverages/Howard,1907,Eastern League,crooks,B00515,Crooke,"Thomas A. ""Tom""*",,Toronto,19070820,19070913,23,,"3b1,lf1,cf20"
 minoraverages/1908Reach,1907,Eastern League,crooks,B00783,Crooks,,0,Toronto,,,23,,
 minoraverages/1908Reach,1907,Eastern League,crooks,F20745,Crooks,,0,Toronto,,,,,cf21
 minoraverages/1908Reach,1907,Eastern League,currie,B01523,Currie,,0,Buffalo,,,13,,
@@ -171,23 +171,23 @@ minoraverages/Howard,1907,Eastern League,deegan,P10289,Deegan,"William J. ""Dumm
 minoraverages/1908Reach,1907,Eastern League,demmitt,B00324,Demmitt,,0,Baltimore,,,123,,
 minoraverages/1908Reach,1907,Eastern League,demmitt,F20919,Demmitt,,0,Baltimore,,,,,cf23
 minoraverages/1908Reach,1907,Eastern League,demmitt,F21045,Demmitt,,0,Baltimore,,,,,rf96
-minoraverages/Howard,1907,Eastern League,demmitt,B00553,Demmitt,"C. Raymond ""Ray""*",,Baltimore,19070425,19070913,123,,cf24rf95
+minoraverages/Howard,1907,Eastern League,demmitt,B00553,Demmitt,"C. Raymond ""Ray""*",,Baltimore,19070425,19070913,123,,"cf24,rf95"
 minoraverages/Howard,1907,Eastern League,dillon,B00566,Dillon,"John J. ""Jack""",,Baltimore,19070702,19070706,2,,c2
 minoraverages/Howard,1907,Eastern League,dithridge,B00577,Dithridge,William George,,Baltimore,19070430,19070430,1,,ss1
-minoraverages/Howard,1907,Eastern League,dolan,B00589,Dolan,"John Frank ""Frank""",,Toronto,19070915,19070920,3,,p2cf1
+minoraverages/Howard,1907,Eastern League,dolan,B00589,Dolan,"John Frank ""Frank""",,Toronto,19070915,19070920,3,,"p2,cf1"
 minoraverages/Howard,1907,Eastern League,dolan,P10847,Dolan,"John Frank ""Frank""",0,Toronto,,,,2,
 minoraverages/1908Reach,1907,Eastern League,donovan,B01203,Donovan,,0,Providence,,,86,,
 minoraverages/1908Reach,1907,Eastern League,donovan,F21718,Donovan,,0,Providence,,,,,c52
-minoraverages/Howard,1907,Eastern League,donovan,B00590,Donovan,"Jeremiah F. ""Jerry""*",,Providence,19070516,19070916,51,,c47rf3
+minoraverages/Howard,1907,Eastern League,donovan,B00590,Donovan,"Jeremiah F. ""Jerry""*",,Providence,19070516,19070916,51,,"c47,rf3"
 minoraverages/1908Reach,1907,Eastern League,dooin,B01250,Dooin,,0,Providence,,,19,,
 minoraverages/1908Reach,1907,Eastern League,dooin,F20700,Dooin,,0,Providence,,,,,lf11
-minoraverages/Howard,1907,Eastern League,dooin,B00609,Dooin,Robert T.,,Providence,19070425,19070529,19,,ss3lf11cf4
+minoraverages/Howard,1907,Eastern League,dooin,B00609,Dooin,Robert T.,,Providence,19070425,19070529,19,,"ss3,lf11,cf4"
 minoraverages/1908Reach,1907,Eastern League,doran,B01242,Doran,,0,Rochester,,,89,,
 minoraverages/1908Reach,1907,Eastern League,doran,F21854,Doran,,0,Rochester,,,,,c86
-minoraverages/Howard,1907,Eastern League,doran,B00614,Doran,"Thomas J. ""Tom""",,Rochester,19070424,19070906,89,,c841b2
+minoraverages/Howard,1907,Eastern League,doran,B00614,Doran,"Thomas J. ""Tom""",,Rochester,19070424,19070906,89,,"c84,1b2"
 minoraverages/1908Reach,1907,Eastern League,duffy,B00130,Duffy,,0,Providence,,,35,,
 minoraverages/1908Reach,1907,Eastern League,duffy,F20713,Duffy,,0,Providence,,,,,cf17
-minoraverages/Howard,1907,Eastern League,duffy,B00623,Duffy,Hugh*,,Providence,19070425,19070917,35,,lf2cf20rf1
+minoraverages/Howard,1907,Eastern League,duffy,B00623,Duffy,Hugh*,,Providence,19070425,19070917,35,,"lf2,cf20,rf1"
 minoraverages/Howard,1907,Eastern League,duffy,M90083,Duffy,Hugh*,,Providence,,,,,
 minoraverages/1908Reach,1907,Eastern League,dunn,B00898,Dunn,,0,Baltimore,,,99,,
 minoraverages/1908Reach,1907,Eastern League,dunn,F20189,Dunn,,0,Baltimore,,,,,2b98
@@ -198,15 +198,15 @@ minoraverages/Howard,1907,Eastern League,eason,P10542,Eason,"Malcomb W. ""Mal""*
 minoraverages/1908Reach,1907,Eastern League,engle,B00879,Engle,,0,Newark,,,130,,
 minoraverages/1908Reach,1907,Eastern League,engle,F20583,Engle,,0,Newark,,,,,ss21
 minoraverages/1908Reach,1907,Eastern League,engle,F21000,Engle,,0,Newark,,,,,rf106
-minoraverages/Howard,1907,Eastern League,engle,B00651,Engle,A. Clyde*,,Newark,19070425,19070922,130,,2b13b3ss20rf106
+minoraverages/Howard,1907,Eastern League,engle,B00651,Engle,A. Clyde*,,Newark,19070425,19070922,130,,"2b1,3b3,ss20,rf106"
 minoraverages/1908Reach,1907,Eastern League,fitzgerald,B00747,Fitzgerald,,0,Jersey City,,,19,,
 minoraverages/1908Reach,1907,Eastern League,fitzgerald,F21651,Fitzgerald,,0,Jersey City,,,,,c17
-minoraverages/Howard,1907,Eastern League,fitzgerald,B00667,Fitzgerald,"Matthew W. ""Matty""*",,Jersey City,19070724,19070917,19,,c161b3
+minoraverages/Howard,1907,Eastern League,fitzgerald,B00667,Fitzgerald,"Matthew W. ""Matty""*",,Jersey City,19070724,19070917,19,,"c16,1b3"
 minoraverages/1908Reach,1907,Eastern League,flanagan,B00125,Flanagan,,0,Rochester,,,131,,
 minoraverages/1908Reach,1907,Eastern League,flanagan,F20131,Flanagan,,0,Rochester,,,,,1b21
 minoraverages/1908Reach,1907,Eastern League,flanagan,F20841,Flanagan,,0,Rochester,,,,,cf13
 minoraverages/1908Reach,1907,Eastern League,flanagan,F20956,Flanagan,,0,Rochester,,,,,rf96
-minoraverages/Howard,1907,Eastern League,flanagan,B00672,Flanagan,"James P. ""Steamer""*",,Rochester,19070424,19070924,131,,1b21cf14rf94
+minoraverages/Howard,1907,Eastern League,flanagan,B00672,Flanagan,"James P. ""Steamer""*",,Rochester,19070424,19070924,131,,"1b21,cf14,rf94"
 minoraverages/1908Reach,1907,Eastern League,flood,B00335,Flood,,0,Toronto,,,29,,
 minoraverages/1908Reach,1907,Eastern League,flood,F20265,Flood,,0,Toronto,,,,,2b29
 minoraverages/Howard,1907,Eastern League,flood,B00680,Flood,"Timothy A. ""Tim""*",,Toronto,19070424,19070625,29,,2b29
@@ -215,8 +215,8 @@ minoraverages/1908Reach,1907,Eastern League,flynn-tor,F20051,Flynn,,0,Toronto,,,
 minoraverages/Howard,1907,Eastern League,flynn-tor,B00695,Flynn,John A.*,,Toronto,19070620,19070922,99,,1b98
 minoraverages/Howard,1907,Eastern League,flynn-jc,B00705,Flynn,,,Jersey City,19070816,19070816,1,,3b1
 minoraverages/Howard,1907,Eastern League,foley,B00718,Foley,George,1,Buffalo,19070619,19070619,1,,
-minoraverages/Howard,1907,Eastern League,foley,B00726,Foley,George,2,Rochester,19070719,19070723,4,,c2rf2
-minoraverages/Howard,1907,Eastern League,foley,B00739,Foley,George,T,,19070619,19070723,5,,c2rf2
+minoraverages/Howard,1907,Eastern League,foley,B00726,Foley,George,2,Rochester,19070719,19070723,4,,"c2,rf2"
+minoraverages/Howard,1907,Eastern League,foley,B00739,Foley,George,T,,19070619,19070723,5,,"c2,rf2"
 minoraverages/1908Reach,1907,Eastern League,foxen,B01234,Foxen,,0,Jersey City,,,33,,
 minoraverages/1908Reach,1907,Eastern League,foxen,F21531,Foxen,,0,Jersey City,,,,,p33
 minoraverages/1908Reach,1907,Eastern League,foxen,P10464,Foxen,,0,Jersey City,,,,,
@@ -224,7 +224,7 @@ minoraverages/Howard,1907,Eastern League,foxen,B00747,Foxen,"William A. ""Bill""
 minoraverages/Howard,1907,Eastern League,foxen,P10244,Foxen,"William A. ""Bill""*",0,Jersey City,,,,33,
 minoraverages/1908Reach,1907,Eastern League,frick,B00502,Frick,,0,Toronto,,,112,,
 minoraverages/1908Reach,1907,Eastern League,frick,F20539,Frick,,0,Toronto,,,,,ss111
-minoraverages/Howard,1907,Eastern League,frick,B00752,Frick,James Ernest,,Toronto,19070424,19070920,112,,2b23b109
+minoraverages/Howard,1907,Eastern League,frick,B00752,Frick,James Ernest,,Toronto,19070424,19070920,112,,"2b2,3b109"
 minoraverages/1908Reach,1907,Eastern League,frill,B01538,Frill,,0,Newark,,,6,,
 minoraverages/1908Reach,1907,Eastern League,frill,F21343,Frill,,0,Newark,,,,,p6
 minoraverages/1908Reach,1907,Eastern League,frill,P10373,Frill,,0,Newark,,,,,
@@ -245,13 +245,13 @@ minoraverages/1908Reach,1907,Eastern League,hall,B00528,Hall,,0,Baltimore,,,114,
 minoraverages/1908Reach,1907,Eastern League,hall,F20222,Hall,,0,Baltimore,,,,,2b45
 minoraverages/1908Reach,1907,Eastern League,hall,F20571,Hall,,0,Baltimore,,,,,ss30
 minoraverages/1908Reach,1907,Eastern League,hall,F21092,Hall,,0,Baltimore,,,,,rf23
-minoraverages/Howard,1907,Eastern League,hall,B00822,Hall,"Robert P. ""Bob""*",,Baltimore,19070430,19070924,114,,2b46ss28cf35
+minoraverages/Howard,1907,Eastern League,hall,B00822,Hall,"Robert P. ""Bob""*",,Baltimore,19070430,19070924,114,,"2b46,ss28,cf35"
 minoraverages/1908Reach,1907,Eastern League,halligan,B00667,Halligan,,0,Jersey City,,,107,,
 minoraverages/1908Reach,1907,Eastern League,halligan,F20792,Halligan,,0,Jersey City,,,,,cf104
 minoraverages/Howard,1907,Eastern League,halligan,B00833,Halligan,"William E. ""Jocko""*",,Jersey City,19070425,19070924,107,,cf104
 minoraverages/1908Reach,1907,Eastern League,hambacher,B00158,Hambacher,,0,Baltimore,,,17,,
 minoraverages/1908Reach,1907,Eastern League,hambacher,F21076,Hambacher,,0,Baltimore,,,,,rf11
-minoraverages/Howard,1907,Eastern League,hambacher,B00840,Hambacher,Otto Adam,,Baltimore,19070909,19070924,17,,lf5rf12
+minoraverages/Howard,1907,Eastern League,hambacher,B00840,Hambacher,Otto Adam,,Baltimore,19070909,19070924,17,,"lf5,rf12"
 minoraverages/1908Reach,1907,Eastern League,handford,B00475,Handford,,0,Jersey City,,,137,,
 minoraverages/1908Reach,1907,Eastern League,handford,F20962,Handford,,0,Jersey City,,,,,rf137
 minoraverages/Howard,1907,Eastern League,handford,B00854,Hanford,Charles J.*,,Jersey City,19070425,19070924,137,,rf137
@@ -259,7 +259,7 @@ minoraverages/Howard,1907,Eastern League,hannafin,B00865,Hannafin,"John J. ""Jac
 minoraverages/1908Reach,1907,Eastern League,hardy,B00854,Hardy,,0,Baltimore,,,44,,
 minoraverages/1908Reach,1907,Eastern League,hardy,F21335,Hardy,,0,Baltimore,,,,,p40
 minoraverages/1908Reach,1907,Eastern League,hardy,P10228,Hardy,,0,Baltimore,,,,,
-minoraverages/Howard,1907,Eastern League,hardy,B00879,Hardy,Harry*,,Baltimore,19070428,19070924,44,,p41cf1
+minoraverages/Howard,1907,Eastern League,hardy,B00879,Hardy,Harry*,,Baltimore,19070428,19070924,44,,"p41,cf1"
 minoraverages/Howard,1907,Eastern League,hardy,P10024,Hardy,Harry*,0,Baltimore,,,,41,
 minoraverages/1908Reach,1907,Eastern League,harris,B00912,Harris,,0,Providence,,,25,,
 minoraverages/1908Reach,1907,Eastern League,harris,F21488,Harris,,0,Providence,,,,,p25
@@ -271,22 +271,22 @@ minoraverages/1908Reach,1907,Eastern League,hayden,B00651,Hayden,,0,Rochester,,,
 minoraverages/1908Reach,1907,Eastern League,hayden,F20620,Hayden,,0,Rochester,,,,,lf77
 minoraverages/1908Reach,1907,Eastern League,hayden,F20810,Hayden,,0,Rochester,,,,,cf35
 minoraverages/1908Reach,1907,Eastern League,hayden,F21021,Hayden,,0,Rochester,,,,,rf10
-minoraverages/Howard,1907,Eastern League,hayden,B00904,Hayden,"John F. ""Jack""*",,Rochester,19070424,19070924,126,,lf72cf37rf13
+minoraverages/Howard,1907,Eastern League,hayden,B00904,Hayden,"John F. ""Jack""*",,Rochester,19070424,19070924,126,,"lf72,cf37,rf13"
 minoraverages/1908Reach,1907,Eastern League,hearne,B00149,Hearne,,0,Baltimore,,,97,,
 minoraverages/1908Reach,1907,Eastern League,hearne,F21705,Hearne,,0,Baltimore,,,,,c86
 minoraverages/Howard,1907,Eastern League,hearne,B00912,Hearne,"Hugh J. ""Hughie""*",,Baltimore,19070426,19070920,97,,c87
 minoraverages/1908Reach,1907,Eastern League,henley,B01227,Henley,,0,Rochester,,,23,,
 minoraverages/1908Reach,1907,Eastern League,henley,F21381,Henley,,0,Rochester,,,,,p21
 minoraverages/1908Reach,1907,Eastern League,henley,P10168,Henley,,0,Rochester,,,,,
-minoraverages/Howard,1907,Eastern League,henley,B00920,Henley,Weldon*,,Rochester,19070704,19070920,23,,p21rf2
+minoraverages/Howard,1907,Eastern League,henley,B00920,Henley,Weldon*,,Rochester,19070704,19070920,23,,"p21,rf2"
 minoraverages/Howard,1907,Eastern League,henley,P10714,Henley,Weldon*,0,Rochester,,,,21,
 minoraverages/Howard,1907,Eastern League,hennessy,B00936,Hennessy,Joseph Charles,,Newark,19070503,19070504,2,,rf2
-minoraverages/Howard,1907,Eastern League,henriquez,B00948,Henriquez,,,Newark,19070807,19070810,3,,lf1cf2
+minoraverages/Howard,1907,Eastern League,henriquez,B00948,Henriquez,,,Newark,19070807,19070810,3,,"lf1,cf2"
 minoraverages/1908Reach,1907,Eastern League,herbst,B01181,Herbst,,0,Montreal,,,45,,
 minoraverages/1908Reach,1907,Eastern League,herbst,F21101,Herbst,,0,Montreal,,,,,rf17
 minoraverages/1908Reach,1907,Eastern League,herbst,F21308,Herbst,,0,Montreal,,,,,p26
 minoraverages/1908Reach,1907,Eastern League,herbst,P10493,Herbst,,0,Montreal,,,,,
-minoraverages/Howard,1907,Eastern League,herbst,B00957,Herbst,Andrew J.,,Montreal,19070601,19070924,45,,p26lf1cf1rf16
+minoraverages/Howard,1907,Eastern League,herbst,B00957,Herbst,Andrew J.,,Montreal,19070601,19070924,45,,"p26,lf1,cf1,rf16"
 minoraverages/Howard,1907,Eastern League,herbst,P10373,Herbst,Andrew J.,0,Montreal,,,,26,
 minoraverages/1908Reach,1907,Eastern League,hesterfer,B00381,Hesterfer,,0,Toronto,,,30,,
 minoraverages/1908Reach,1907,Eastern League,hesterfer,F21232,Hesterfer,,0,Toronto,,,,,p30
@@ -299,18 +299,18 @@ minoraverages/Howard,1907,Eastern League,higgins,B00973,Higgins,"William H. ""Bi
 minoraverages/1908Reach,1907,Eastern League,hill,B00553,Hill,,1,Montreal,,,,,
 minoraverages/1908Reach,1907,Eastern League,hill,B00553,Hill,,2,Buffalo,,,,,
 minoraverages/1908Reach,1907,Eastern League,hill,B00553,Hill,,T,,,,102,,
-minoraverages/1908Reach,1907,Eastern League,hill,F20279,Hill,,1,Montreal,,,,,2b.
-minoraverages/1908Reach,1907,Eastern League,hill,F20279,Hill,,2,Buffalo,,,,,2b.
+minoraverages/1908Reach,1907,Eastern League,hill,F20279,Hill,,1,Montreal,,,,,2b
+minoraverages/1908Reach,1907,Eastern League,hill,F20279,Hill,,2,Buffalo,,,,,2b
 minoraverages/1908Reach,1907,Eastern League,hill,F20279,Hill,,T,,,,,,2b15
-minoraverages/1908Reach,1907,Eastern League,hill,F20375,Hill,,1,Montreal,,,,,3b.
-minoraverages/1908Reach,1907,Eastern League,hill,F20375,Hill,,2,Buffalo,,,,,3b.
+minoraverages/1908Reach,1907,Eastern League,hill,F20375,Hill,,1,Montreal,,,,,3b
+minoraverages/1908Reach,1907,Eastern League,hill,F20375,Hill,,2,Buffalo,,,,,3b
 minoraverages/1908Reach,1907,Eastern League,hill,F20375,Hill,,T,,,,,,3b63
-minoraverages/1908Reach,1907,Eastern League,hill,F20482,Hill,,1,Montreal,,,,,ss.
-minoraverages/1908Reach,1907,Eastern League,hill,F20482,Hill,,2,Buffalo,,,,,ss.
+minoraverages/1908Reach,1907,Eastern League,hill,F20482,Hill,,1,Montreal,,,,,ss
+minoraverages/1908Reach,1907,Eastern League,hill,F20482,Hill,,2,Buffalo,,,,,ss
 minoraverages/1908Reach,1907,Eastern League,hill,F20482,Hill,,T,,,,,,ss24
-minoraverages/Howard,1907,Eastern League,hill,B00985,Hill,Hunter B.*,1,Montreal,19070424,19070709,52,,2b153b15ss22
+minoraverages/Howard,1907,Eastern League,hill,B00985,Hill,Hunter B.*,1,Montreal,19070424,19070709,52,,"2b15,3b15,ss22"
 minoraverages/Howard,1907,Eastern League,hill,B00999,Hill,Hunter B.*,2,Buffalo,19070710,19070924,50,,3b50
-minoraverages/Howard,1907,Eastern League,hill,B01007,Hill,Hunter B.*,T,,19070424,19070924,102,,2b153b65ss22
+minoraverages/Howard,1907,Eastern League,hill,B01007,Hill,Hunter B.*,T,,19070424,19070924,102,,"2b15,3b65,ss22"
 minoraverages/Howard,1907,Eastern League,hobbs,B01010,Hobbs,Allan Wilson,,Montreal,19070624,19070629,2,,p2
 minoraverages/Howard,1907,Eastern League,hobbs,P10432,Hobbs,Allan Wilson,0,Montreal,,,,2,
 minoraverages/Howard,1907,Eastern League,hobson,B01029,Hobson,George,,Buffalo,19070525,19070528,2,,p2
@@ -331,7 +331,7 @@ minoraverages/1908Reach,1907,Eastern League,hunter,F20095,Hunter,,0,Baltimore,,,
 minoraverages/Howard,1907,Eastern League,hunter,B01078,Hunter,"Frederick C. ""Newt""*",,Baltimore,19070425,19070924,98,,1b98
 minoraverages/1908Reach,1907,Eastern League,hurley,B01162,Hurley,,0,Toronto,,,54,,
 minoraverages/1908Reach,1907,Eastern League,hurley,F21840,Hurley,,0,Toronto,,,,,c52
-minoraverages/Howard,1907,Eastern League,hurley,B01086,Hurley,"Jeremiah ""Jerry""*",,Toronto,19070427,19070922,54,,c52lf1
+minoraverages/Howard,1907,Eastern League,hurley,B01086,Hurley,"Jeremiah ""Jerry""*",,Toronto,19070427,19070922,54,,"c52,lf1"
 minoraverages/1908Reach,1907,Eastern League,jacobson,B01275,Jacobson,,0,Toronto,,,5,,
 minoraverages/1908Reach,1907,Eastern League,jacobson,F21130,Jacobson,,0,Toronto,,,,,p5
 minoraverages/1908Reach,1907,Eastern League,jacobson,P10253,Jacobson,,0,Toronto,,,,,
@@ -345,7 +345,7 @@ minoraverages/1908Reach,1907,Eastern League,jones,F20699,Jones,,0,Newark,,,,,lf1
 minoraverages/Howard,1907,Eastern League,jones,B01119,Jones,"James T. ""Jim""*",,Newark,19070425,19070922,132,,lf132
 minoraverages/1908Reach,1907,Eastern League,joyce,B00531,Joyce,,0,Montreal,,,90,,
 minoraverages/1908Reach,1907,Eastern League,joyce,F20685,Joyce,,0,Montreal,,,,,lf87
-minoraverages/Howard,1907,Eastern League,joyce,B01124,Joyce,Michael J.,,Montreal,19070424,19070826,90,,p11b1lf86
+minoraverages/Howard,1907,Eastern League,joyce,B01124,Joyce,Michael J.,,Montreal,19070424,19070826,90,,"p1,1b1,lf86"
 minoraverages/Howard,1907,Eastern League,joyce,P10441,Joyce,Michael J.,0,Montreal,,,,1,
 minoraverages/Howard,1907,Eastern League,kane,B01135,Kane,(Patrick?),,Rochester,19070921,19070921,1,,c1
 minoraverages/1908Reach,1907,Eastern League,keefe,B01428,Keefe,,0,Montreal,,,18,,
@@ -361,7 +361,7 @@ minoraverages/1908Reach,1907,Eastern League,kelley-tor,F20038,Kelley,,0,Toronto,
 minoraverages/1908Reach,1907,Eastern League,kelley-tor,F20287,Kelley,,0,Toronto,,,,,2b10
 minoraverages/1908Reach,1907,Eastern League,kelley-tor,F20784,Kelley,,0,Toronto,,,,,cf28
 minoraverages/1908Reach,1907,Eastern League,kelly-bal,F20807,Kelley,,0,Baltimore,,,,,cf76
-minoraverages/Howard,1907,Eastern League,kelley-tor,B01162,Kelley,"Joseph J. ""Joe""*",,Toronto,19070424,19070915,91,,1b352b73b3cf42
+minoraverages/Howard,1907,Eastern League,kelley-tor,B01162,Kelley,"Joseph J. ""Joe""*",,Toronto,19070424,19070915,91,,"1b35,2b7,3b3,cf42"
 minoraverages/Howard,1907,Eastern League,kelley-tor,M90107,Kelley,"Joseph J. ""Joe""*",,Toronto,,,,,
 minoraverages/Howard,1907,Eastern League,kelley-tor,P10852,Kelley,"Joseph J. ""Joe""*",0,Toronto,,,,1,
 minoraverages/1908Reach,1907,Eastern League,kelly-bal,B00957,Kelly,,0,Baltimore,,,76,,
@@ -386,7 +386,7 @@ minoraverages/Howard,1907,Eastern League,kittredge,M90052,Kittridge,Malachi J.*,
 minoraverages/1908Reach,1907,Eastern League,knapp,P10534,Knapp,,0,Buffalo,,,,,
 minoraverages/Howard,1907,Eastern League,knapp,B01234,Knapp,"Levi ""Putt""",,Buffalo,19070810,19070924,5,,p5
 minoraverages/Howard,1907,Eastern League,knapp,P10184,Knapp,"Levi ""Putt""",0,Buffalo,,,,5,
-minoraverages/Howard,1907,Eastern League,kritchell,B01242,Krichell,Paul B.*,,Newark,19070425,19070920,30,,c241b1cf1
+minoraverages/Howard,1907,Eastern League,kritchell,B01242,Krichell,Paul B.*,,Newark,19070425,19070920,30,,"c24,1b1,cf1"
 minoraverages/1908Reach,1907,Eastern League,kritchell,B00397,Kritchell,,0,Newark,,,30,,
 minoraverages/1908Reach,1907,Eastern League,kritchell,F21752,Kritchell,,0,Newark,,,,,c24
 minoraverages/Howard,1907,Eastern League,kroh,B01250,Kroh,"Floyd M. ""Rube""*",,Baltimore,19070518,19070525,2,,p2
@@ -394,12 +394,12 @@ minoraverages/Howard,1907,Eastern League,kroh,P10081,Kroh,"Floyd M. ""Rube""*",0
 minoraverages/1908Reach,1907,Eastern League,labelle,B01345,La Belle,,0,Newark,,,28,,
 minoraverages/1908Reach,1907,Eastern League,labelle,P10357,La Belle,,0,Newark,,,,,
 minoraverages/1908Reach,1907,Eastern League,labelle,F21623,LaBelle,,0,Newark,,,,,p25
-minoraverages/Howard,1907,Eastern League,labelle,B01269,Labelle,"Henry P. ""Hank""",,Newark,19070426,19070921,28,,p243b1cf1
+minoraverages/Howard,1907,Eastern League,labelle,B01269,Labelle,"Henry P. ""Hank""",,Newark,19070426,19070921,28,,"p24,3b1,cf1"
 minoraverages/Howard,1907,Eastern League,labelle,P10486,Labelle,"Henry P. ""Hank""",0,Newark,,,,24,
 minoraverages/1908Reach,1907,Eastern League,lake,B00308,Lake,,0,Jersey City,,,57,,
 minoraverages/1908Reach,1907,Eastern League,lake,F21491,Lake,,0,Jersey City,,,,,p44
 minoraverages/1908Reach,1907,Eastern League,lake,P10081,Lake,,0,Jersey City,,,,,
-minoraverages/Howard,1907,Eastern League,lake,B01275,Lake,"Joseph H. ""Joe""*",,Jersey City,19070425,19070921,56,,p431b3cf1
+minoraverages/Howard,1907,Eastern League,lake,B01275,Lake,"Joseph H. ""Joe""*",,Jersey City,19070425,19070921,56,,"p43,1b3,cf1"
 minoraverages/Howard,1907,Eastern League,lake,P10228,Lake,"Joseph H. ""Joe""*",0,Jersey City,,,,43,
 minoraverages/Howard,1907,Eastern League,leach,B01288,Leach,George Washington,,Providence,19070709,19070709,1,,p1
 minoraverages/Howard,1907,Eastern League,leach,P10654,Leach,George Washington,0,Providence,,,,1,
@@ -410,7 +410,7 @@ minoraverages/Howard,1907,Eastern League,leonard,B01300,Leonard,,,Jersey City,19
 minoraverages/Howard,1907,Eastern League,leonard,P10336,Leonard,,0,Jersey City,,,,1,
 minoraverages/1908Reach,1907,Eastern League,lord,B00278,Lord,,0,Providence,,,136,,
 minoraverages/1908Reach,1907,Eastern League,lord,F20417,Lord,,0,Providence,,,,,3b134
-minoraverages/Howard,1907,Eastern League,lord,B01313,Lord,Harry D.*,,Providence,19070425,19070924,136,,3b134ss2
+minoraverages/Howard,1907,Eastern League,lord,B01313,Lord,Harry D.*,,Providence,19070425,19070924,136,,"3b134,ss2"
 minoraverages/1908Reach,1907,Eastern League,loudenslager,B00229,Loudenslager,,0,Rochester,,,92,,
 minoraverages/1908Reach,1907,Eastern League,loudenslager,F20190,Loudenslager,,0,Rochester,,,,,2b92
 minoraverages/Howard,1907,Eastern League,loudenslager,B01321,Loudenslager,Charlie*,,Rochester,19070424,19070807,92,,2b92
@@ -419,16 +419,16 @@ minoraverages/Howard,1907,Eastern League,madden,B01345,Madden,"Thomas J. ""Tommy
 minoraverages/1908Reach,1907,Eastern League,madigan,B01029,Madigan,,0,Montreal,,,117,,
 minoraverages/1908Reach,1907,Eastern League,madigan,F20908,Madigan,,0,Montreal,,,,,cf12
 minoraverages/1908Reach,1907,Eastern League,madigan,F20997,Madigan,,0,Montreal,,,,,rf103
-minoraverages/Howard,1907,Eastern League,madigan,B01359,Madigan,"Michael ""Mike""",,Montreal,19070424,19070924,117,,2b1cf11rf104
+minoraverages/Howard,1907,Eastern League,madigan,B01359,Madigan,"Michael ""Mike""",,Montreal,19070424,19070924,117,,"2b1,cf11,rf104"
 minoraverages/1908Reach,1907,Eastern League,mahling,B00614,Mahling,,0,Newark,,,128,,
 minoraverages/1908Reach,1907,Eastern League,mahling,F20547,Mahling,,0,Newark,,,,,ss110
 minoraverages/1908Reach,1907,Eastern League,mahling,F21084,Mahling,,0,Newark,,,,,rf12
-minoraverages/Howard,1907,Eastern League,mahling,B01368,Mahling,William E.,,Newark,19070425,19070922,128,,2b3ss110cf3rf12
+minoraverages/Howard,1907,Eastern League,mahling,B01368,Mahling,William E.,,Newark,19070425,19070922,128,,"2b3,ss110,cf3,rf12"
 minoraverages/1908Reach,1907,Eastern League,malay,B00840,Malay,,0,Rochester,,,104,,
 minoraverages/1908Reach,1907,Eastern League,malay,F20316,Malay,,0,Rochester,,,,,2b10
 minoraverages/1908Reach,1907,Eastern League,malay,F20636,Malay,,0,Rochester,,,,,lf56
 minoraverages/1908Reach,1907,Eastern League,malay,F20935,Malay,,0,Rochester,,,,,rf12
-minoraverages/Howard,1907,Eastern League,malay,B01376,Malay,Charles F.*,,Rochester,19070506,19070924,104,,1b32b103b2ss6cf70
+minoraverages/Howard,1907,Eastern League,malay,B01376,Malay,Charles F.*,,Rochester,19070506,19070924,104,,"1b3,2b10,3b2,ss6,cf70"
 minoraverages/Howard,1907,Eastern League,manser,B01384,Manser,James Vernon,,Jersey City,19070701,19070726,3,,p3
 minoraverages/Howard,1907,Eastern League,manser,P10304,Manser,James Vernon,0,Jersey City,,,,3,
 minoraverages/1908Reach,1907,Eastern League,mason,B01384,Mason,,0,Jersey City,,,7,,
@@ -440,7 +440,7 @@ minoraverages/Howard,1907,Eastern League,mathieu,B01402,Mathieu,"Stanislaus ""St
 minoraverages/Howard,1907,Eastern League,mathieu,P10665,Mathieu,"Stanislaus ""Stanis""",0,Providence,,,,1,
 minoraverages/1908Reach,1907,Eastern League,mcallister,B00442,McAllister,,0,Buffalo,,,73,,
 minoraverages/1908Reach,1907,Eastern League,mcallister,F21822,McAllister,,0,Buffalo,,,,,c55
-minoraverages/Howard,1907,Eastern League,mcallister,B01415,McAllister,"Lewis W. ""Sport""*",,Buffalo,19070427,19070924,73,,c571b12b43b5cf2
+minoraverages/Howard,1907,Eastern League,mcallister,B01415,McAllister,"Lewis W. ""Sport""*",,Buffalo,19070427,19070924,73,,"c57,1b1,2b4,3b5,cf2"
 minoraverages/Howard,1907,Eastern League,mcallister,M90026,McAllister,"Lewis W. ""Sport""*",,Buffalo,,19070009,,,
 minoraverages/1908Reach,1907,Eastern League,mccafferty,B01489,McCafferty,,0,Newark,,,11,,
 minoraverages/1908Reach,1907,Eastern League,mccafferty,F21196,McCafferty,,0,Newark,,,,,p11
@@ -452,7 +452,7 @@ minoraverages/Howard,1907,Eastern League,mccann,P10312,McCann,"H. Eugene ""Gene"
 minoraverages/1908Reach,1907,Eastern League,mccarthy-new,B00264,McCarthy,,0,Newark,,,56,,
 minoraverages/1908Reach,1907,Eastern League,mccarthy-new,F21434,McCarthy,,0,Newark,,,,,p36
 minoraverages/1908Reach,1907,Eastern League,mccarthy-new,P10121,McCarthy,,0,Newark,,,,,
-minoraverages/Howard,1907,Eastern League,mccarthy-new,B01444,McCarthy,"Thomas P. ""Tom""*",,Newark,19070428,19070922,57,,p36lf1cf1rf7
+minoraverages/Howard,1907,Eastern League,mccarthy-new,B01444,McCarthy,"Thomas P. ""Tom""*",,Newark,19070428,19070922,57,,"p36,lf1,cf1,rf7"
 minoraverages/Howard,1907,Eastern League,mccarthy-pro,B01453,McCarthy,"William J. ""Bill""*",,Providence,19070503,19070507,3,,c1
 minoraverages/Howard,1907,Eastern League,mccarthy-new,P10464,McCarthy,"Thomas P. ""Tom""*",0,Newark,,,,36,
 minoraverages/1908Reach,1907,Eastern League,mccloskey,B01415,McCloskey,,0,Baltimore,,,33,,
@@ -465,11 +465,11 @@ minoraverages/1908Reach,1907,Eastern League,mcconnell-buf,B00174,McConnell,,0,Bu
 minoraverages/1908Reach,1907,Eastern League,mcconnell-buf,F20046,McConnell,,0,Buffalo,,,,,1b132
 minoraverages/1908Reach,1907,Eastern League,mcconnell-pro,F20240,McConnell,,0,Providence,,,,,2b129
 minoraverages/Howard,1907,Eastern League,mcconnell-pro,B01477,McConnell,"Ambrose M. ""Amby""*",,Providence,19070502,19070924,129,,2b129
-minoraverages/Howard,1907,Eastern League,mcconnell-buf,B01489,McConnell,George N.*,,Buffalo,19070424,19070924,133,,p11b132
+minoraverages/Howard,1907,Eastern League,mcconnell-buf,B01489,McConnell,George N.*,,Buffalo,19070424,19070924,133,,"p1,1b132"
 minoraverages/Howard,1907,Eastern League,mcconnell-buf,P10215,McConnell,George N.*,0,Buffalo,,,,1,
 minoraverages/Howard,1907,Eastern League,mccrehan,B01490,McCrehan,Peter,,Toronto,19070614,19070616,4,,rf4
 minoraverages/1908Reach,1907,Eastern League,mcdonald,B00117,McDonald,,0,Newark,,,11,,
-minoraverages/Howard,1907,Eastern League,mcdonald,B01509,McDonald,"Edward C. ""Ed""*",,Newark,19070616,19070715,11,,2b23b7ss1lf1
+minoraverages/Howard,1907,Eastern League,mcdonald,B01509,McDonald,"Edward C. ""Ed""*",,Newark,19070616,19070715,11,,"2b2,3b7,ss1,lf1"
 minoraverages/1908Reach,1907,Eastern League,mcginley,B01300,McGinley,,0,Toronto,,,35,,
 minoraverages/1908Reach,1907,Eastern League,mcginley,F21416,McGinley,,0,Toronto,,,,,p35
 minoraverages/1908Reach,1907,Eastern League,mcginley,P10035,McGinley,,0,Toronto,,,,,
@@ -482,12 +482,12 @@ minoraverages/1908Reach,1907,Eastern League,mclean,P10289,McLean,,0,Rochester,,,
 minoraverages/Howard,1907,Eastern League,mclean,B01538,McLean,Frank S. G.,,Rochester,19070424,19070921,36,,p36
 minoraverages/Howard,1907,Eastern League,mclean,P10698,McLean,Frank S. G.,0,Rochester,,,,36,
 minoraverages/1908Reach,1907,Eastern League,mcmanus,B01064,McManus,,0,Jersey City,,,46,,
-minoraverages/1908Reach,1907,Eastern League,mcmanus,F21760,McManus,,1,Jersey City,,,,,c.
-minoraverages/1908Reach,1907,Eastern League,mcmanus,F21760,McManus,,2,Montreal,,,,,c.
+minoraverages/1908Reach,1907,Eastern League,mcmanus,F21760,McManus,,1,Jersey City,,,,,c
+minoraverages/1908Reach,1907,Eastern League,mcmanus,F21760,McManus,,2,Montreal,,,,,c
 minoraverages/1908Reach,1907,Eastern League,mcmanus,F21760,McManus,,T,,,,,,c42
-minoraverages/Howard,1907,Eastern League,mcmanus,B01546,McManus,"Francis E. ""Frank""*",1,Jersey City,19070425,19070715,38,,c331b4
+minoraverages/Howard,1907,Eastern League,mcmanus,B01546,McManus,"Francis E. ""Frank""*",1,Jersey City,19070425,19070715,38,,"c33,1b4"
 minoraverages/Howard,1907,Eastern League,mcmanus,B01551,McManus,"Francis E. ""Frank""*",2,Montreal,19070728,19070822,8,,c8
-minoraverages/Howard,1907,Eastern League,mcmanus,B01567,McManus,"Francis E. ""Frank""*",T,,19070425,19070822,46,,c411b4
+minoraverages/Howard,1907,Eastern League,mcmanus,B01567,McManus,"Francis E. ""Frank""*",T,,19070425,19070822,46,,"c41,1b4"
 minoraverages/1908Reach,1907,Eastern League,mcquillan,B00739,McQuillan,,0,Providence,,,31,,
 minoraverages/1908Reach,1907,Eastern League,mcquillan,F21577,McQuillan,,0,Providence,,,,,p31
 minoraverages/1908Reach,1907,Eastern League,mcquillan,P10024,McQuillan,,0,Providence,,,,,
@@ -495,19 +495,19 @@ minoraverages/Howard,1907,Eastern League,mcquillan,B01572,McQuillan,George W.*,,
 minoraverages/Howard,1907,Eastern League,mcquillan,P10575,McQuillan,George W.*,0,Providence,,,,32,
 minoraverages/1908Reach,1907,Eastern League,merritt,B00343,Merritt,,0,Jersey City,,,121,,
 minoraverages/1908Reach,1907,Eastern League,merritt,F20102,Merritt,,0,Jersey City,,,,,1b108
-minoraverages/Howard,1907,Eastern League,merritt,B01580,Merritt,George W.*,,Jersey City,19070425,19070924,121,,p11b1122b6ss2cf1
+minoraverages/Howard,1907,Eastern League,merritt,B01580,Merritt,George W.*,,Jersey City,19070425,19070924,121,,"p1,1b112,2b6,ss2,cf1"
 minoraverages/Howard,1907,Eastern League,merritt,P10348,Merritt,George W.*,0,Jersey City,,,,1,
 minoraverages/Howard,1907,Eastern League,miller,B01595,Miller,,,Providence,19070618,19070620,3,,cf3
 minoraverages/1908Reach,1907,Eastern League,milligan,B00811,Milligan,,0,Buffalo,,,44,,
 minoraverages/1908Reach,1907,Eastern League,milligan,F21403,Milligan,,0,Buffalo,,,,,p30
 minoraverages/1908Reach,1907,Eastern League,milligan,P10159,Milligan,,0,Buffalo,,,,,
-minoraverages/Howard,1907,Eastern League,milligan,B01601,Milligan,"William J. ""Billy""*",,Buffalo,19070510,19070924,44,,p31rf1
+minoraverages/Howard,1907,Eastern League,milligan,B01601,Milligan,"William J. ""Billy""*",,Buffalo,19070510,19070924,44,,"p31,rf1"
 minoraverages/Howard,1907,Eastern League,milligan,P10145,Milligan,"William J. ""Billy""*",0,Buffalo,,,,31,
 minoraverages/1908Reach,1907,Eastern League,mitchell,B00427,Mitchell,,0,Toronto,,,44,,
 minoraverages/1908Reach,1907,Eastern League,mitchell,F20327,Mitchell,,0,Toronto,,,,,2b20
 minoraverages/1908Reach,1907,Eastern League,mitchell,F21149,Mitchell,,0,Toronto,,,,,p14
 minoraverages/1908Reach,1907,Eastern League,mitchell,P10056,Mitchell,,0,Toronto,,,,,
-minoraverages/Howard,1907,Eastern League,mitchell,B01617,Mitchell,"Frederick F. ""Fred""*",,Toronto,19070501,19070921,44,,p151b12b203b6
+minoraverages/Howard,1907,Eastern League,mitchell,B01617,Mitchell,"Frederick F. ""Fred""*",,Toronto,19070501,19070921,44,,"p15,1b1,2b20,3b6"
 minoraverages/Howard,1907,Eastern League,mitchell,P10818,Mitchell,"Frederick F. ""Fred""*",0,Toronto,,,,15,
 minoraverages/1908Reach,1907,Eastern League,moffitt,B00589,Moffit,,0,Toronto,,,25,,
 minoraverages/1908Reach,1907,Eastern League,moffitt,P10062,Moffit,,0,Toronto,,,,,
@@ -522,7 +522,7 @@ minoraverages/Howard,1907,Eastern League,moore,P10266,Moore,"Alonzo Earl ""Earl"
 minoraverages/1908Reach,1907,Eastern League,moran,B00646,Moran,,0,Rochester,,,97,,
 minoraverages/1908Reach,1907,Eastern League,moran,F20166,Moran,,0,Rochester,,,,,2b19
 minoraverages/1908Reach,1907,Eastern League,moran,F20463,Moran,,0,Rochester,,,,,ss77
-minoraverages/Howard,1907,Eastern League,moran,B01649,Moran,Charles V.*,,Rochester,19070424,19070924,97,,2b19ss77
+minoraverages/Howard,1907,Eastern League,moran,B01649,Moran,Charles V.*,,Rochester,19070424,19070924,97,,"2b19,ss77"
 minoraverages/1908Reach,1907,Eastern League,morgan,B00936,Morgan,,0,Montreal,,,122,,
 minoraverages/1908Reach,1907,Eastern League,morgan,F20350,Morgan,,0,Montreal,,,,,3b118
 minoraverages/Howard,1907,Eastern League,morgan,B01658,Morgan,"James E. ""Red""*",,Montreal,19070505,19070924,122,,3b118
@@ -542,26 +542,26 @@ minoraverages/1908Reach,1907,Eastern League,mullen,F20206,Mullen,,0,Newark,,,,,2
 minoraverages/Howard,1907,Eastern League,mullen,B01706,Mullen,"James H. ""Jim""*",,Newark,19070428,19070922,131,,2b130
 minoraverages/1908Reach,1907,Eastern League,murray,B00293,Murray,,0,Buffalo,,,115,,
 minoraverages/1908Reach,1907,Eastern League,murray,F20943,Murray,,0,Buffalo,,,,,rf114
-minoraverages/Howard,1907,Eastern League,murray,B01711,Murray,"James O. ""Jim""*",,Buffalo,19070424,19070924,115,,1b1rf112
+minoraverages/Howard,1907,Eastern League,murray,B01711,Murray,"James O. ""Jim""*",,Buffalo,19070424,19070924,115,,"1b1,rf112"
 minoraverages/1908Reach,1907,Eastern League,nattress,B00403,Nattress,,0,Buffalo,,,134,,
 minoraverages/1908Reach,1907,Eastern League,nattress,F20458,Nattress,,0,Buffalo,,,,,ss134
 minoraverages/Howard,1907,Eastern League,nattress,B01722,Nattress,"William W. ""Billy""",,Buffalo,19070424,19070924,134,,ss134
 minoraverages/1908Reach,1907,Eastern League,needham,B00760,Needham,,1,Montreal,,,,,
 minoraverages/1908Reach,1907,Eastern League,needham,B00760,Needham,,2,Buffalo,,,,,
 minoraverages/1908Reach,1907,Eastern League,needham,B00760,Needham,,T,,,,107,,
-minoraverages/1908Reach,1907,Eastern League,needham,F20560,Needham,,1,Montreal,,,,,ss.
-minoraverages/1908Reach,1907,Eastern League,needham,F20560,Needham,,2,Buffalo,,,,,ss.
+minoraverages/1908Reach,1907,Eastern League,needham,F20560,Needham,,1,Montreal,,,,,ss
+minoraverages/1908Reach,1907,Eastern League,needham,F20560,Needham,,2,Buffalo,,,,,ss
 minoraverages/1908Reach,1907,Eastern League,needham,F20560,Needham,,T,,,,,,ss38
-minoraverages/1908Reach,1907,Eastern League,needham,F20759,Needham,,1,Montreal,,,,,cf.
-minoraverages/1908Reach,1907,Eastern League,needham,F20759,Needham,,2,Baltimore,,,,,cf.
+minoraverages/1908Reach,1907,Eastern League,needham,F20759,Needham,,1,Montreal,,,,,cf
+minoraverages/1908Reach,1907,Eastern League,needham,F20759,Needham,,2,Baltimore,,,,,cf
 minoraverages/1908Reach,1907,Eastern League,needham,F20759,Needham,,T,,,,,,cf47
-minoraverages/1908Reach,1907,Eastern League,needham,F21059,Needham,,1,Montreal,,,,,rf.
-minoraverages/1908Reach,1907,Eastern League,needham,F21059,Needham,,2,Buffalo,,,,,rf.
+minoraverages/1908Reach,1907,Eastern League,needham,F21059,Needham,,1,Montreal,,,,,rf
+minoraverages/1908Reach,1907,Eastern League,needham,F21059,Needham,,2,Buffalo,,,,,rf
 minoraverages/1908Reach,1907,Eastern League,needham,F21059,Needham,,T,,,,,,rf11
 minoraverages/Howard,1907,Eastern League,needham,B01733,Needham,George L.,1,Montreal,19070424,19070627,36,,ss36
-minoraverages/Howard,1907,Eastern League,needham,B01740,Needham,George L.,2,Buffalo,19070706,19070712,5,,3b3rf2
-minoraverages/Howard,1907,Eastern League,needham,B01754,Needham,George L.,3,Montreal,19070714,19070924,66,,2b1ss3lf52cf1rf9
-minoraverages/Howard,1907,Eastern League,needham,B01765,Needham,George L.,T,,19070424,19070924,107,,2b13b3ss39lf52cf1rf11
+minoraverages/Howard,1907,Eastern League,needham,B01740,Needham,George L.,2,Buffalo,19070706,19070712,5,,"3b3,rf2"
+minoraverages/Howard,1907,Eastern League,needham,B01754,Needham,George L.,3,Montreal,19070714,19070924,66,,"2b1,ss3,lf52,cf1,rf9"
+minoraverages/Howard,1907,Eastern League,needham,B01765,Needham,George L.,T,,19070424,19070924,107,,"2b1,3b3,ss39,lf52,cf1,rf11"
 minoraverages/Howard,1907,Eastern League,neuer,B01779,Neuer,"John S. ""Tacks""*",,Providence,19070510,19070510,1,,p1
 minoraverages/Howard,1907,Eastern League,neuer,P10640,Neuer,"John S. ""Tacks""*",0,Providence,,,,1,
 minoraverages/1908Reach,1907,Eastern League,newton,B01337,Newton,,0,Montreal,,,18,,
@@ -576,7 +576,7 @@ minoraverages/Howard,1907,Eastern League,ohara,B01804,O'Hara,"William A. ""Bill"
 minoraverages/Howard,1907,Eastern League,oneil,B01812,O'Neil,,,Jersey City,19070720,19070720,1,,1b1
 minoraverages/1908Reach,1907,Eastern League,oakes,B01086,Oakes,,0,Providence,,,15,,
 minoraverages/1908Reach,1907,Eastern League,oakes,F20924,Oakes,,0,Providence,,,,,rf14
-minoraverages/Howard,1907,Eastern League,oakes,B01820,Oakes,"Ennis T. ""Rebel""*",,Providence,19070526,19070709,15,,cf2rf13
+minoraverages/Howard,1907,Eastern League,oakes,B01820,Oakes,"Ennis T. ""Rebel""*",,Providence,19070526,19070709,15,,"cf2,rf13"
 minoraverages/Howard,1907,Eastern League,orndorff,B01836,Orndorff,Jesse W. T.*,,Providence,19070716,19070729,8,,c8
 minoraverages/Howard,1907,Eastern League,paine,B01848,Paine,"Harold ""Spec""",,Providence,19070730,19070924,6,,c6
 minoraverages/1908Reach,1907,Eastern League,pappalau,B01444,Pappalau,,0,Rochester,,,36,,
@@ -590,15 +590,15 @@ minoraverages/Howard,1907,Eastern League,pardee,B01861,Pardee,"Albert L. ""Al"""
 minoraverages/Howard,1907,Eastern League,pardee,P10455,Pardee,"Albert L. ""Al""",0,Newark,,,,40,
 minoraverages/1908Reach,1907,Eastern League,pardee,P10184,Pardeen,,0,Newark,,,,,
 minoraverages/1908Reach,1907,Eastern League,parrott,B01368,Parrott,,0,Buffalo,,,10,,
-minoraverages/Howard,1907,Eastern League,parrott,B01873,Parrott,Ralph E.,,Buffalo,19070902,19070924,10,,lf2rf8
+minoraverages/Howard,1907,Eastern League,parrott,B01873,Parrott,Ralph E.,,Buffalo,19070902,19070924,10,,"lf2,rf8"
 minoraverages/Howard,1907,Eastern League,perry,B01885,Perry,,,Newark,19070425,19070427,3,,rf3
 minoraverages/1908Reach,1907,Eastern League,peterson,B00806,Peterson,,0,Providence,,,91,,
 minoraverages/1908Reach,1907,Eastern League,peterson,F21726,Peterson,,0,Toronto,,,,,c82
-minoraverages/Howard,1907,Eastern League,peterson,B01899,Peterson,"Robert A. ""Bob""*",,Providence,19070425,19070924,91,,c83ss1lf1
+minoraverages/Howard,1907,Eastern League,peterson,B01899,Peterson,"Robert A. ""Bob""*",,Providence,19070425,19070924,91,,"c83,ss1,lf1"
 minoraverages/1908Reach,1907,Eastern League,pfanmiller,B01078,Pfanmiller,,0,Jersey City,,,32,,
 minoraverages/1908Reach,1907,Eastern League,pfanmiller,F21278,Pfanmiller,,0,Jersey City,,,,,p1
 minoraverages/1908Reach,1907,Eastern League,pfanmiller,P10100,Pfanmiller,,0,Jersey City,,,,,
-minoraverages/Howard,1907,Eastern League,pfanmiller,B01905,Pfanmiller,George P.,,Jersey City,19070427,19070924,33,,p32cf1
+minoraverages/Howard,1907,Eastern League,pfanmiller,B01905,Pfanmiller,George P.,,Jersey City,19070427,19070924,33,,"p32,cf1"
 minoraverages/Howard,1907,Eastern League,pfanmiller,P10231,Pfanmiller,George P.,0,Jersey City,,,,32,
 minoraverages/1908Reach,1907,Eastern League,phelan,B00356,Phelan,,1,Montreal,,,,,
 minoraverages/1908Reach,1907,Eastern League,phelan,B00356,Phelan,,2,Providence,,,,,
@@ -613,16 +613,16 @@ minoraverages/Howard,1907,Eastern League,phyle,B01947,Phyle,"William J. ""Bill""
 minoraverages/1908Reach,1907,Eastern League,poland,B00207,Poland,,0,Providence,,,136,,
 minoraverages/1908Reach,1907,Eastern League,poland,F20829,Poland,,0,Providence,,,,,cf35
 minoraverages/1908Reach,1907,Eastern League,poland,F21037,Poland,,0,Providence,,,,,rf96
-minoraverages/Howard,1907,Eastern League,poland,B01952,Poland,Phillip,,Providence,19070425,19070924,136,,3b2lf4cf34rf96
+minoraverages/Howard,1907,Eastern League,poland,B01952,Poland,Phillip,,Providence,19070425,19070924,136,,"3b2,lf4,cf34,rf96"
 minoraverages/1908Reach,1907,Eastern League,rapp,B01108,Rapp,,0,Baltimore,,,91,,
 minoraverages/1908Reach,1907,Eastern League,rapp,F20115,Rapp,,0,Baltimore,,,,,1b44
 minoraverages/1908Reach,1907,Eastern League,rapp,F20864,Rapp,,0,Baltimore,,,,,cf33
 minoraverages/1908Reach,1907,Eastern League,rapp,F21117,Rapp,,0,Baltimore,,,,,rf11
-minoraverages/Howard,1907,Eastern League,rapp,B01960,Rapp,Louis,,Baltimore,19070425,19070828,91,,p11b34cf34rf10
+minoraverages/Howard,1907,Eastern League,rapp,B01960,Rapp,Louis,,Baltimore,19070425,19070828,91,,"p1,1b34,cf34,rf10"
 minoraverages/Howard,1907,Eastern League,rapp,P10113,Rapp,Louis,0,Baltimore,,,,1,
 minoraverages/1908Reach,1907,Eastern League,beach,B00370,Reach,,0,Baltimore,,,70,,
 minoraverages/Howard,1907,Eastern League,robinson,B01971,Robinson,"Wilbert ""Robby""**",,Baltimore,19070615,19070615,1,,c1
-minoraverages/Howard,1907,Eastern League,rock,B01983,Rock,"Royal E. ""Roy""",,Providence,19070728,19070916,3,,3b1lf2
+minoraverages/Howard,1907,Eastern League,rock,B01983,Rock,"Royal E. ""Roy""",,Providence,19070728,19070916,3,,"3b1,lf2"
 minoraverages/Howard,1907,Eastern League,rodgers,B01994,Rodgers,,,Montreal,19070722,19070728,5,,cf5
 minoraverages/1908Reach,1907,Eastern League,roy,B01376,Roy,,0,Newark,,,7,,
 minoraverages/1908Reach,1907,Eastern League,roy,F21475,Roy,,0,Newark,,,,,p7
@@ -632,17 +632,17 @@ minoraverages/Howard,1907,Eastern League,roy,P10503,Roy,Robt. Charlie*,0,Newark,
 minoraverages/1908Reach,1907,Eastern League,rudolph,B00319,Rudolph,,0,Toronto,,,32,,
 minoraverages/1908Reach,1907,Eastern League,rudolph,F21174,Rudolph,,0,Toronto,,,,,p31
 minoraverages/1908Reach,1907,Eastern League,rudolph,P10113,Rudolph,,0,Toronto,,,,,
-minoraverages/Howard,1907,Eastern League,rudolph,B02019,Rudolph,"Richard ""Dick""",,Toronto,19070502,19070921,32,,p31cf1
+minoraverages/Howard,1907,Eastern League,rudolph,B02019,Rudolph,"Richard ""Dick""",,Toronto,19070502,19070921,32,,"p31,cf1"
 minoraverages/Howard,1907,Eastern League,rudolph,P10780,Rudolph,"Richard ""Dick""",0,Toronto,,,,31,
 minoraverages/1908Reach,1907,Eastern League,ryan,B00566,Ryan,,0,Buffalo,,,104,,
 minoraverages/1908Reach,1907,Eastern League,ryan,F20430,Ryan,,0,Buffalo,,,,,3b16
 minoraverages/1908Reach,1907,Eastern League,ryan,F21672,Ryan,,0,Buffalo,,,,,c81
-minoraverages/Howard,1907,Eastern League,ryan,B02024,Ryan,"John B. ""Jack""*",,Buffalo,19070424,19070924,104,,c801b12b33b17cf2
-minoraverages/Howard,1907,Eastern League,schrim,B02035,Schirm,George W.,,Buffalo,19070429,19070924,78,,lf21cf44rf12
+minoraverages/Howard,1907,Eastern League,ryan,B02024,Ryan,"John B. ""Jack""*",,Buffalo,19070424,19070924,104,,"c80,1b1,2b3,3b17,cf2"
+minoraverages/Howard,1907,Eastern League,schrim,B02035,Schirm,George W.,,Buffalo,19070429,19070924,78,,"lf21,cf44,rf12"
 minoraverages/1908Reach,1907,Eastern League,schlafly,B00255,Schlafly,,0,Toronto,,,94,,
 minoraverages/1908Reach,1907,Eastern League,schlafly,F20177,Schlafly,,0,Toronto,,,,,2b68
 minoraverages/1908Reach,1907,Eastern League,schlafly,F20474,Schlafly,,0,Toronto,,,,,ss26
-minoraverages/Howard,1907,Eastern League,schlafly,B02043,Schlafly,"Harry F. ""Larry""*",,Toronto,19070622,19070922,94,,2b86ss8
+minoraverages/Howard,1907,Eastern League,schlafly,B02043,Schlafly,"Harry F. ""Larry""*",,Toronto,19070622,19070922,94,,"2b86,ss8"
 minoraverages/Howard,1907,Eastern League,schmidt,B02056,Schmidt,"Charles J. ""Butch""*",,Baltimore,19070903,19070921,3,,p3
 minoraverages/Howard,1907,Eastern League,schmidt,P10070,Schmidt,"Charles J. ""Butch""*",0,Baltimore,,,,3,
 minoraverages/1908Reach,1907,Eastern League,schrim,B01055,Schrim,,0,Buffalo,,,78,,
@@ -651,18 +651,18 @@ minoraverages/1908Reach,1907,Eastern League,schrim,F20776,Schrim,,0,Buffalo,,,,,
 minoraverages/1908Reach,1907,Eastern League,schrim,F20970,Schrim,,0,Buffalo,,,,,rf11
 minoraverages/1908Reach,1907,Eastern League,sentell,B00999,Sentell,,0,Jersey City,,,81,,
 minoraverages/1908Reach,1907,Eastern League,sentell,F20303,Sentell,,0,Jersey City,,,,,2b11
-minoraverages/Howard,1907,Eastern League,sentell,B02062,Sentell,"Leopold T. ""Paul""*",,Jersey City,19070504,19070813,81,,2b73b70ss4
+minoraverages/Howard,1907,Eastern League,sentell,B02062,Sentell,"Leopold T. ""Paul""*",,Jersey City,19070504,19070813,81,,"2b7,3b70,ss4"
 minoraverages/1908Reach,1907,Eastern League,sentell,F20401,Sentelle,,0,Jersey City,,,,,3b67
 minoraverages/1908Reach,1907,Eastern League,sharpe,B01032,Sharpe,,0,Newark,,,125,,
 minoraverages/1908Reach,1907,Eastern League,sharpe,F20014,Sharpe,,0,Newark,,,,,1b122
-minoraverages/Howard,1907,Eastern League,sharpe,B02070,Sharpe,"Bayard H. ""Bud""*",,Newark,19070425,19070922,125,,1b124lf1
+minoraverages/Howard,1907,Eastern League,sharpe,B02070,Sharpe,"Bayard H. ""Bud""*",,Newark,19070425,19070922,125,,"1b124,lf1"
 minoraverages/1908Reach,1907,Eastern League,shea,B01119,Shea,,0,Newark,,,50,,
 minoraverages/1908Reach,1907,Eastern League,shea,F21667,Shea,,0,Newark,,,,,c50
 minoraverages/Howard,1907,Eastern League,shea,B02097,Shea,"John E. ""Nap""*",,Newark,19070426,19070921,50,,c50
 minoraverages/1908Reach,1907,Eastern League,shean,B00726,Shean,,0,Montreal,,,115,,
 minoraverages/1908Reach,1907,Eastern League,shean,F20211,Shean,,0,Montreal,,,,,2b110
-minoraverages/Howard,1907,Eastern League,shean,B02081,Shean,"David W. ""Dave""*",,Montreal,19070424,19070924,115,,p32b111ss1
-minoraverages/Howard,1907,Eastern League,sherman,B02100,Sherman,William T.,,Jersey City,19070818,19070910,5,,2b23b2cf1
+minoraverages/Howard,1907,Eastern League,shean,B02081,Shean,"David W. ""Dave""*",,Montreal,19070424,19070924,115,,"p3,2b111,ss1"
+minoraverages/Howard,1907,Eastern League,sherman,B02100,Sherman,William T.,,Jersey City,19070818,19070910,5,,"2b2,3b2,cf1"
 minoraverages/1908Reach,1907,Eastern League,smith,B00609,Smith,,0,Buffalo,,,128,,
 minoraverages/1908Reach,1907,Eastern League,smith,F20144,Smith,,0,Buffalo,,,,,2b128
 minoraverages/Howard,1907,Eastern League,smith,B02113,Smith,"George H. ""Heinie""*",,Buffalo,19070424,19070924,128,,2b128
@@ -673,7 +673,7 @@ minoraverages/Howard,1907,Eastern League,snowden,B02121,Snowden,James,,Montreal,
 minoraverages/1908Reach,1907,Eastern League,stanage,B01093,Stanage,,0,Newark,,,86,,
 minoraverages/1908Reach,1907,Eastern League,stanage,F20067,Stanage,,0,Newark,,,,,1b13
 minoraverages/1908Reach,1907,Eastern League,stanage,F21771,Stanage,,0,Newark,,,,,c72
-minoraverages/Howard,1907,Eastern League,stanage,B02137,Stanage,Oscar H.*,,Newark,19070427,19070922,86,,c721b13
+minoraverages/Howard,1907,Eastern League,stanage,B02137,Stanage,Oscar H.*,,Newark,19070427,19070922,86,,"c72,1b13"
 minoraverages/1908Reach,1907,Eastern League,stanley,B01453,Stanley,,0,Montreal,,,33,,
 minoraverages/1908Reach,1907,Eastern League,stanley,F21566,Stanley,,0,Montreal,,,,,p33
 minoraverages/1908Reach,1907,Eastern League,stanley,P10486,Stanley,,0,Montreal,,,,,
@@ -687,20 +687,20 @@ minoraverages/Howard,1907,Eastern League,stevens,P10606,Stevens,Stewart,0,Provid
 minoraverages/1908Reach,1907,Eastern League,sundheim,B00833,Sundheim,,0,Rochester,,,58,,
 minoraverages/1908Reach,1907,Eastern League,sundheim,F20298,Sundheim,,0,Rochester,,,,,2b16
 minoraverages/1908Reach,1907,Eastern League,sundheim,F20505,Sundheim,,0,Rochester,,,,,ss42
-minoraverages/Howard,1907,Eastern League,sundheim,B02168,Sundheim,John,,Rochester,19070724,19070924,58,,2b16ss42
+minoraverages/Howard,1907,Eastern League,sundheim,B02168,Sundheim,John,,Rochester,19070724,19070924,58,,"2b16,ss42"
 minoraverages/Howard,1907,Eastern League,swanson,B02176,Swanson,Ivor,,Providence,19070503,19070503,1,,p1
 minoraverages/Howard,1907,Eastern League,swanson,P10679,Swanson,Ivor,0,Providence,,,,1,
 minoraverages/Howard,1907,Eastern League,teacher,B02184,Teacher,,,Newark,19070425,19070425,1,,cf1
 minoraverages/1908Reach,1907,Eastern League,thoney,B00045,Thoney,,0,Toronto,,,102,,
 minoraverages/1908Reach,1907,Eastern League,thoney,F20648,Thoney,,0,Toronto,,,,,lf94
-minoraverages/Howard,1907,Eastern League,thoney,B02192,Thoney,"John ""Jack""*",,Toronto,19070424,19070922,102,,lf94cf7
+minoraverages/Howard,1907,Eastern League,thoney,B02192,Thoney,"John ""Jack""*",,Toronto,19070424,19070922,102,,"lf94,cf7"
 minoraverages/Howard,1907,Eastern League,tift,B02202,Tift,"Raymond F. ""Ray""*",,Montreal,19070920,19070924,2,,p2
 minoraverages/Howard,1907,Eastern League,tift,P10429,Tift,"Raymond F. ""Ray""*",0,Montreal,,,,2,
 minoraverages/1908Reach,1907,Eastern League,toren,B01269,Toren,,1,Baltimore,,,,,
 minoraverages/1908Reach,1907,Eastern League,toren,B01269,Toren,,2,Toronto,,,,,
 minoraverages/1908Reach,1907,Eastern League,toren,B01269,Toren,,T,,,,25,,
-minoraverages/1908Reach,1907,Eastern League,toren,F21638,Toren,,1,Baltimore,,,,,p.
-minoraverages/1908Reach,1907,Eastern League,toren,F21638,Toren,,2,Toronto,,,,,p.
+minoraverages/1908Reach,1907,Eastern League,toren,F21638,Toren,,1,Baltimore,,,,,p
+minoraverages/1908Reach,1907,Eastern League,toren,F21638,Toren,,2,Toronto,,,,,p
 minoraverages/1908Reach,1907,Eastern League,toren,F21638,Toren,,T,,,,,,p25
 minoraverages/1908Reach,1907,Eastern League,toren,P10336,Toren,,1,Baltimore,,,,,
 minoraverages/1908Reach,1907,Eastern League,toren,P10336,Toren,,2,Toronto,,,,,
@@ -724,14 +724,14 @@ minoraverages/Howard,1907,Eastern League,vananda,P10100,Van Anda,"Edward S. ""Sa
 minoraverages/1908Reach,1907,Eastern League,vandegrift,B00638,Vandegrift,,0,Jersey City,,,98,,
 minoraverages/1908Reach,1907,Eastern League,vandegrift,F20128,Vandegrift,,0,Jersey City,,,,,1b28
 minoraverages/1908Reach,1907,Eastern League,vandegrift,F21680,Vandegrift,,0,Jersey City,,,,,c66
-minoraverages/Howard,1907,Eastern League,vandegrift,B02277,Vandegrift,George,,Jersey City,19070425,19070924,98,,c701b24
+minoraverages/Howard,1907,Eastern League,vandegrift,B02277,Vandegrift,George,,Jersey City,19070425,19070924,98,,"c70,1b24"
 minoraverages/1908Reach,1907,Eastern League,vowinkle,B01321,Vowinkle,,0,Buffalo,,,31,,
 minoraverages/1908Reach,1907,Eastern League,vowinkle,F21158,Vowinkle,,0,Buffalo,,,,,p31
 minoraverages/1908Reach,1907,Eastern League,vowinkle,P10192,Vowinkle,,0,Buffalo,,,,,
 minoraverages/Howard,1907,Eastern League,vowinkle,B02289,Vowinkle,"John Henry ""Rip""*",,Buffalo,19070503,19070922,31,,p31
 minoraverages/Howard,1907,Eastern League,vowinkle,P10159,Vowinkle,"John Henry ""Rip""*",0,Buffalo,,,,31,
 minoraverages/Howard,1907,Eastern League,wager,B02290,Wagner,"Charles F. ""Heinie""*",,Rochester,19070712,19070714,4,,ss4
-minoraverages/Howard,1907,Eastern League,walsh,B02312,Walsh,"James C. ""Jimmy""*",,Toronto,19070829,19070922,17,,lf8cf3rf5
+minoraverages/Howard,1907,Eastern League,walsh,B02312,Walsh,"James C. ""Jimmy""*",,Toronto,19070829,19070922,17,,"lf8,cf3,rf5"
 minoraverages/1908Reach,1907,Eastern League,walters,B00680,Walters,,0,Rochester,,,16,,
 minoraverages/1908Reach,1907,Eastern League,walters,F21515,Walters,,0,Rochester,,,,,p16
 minoraverages/1908Reach,1907,Eastern League,walters,P10410,Walters,,0,Rochester,,,,,
@@ -744,7 +744,7 @@ minoraverages/1908Reach,1907,Eastern League,weidensaul,B00362,Weidensaul,,0,Toro
 minoraverages/1908Reach,1907,Eastern League,weidensaul,F20233,Weidensaul,,0,Toronto,,,,,2b14
 minoraverages/1908Reach,1907,Eastern League,weidensaul,F20594,Weidensaul,,0,Toronto,,,,,lf22
 minoraverages/1908Reach,1907,Eastern League,weidensaul,F20737,Weidensaul,,0,Toronto,,,,,cf77
-minoraverages/Howard,1907,Eastern League,weidensaul,B02336,Weidensaul,Yenser McLaughlin,,Toronto,19070424,19070922,125,,2b113b8lf22cf81
+minoraverages/Howard,1907,Eastern League,weidensaul,B02336,Weidensaul,Yenser McLaughlin,,Toronto,19070424,19070922,125,,"2b11,3b8,lf22,cf81"
 minoraverages/1908Reach,1907,Eastern League,walsh,B00961,Welch,,0,Toronto,,,17,,
 minoraverages/1908Reach,1907,Eastern League,white,B00196,White,,0,Buffalo,,,116,,
 minoraverages/1908Reach,1907,Eastern League,white,F20661,White,,0,Buffalo,,,,,lf114
@@ -752,26 +752,26 @@ minoraverages/Howard,1907,Eastern League,white,B02348,White,"John W. ""Jack""*",
 minoraverages/1908Reach,1907,Eastern League,whiting,B01477,Whiting,,0,Jersey City,,,20,,
 minoraverages/1908Reach,1907,Eastern League,whiting,F21229,Whiting,,0,Jersey City,,,,,p18
 minoraverages/1908Reach,1907,Eastern League,whiting,P10407,Whiting,,0,Jersey City,,,,,
-minoraverages/Howard,1907,Eastern League,whiting,B02357,Whiting,Jesse W.*,,Jersey City,19070509,19070814,20,,p181b1ss1
+minoraverages/Howard,1907,Eastern League,whiting,B02357,Whiting,Jesse W.*,,Jersey City,19070509,19070814,20,,"p18,1b1,ss1"
 minoraverages/Howard,1907,Eastern League,whiting,P10253,Whiting,Jesse W.*,0,Jersey City,,,,18,
 minoraverages/Howard,1907,Eastern League,wilhelm,B02361,Wilhelm,Frederick Julius,,Newark,19070915,19070921,2,,p2
 minoraverages/Howard,1907,Eastern League,wilhelm,P10534,Wilhelm,Frederick Julius,0,Newark,,,,2,
 minoraverages/1908Reach,1907,Eastern League,wiltse,B01010,Wiltse,,0,Newark,,,13,,
 minoraverages/1908Reach,1907,Eastern League,wiltse,F21442,Wiltse,,0,Newark,,,,,p6
 minoraverages/1908Reach,1907,Eastern League,wiltse,P10361,Wiltse,,0,Newark,,,,,
-minoraverages/Howard,1907,Eastern League,wiltse,B02373,Wiltze,"Lewis D. ""Snake""*",,Newark,19070818,19070921,13,,p6rf5
+minoraverages/Howard,1907,Eastern League,wiltse,B02373,Wiltze,"Lewis D. ""Snake""*",,Newark,19070818,19070921,13,,"p6,rf5"
 minoraverages/Howard,1907,Eastern League,wiltse,P10527,Wiltze,"Lewis D. ""Snake""*",0,Newark,,,,6,
 minoraverages/1908Reach,1907,Eastern League,wood,B00013,Wood,,0,Toronto,,,11,,
 minoraverages/Howard,1907,Eastern League,wood,B02385,Wood,"Robert L. ""Bob""*",,Toronto,19070501,19070529,11,,c9
 minoraverages/1908Reach,1907,Eastern League,woods,B01041,Woods,,0,Jersey City,,,89,,
 minoraverages/1908Reach,1907,Eastern League,woods,F20153,Woods,,0,Jersey City,,,,,2b19
 minoraverages/1908Reach,1907,Eastern League,woods,F20388,Woods,,0,Jersey City,,,,,3b67
-minoraverages/Howard,1907,Eastern League,woods,B02399,Woods,"Walter S. ""Walt""*",,Jersey City,19070425,19070924,89,,2b243b62ss2
-minoraverages/Howard,1907,Eastern League,wormwood,B02407,Wormwood,Harry Daniel,,Jersey City,19070428,19070828,8,,p73b1
+minoraverages/Howard,1907,Eastern League,woods,B02399,Woods,"Walter S. ""Walt""*",,Jersey City,19070425,19070924,89,,"2b24,3b62,ss2"
+minoraverages/Howard,1907,Eastern League,wormwood,B02407,Wormwood,Harry Daniel,,Jersey City,19070428,19070828,8,,"p7,3b1"
 minoraverages/Howard,1907,Eastern League,wormwood,P10290,Wormwood,Harry Daniel,0,Jersey City,,,,7,
 minoraverages/1908Reach,1907,Eastern League,wotell,B00695,Wotell,,0,Toronto,,,125,,
 minoraverages/1908Reach,1907,Eastern League,wotell,F20981,Wotell,,0,Toronto,,,,,rf121
-minoraverages/Howard,1907,Eastern League,wotell,B02410,Wotell,Michael George,,Toronto,19070424,19070922,125,,lf4cf1rf119
+minoraverages/Howard,1907,Eastern League,wotell,B02410,Wotell,Michael George,,Toronto,19070424,19070922,125,,"lf4,cf1,rf119"
 minoraverages/Howard,1907,Eastern League,zacker,B02429,Zacher,Elmer H.*,,Newark,19070426,19070922,128,,cf128
 minoraverages/1908Reach,1907,Eastern League,zacker,B00623,Zacker,,0,Newark,,,128,,
 minoraverages/1908Reach,1907,Eastern League,zacker,F20768,Zacker,,0,Newark,,,,,cf128

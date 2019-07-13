@@ -2,8 +2,8 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1911Spalding,1910,Southern Association,alcock,B00553,Alcock,,1,Chattanooga,,,,,
 minoraverages/1911Spalding,1910,Southern Association,alcock,B00553,Alcock,,2,Mobile,,,,,
 minoraverages/1911Spalding,1910,Southern Association,alcock,B00553,Alcock,,T,,,,131,,
-minoraverages/1911Spalding,1910,Southern Association,alcock,F20369,Alcock,,1,Chattanooga,,,,,3b.
-minoraverages/1911Spalding,1910,Southern Association,alcock,F20369,Alcock,,2,Mobile,,,,,3b.
+minoraverages/1911Spalding,1910,Southern Association,alcock,F20369,Alcock,,1,Chattanooga,,,,,3b
+minoraverages/1911Spalding,1910,Southern Association,alcock,F20369,Alcock,,2,Mobile,,,,,3b
 minoraverages/1911Spalding,1910,Southern Association,alcock,F20369,Alcock,,T,,,,,,3b119
 minoraverages/1911Spalding,1910,Southern Association,allen,B01041,Allen,,0,Memphis,,,50,,
 minoraverages/1911Spalding,1910,Southern Association,allen,F21013,Allen,,0,Memphis,,,,,p45
@@ -18,13 +18,13 @@ minoraverages/1911Spalding,1910,Southern Association,barr,B00491,Barr,,1,Atlanta
 minoraverages/1911Spalding,1910,Southern Association,barr,B00491,Barr,,2,Mobile,,,,,
 minoraverages/1911Spalding,1910,Southern Association,barr,B00491,Barr,,3,New Orleans,,,,,
 minoraverages/1911Spalding,1910,Southern Association,barr,B00491,Barr,,T,,,,87,,
-minoraverages/1911Spalding,1910,Southern Association,barr,F20115,Barr,,1,Atlanta,,,,,1b.
-minoraverages/1911Spalding,1910,Southern Association,barr,F20115,Barr,,2,Mobile,,,,,1b.
-minoraverages/1911Spalding,1910,Southern Association,barr,F20115,Barr,,3,New Orleans,,,,,1b.
+minoraverages/1911Spalding,1910,Southern Association,barr,F20115,Barr,,1,Atlanta,,,,,1b
+minoraverages/1911Spalding,1910,Southern Association,barr,F20115,Barr,,2,Mobile,,,,,1b
+minoraverages/1911Spalding,1910,Southern Association,barr,F20115,Barr,,3,New Orleans,,,,,1b
 minoraverages/1911Spalding,1910,Southern Association,barr,F20115,Barr,,T,,,,,,1b39
-minoraverages/1911Spalding,1910,Southern Association,barr,F20864,Barr,,1,Atlanta,,,,,of.
-minoraverages/1911Spalding,1910,Southern Association,barr,F20864,Barr,,2,Mobile,,,,,of.
-minoraverages/1911Spalding,1910,Southern Association,barr,F20864,Barr,,3,New Orleans,,,,,of.
+minoraverages/1911Spalding,1910,Southern Association,barr,F20864,Barr,,1,Atlanta,,,,,of
+minoraverages/1911Spalding,1910,Southern Association,barr,F20864,Barr,,2,Mobile,,,,,of
+minoraverages/1911Spalding,1910,Southern Association,barr,F20864,Barr,,3,New Orleans,,,,,of
 minoraverages/1911Spalding,1910,Southern Association,barr,F20864,Barr,,T,,,,,,of45
 minoraverages/1911Spalding,1910,Southern Association,bauer,B01108,Bauer,,0,Birmingham,,,31,,
 minoraverages/1911Spalding,1910,Southern Association,bauer,F21232,Bauer,,0,Birmingham,,,,,p31
@@ -81,8 +81,8 @@ minoraverages/1911Spalding,1910,Southern Association,dehaven,B00646,DeHaven,,0,A
 minoraverages/1911Spalding,1910,Southern Association,dehaven,F20648,DeHaven,,0,Atlanta,,,,,of99
 minoraverages/1911Spalding,1910,Southern Association,demontreville,B00948,DeMontreville,,0,New Orleans,,,107,,
 minoraverages/1911Spalding,1910,Southern Association,demontreville,F20222,DeMontreville,,0,New Orleans,,,,,2b107
-minoraverages/1911Spalding,1910,Southern Association,seitz,F20547,Deitz,,1,Atlanta,,,,,of.
-minoraverages/1911Spalding,1910,Southern Association,seitz,F20547,Deitz,,2,Mobile,,,,,of.
+minoraverages/1911Spalding,1910,Southern Association,seitz,F20547,Deitz,,1,Atlanta,,,,,of
+minoraverages/1911Spalding,1910,Southern Association,seitz,F20547,Deitz,,2,Mobile,,,,,of
 minoraverages/1911Spalding,1910,Southern Association,seitz,F20547,Deitz,,T,,,,,,of18
 minoraverages/1911Spalding,1910,Southern Association,demaree,B01093,Demaree,,0,Chattanooga,,,34,,
 minoraverages/1911Spalding,1910,Southern Association,demaree,F21343,Demaree,,0,Chattanooga,,,,,p34
@@ -146,8 +146,8 @@ minoraverages/1911Spalding,1910,Southern Association,guese,P10062,Guese,,0,Montg
 minoraverages/1911Spalding,1910,Southern Association,gygli,B00898,Gygli,,1,Birmingham,,,,,
 minoraverages/1911Spalding,1910,Southern Association,gygli,B00898,Gygli,,2,Memphis,,,,,
 minoraverages/1911Spalding,1910,Southern Association,gygli,B00898,Gygli,,T,,,,101,,
-minoraverages/1911Spalding,1910,Southern Association,gygli,F20072,Gygli,,1,Birmingham,,,,,1b.
-minoraverages/1911Spalding,1910,Southern Association,gygli,F20072,Gygli,,2,Memphis,,,,,1b.
+minoraverages/1911Spalding,1910,Southern Association,gygli,F20072,Gygli,,1,Birmingham,,,,,1b
+minoraverages/1911Spalding,1910,Southern Association,gygli,F20072,Gygli,,2,Memphis,,,,,1b
 minoraverages/1911Spalding,1910,Southern Association,gygli,F20072,Gygli,,T,,,,,,1b99
 minoraverages/1911Spalding,1910,Southern Association,hart-mon,B00416,Hart,,0,Montgomery,,,85,,
 minoraverages/1911Spalding,1910,Southern Association,hart-cha,B01392,Hart,,0,Chattanooga,,,12,,
@@ -161,9 +161,9 @@ minoraverages/1911Spalding,1910,Southern Association,hickman,B01345,Hickman,,1,M
 minoraverages/1911Spalding,1910,Southern Association,hickman,B01345,Hickman,,2,New Orleans,,,,,
 minoraverages/1911Spalding,1910,Southern Association,hickman,B01345,Hickman,,3,Montgomery,,,,,
 minoraverages/1911Spalding,1910,Southern Association,hickman,B01345,Hickman,,T,,,,31,,
-minoraverages/1911Spalding,1910,Southern Association,hickman,F21076,Hickman,,1,Mobile,,,,,p.
-minoraverages/1911Spalding,1910,Southern Association,hickman,F21076,Hickman,,2,New Orleans,,,,,p.
-minoraverages/1911Spalding,1910,Southern Association,hickman,F21076,Hickman,,3,Montgomery,,,,,p.
+minoraverages/1911Spalding,1910,Southern Association,hickman,F21076,Hickman,,1,Mobile,,,,,p
+minoraverages/1911Spalding,1910,Southern Association,hickman,F21076,Hickman,,2,New Orleans,,,,,p
+minoraverages/1911Spalding,1910,Southern Association,hickman,F21076,Hickman,,3,Montgomery,,,,,p
 minoraverages/1911Spalding,1910,Southern Association,hickman,F21076,Hickman,,T,,,,,,p31
 minoraverages/1911Spalding,1910,Southern Association,hickman,P10290,Hickman,,1,Mobile,,,,,
 minoraverages/1911Spalding,1910,Southern Association,hickman,P10290,Hickman,,2,New Orleans,,,,,
@@ -208,16 +208,16 @@ minoraverages/1911Spalding,1910,Southern Association,lindsay,F20425,Lindsay,,0,N
 minoraverages/1911Spalding,1910,Southern Association,lister,B00531,Lister,,1,Chattanooga,,,,,
 minoraverages/1911Spalding,1910,Southern Association,lister,B00531,Lister,,2,Atlanta,,,,,
 minoraverages/1911Spalding,1910,Southern Association,lister,B00531,Lister,,T,,,,138,,
-minoraverages/1911Spalding,1910,Southern Association,lister,F20080,Lister,,1,Chattanooga,,,,,1b.
-minoraverages/1911Spalding,1910,Southern Association,lister,F20080,Lister,,2,Atlanta,,,,,1b.
+minoraverages/1911Spalding,1910,Southern Association,lister,F20080,Lister,,1,Chattanooga,,,,,1b
+minoraverages/1911Spalding,1910,Southern Association,lister,F20080,Lister,,2,Atlanta,,,,,1b
 minoraverages/1911Spalding,1910,Southern Association,lister,F20080,Lister,,T,,,,,,1b129
 minoraverages/1911Spalding,1910,Southern Association,lynch,B00232,Lynch,,0,Nashville,,,142,,
 minoraverages/1911Spalding,1910,Southern Association,lynch,F20474,Lynch,,0,Nashville,,,,,ss142
 minoraverages/1911Spalding,1910,Southern Association,manuel,B00904,Manuel,,1,Birmingham,,,,,
 minoraverages/1911Spalding,1910,Southern Association,manuel,B00904,Manuel,,2,Mobile,,,,,
 minoraverages/1911Spalding,1910,Southern Association,manuel,B00904,Manuel,,T,,,,48,,
-minoraverages/1911Spalding,1910,Southern Association,manuel,F21130,Manuel,,1,Birmingham,,,,,p.
-minoraverages/1911Spalding,1910,Southern Association,manuel,F21130,Manuel,,2,Mobile,,,,,p.
+minoraverages/1911Spalding,1910,Southern Association,manuel,F21130,Manuel,,1,Birmingham,,,,,p
+minoraverages/1911Spalding,1910,Southern Association,manuel,F21130,Manuel,,2,Mobile,,,,,p
 minoraverages/1911Spalding,1910,Southern Association,manuel,F21130,Manuel,,T,,,,,,p40
 minoraverages/1911Spalding,1910,Southern Association,manuel,P10137,Manuel,,1,Birmingham,,,,,
 minoraverages/1911Spalding,1910,Southern Association,manuel,P10137,Manuel,,2,Mobile,,,,,
@@ -273,8 +273,8 @@ minoraverages/1911Spalding,1910,Southern Association,paige,P10081,Paige,,0,New O
 minoraverages/1911Spalding,1910,Southern Association,patterson,B00324,Patterson,,1,Chattanooga,,,,,
 minoraverages/1911Spalding,1910,Southern Association,patterson,B00324,Patterson,,2,Nashville,,,,,
 minoraverages/1911Spalding,1910,Southern Association,patterson,B00324,Patterson,,T,,,,129,,
-minoraverages/1911Spalding,1910,Southern Association,patterson,F20233,Patterson,,1,Chattanooga,,,,,2b.
-minoraverages/1911Spalding,1910,Southern Association,patterson,F20233,Patterson,,2,Nashville,,,,,2b.
+minoraverages/1911Spalding,1910,Southern Association,patterson,F20233,Patterson,,1,Chattanooga,,,,,2b
+minoraverages/1911Spalding,1910,Southern Association,patterson,F20233,Patterson,,2,Nashville,,,,,2b
 minoraverages/1911Spalding,1910,Southern Association,patterson,F20233,Patterson,,T,,,,,,2b127
 minoraverages/1911Spalding,1910,Southern Association,pepe,B00475,Pepe,,0,Montgomery,,,103,,
 minoraverages/1911Spalding,1910,Southern Association,pepe,F20482,Pepe,,0,Montgomery,,,,,ss103
@@ -322,8 +322,8 @@ minoraverages/1911Spalding,1910,Southern Association,seigel,F20673,Seigel,,0,Nas
 minoraverages/1911Spalding,1910,Southern Association,seitz,B00544,Seitz,,1,Atlanta,,,,,
 minoraverages/1911Spalding,1910,Southern Association,seitz,B00544,Seitz,,2,Mobile,,,,,
 minoraverages/1911Spalding,1910,Southern Association,seitz,B00544,Seitz,,T,,,,127,,
-minoraverages/1911Spalding,1910,Southern Association,seitz,F20240,Seitz,,1,Atlanta,,,,,2b.
-minoraverages/1911Spalding,1910,Southern Association,seitz,F20240,Seitz,,2,Mobile,,,,,2b.
+minoraverages/1911Spalding,1910,Southern Association,seitz,F20240,Seitz,,1,Atlanta,,,,,2b
+minoraverages/1911Spalding,1910,Southern Association,seitz,F20240,Seitz,,2,Mobile,,,,,2b
 minoraverages/1911Spalding,1910,Southern Association,seitz,F20240,Seitz,,T,,,,,,2b109
 minoraverages/1911Spalding,1910,Southern Association,seiver,B00879,Seiver,,0,Chattanooga,,,24,,
 minoraverages/1911Spalding,1910,Southern Association,seiver,F21319,Seiver,,0,Chattanooga,,,,,p24
@@ -345,14 +345,14 @@ minoraverages/1911Spalding,1910,Southern Association,sparks,F21278,Sparks,,0,Cha
 minoraverages/1911Spalding,1910,Southern Association,spencer,B00999,Spencer,,1,New Orleans,,,,,
 minoraverages/1911Spalding,1910,Southern Association,spencer,B00999,Spencer,,2,Montgomery,,,,,
 minoraverages/1911Spalding,1910,Southern Association,spencer,B00999,Spencer,,T,,,,25,,
-minoraverages/1911Spalding,1910,Southern Association,spencer,F20612,Spencer,,1,New Orleans,,,,,of.
-minoraverages/1911Spalding,1910,Southern Association,spencer,F20612,Spencer,,2,Montgomery,,,,,of.
+minoraverages/1911Spalding,1910,Southern Association,spencer,F20612,Spencer,,1,New Orleans,,,,,of
+minoraverages/1911Spalding,1910,Southern Association,spencer,F20612,Spencer,,2,Montgomery,,,,,of
 minoraverages/1911Spalding,1910,Southern Association,spencer,F20612,Spencer,,T,,,,,,of25
 minoraverages/1911Spalding,1910,Southern Association,stockdale,B01227,Stockdale,,1,Mobile,,,,,
 minoraverages/1911Spalding,1910,Southern Association,stockdale,B01227,Stockdale,,2,Birmingham,,,,,
 minoraverages/1911Spalding,1910,Southern Association,stockdale,B01227,Stockdale,,T,,,,24,,
-minoraverages/1911Spalding,1910,Southern Association,stockdale,F21196,Stockdale,,1,Mobile,,,,,p.
-minoraverages/1911Spalding,1910,Southern Association,stockdale,F21196,Stockdale,,2,Birmingham,,,,,p.
+minoraverages/1911Spalding,1910,Southern Association,stockdale,F21196,Stockdale,,1,Mobile,,,,,p
+minoraverages/1911Spalding,1910,Southern Association,stockdale,F21196,Stockdale,,2,Birmingham,,,,,p
 minoraverages/1911Spalding,1910,Southern Association,stockdale,F21196,Stockdale,,T,,,,,,p24
 minoraverages/1911Spalding,1910,Southern Association,stockdale,P10244,Stockdale,,1,Mobile,,,,,
 minoraverages/1911Spalding,1910,Southern Association,stockdale,P10244,Stockdale,,2,Birmingham,,,,,
@@ -392,8 +392,8 @@ minoraverages/1911Spalding,1910,Southern Association,whiteman,F20700,Whiteman,,0
 minoraverages/1911Spalding,1910,Southern Association,whitney,B00381,Whitney,,1,Memphis,,,,,
 minoraverages/1911Spalding,1910,Southern Association,whitney,B00381,Whitney,,2,Atlanta,,,,,
 minoraverages/1911Spalding,1910,Southern Association,whitney,B00381,Whitney,,T,,,,59,,
-minoraverages/1911Spalding,1910,Southern Association,whitney,F20051,Whitney,,1,Memphis,,,,,1b.
-minoraverages/1911Spalding,1910,Southern Association,whitney,F20051,Whitney,,2,Atlanta,,,,,1b.
+minoraverages/1911Spalding,1910,Southern Association,whitney,F20051,Whitney,,1,Memphis,,,,,1b
+minoraverages/1911Spalding,1910,Southern Association,whitney,F20051,Whitney,,2,Atlanta,,,,,1b
 minoraverages/1911Spalding,1910,Southern Association,whitney,F20051,Whitney,,T,,,,,,1b59
 minoraverages/1911Spalding,1910,Southern Association,wiseman,B00207,Wiseman,,0,Nashville,,,142,,
 minoraverages/1911Spalding,1910,Southern Association,wiseman,F20792,Wiseman,,0,Nashville,,,,,of142

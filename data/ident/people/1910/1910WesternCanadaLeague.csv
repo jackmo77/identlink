@@ -2,8 +2,8 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1911Spalding,1910,Western Canada League,anderson,B00811,Anderson,,1,Winnipeg,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,anderson,B00811,Anderson,,2,Saskatoon,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,anderson,B00811,Anderson,,T,,,,65,,
-minoraverages/1911Spalding,1910,Western Canada League,anderson,F21469,Anderson,,1,Winnipeg,,,,,c.
-minoraverages/1911Spalding,1910,Western Canada League,anderson,F21469,Anderson,,2,Saskatoon,,,,,c.
+minoraverages/1911Spalding,1910,Western Canada League,anderson,F21469,Anderson,,1,Winnipeg,,,,,c
+minoraverages/1911Spalding,1910,Western Canada League,anderson,F21469,Anderson,,2,Saskatoon,,,,,c
 minoraverages/1911Spalding,1910,Western Canada League,anderson,F21469,Anderson,,T,,,,,,c65
 minoraverages/1911Spalding,1910,Western Canada League,avery,B00013,Avery,,0,Lethbridge,,,10,,
 minoraverages/1911Spalding,1910,Western Canada League,avery,F21013,Avery,,0,Lethbridge,,,,,p10
@@ -36,8 +36,8 @@ minoraverages/1911Spalding,1910,Western Canada League,brown,P10121,Brown,,0,Moos
 minoraverages/1911Spalding,1910,Western Canada League,bues,B00840,Bues,,1,Brandon,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,bues,B00840,Bues,,2,Regina,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,bues,B00840,Bues,,T,,,,92,,
-minoraverages/1911Spalding,1910,Western Canada League,bues,F20095,Bues,,1,Brandon,,,,,1b.
-minoraverages/1911Spalding,1910,Western Canada League,bues,F20095,Bues,,2,Regina,,,,,1b.
+minoraverages/1911Spalding,1910,Western Canada League,bues,F20095,Bues,,1,Brandon,,,,,1b
+minoraverages/1911Spalding,1910,Western Canada League,bues,F20095,Bues,,2,Regina,,,,,1b
 minoraverages/1911Spalding,1910,Western Canada League,bues,F20095,Bues,,T,,,,,,1b92
 minoraverages/1911Spalding,1910,Western Canada League,burridge,B01064,Burridge,,0,Edmonton,,,11,,
 minoraverages/1911Spalding,1910,Western Canada League,carney,B00229,Carney,,0,Calgary,,,77,,
@@ -64,14 +64,14 @@ minoraverages/1911Spalding,1910,Western Canada League,cooper,F21416,Cooper,,0,Br
 minoraverages/1911Spalding,1910,Western Canada League,corrigan,B01234,Corrigan,,0,Lethbridge,,,26,,
 minoraverages/1911Spalding,1910,Western Canada League,corrigan,F20855,Corrigan,,0,Lethbridge,,,,,cf26
 minoraverages/1911Spalding,1910,Western Canada League,costello,B00806,Costello,,0,Saskatoon,,,26,,
-minoraverages/1911Spalding,1910,Western Canada League,costello,F20240,Costello,,1,Winnipeg,,,,,2b.
-minoraverages/1911Spalding,1910,Western Canada League,costello,F20240,Costello,,2,Saskatoon,,,,,2b.
+minoraverages/1911Spalding,1910,Western Canada League,costello,F20240,Costello,,1,Winnipeg,,,,,2b
+minoraverages/1911Spalding,1910,Western Canada League,costello,F20240,Costello,,2,Saskatoon,,,,,2b
 minoraverages/1911Spalding,1910,Western Canada League,costello,F20240,Costello,,T,,,,,,2b26
 minoraverages/1911Spalding,1910,Western Canada League,cox,B00589,Cox,,1,Lethbridge,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,cox,B00589,Cox,,2,Edmonton,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,cox,B00589,Cox,,T,,,,96,,
-minoraverages/1911Spalding,1910,Western Canada League,cox,F21000,Cox,,1,Lethbridge,,,,,rf.
-minoraverages/1911Spalding,1910,Western Canada League,cox,F21000,Cox,,2,Edmonton,,,,,rf.
+minoraverages/1911Spalding,1910,Western Canada League,cox,F21000,Cox,,1,Lethbridge,,,,,rf
+minoraverages/1911Spalding,1910,Western Canada League,cox,F21000,Cox,,2,Edmonton,,,,,rf
 minoraverages/1911Spalding,1910,Western Canada League,cox,F21000,Cox,,T,,,,,,rf96
 minoraverages/1911Spalding,1910,Western Canada League,crocker,B00335,Crocker,,0,Moose Jaw,,,92,,
 minoraverages/1911Spalding,1910,Western Canada League,crocker,F20768,Crocker,,0,Moose Jaw,,,,,cf92
@@ -112,11 +112,11 @@ minoraverages/1911Spalding,1910,Western Canada League,edmonds,F21427,Edmonds,,0,
 minoraverages/1911Spalding,1910,Western Canada League,elsey,B00577,Elsey,,1,Moose Jaw,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,elsey,B00577,Elsey,,2,Regina,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,elsey,B00577,Elsey,,T,,,,61,,
-minoraverages/1911Spalding,1910,Western Canada League,elsey,F20080,Elsey,,1,Moose Jaw,,,,,1b.
-minoraverages/1911Spalding,1910,Western Canada League,elsey,F20080,Elsey,,2,Regina,,,,,1b.
+minoraverages/1911Spalding,1910,Western Canada League,elsey,F20080,Elsey,,1,Moose Jaw,,,,,1b
+minoraverages/1911Spalding,1910,Western Canada League,elsey,F20080,Elsey,,2,Regina,,,,,1b
 minoraverages/1911Spalding,1910,Western Canada League,elsey,F20080,Elsey,,T,,,,,,1b25
-minoraverages/1911Spalding,1910,Western Canada League,elsey,F20620,Elsey,,1,Regina,,,,,lf.
-minoraverages/1911Spalding,1910,Western Canada League,elsey,F20620,Elsey,,2,Moose Jaw,,,,,lf.
+minoraverages/1911Spalding,1910,Western Canada League,elsey,F20620,Elsey,,1,Regina,,,,,lf
+minoraverages/1911Spalding,1910,Western Canada League,elsey,F20620,Elsey,,2,Moose Jaw,,,,,lf
 minoraverages/1911Spalding,1910,Western Canada League,elsey,F20620,Elsey,,T,,,,,,lf36
 minoraverages/1911Spalding,1910,Western Canada League,flanagan,B00427,Flanagan,J.,0,Calgary,,,72,,
 minoraverages/1911Spalding,1910,Western Canada League,flanagan,F20829,Flanagan,J.,0,Calgary,,,,,cf52
@@ -129,8 +129,8 @@ minoraverages/1911Spalding,1910,Western Canada League,geehan,P10070,Geehan,,0,Ca
 minoraverages/1911Spalding,1910,Western Canada League,gilchrist,B01119,Gilchrist,,1,Moose Jaw,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,gilchrist,B01119,Gilchrist,,2,Regina,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,gilchrist,B01119,Gilchrist,,T,,,,40,,
-minoraverages/1911Spalding,1910,Western Canada League,gilchrist,F21210,Gilchrist,,1,Moose Jaw,,,,,p.
-minoraverages/1911Spalding,1910,Western Canada League,gilchrist,F21210,Gilchrist,,2,Regina,,,,,p.
+minoraverages/1911Spalding,1910,Western Canada League,gilchrist,F21210,Gilchrist,,1,Moose Jaw,,,,,p
+minoraverages/1911Spalding,1910,Western Canada League,gilchrist,F21210,Gilchrist,,2,Regina,,,,,p
 minoraverages/1911Spalding,1910,Western Canada League,gilchrist,F21210,Gilchrist,,T,,,,,,p40
 minoraverages/1911Spalding,1910,Western Canada League,gilchrist,P10228,Gilchrist,,1,Moose Jaw,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,gilchrist,P10228,Gilchrist,,2,Regina,,,,,
@@ -144,8 +144,8 @@ minoraverages/1911Spalding,1910,Western Canada League,grady,P10113,Grady,,0,Edmo
 minoraverages/1911Spalding,1910,Western Canada League,grayson,B01032,Grayson,,1,Lethbridge,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,grayson,B01032,Grayson,,2,Brandon,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,grayson,B01032,Grayson,,T,,,,30,,
-minoraverages/1911Spalding,1910,Western Canada League,grayson,F21255,Grayson,,1,Lethbridge,,,,,p.
-minoraverages/1911Spalding,1910,Western Canada League,grayson,F21255,Grayson,,2,Brandon,,,,,p.
+minoraverages/1911Spalding,1910,Western Canada League,grayson,F21255,Grayson,,1,Lethbridge,,,,,p
+minoraverages/1911Spalding,1910,Western Canada League,grayson,F21255,Grayson,,2,Brandon,,,,,p
 minoraverages/1911Spalding,1910,Western Canada League,grayson,F21255,Grayson,,T,,,,,,p18
 minoraverages/1911Spalding,1910,Western Canada League,grayson,P10184,Grayson,,1,Lethbridge,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,grayson,P10184,Grayson,,2,Brandon,,,,,
@@ -153,8 +153,8 @@ minoraverages/1911Spalding,1910,Western Canada League,grayson,P10184,Grayson,,T,
 minoraverages/1911Spalding,1910,Western Canada League,grimes,B01124,Grimes,,1,Regina,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,grimes,B01124,Grimes,,2,Lethbridge,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,grimes,B01124,Grimes,,T,,,,28,,
-minoraverages/1911Spalding,1910,Western Canada League,grimes,F21158,Grimes,,1,Regina,,,,,p.
-minoraverages/1911Spalding,1910,Western Canada League,grimes,F21158,Grimes,,2,Lethbridge,,,,,p.
+minoraverages/1911Spalding,1910,Western Canada League,grimes,F21158,Grimes,,1,Regina,,,,,p
+minoraverages/1911Spalding,1910,Western Canada League,grimes,F21158,Grimes,,2,Lethbridge,,,,,p
 minoraverages/1911Spalding,1910,Western Canada League,grimes,F21158,Grimes,,T,,,,,,p28
 minoraverages/1911Spalding,1910,Western Canada League,grimes,P10289,Grimes,,1,Regina,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,grimes,P10289,Grimes,,2,Lethbridge,,,,,
@@ -180,15 +180,15 @@ minoraverages/1911Spalding,1910,Western Canada League,hodges,F20190,Hodges,,0,Br
 minoraverages/1911Spalding,1910,Western Canada League,hoffman,B00416,Hoffman,,1,Regina,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,hoffman,B00416,Hoffman,,2,Winnipeg,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,hoffman,B00416,Hoffman,,T,,,,84,,
-minoraverages/1911Spalding,1910,Western Canada League,hoffman,F20233,Hoffman,,1,Regina,,,,,2b.
-minoraverages/1911Spalding,1910,Western Canada League,hoffman,F20233,Hoffman,,2,Winnipeg,,,,,2b.
+minoraverages/1911Spalding,1910,Western Canada League,hoffman,F20233,Hoffman,,1,Regina,,,,,2b
+minoraverages/1911Spalding,1910,Western Canada League,hoffman,F20233,Hoffman,,2,Winnipeg,,,,,2b
 minoraverages/1911Spalding,1910,Western Canada League,hoffman,F20233,Hoffman,,T,,,,,,2b70
 minoraverages/1911Spalding,1910,Western Canada League,hoffman,F20864,Hoffman,,0,Winnipeg,,,,,rf14
 minoraverages/1911Spalding,1910,Western Canada League,holmes,B00822,Holmes,,1,Winnipeg,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,holmes,B00822,Holmes,,2,Brandon,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,holmes,B00822,Holmes,,T,,,,87,,
-minoraverages/1911Spalding,1910,Western Canada League,holmes,F20287,Holmes,,1,Winnipeg,,,,,3b.
-minoraverages/1911Spalding,1910,Western Canada League,holmes,F20287,Holmes,,2,Brandon,,,,,3b.
+minoraverages/1911Spalding,1910,Western Canada League,holmes,F20287,Holmes,,1,Winnipeg,,,,,3b
+minoraverages/1911Spalding,1910,Western Canada League,holmes,F20287,Holmes,,2,Brandon,,,,,3b
 minoraverages/1911Spalding,1910,Western Canada League,holmes,F20287,Holmes,,T,,,,,,3b87
 minoraverages/1911Spalding,1910,Western Canada League,hooker,B01269,Hooker,,0,Regina,,,10,,
 minoraverages/1911Spalding,1910,Western Canada League,hooker,F21101,Hooker,,0,Regina,,,,,p10
@@ -197,8 +197,8 @@ minoraverages/1911Spalding,1910,Western Canada League,hurley,F20046,Hurley,,0,Mo
 minoraverages/1911Spalding,1910,Western Canada League,huston,B01242,Huston,,1,Regina,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,huston,B01242,Huston,,2,Edmonton,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,huston,B01242,Huston,,T,,,,18,,
-minoraverages/1911Spalding,1910,Western Canada League,huston,F21130,Huston,,1,Regina,,,,,p.
-minoraverages/1911Spalding,1910,Western Canada League,huston,F21130,Huston,,2,Edmonton,,,,,p.
+minoraverages/1911Spalding,1910,Western Canada League,huston,F21130,Huston,,1,Regina,,,,,p
+minoraverages/1911Spalding,1910,Western Canada League,huston,F21130,Huston,,2,Edmonton,,,,,p
 minoraverages/1911Spalding,1910,Western Canada League,huston,F21130,Huston,,T,,,,,,p18
 minoraverages/1911Spalding,1910,Western Canada League,huston,P10215,Huston,,1,Regina,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,huston,P10215,Huston,,2,Edmonton,,,,,
@@ -211,11 +211,11 @@ minoraverages/1911Spalding,1910,Western Canada League,isbell,F20919,Isbell,,0,Wi
 minoraverages/1911Spalding,1910,Western Canada League,jones,B00590,Jones,,1,Moose Jaw,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,jones,B00590,Jones,,2,Saskatoon,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,jones,B00590,Jones,,T,,,,71,,
-minoraverages/1911Spalding,1910,Western Canada League,jones,F20166,Jones,,1,Moose Jaw,,,,,2b.
-minoraverages/1911Spalding,1910,Western Canada League,jones,F20166,Jones,,2,Saskatoon,,,,,2b.
+minoraverages/1911Spalding,1910,Western Canada League,jones,F20166,Jones,,1,Moose Jaw,,,,,2b
+minoraverages/1911Spalding,1910,Western Canada League,jones,F20166,Jones,,2,Saskatoon,,,,,2b
 minoraverages/1911Spalding,1910,Western Canada League,jones,F20166,Jones,,T,,,,,,2b41
-minoraverages/1911Spalding,1910,Western Canada League,jones,F20303,Jones,,1,Moose Jaw,,,,,3b.
-minoraverages/1911Spalding,1910,Western Canada League,jones,F20303,Jones,,2,Saskatoon,,,,,3b.
+minoraverages/1911Spalding,1910,Western Canada League,jones,F20303,Jones,,1,Moose Jaw,,,,,3b
+minoraverages/1911Spalding,1910,Western Canada League,jones,F20303,Jones,,2,Saskatoon,,,,,3b
 minoraverages/1911Spalding,1910,Western Canada League,jones,F20303,Jones,,T,,,,,,3b30
 minoraverages/1911Spalding,1910,Western Canada League,kellackey,B00241,Kellackey,,0,Calgary,,,95,,
 minoraverages/1911Spalding,1910,Western Canada League,kellackey,F20014,Kellackey,,0,Calgary,,,,,1b95
@@ -257,8 +257,8 @@ minoraverages/1911Spalding,1910,Western Canada League,miller-wpg+let,B01227,Mill
 minoraverages/1911Spalding,1910,Western Canada League,miller-wpg+let,B01227,Miller,,2,Lethbridge,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,miller-wpg+let,B01227,Miller,,T,,,,30,,
 minoraverages/1911Spalding,1910,Western Canada League,miller-sas,F20375,Miller,,0,Saskatoon,,,,,3b18
-minoraverages/1911Spalding,1910,Western Canada League,miller-wpg+let,F21264,Miller,,1,Winnipeg,,,,,p.
-minoraverages/1911Spalding,1910,Western Canada League,miller-wpg+let,F21264,Miller,,2,Lethbridge,,,,,p.
+minoraverages/1911Spalding,1910,Western Canada League,miller-wpg+let,F21264,Miller,,1,Winnipeg,,,,,p
+minoraverages/1911Spalding,1910,Western Canada League,miller-wpg+let,F21264,Miller,,2,Lethbridge,,,,,p
 minoraverages/1911Spalding,1910,Western Canada League,miller-wpg+let,F21264,Miller,,T,,,,,,p30
 minoraverages/1911Spalding,1910,Western Canada League,miller-wpg+let,P10253,Miller,,1,Winnipeg,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,miller-wpg+let,P10253,Miller,,2,Lethbridge,,,,,
@@ -281,21 +281,21 @@ minoraverages/1911Spalding,1910,Western Canada League,ohayer,F20102,O'Hayer,,0,L
 minoraverages/1911Spalding,1910,Western Canada League,olson,B00760,Olson,,1,Lethbridge,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,olson,B00760,Olson,,2,Winnipeg,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,olson,B00760,Olson,,T,,,,93,,
-minoraverages/1911Spalding,1910,Western Canada League,olson,F20673,Olson,,1,Edmonton,,,,,lf.
-minoraverages/1911Spalding,1910,Western Canada League,olson,F20673,Olson,,2,Lethbridge,,,,,lf.
-minoraverages/1911Spalding,1910,Western Canada League,olson,F20673,Olson,,3,Winnipeg,,,,,lf.
+minoraverages/1911Spalding,1910,Western Canada League,olson,F20673,Olson,,1,Edmonton,,,,,lf
+minoraverages/1911Spalding,1910,Western Canada League,olson,F20673,Olson,,2,Lethbridge,,,,,lf
+minoraverages/1911Spalding,1910,Western Canada League,olson,F20673,Olson,,3,Winnipeg,,,,,lf
 minoraverages/1911Spalding,1910,Western Canada League,olson,F20673,Olson,,T,,,,,,lf24
-minoraverages/1911Spalding,1910,Western Canada League,olson,F20810,Olson,,1,Edmonton,,,,,cf.
-minoraverages/1911Spalding,1910,Western Canada League,olson,F20810,Olson,,2,Lethbridge,,,,,cf.
-minoraverages/1911Spalding,1910,Western Canada League,olson,F20810,Olson,,3,Winnipeg,,,,,cf.
+minoraverages/1911Spalding,1910,Western Canada League,olson,F20810,Olson,,1,Edmonton,,,,,cf
+minoraverages/1911Spalding,1910,Western Canada League,olson,F20810,Olson,,2,Lethbridge,,,,,cf
+minoraverages/1911Spalding,1910,Western Canada League,olson,F20810,Olson,,3,Winnipeg,,,,,cf
 minoraverages/1911Spalding,1910,Western Canada League,olson,F20810,Olson,,T,,,,,,cf69
 minoraverages/1911Spalding,1910,Western Canada League,oriet,B00614,Oriet,,0,Lethbridge,,,33,,
 minoraverages/1911Spalding,1910,Western Canada League,oriet,F20583,Oriet,,0,Lethbridge,,,,,ss33
 minoraverages/1911Spalding,1910,Western Canada League,paddock,B00255,Paddock,,0,Calgary,,,88,,
 minoraverages/1911Spalding,1910,Western Canada League,paddock,F20526,Paddock,,0,Calgary,,,,,ss82
 minoraverages/1911Spalding,1910,Western Canada League,page,B00898,Page,,0,Saskatoon,,,21,,
-minoraverages/1911Spalding,1910,Western Canada League,page,F21515,Page,,1,Saskatoon,,,,,c.
-minoraverages/1911Spalding,1910,Western Canada League,page,F21515,Page,,2,Moose Jaw,,,,,c.
+minoraverages/1911Spalding,1910,Western Canada League,page,F21515,Page,,1,Saskatoon,,,,,c
+minoraverages/1911Spalding,1910,Western Canada League,page,F21515,Page,,2,Moose Jaw,,,,,c
 minoraverages/1911Spalding,1910,Western Canada League,page,F21515,Page,,T,,,,,,c21
 minoraverages/1911Spalding,1910,Western Canada League,pieh,B00833,Pieh,,0,Lethbridge,,,40,,
 minoraverages/1911Spalding,1910,Western Canada League,pieh,F21229,Pieh,,0,Lethbridge,,,,,p40
@@ -314,13 +314,13 @@ minoraverages/1911Spalding,1910,Western Canada League,rodosy,B00961,Rodosy,,1,Br
 minoraverages/1911Spalding,1910,Western Canada League,rodosy,B00961,Rodosy,,2,Saskatoon,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,rodosy,B00961,Rodosy,,3,Moose Jaw,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,rodosy,B00961,Rodosy,,T,,,,85,,
-minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20265,Rodosy,,1,Brandon,,,,,2b.
-minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20265,Rodosy,,2,Saskatoon,,,,,2b.
-minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20265,Rodosy,,3,Moose Jaw,,,,,2b.
+minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20265,Rodosy,,1,Brandon,,,,,2b
+minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20265,Rodosy,,2,Saskatoon,,,,,2b
+minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20265,Rodosy,,3,Moose Jaw,,,,,2b
 minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20265,Rodosy,,T,,,,,,2b46
-minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20417,Rodosy,,1,Brandon,,,,,3b.
-minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20417,Rodosy,,2,Saskatoon,,,,,3b.
-minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20417,Rodosy,,3,Moose Jaw,,,,,3b.
+minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20417,Rodosy,,1,Brandon,,,,,3b
+minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20417,Rodosy,,2,Saskatoon,,,,,3b
+minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20417,Rodosy,,3,Moose Jaw,,,,,3b
 minoraverages/1911Spalding,1910,Western Canada League,rodosy,F20417,Rodosy,,T,,,,,,3b39
 minoraverages/1911Spalding,1910,Western Canada League,sage,B01203,Sage,,0,Regina,,,30,,
 minoraverages/1911Spalding,1910,Western Canada League,sage,F21021,Sage,,0,Regina,,,,,p30
@@ -329,9 +329,9 @@ minoraverages/1911Spalding,1910,Western Canada League,samuels,B01086,Samuels,,1,
 minoraverages/1911Spalding,1910,Western Canada League,samuels,B01086,Samuels,,2,Lethbridge,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,samuels,B01086,Samuels,,3,Moose Jaw,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,samuels,B01086,Samuels,,T,,,,22,,
-minoraverages/1911Spalding,1910,Western Canada League,samuels,F21182,Samuels,,1,Edmonton,,,,,p.
-minoraverages/1911Spalding,1910,Western Canada League,samuels,F21182,Samuels,,2,Lethbridge,,,,,p.
-minoraverages/1911Spalding,1910,Western Canada League,samuels,F21182,Samuels,,3,Moose Jaw,,,,,p.
+minoraverages/1911Spalding,1910,Western Canada League,samuels,F21182,Samuels,,1,Edmonton,,,,,p
+minoraverages/1911Spalding,1910,Western Canada League,samuels,F21182,Samuels,,2,Lethbridge,,,,,p
+minoraverages/1911Spalding,1910,Western Canada League,samuels,F21182,Samuels,,3,Moose Jaw,,,,,p
 minoraverages/1911Spalding,1910,Western Canada League,samuels,F21182,Samuels,,T,,,,,,p22
 minoraverages/1911Spalding,1910,Western Canada League,samuels,P10231,Samuels,,1,Edmonton,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,samuels,P10231,Samuels,,2,Lethbridge,,,,,
@@ -342,8 +342,8 @@ minoraverages/1911Spalding,1910,Western Canada League,shultz,B00854,Shultz,,0,Br
 minoraverages/1911Spalding,1910,Western Canada League,shultz,F20648,Shultz,,0,Brandon,,,,,lf26
 minoraverages/1911Spalding,1910,Western Canada League,shultz,F20924,Shultz,,0,Brandon,,,,,rf67
 minoraverages/1911Spalding,1910,Western Canada League,skeels,B00623,Skeels,,0,Regina,,,47,,
-minoraverages/1911Spalding,1910,Western Canada League,skeels,F21286,Skeels,,1,Moose Jaw,,,,,p.
-minoraverages/1911Spalding,1910,Western Canada League,skeels,F21286,Skeels,,2,Regina,,,,,p.
+minoraverages/1911Spalding,1910,Western Canada League,skeels,F21286,Skeels,,1,Moose Jaw,,,,,p
+minoraverages/1911Spalding,1910,Western Canada League,skeels,F21286,Skeels,,2,Regina,,,,,p
 minoraverages/1911Spalding,1910,Western Canada League,skeels,F21286,Skeels,,T,,,,,,p47
 minoraverages/1911Spalding,1910,Western Canada League,skeels,P10202,Skeels,,1,Moose Jaw,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,skeels,P10202,Skeels,,2,Regina,,,,,
@@ -382,25 +382,25 @@ minoraverages/1911Spalding,1910,Western Canada League,triplett,B00887,Triplett,,
 minoraverages/1911Spalding,1910,Western Canada League,triplett,B00887,Triplett,,2,Brandon,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,triplett,B00887,Triplett,,T,,,,81,,
 minoraverages/1911Spalding,1910,Western Canada League,triplett,F20177,Triplett,,0,Brandon,,,,,2b27
-minoraverages/1911Spalding,1910,Western Canada League,triplett,F20350,Triplett,,1,Brandon,,,,,3b.
-minoraverages/1911Spalding,1910,Western Canada League,triplett,F20350,Triplett,,2,Moose Jaw,,,,,3b.
+minoraverages/1911Spalding,1910,Western Canada League,triplett,F20350,Triplett,,1,Brandon,,,,,3b
+minoraverages/1911Spalding,1910,Western Canada League,triplett,F20350,Triplett,,2,Moose Jaw,,,,,3b
 minoraverages/1911Spalding,1910,Western Canada League,triplett,F20350,Triplett,,T,,,,,,3b54
-minoraverages/1911Spalding,1910,Western Canada League,vanward,F20388,Van Ward,,1,Lethbridge,,,,,3b.
-minoraverages/1911Spalding,1910,Western Canada League,vanward,F20388,Van Ward,,2,Winnipeg,,,,,3b.
+minoraverages/1911Spalding,1910,Western Canada League,vanward,F20388,Van Ward,,1,Lethbridge,,,,,3b
+minoraverages/1911Spalding,1910,Western Canada League,vanward,F20388,Van Ward,,2,Winnipeg,,,,,3b
 minoraverages/1911Spalding,1910,Western Canada League,vanward,F20388,Van Ward,,T,,,,,,3b29
 minoraverages/1911Spalding,1910,Western Canada League,vandine,B00068,Vandine,,0,Winnipeg,,,37,,
 minoraverages/1911Spalding,1910,Western Canada League,vandine,F20391,Vandine,,0,Winnipeg,,,,,3b37
 minoraverages/1911Spalding,1910,Western Canada League,walters,B00163,Walters,,1,Regina,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,walters,B00163,Walters,,2,Edmonton,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,walters,B00163,Walters,,T,,,,73,,
-minoraverages/1911Spalding,1910,Western Canada League,walters,F20254,Walters,,1,Regina,,,,,2b.
-minoraverages/1911Spalding,1910,Western Canada League,walters,F20254,Walters,,2,Edmonton,,,,,2b.
+minoraverages/1911Spalding,1910,Western Canada League,walters,F20254,Walters,,1,Regina,,,,,2b
+minoraverages/1911Spalding,1910,Western Canada League,walters,F20254,Walters,,2,Edmonton,,,,,2b
 minoraverages/1911Spalding,1910,Western Canada League,walters,F20254,Walters,,T,,,,,,2b15
 minoraverages/1911Spalding,1910,Western Canada League,walters,F20552,Walters,,0,Regina,,,,,ss56
 minoraverages/1911Spalding,1910,Western Canada League,ward,B00450,Ward,,0,Lethbridge,,,63,,
 minoraverages/1911Spalding,1910,Western Canada League,ward,F20908,Ward,,0,Lethbridge,,,,,rf49
-minoraverages/1911Spalding,1910,Western Canada League,ward,F21488,Ward,,1,Edmonton,,,,,c.
-minoraverages/1911Spalding,1910,Western Canada League,ward,F21488,Ward,,2,Lethbridge,,,,,c.
+minoraverages/1911Spalding,1910,Western Canada League,ward,F21488,Ward,,1,Edmonton,,,,,c
+minoraverages/1911Spalding,1910,Western Canada League,ward,F21488,Ward,,2,Lethbridge,,,,,c
 minoraverages/1911Spalding,1910,Western Canada League,ward,F21488,Ward,,T,,,,,,c14
 minoraverages/1911Spalding,1910,Western Canada League,whisman,B00544,Whisman,,0,Saskatoon,,,37,,
 minoraverages/1911Spalding,1910,Western Canada League,whisman,F20956,Whisman,,0,Saskatoon,,,,,rf24
@@ -418,6 +418,6 @@ minoraverages/1911Spalding,1910,Western Canada League,woods,F21324,Wood,,0,Brand
 minoraverages/1911Spalding,1910,Western Canada League,woods,B00985,Woods,,0,Brandon,,,20,,
 minoraverages/1911Spalding,1910,Western Canada League,woods,P10266,Woods,,0,Brandon,,,,,
 minoraverages/1911Spalding,1910,Western Canada League,zimmerman,B00475,Zimmerman,,0,Lethbridge,,,85,,
-minoraverages/1911Spalding,1910,Western Canada League,zimmerman,F20661,Zimmerman,,1,Saskatoon,,,,,lf.
-minoraverages/1911Spalding,1910,Western Canada League,zimmerman,F20661,Zimmerman,,2,Lethbridge,,,,,lf.
+minoraverages/1911Spalding,1910,Western Canada League,zimmerman,F20661,Zimmerman,,1,Saskatoon,,,,,lf
+minoraverages/1911Spalding,1910,Western Canada League,zimmerman,F20661,Zimmerman,,2,Lethbridge,,,,,lf
 minoraverages/1911Spalding,1910,Western Canada League,zimmerman,F20661,Zimmerman,,T,,,,,,lf85

@@ -2,8 +2,8 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1950TSN,1949,Carolina League,abernathy,B01630,Abernathy,Talmadge,1,Burlington,,,27,,
 minoraverages/1950TSN,1949,Carolina League,abernathy,B01630,Abernathy,Talmadge,2,Greensboro,,,10,,
 minoraverages/1950TSN,1949,Carolina League,abernathy,B01630,Abernathy,Talmadge,T,,,,37,,
-minoraverages/1950TSN,1949,Carolina League,abernathy,F22012,Abernathy,,1,Burlington,,,,,p.
-minoraverages/1950TSN,1949,Carolina League,abernathy,F22012,Abernathy,,2,Greensboro,,,,,p.
+minoraverages/1950TSN,1949,Carolina League,abernathy,F22012,Abernathy,,1,Burlington,,,,,p
+minoraverages/1950TSN,1949,Carolina League,abernathy,F22012,Abernathy,,2,Greensboro,,,,,p
 minoraverages/1950TSN,1949,Carolina League,abernathy,F22012,Abernathy,,T,,,,,,p37
 minoraverages/1950TSN,1949,Carolina League,abernathy,P10277,Abernathy,,1,Burlington,,,,27,
 minoraverages/1950TSN,1949,Carolina League,abernathy,P10277,Abernathy,,2,Greensboro,,,,10,
@@ -37,16 +37,16 @@ minoraverages/1950TSN,1949,Carolina League,attaway,F21362,Attaway,,0,Winston-Sal
 minoraverages/1950TSN,1949,Carolina League,bates,B01384,Bates,Hubert,1,Durham,,,28,,
 minoraverages/1950TSN,1949,Carolina League,bates,B01384,Bates,Hubert,2,Greensboro,,,7,,
 minoraverages/1950TSN,1949,Carolina League,bates,B01384,Bates,Hubert,T,,,,35,,
-minoraverages/1950TSN,1949,Carolina League,bates,F20893,Bates,,1,Burlington,,,,,of.
-minoraverages/1950TSN,1949,Carolina League,bates,F20893,Bates,,2,Greensboro,,,,,of.
+minoraverages/1950TSN,1949,Carolina League,bates,F20893,Bates,,1,Burlington,,,,,of
+minoraverages/1950TSN,1949,Carolina League,bates,F20893,Bates,,2,Greensboro,,,,,of
 minoraverages/1950TSN,1949,Carolina League,bates,F20893,Bates,,T,,,,,,of33
 minoraverages/1950TSN,1949,Carolina League,bates,M90071,Bates,Hubert (Buddy),,Burlington,,,,,
 minoraverages/1950TSN,1949,Carolina League,bates,M90110,Bates,Hubert (Buddy),,Greensboro,19490722,,,,
 minoraverages/1950TSN,1949,Carolina League,baxter,B00961,Baxter,David,1,Burlington,,,6,,
 minoraverages/1950TSN,1949,Carolina League,baxter,B00961,Baxter,David,2,Raleigh,,,74,,
 minoraverages/1950TSN,1949,Carolina League,baxter,B00961,Baxter,David,T,,,,80,,
-minoraverages/1950TSN,1949,Carolina League,baxter,F20051,Baxter,,1,Burlington,,,,,1b.
-minoraverages/1950TSN,1949,Carolina League,baxter,F20051,Baxter,,2,Raleigh,,,,,1b.
+minoraverages/1950TSN,1949,Carolina League,baxter,F20051,Baxter,,1,Burlington,,,,,1b
+minoraverages/1950TSN,1949,Carolina League,baxter,F20051,Baxter,,2,Raleigh,,,,,1b
 minoraverages/1950TSN,1949,Carolina League,baxter,F20051,Baxter,,T,,,,,,1b76
 minoraverages/1950TSN,1949,Carolina League,bernat,B00973,Bernat,Walter,0,Durham,,,66,,
 minoraverages/1950TSN,1949,Carolina League,bernat,F20583,Bernat,,0,Durham,,,,,3b66
@@ -90,8 +90,8 @@ minoraverages/1950TSN,1949,Carolina League,carey,P10231,Carey,,0,Martinsville,,,
 minoraverages/1950TSN,1949,Carolina League,carlson,B01546,Carlson,Robert J.,1,Reidsville,,,13,,
 minoraverages/1950TSN,1949,Carolina League,carlson,B01546,Carlson,Robert J.,2,Danville,,,26,,
 minoraverages/1950TSN,1949,Carolina League,carlson,B01546,Carlson,Robert J.,T,,,,39,,
-minoraverages/1950TSN,1949,Carolina League,carlson,F20661,Carlson,,1,Reidsville,,,,,ss.
-minoraverages/1950TSN,1949,Carolina League,carlson,F20661,Carlson,,2,Danville,,,,,ss.
+minoraverages/1950TSN,1949,Carolina League,carlson,F20661,Carlson,,1,Reidsville,,,,,ss
+minoraverages/1950TSN,1949,Carolina League,carlson,F20661,Carlson,,2,Danville,,,,,ss
 minoraverages/1950TSN,1949,Carolina League,carlson,F20661,Carlson,,T,,,,,,ss37
 minoraverages/1950TSN,1949,Carolina League,carpenter,B00125,Carpenter,Wallace,0,Martinsville,,,23,,
 minoraverages/1950TSN,1949,Carolina League,carpenter,F21335,Carpenter,,0,Martinsville,,,,,of10
@@ -144,8 +144,8 @@ minoraverages/1950TSN,1949,Carolina League,downing,F20956,Downing,,0,Reidsville,
 minoraverages/1950TSN,1949,Carolina League,duke,B00084,Duke,Willie E.,1,Winston-Salem,,,44,,
 minoraverages/1950TSN,1949,Carolina League,duke,B00084,Duke,Willie E.,2,Danville,,,75,,
 minoraverages/1950TSN,1949,Carolina League,duke,B00084,Duke,Willie E.,T,,,,119,,
-minoraverages/1950TSN,1949,Carolina League,duke,F21163,Duke,,1,Winston-Salem,,,,,of.
-minoraverages/1950TSN,1949,Carolina League,duke,F21163,Duke,,2,Danville,,,,,of.
+minoraverages/1950TSN,1949,Carolina League,duke,F21163,Duke,,1,Winston-Salem,,,,,of
+minoraverages/1950TSN,1949,Carolina League,duke,F21163,Duke,,2,Danville,,,,,of
 minoraverages/1950TSN,1949,Carolina League,duke,F21163,Duke,,T,,,,,,of119
 minoraverages/1950TSN,1949,Carolina League,duke,M90026,Duke,Willie,,Winston-Salem,,,,,
 minoraverages/1950TSN,1949,Carolina League,eikenberg,B01489,Eikenberg,George,0,Raleigh,,,141,,
@@ -225,8 +225,8 @@ minoraverages/1950TSN,1949,Carolina League,hanley,F21232,Hanley,,0,Raleigh,,,,,o
 minoraverages/1950TSN,1949,Carolina League,hardee,B01625,Hardee,Ray,1,Danville,,,7,,
 minoraverages/1950TSN,1949,Carolina League,hardee,B01625,Hardee,Ray,2,Reidsville,,,20,,
 minoraverages/1950TSN,1949,Carolina League,hardee,B01625,Hardee,Ray,T,,,,27,,
-minoraverages/1950TSN,1949,Carolina League,hardee,F21999,Hardee,,1,Danville,,,,,p.
-minoraverages/1950TSN,1949,Carolina League,hardee,F21999,Hardee,,2,Reidsville,,,,,p.
+minoraverages/1950TSN,1949,Carolina League,hardee,F21999,Hardee,,1,Danville,,,,,p
+minoraverages/1950TSN,1949,Carolina League,hardee,F21999,Hardee,,2,Reidsville,,,,,p
 minoraverages/1950TSN,1949,Carolina League,hardee,F21999,Hardee,,T,,,,,,p27
 minoraverages/1950TSN,1949,Carolina League,hardee,P10486,Hardee,,1,Danville,,,,7,
 minoraverages/1950TSN,1949,Carolina League,hardee,P10486,Hardee,,2,Reidsville,,,,20,
@@ -396,9 +396,9 @@ minoraverages/1950TSN,1949,Carolina League,petty,B00589,Petty,Eugene,1,Burlingto
 minoraverages/1950TSN,1949,Carolina League,petty,B00589,Petty,Eugene,2,Greensboro,,,60,,
 minoraverages/1950TSN,1949,Carolina League,petty,B00589,Petty,Eugene,3,Burlington,,,25,,
 minoraverages/1950TSN,1949,Carolina League,petty,B00589,Petty,Eugene,T,,,,117,,
-minoraverages/1950TSN,1949,Carolina League,petty,F21264,Petty,,1,Burlington,,,,,of.
-minoraverages/1950TSN,1949,Carolina League,petty,F21264,Petty,,2,Greensboro,,,,,of.
-minoraverages/1950TSN,1949,Carolina League,petty,F21264,Petty,,3,Burlington,,,,,of.
+minoraverages/1950TSN,1949,Carolina League,petty,F21264,Petty,,1,Burlington,,,,,of
+minoraverages/1950TSN,1949,Carolina League,petty,F21264,Petty,,2,Greensboro,,,,,of
+minoraverages/1950TSN,1949,Carolina League,petty,F21264,Petty,,3,Burlington,,,,,of
 minoraverages/1950TSN,1949,Carolina League,petty,F21264,Petty,,T,,,,,,of111
 minoraverages/1950TSN,1949,Carolina League,pfeiffer,B01798,Pfeiffer,Harold,0,Raleigh,,,18,,
 minoraverages/1950TSN,1949,Carolina League,pfeiffer,F20023,Pfeiffer,H.,0,Raleigh,,,,,1b17
@@ -413,18 +413,18 @@ minoraverages/1950TSN,1949,Carolina League,radakovich,B01269,Radakovich,Dan,1,Gr
 minoraverages/1950TSN,1949,Carolina League,radakovich,B01269,Radakovich,Dan,2,Burlington,,,9,,
 minoraverages/1950TSN,1949,Carolina League,radakovich,B01269,Radakovich,Dan,3,Greensboro,,,66,,
 minoraverages/1950TSN,1949,Carolina League,radakovich,B01269,Radakovich,Dan,T,,,,81,,
-minoraverages/1950TSN,1949,Carolina League,radakovich,F21403,Radakovich,,1,Greensboro,,,,,c.
-minoraverages/1950TSN,1949,Carolina League,radakovich,F21403,Radakovich,,2,Burlington,,,,,c.
-minoraverages/1950TSN,1949,Carolina League,radakovich,F21403,Radakovich,,3,Greensboro,,,,,c.
+minoraverages/1950TSN,1949,Carolina League,radakovich,F21403,Radakovich,,1,Greensboro,,,,,c
+minoraverages/1950TSN,1949,Carolina League,radakovich,F21403,Radakovich,,2,Burlington,,,,,c
+minoraverages/1950TSN,1949,Carolina League,radakovich,F21403,Radakovich,,3,Greensboro,,,,,c
 minoraverages/1950TSN,1949,Carolina League,radakovich,F21403,Radakovich,,T,,,,,,c81
 minoraverages/1950TSN,1949,Carolina League,raddant,B00528,Raddant,Kenneth,1,Burlington,,,7,,
 minoraverages/1950TSN,1949,Carolina League,raddant,B00528,Raddant,Kenneth,2,Raleigh,,,102,,
 minoraverages/1950TSN,1949,Carolina League,raddant,B00528,Raddant,Kenneth,T,,,,109,,
-minoraverages/1950TSN,1949,Carolina League,raddant,F21278,Raddant,,1,Burlington,,,,,of.
-minoraverages/1950TSN,1949,Carolina League,raddant,F21278,Raddant,,2,Raleigh,,,,,of.
+minoraverages/1950TSN,1949,Carolina League,raddant,F21278,Raddant,,1,Burlington,,,,,of
+minoraverages/1950TSN,1949,Carolina League,raddant,F21278,Raddant,,2,Raleigh,,,,,of
 minoraverages/1950TSN,1949,Carolina League,raddant,F21278,Raddant,,T,,,,,,of11
-minoraverages/1950TSN,1949,Carolina League,raddant,F21381,Raddant,,1,Burlington,,,,,c.
-minoraverages/1950TSN,1949,Carolina League,raddant,F21381,Raddant,,2,Raleigh,,,,,c.
+minoraverages/1950TSN,1949,Carolina League,raddant,F21381,Raddant,,1,Burlington,,,,,c
+minoraverages/1950TSN,1949,Carolina League,raddant,F21381,Raddant,,2,Raleigh,,,,,c
 minoraverages/1950TSN,1949,Carolina League,raddant,F21381,Raddant,,T,,,,,,c92
 minoraverages/1950TSN,1949,Carolina League,rawlinson,B01135,Rawlinson,Glenn,0,Reidsville,,,138,,
 minoraverages/1950TSN,1949,Carolina League,rawlinson,F20287,Rawlinson,,0,Reidsville,,,,,2b138
@@ -518,11 +518,11 @@ minoraverages/1950TSN,1949,Carolina League,wigle,P10399,Wigle,,0,Danville,,,,27,
 minoraverages/1950TSN,1949,Carolina League,willett,B00936,Willett,Raymond,1,Durham,,,61,,
 minoraverages/1950TSN,1949,Carolina League,willett,B00936,Willett,Raymond,2,Greensboro,,,80,,
 minoraverages/1950TSN,1949,Carolina League,willett,B00936,Willett,Raymond,T,,,,141,,
-minoraverages/1950TSN,1949,Carolina League,willett,F20279,Willett,,1,Durham,,,,,2b.
-minoraverages/1950TSN,1949,Carolina League,willett,F20279,Willett,,2,Greensboro,,,,,2b.
+minoraverages/1950TSN,1949,Carolina League,willett,F20279,Willett,,1,Durham,,,,,2b
+minoraverages/1950TSN,1949,Carolina League,willett,F20279,Willett,,2,Greensboro,,,,,2b
 minoraverages/1950TSN,1949,Carolina League,willett,F20279,Willett,,T,,,,,,2b58
-minoraverages/1950TSN,1949,Carolina League,willett,F20699,Willett,,1,Durham,,,,,ss.
-minoraverages/1950TSN,1949,Carolina League,willett,F20699,Willett,,2,Greensboro,,,,,ss.
+minoraverages/1950TSN,1949,Carolina League,willett,F20699,Willett,,1,Durham,,,,,ss
+minoraverages/1950TSN,1949,Carolina League,willett,F20699,Willett,,2,Greensboro,,,,,ss
 minoraverages/1950TSN,1949,Carolina League,willett,F20699,Willett,,T,,,,,,ss85
 minoraverages/1950TSN,1949,Carolina League,willis,B01918,Willis,H. Paul,0,Danville,,,16,,
 minoraverages/1950TSN,1949,Carolina League,willis,F22188,Willis,,0,Danville,,,,,p16

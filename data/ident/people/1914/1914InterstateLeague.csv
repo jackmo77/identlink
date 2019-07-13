@@ -2,8 +2,8 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1915Spalding,1914,Interstate League,apple,B00362,Apple,,1,Wellsville,,,,,
 minoraverages/1915Spalding,1914,Interstate League,apple,B00362,Apple,,2,Jamestown,,,,,
 minoraverages/1915Spalding,1914,Interstate League,apple,B00362,Apple,,T,,,,44,,
-minoraverages/1915Spalding,1914,Interstate League,apple,F20128,Apple,,1,Wellsville,,,,,2b.
-minoraverages/1915Spalding,1914,Interstate League,apple,F20128,Apple,,2,Jamestown,,,,,2b.
+minoraverages/1915Spalding,1914,Interstate League,apple,F20128,Apple,,1,Wellsville,,,,,2b
+minoraverages/1915Spalding,1914,Interstate League,apple,F20128,Apple,,2,Jamestown,,,,,2b
 minoraverages/1915Spalding,1914,Interstate League,apple,F20128,Apple,,T,,,,,,2b44
 minoraverages/1915Spalding,1914,Interstate League,argus,B00450,Argus,,0,Hornell,,,11,,
 minoraverages/1915Spalding,1914,Interstate League,argus,F20594,Argus,,0,Hornell,,,,,c11
@@ -38,8 +38,8 @@ minoraverages/1915Spalding,1914,Interstate League,davis,F20878,Davis,,0,Jamestow
 minoraverages/1915Spalding,1914,Interstate League,debarberri,B00680,DeBarberri,,1,Bradford,,,,,
 minoraverages/1915Spalding,1914,Interstate League,debarberri,B00680,DeBarberri,,2,Jamestown,,,,,
 minoraverages/1915Spalding,1914,Interstate League,debarberri,B00680,DeBarberri,,T,,,,42,,
-minoraverages/1915Spalding,1914,Interstate League,debarberri,F20166,DeBarberri,,1,Bradford,,,,,2b.
-minoraverages/1915Spalding,1914,Interstate League,debarberri,F20166,DeBarberri,,2,Jamestown,,,,,2b.
+minoraverages/1915Spalding,1914,Interstate League,debarberri,F20166,DeBarberri,,1,Bradford,,,,,2b
+minoraverages/1915Spalding,1914,Interstate League,debarberri,F20166,DeBarberri,,2,Jamestown,,,,,2b
 minoraverages/1915Spalding,1914,Interstate League,debarberri,F20166,DeBarberri,,T,,,,,,2b42
 minoraverages/1915Spalding,1914,Interstate League,donnelly,B00397,Donnelly,,0,Bradford,,,14,,
 minoraverages/1915Spalding,1914,Interstate League,donnelly,F20776,Donnelly,,0,Bradford,,,,,p14
@@ -141,8 +141,8 @@ minoraverages/1915Spalding,1914,Interstate League,reynolds,B00726,Reynolds,,0,Ol
 minoraverages/1915Spalding,1914,Interstate League,reynolds,F20713,Reynolds,,0,Olean,,,,,p21
 minoraverages/1915Spalding,1914,Interstate League,rogenmoser,B00718,Rogenmoser,,0,Bradford,,,21,,
 minoraverages/1915Spalding,1914,Interstate League,rogenmoser,F20673,Rogenmoser,,0,Bradford,,,,,p21
-minoraverages/1915Spalding,1914,Interstate League,sheffler,F20240,Scheffler,,1,Hornell,,,,,3b.
-minoraverages/1915Spalding,1914,Interstate League,sheffler,F20240,Scheffler,,2,Wellsville,,,,,3b.
+minoraverages/1915Spalding,1914,Interstate League,sheffler,F20240,Scheffler,,1,Hornell,,,,,3b
+minoraverages/1915Spalding,1914,Interstate League,sheffler,F20240,Scheffler,,2,Wellsville,,,,,3b
 minoraverages/1915Spalding,1914,Interstate League,sheffler,F20240,Scheffler,,T,,,,,,3b44
 minoraverages/1915Spalding,1914,Interstate League,seibert,B00210,Seibert,,0,Hornell,,,27,,
 minoraverages/1915Spalding,1914,Interstate League,seibert,F20190,Seibert,,0,Hornell,,,,,3b27

@@ -2,8 +2,8 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1909Reach,1908,Texas League,ables,B00362,Ables,,1,Dallas,,,,,
 minoraverages/1909Reach,1908,Texas League,ables,B00362,Ables,,2,San Antonio,,,,,
 minoraverages/1909Reach,1908,Texas League,ables,B00362,Ables,,T,,,,29,,
-minoraverages/1909Reach,1908,Texas League,ables,F20583,Ables,,1,Dallas,,,,,p.
-minoraverages/1909Reach,1908,Texas League,ables,F20583,Ables,,2,San Antonio,,,,,p.
+minoraverages/1909Reach,1908,Texas League,ables,F20583,Ables,,1,Dallas,,,,,p
+minoraverages/1909Reach,1908,Texas League,ables,F20583,Ables,,2,San Antonio,,,,,p
 minoraverages/1909Reach,1908,Texas League,ables,F20583,Ables,,T,,,,,,p29
 minoraverages/1909Reach,1908,Texas League,ables,P10215,Ables,,1,Dallas,,,,,
 minoraverages/1909Reach,1908,Texas League,ables,P10215,Ables,,2,San Antonio,,,,,
@@ -20,8 +20,8 @@ minoraverages/1909Reach,1908,Texas League,alexander,F20023,Alexander,,0,San Anto
 minoraverages/1909Reach,1908,Texas League,anderson,B01711,Anderson,,1,Galveston,,,,,
 minoraverages/1909Reach,1908,Texas League,anderson,B01711,Anderson,,2,Shreveport,,,,,
 minoraverages/1909Reach,1908,Texas League,anderson,B01711,Anderson,,T,,,,4,,
-minoraverages/1909Reach,1908,Texas League,anderson,F20303,Anderson,,1,Galveston,,,,,p.
-minoraverages/1909Reach,1908,Texas League,anderson,F20303,Anderson,,2,Shreveport,,,,,p.
+minoraverages/1909Reach,1908,Texas League,anderson,F20303,Anderson,,1,Galveston,,,,,p
+minoraverages/1909Reach,1908,Texas League,anderson,F20303,Anderson,,2,Shreveport,,,,,p
 minoraverages/1909Reach,1908,Texas League,anderson,F20303,Anderson,,T,,,,,,p4
 minoraverages/1909Reach,1908,Texas League,anderson,P10407,Anderson,,0,Shreveport,,,,2,
 minoraverages/1909Reach,1908,Texas League,arnold,B00370,Arnold,,0,Shreveport,,,116,,
@@ -35,8 +35,8 @@ minoraverages/1909Reach,1908,Texas League,bayles,B00076,Balyes,,0,Dallas,,,6,,
 minoraverages/1909Reach,1908,Texas League,bamer,B00811,Bamer,,1,Fort Worth,,,,,
 minoraverages/1909Reach,1908,Texas League,bamer,B00811,Bamer,,2,San Antonio,,,,,
 minoraverages/1909Reach,1908,Texas League,bamer,B00811,Bamer,,T,,,,42,,
-minoraverages/1909Reach,1908,Texas League,bamer,F20128,Bamer,,1,Fort Worth,,,,,c.
-minoraverages/1909Reach,1908,Texas League,bamer,F20128,Bamer,,2,San Antonio,,,,,c.
+minoraverages/1909Reach,1908,Texas League,bamer,F20128,Bamer,,1,Fort Worth,,,,,c
+minoraverages/1909Reach,1908,Texas League,bamer,F20128,Bamer,,2,San Antonio,,,,,c
 minoraverages/1909Reach,1908,Texas League,bamer,F20128,Bamer,,T,,,,,,c42
 minoraverages/1909Reach,1908,Texas League,barclay,B02062,Barclay,,0,San Antonio,,,3,,
 minoraverages/1909Reach,1908,Texas League,burnett,B01952,Barnett,,0,Dallas,,,11,,
@@ -54,8 +54,8 @@ minoraverages/1909Reach,1908,Texas League,blake-aus+hou,B00739,Blake,,1,Austin,,
 minoraverages/1909Reach,1908,Texas League,blake-aus+hou,B00739,Blake,,2,Houston,,,,,
 minoraverages/1909Reach,1908,Texas League,blake-aus+hou,B00739,Blake,,T,,,,134,,
 minoraverages/1909Reach,1908,Texas League,blake-shr,F21475,Blake,,0,Shreveport,,,,,2b107
-minoraverages/1909Reach,1908,Texas League,blake-aus+hou,F22061,Blake,,1,Austin,,,,,of.
-minoraverages/1909Reach,1908,Texas League,blake-aus+hou,F22061,Blake,,2,Houston,,,,,of.
+minoraverages/1909Reach,1908,Texas League,blake-aus+hou,F22061,Blake,,1,Austin,,,,,of
+minoraverages/1909Reach,1908,Texas League,blake-aus+hou,F22061,Blake,,2,Houston,,,,,of
 minoraverages/1909Reach,1908,Texas League,blake-aus+hou,F22061,Blake,,T,,,,,,of134
 minoraverages/1909Reach,1908,Texas League,blumling,B01269,Blumling,,0,Galveston,,,16,,
 minoraverages/1909Reach,1908,Texas League,blumling,F21013,Blumling,,0,Galveston,,,,,p16
@@ -99,11 +99,11 @@ minoraverages/1909Reach,1908,Texas League,burns,P10113,Burns,,0,San Antonio,,,,1
 minoraverages/1909Reach,1908,Texas League,burton,B01203,Burton,,1,Galveston,,,,,
 minoraverages/1909Reach,1908,Texas League,burton,B01203,Burton,,2,Houston,,,,,
 minoraverages/1909Reach,1908,Texas League,burton,B01203,Burton,,T,,,,47,,
-minoraverages/1909Reach,1908,Texas League,burton,F21434,Burton,,1,Galveston,,,,,2b.
-minoraverages/1909Reach,1908,Texas League,burton,F21434,Burton,,2,Houston,,,,,2b.
+minoraverages/1909Reach,1908,Texas League,burton,F21434,Burton,,1,Galveston,,,,,2b
+minoraverages/1909Reach,1908,Texas League,burton,F21434,Burton,,2,Houston,,,,,2b
 minoraverages/1909Reach,1908,Texas League,burton,F21434,Burton,,T,,,,,,2b32
-minoraverages/1909Reach,1908,Texas League,burton,F21948,Burton,,1,Houston,,,,,ss.
-minoraverages/1909Reach,1908,Texas League,burton,F21948,Burton,,2,Galveston,,,,,ss.
+minoraverages/1909Reach,1908,Texas League,burton,F21948,Burton,,1,Houston,,,,,ss
+minoraverages/1909Reach,1908,Texas League,burton,F21948,Burton,,2,Galveston,,,,,ss
 minoraverages/1909Reach,1908,Texas League,burton,F21948,Burton,,T,,,,,,ss15
 minoraverages/1909Reach,1908,Texas League,bush,B02008,Bush,,0,Shreveport,,,1,,
 minoraverages/1909Reach,1908,Texas League,bush,F21076,Bush,,0,Shreveport,,,,,p1
@@ -124,11 +124,11 @@ minoraverages/1909Reach,1908,Texas League,cermak,B00912,Cermak,,1,Austin,,,,,
 minoraverages/1909Reach,1908,Texas League,cermak,B00912,Cermak,,2,Waco,,,,,
 minoraverages/1909Reach,1908,Texas League,cermak,B00912,Cermak,,3,Shreveport,,,,,
 minoraverages/1909Reach,1908,Texas League,cermak,B00912,Cermak,,T,,,,61,,
-minoraverages/1909Reach,1908,Texas League,cermak,F21427,Cermak,,1,Austin,,,,,2b.
-minoraverages/1909Reach,1908,Texas League,cermak,F21427,Cermak,,2,Shreveport,,,,,2b.
+minoraverages/1909Reach,1908,Texas League,cermak,F21427,Cermak,,1,Austin,,,,,2b
+minoraverages/1909Reach,1908,Texas League,cermak,F21427,Cermak,,2,Shreveport,,,,,2b
 minoraverages/1909Reach,1908,Texas League,cermak,F21427,Cermak,,T,,,,,,2b16
-minoraverages/1909Reach,1908,Texas League,cermak,F22267,Cermak,,1,Austin,,,,,of.
-minoraverages/1909Reach,1908,Texas League,cermak,F22267,Cermak,,2,Shreveport,,,,,of.
+minoraverages/1909Reach,1908,Texas League,cermak,F22267,Cermak,,1,Austin,,,,,of
+minoraverages/1909Reach,1908,Texas League,cermak,F22267,Cermak,,2,Shreveport,,,,,of
 minoraverages/1909Reach,1908,Texas League,cermak,F22267,Cermak,,T,,,,,,of45
 minoraverages/1909Reach,1908,Texas League,chelette,B01939,Chelette,,0,Shreveport,,,10,,
 minoraverages/1909Reach,1908,Texas League,chelette,F21021,Chelette,,0,Shreveport,,,,,p10
@@ -162,13 +162,13 @@ minoraverages/1909Reach,1908,Texas League,crabble,B01086,Crabble,,1,Austin,,,,,
 minoraverages/1909Reach,1908,Texas League,crabble,B01086,Crabble,,2,Waco,,,,,
 minoraverages/1909Reach,1908,Texas League,crabble,B01086,Crabble,,3,Galveston,,,,,
 minoraverages/1909Reach,1908,Texas League,crabble,B01086,Crabble,,T,,,,28,,
-minoraverages/1909Reach,1908,Texas League,crabble,F20792,Crabble,,1,Austin,,,,,p.
-minoraverages/1909Reach,1908,Texas League,crabble,F20792,Crabble,,2,Waco,,,,,p.
+minoraverages/1909Reach,1908,Texas League,crabble,F20792,Crabble,,1,Austin,,,,,p
+minoraverages/1909Reach,1908,Texas League,crabble,F20792,Crabble,,2,Waco,,,,,p
 minoraverages/1909Reach,1908,Texas League,crabble,F20792,Crabble,,T,,,,,,p28
 minoraverages/1909Reach,1908,Texas League,crabble,P10591,Crabble,,0,Austin,,,,25,
 minoraverages/1909Reach,1908,Texas League,curtis,B01313,Curtis,F.,0,Fort Worth,,,11,,
-minoraverages/1909Reach,1908,Texas League,curtis,F22355,Curtis,,1,Galveston,,,,,of.
-minoraverages/1909Reach,1908,Texas League,curtis,F22355,Curtis,,2,Fort Worth,,,,,of.
+minoraverages/1909Reach,1908,Texas League,curtis,F22355,Curtis,,1,Galveston,,,,,of
+minoraverages/1909Reach,1908,Texas League,curtis,F22355,Curtis,,2,Fort Worth,,,,,of
 minoraverages/1909Reach,1908,Texas League,curtis,F22355,Curtis,,T,,,,,,of11
 minoraverages/1909Reach,1908,Texas League,cutchin,B00013,Cutchin,,0,Fort Worth,,,1,,
 minoraverages/1909Reach,1908,Texas League,dabney,B01918,Dabney,,0,Galveston,,,10,,
@@ -197,8 +197,8 @@ minoraverages/1909Reach,1908,Texas League,dupree,P10244,Dupree,,0,Fort Worth,,,,
 minoraverages/1909Reach,1908,Texas League,earthman,B01509,Earthman,,1,Waco,,,,,
 minoraverages/1909Reach,1908,Texas League,earthman,B01509,Earthman,,2,Shreveport,,,,,
 minoraverages/1909Reach,1908,Texas League,earthman,B01509,Earthman,,T,,,,53,,
-minoraverages/1909Reach,1908,Texas League,earthman,F21502,Earthman,,1,Waco,,,,,2b.
-minoraverages/1909Reach,1908,Texas League,earthman,F21502,Earthman,,2,Shreveport,,,,,2b.
+minoraverages/1909Reach,1908,Texas League,earthman,F21502,Earthman,,1,Waco,,,,,2b
+minoraverages/1909Reach,1908,Texas League,earthman,F21502,Earthman,,2,Shreveport,,,,,2b
 minoraverages/1909Reach,1908,Texas League,earthman,F21502,Earthman,,T,,,,,,2b22
 minoraverages/1909Reach,1908,Texas League,earthman,F21667,Earthman,,0,Waco,,,,,3b16
 minoraverages/1909Reach,1908,Texas League,earthman,F21957,Earthman,,0,Waco,,,,,ss15
@@ -207,17 +207,17 @@ minoraverages/1909Reach,1908,Texas League,edmondson,B00037,Edmondson,,0,Galvesto
 minoraverages/1909Reach,1908,Texas League,edmondson,F22116,Edmondson,,0,Galveston,,,,,of96
 minoraverages/1909Reach,1908,Texas League,edmuns,B02043,Edmuns,,0,Waco,,,3,,
 minoraverages/1909Reach,1908,Texas League,elliott,B01905,Elliott,,0,Shreveport,,,5,,
-minoraverages/1909Reach,1908,Texas League,ens,F21920,Ens,,1,San Antonio,,,,,ss.
-minoraverages/1909Reach,1908,Texas League,ens,F21920,Ens,,2,Shreveport,,,,,ss.
+minoraverages/1909Reach,1908,Texas League,ens,F21920,Ens,,1,San Antonio,,,,,ss
+minoraverages/1909Reach,1908,Texas League,ens,F21920,Ens,,2,Shreveport,,,,,ss
 minoraverages/1909Reach,1908,Texas League,ens,F21920,Ens,,T,,,,,,ss28
 minoraverages/1909Reach,1908,Texas League,epler,B00638,Epler,,1,Fort Worth,,,,,
 minoraverages/1909Reach,1908,Texas League,epler,B00638,Epler,,2,Galveston,,,,,
 minoraverages/1909Reach,1908,Texas League,epler,B00638,Epler,,T,,,,138,,
-minoraverages/1909Reach,1908,Texas League,epler,F20369,Epler,,1,Fort Worth,,,,,p.
-minoraverages/1909Reach,1908,Texas League,epler,F20369,Epler,,2,Galveston,,,,,p.
+minoraverages/1909Reach,1908,Texas League,epler,F20369,Epler,,1,Fort Worth,,,,,p
+minoraverages/1909Reach,1908,Texas League,epler,F20369,Epler,,2,Galveston,,,,,p
 minoraverages/1909Reach,1908,Texas League,epler,F20369,Epler,,T,,,,,,p1
-minoraverages/1909Reach,1908,Texas League,epler,F22307,Epler,,1,Fort Worth,,,,,of.
-minoraverages/1909Reach,1908,Texas League,epler,F22307,Epler,,2,Galveston,,,,,of.
+minoraverages/1909Reach,1908,Texas League,epler,F22307,Epler,,1,Fort Worth,,,,,of
+minoraverages/1909Reach,1908,Texas League,epler,F22307,Epler,,2,Galveston,,,,,of
 minoraverages/1909Reach,1908,Texas League,epler,F22307,Epler,,T,,,,,,of137
 minoraverages/1909Reach,1908,Texas League,epler,P10035,Epler,,0,Galveston,,,,1,
 minoraverages/1909Reach,1908,Texas League,firds,B01960,Firds,,0,Austin,,,1,,
@@ -258,8 +258,8 @@ minoraverages/1909Reach,1908,Texas League,griffin,F21961,Griffin,,0,Fort Worth,,
 minoraverages/1909Reach,1908,Texas League,griffin,P10100,Griffin,,0,Fort Worth,,,,32,
 minoraverages/1909Reach,1908,Texas League,griggs,B00125,Griggs,,0,San Antonio,,,118,,
 minoraverages/1909Reach,1908,Texas League,griggs,F20153,Griggs,,0,San Antonio,,,,,c11
-minoraverages/1909Reach,1908,Texas League,griggs,F21362,Griggs,,1,Shreveport,,,,,2b.
-minoraverages/1909Reach,1908,Texas League,griggs,F21362,Griggs,,2,San Antonio,,,,,2b.
+minoraverages/1909Reach,1908,Texas League,griggs,F21362,Griggs,,1,Shreveport,,,,,2b
+minoraverages/1909Reach,1908,Texas League,griggs,F21362,Griggs,,2,San Antonio,,,,,2b
 minoraverages/1909Reach,1908,Texas League,griggs,F21362,Griggs,,T,,,,,,2b107
 minoraverages/1909Reach,1908,Texas League,hafter,B00589,Hafter,,0,Waco,,,8,,
 minoraverages/1909Reach,1908,Texas League,hall,P10930,Hall,,0,Shreveport,,,,1,
@@ -286,8 +286,8 @@ minoraverages/1909Reach,1908,Texas League,herbert,P10723,Herbert,,0,Austin,,,,21
 minoraverages/1909Reach,1908,Texas League,hester,B01368,Hester,,1,Houston,,,,,
 minoraverages/1909Reach,1908,Texas League,hester,B01368,Hester,,2,Austin,,,,,
 minoraverages/1909Reach,1908,Texas League,hester,B01368,Hester,,T,,,,39,,
-minoraverages/1909Reach,1908,Texas League,hester,F20776,Hester,,1,Houston,,,,,p.
-minoraverages/1909Reach,1908,Texas League,hester,F20776,Hester,,2,Austin,,,,,p.
+minoraverages/1909Reach,1908,Texas League,hester,F20776,Hester,,1,Houston,,,,,p
+minoraverages/1909Reach,1908,Texas League,hester,F20776,Hester,,2,Austin,,,,,p
 minoraverages/1909Reach,1908,Texas League,hester,F20776,Hester,,T,,,,,,p39
 minoraverages/1909Reach,1908,Texas League,hester,P10665,Hester,,1,Houston,,,,,
 minoraverages/1909Reach,1908,Texas League,hester,P10665,Hester,,2,Austin,,,,,
@@ -306,8 +306,8 @@ minoraverages/1909Reach,1908,Texas League,hoffman,B00887,Hoffman,,1,Shreveport,,
 minoraverages/1909Reach,1908,Texas League,hoffman,B00887,Hoffman,,2,Waco,,,,,
 minoraverages/1909Reach,1908,Texas League,hoffman,B00887,Hoffman,,T,,,,114,,
 minoraverages/1909Reach,1908,Texas League,hoffman,F22103,Hoffman,,0,Waco,,,,,of81
-minoraverages/1909Reach,1908,Texas League,hoffman,F21589,Hofman,,1,Shreveport,,,,,3b.
-minoraverages/1909Reach,1908,Texas League,hoffman,F21589,Hofman,,2,Waco,,,,,3b.
+minoraverages/1909Reach,1908,Texas League,hoffman,F21589,Hofman,,1,Shreveport,,,,,3b
+minoraverages/1909Reach,1908,Texas League,hoffman,F21589,Hofman,,2,Waco,,,,,3b
 minoraverages/1909Reach,1908,Texas League,hoffman,F21589,Hofman,,T,,,,,,3b33
 minoraverages/1909Reach,1908,Texas League,hoie,F22422,Hoie,,0,Dallas,,,,,of13
 minoraverages/1909Reach,1908,Texas League,hoie,B00264,Hole,,0,Dallas,,,143,,
@@ -341,8 +341,8 @@ minoraverages/1909Reach,1908,Texas League,johnson-hou,P10917,Johnson,,0,Houston,
 minoraverages/1909Reach,1908,Texas League,jolly,B00695,Jolly,,1,Waco,,,,,
 minoraverages/1909Reach,1908,Texas League,jolly,B00695,Jolly,,2,Fort Worth,,,,,
 minoraverages/1909Reach,1908,Texas League,jolly,B00695,Jolly,,T,,,,9,,
-minoraverages/1909Reach,1908,Texas League,jolly,F20287,Jolly,,1,Waco,,,,,p.
-minoraverages/1909Reach,1908,Texas League,jolly,F20287,Jolly,,2,Fort Worth,,,,,p.
+minoraverages/1909Reach,1908,Texas League,jolly,F20287,Jolly,,1,Waco,,,,,p
+minoraverages/1909Reach,1908,Texas League,jolly,F20287,Jolly,,2,Fort Worth,,,,,p
 minoraverages/1909Reach,1908,Texas League,jolly,F20287,Jolly,,T,,,,,,p9
 minoraverages/1909Reach,1908,Texas League,jolly,P10847,Jolly,,0,Fort Worth,,,,2,
 minoraverages/1909Reach,1908,Texas League,jung,B01514,Jung,,0,Houston,,,12,,
@@ -395,8 +395,8 @@ minoraverages/1909Reach,1908,Texas League,mcculley,F21488,McCauley,,0,Austin,,,,
 minoraverages/1909Reach,1908,Texas League,mccormick,B00158,McCormick,,1,Houston,,,,,
 minoraverages/1909Reach,1908,Texas League,mccormick,B00158,McCormick,,2,Austin,,,,,
 minoraverages/1909Reach,1908,Texas League,mccormick,B00158,McCormick,,T,,,,3,,
-minoraverages/1909Reach,1908,Texas League,mccormick,F20334,McCormick,,1,Houston,,,,,p.
-minoraverages/1909Reach,1908,Texas League,mccormick,F20334,McCormick,,2,Austin,,,,,p.
+minoraverages/1909Reach,1908,Texas League,mccormick,F20334,McCormick,,1,Houston,,,,,p
+minoraverages/1909Reach,1908,Texas League,mccormick,F20334,McCormick,,2,Austin,,,,,p
 minoraverages/1909Reach,1908,Texas League,mccormick,F20334,McCormick,,T,,,,,,p3
 minoraverages/1909Reach,1908,Texas League,mccormick,P10348,McCormick,,0,Houston,,,,2,
 minoraverages/1909Reach,1908,Texas League,mccoy,B01300,McCoy,,0,Shreveport,,,54,,
@@ -447,8 +447,8 @@ minoraverages/1909Reach,1908,Texas League,nance,F21985,Nance,,0,Waco,,,,,of14
 minoraverages/1909Reach,1908,Texas League,nelson,B01546,Nelson,,1,Houston,,,,,
 minoraverages/1909Reach,1908,Texas League,nelson,B01546,Nelson,,2,Waco,,,,,
 minoraverages/1909Reach,1908,Texas League,nelson,B01546,Nelson,,T,,,,11,,
-minoraverages/1909Reach,1908,Texas League,nelson,F20240,Nelson,,1,Houston,,,,,p.
-minoraverages/1909Reach,1908,Texas League,nelson,F20240,Nelson,,2,Waco,,,,,p.
+minoraverages/1909Reach,1908,Texas League,nelson,F20240,Nelson,,1,Houston,,,,,p
+minoraverages/1909Reach,1908,Texas League,nelson,F20240,Nelson,,2,Waco,,,,,p
 minoraverages/1909Reach,1908,Texas League,nelson,F20240,Nelson,,T,,,,,,p11
 minoraverages/1909Reach,1908,Texas League,nelson,P10320,Nelson,,1,Houston,,,,,
 minoraverages/1909Reach,1908,Texas League,nelson,P10320,Nelson,,2,Waco,,,,,
@@ -482,8 +482,8 @@ minoraverages/1909Reach,1908,Texas League,potts,P10826,Potts,,0,Fort Worth,,,,1,
 minoraverages/1909Reach,1908,Texas League,powell,B00544,Powell,,1,Houston,,,,,
 minoraverages/1909Reach,1908,Texas League,powell,B00544,Powell,,2,Waco,,,,,
 minoraverages/1909Reach,1908,Texas League,powell,B00544,Powell,,T,,,,98,,
-minoraverages/1909Reach,1908,Texas League,powell,F20131,Powell,,1,Houston,,,,,c.
-minoraverages/1909Reach,1908,Texas League,powell,F20131,Powell,,2,Waco,,,,,c.
+minoraverages/1909Reach,1908,Texas League,powell,F20131,Powell,,1,Houston,,,,,c
+minoraverages/1909Reach,1908,Texas League,powell,F20131,Powell,,2,Waco,,,,,c
 minoraverages/1909Reach,1908,Texas League,powell,F20131,Powell,,T,,,,,,c98
 minoraverages/1909Reach,1908,Texas League,pulliam,B00335,Pulliam,,0,Fort Worth,,,53,,
 minoraverages/1909Reach,1908,Texas League,pulliam,F21999,Pulliam,,0,Fort Worth,,,,,of53
@@ -515,11 +515,11 @@ minoraverages/1909Reach,1908,Texas League,saim,F21229,Saim,,0,Fort Worth,,,,,1b1
 minoraverages/1909Reach,1908,Texas League,sapp,B01093,Sapp,,1,Galveston,,,,,
 minoraverages/1909Reach,1908,Texas League,sapp,B01093,Sapp,,2,Dallas,,,,,
 minoraverages/1909Reach,1908,Texas League,sapp,B01093,Sapp,,T,,,,26,,
-minoraverages/1909Reach,1908,Texas League,sapp,F21544,Sapp,,1,Shreveport,,,,,2b.
-minoraverages/1909Reach,1908,Texas League,sapp,F21544,Sapp,,2,Dallas,,,,,2b.
+minoraverages/1909Reach,1908,Texas League,sapp,F21544,Sapp,,1,Shreveport,,,,,2b
+minoraverages/1909Reach,1908,Texas League,sapp,F21544,Sapp,,2,Dallas,,,,,2b
 minoraverages/1909Reach,1908,Texas League,sapp,F21544,Sapp,,T,,,,,,2b10
-minoraverages/1909Reach,1908,Texas League,sapp,F22295,Sapp,,1,Galveston,,,,,of.
-minoraverages/1909Reach,1908,Texas League,sapp,F22295,Sapp,,2,Dallas,,,,,of.
+minoraverages/1909Reach,1908,Texas League,sapp,F22295,Sapp,,1,Galveston,,,,,of
+minoraverages/1909Reach,1908,Texas League,sapp,F22295,Sapp,,2,Dallas,,,,,of
 minoraverages/1909Reach,1908,Texas League,sapp,F22295,Sapp,,T,,,,,,of16
 minoraverages/1909Reach,1908,Texas League,schumaker,B01032,Schumaker,,0,Austin,,,8,,
 minoraverages/1909Reach,1908,Texas League,sens,B01706,Sens,,1,San Antonio,,,,,
@@ -577,8 +577,8 @@ minoraverages/1909Reach,1908,Texas League,tullos,F21651,Tullos,,0,Dallas,,,,,3b1
 minoraverages/1909Reach,1908,Texas League,vinson,B00528,Vinson,,0,Austin,,,120,,
 minoraverages/1909Reach,1908,Texas League,vinson,F20014,Vinson,,0,Austin,,,,,c19
 minoraverages/1909Reach,1908,Texas League,vinson,F22272,Vinson,,0,Austin,,,,,of110
-minoraverages/1909Reach,1908,Texas League,walsh,F21491,Walch,,1,Houston,,,,,2b.
-minoraverages/1909Reach,1908,Texas League,walsh,F21491,Walch,,2,Austin,,,,,2b.
+minoraverages/1909Reach,1908,Texas League,walsh,F21491,Walch,,1,Houston,,,,,2b
+minoraverages/1909Reach,1908,Texas League,walsh,F21491,Walch,,2,Austin,,,,,2b
 minoraverages/1909Reach,1908,Texas League,walsh,F21491,Walch,,T,,,,,,2b23
 minoraverages/1909Reach,1908,Texas League,wallace,B00174,Wallace,,0,Houston,,,116,,
 minoraverages/1909Reach,1908,Texas League,wallace,F22036,Wallace,,0,Houston,,,,,of116
@@ -590,8 +590,8 @@ minoraverages/1909Reach,1908,Texas League,warrender,F22280,Warrender,,0,Shrevepo
 minoraverages/1909Reach,1908,Texas League,watson,B01477,Watson,,1,Galveston,,,,,
 minoraverages/1909Reach,1908,Texas League,watson,B01477,Watson,,2,Houston,,,,,
 minoraverages/1909Reach,1908,Texas League,watson,B01477,Watson,,T,,,,45,,
-minoraverages/1909Reach,1908,Texas League,watson,F20505,Watson,,1,Galveston,,,,,p.
-minoraverages/1909Reach,1908,Texas League,watson,F20505,Watson,,2,Houston,,,,,p.
+minoraverages/1909Reach,1908,Texas League,watson,F20505,Watson,,1,Galveston,,,,,p
+minoraverages/1909Reach,1908,Texas League,watson,F20505,Watson,,2,Houston,,,,,p
 minoraverages/1909Reach,1908,Texas League,watson,F20505,Watson,,T,,,,,,p45
 minoraverages/1909Reach,1908,Texas League,watson,P10687,Watson,,1,Galveston,,,,,
 minoraverages/1909Reach,1908,Texas League,watson,P10687,Watson,,2,Austin,,,,,
@@ -616,15 +616,15 @@ minoraverages/1909Reach,1908,Texas League,white-shr+gal,B00566,White,,1,Shrevepo
 minoraverages/1909Reach,1908,Texas League,white-shr+gal,B00566,White,,2,Galveston,,,,,
 minoraverages/1909Reach,1908,Texas League,white-shr+gal,B00566,White,,T,,,,98,,
 minoraverages/1909Reach,1908,Texas League,white-fw,B02024,White,,0,Fort Worth,,,4,,
-minoraverages/1909Reach,1908,Texas League,white-shr+gal,F20095,White,,1,Shreveport,,,,,c.
-minoraverages/1909Reach,1908,Texas League,white-shr+gal,F20095,White,,2,Galveston,,,,,c.
+minoraverages/1909Reach,1908,Texas League,white-shr+gal,F20095,White,,1,Shreveport,,,,,c
+minoraverages/1909Reach,1908,Texas League,white-shr+gal,F20095,White,,2,Galveston,,,,,c
 minoraverages/1909Reach,1908,Texas League,white-shr+gal,F20095,White,,T,,,,,,c33
 minoraverages/1909Reach,1908,Texas League,white-fw,F20956,White,,0,Fort Worth,,,,,p4
-minoraverages/1909Reach,1908,Texas League,white-shr+gal,F21528,White,,1,Shreveport,,,,,2b.
-minoraverages/1909Reach,1908,Texas League,white-shr+gal,F21528,White,,2,Galveston,,,,,2b.
+minoraverages/1909Reach,1908,Texas League,white-shr+gal,F21528,White,,1,Shreveport,,,,,2b
+minoraverages/1909Reach,1908,Texas League,white-shr+gal,F21528,White,,2,Galveston,,,,,2b
 minoraverages/1909Reach,1908,Texas League,white-shr+gal,F21528,White,,T,,,,,,2b17
-minoraverages/1909Reach,1908,Texas League,white-shr+gal,F22332,White,,1,Shreveport,,,,,of.
-minoraverages/1909Reach,1908,Texas League,white-shr+gal,F22332,White,,2,Galveston,,,,,of.
+minoraverages/1909Reach,1908,Texas League,white-shr+gal,F22332,White,,1,Shreveport,,,,,of
+minoraverages/1909Reach,1908,Texas League,white-shr+gal,F22332,White,,2,Galveston,,,,,of
 minoraverages/1909Reach,1908,Texas League,white-shr+gal,F22332,White,,T,,,,,,of44
 minoraverages/1909Reach,1908,Texas League,white-fw,P10714,White,,0,Fort Worth,,,,4,
 minoraverages/1909Reach,1908,Texas League,whiteman,B00324,Whiteman,,0,Houston,,,139,,
@@ -657,8 +657,8 @@ minoraverages/1909Reach,1908,Texas League,wolff,F20211,Wolff,,0,Galveston,,,,,c8
 minoraverages/1909Reach,1908,Texas League,woods,B01466,Woods,,1,Waco,,,,,
 minoraverages/1909Reach,1908,Texas League,woods,B01466,Woods,,2,Houston,,,,,
 minoraverages/1909Reach,1908,Texas League,woods,B01466,Woods,,T,,,,79,,
-minoraverages/1909Reach,1908,Texas League,woods,F20115,Woods,,1,Waco,,,,,c.
-minoraverages/1909Reach,1908,Texas League,woods,F20115,Woods,,2,Houston,,,,,c.
+minoraverages/1909Reach,1908,Texas League,woods,F20115,Woods,,1,Waco,,,,,c
+minoraverages/1909Reach,1908,Texas League,woods,F20115,Woods,,2,Houston,,,,,c
 minoraverages/1909Reach,1908,Texas League,woods,F20115,Woods,,T,,,,,,c79
 minoraverages/1909Reach,1908,Texas League,wright,B00726,Wright,,0,Dallas,,,66,,
 minoraverages/1909Reach,1908,Texas League,wright,F21771,Wright,,0,Dallas,,,,,3b15

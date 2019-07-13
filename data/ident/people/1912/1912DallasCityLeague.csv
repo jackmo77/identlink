@@ -1,31 +1,31 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 boxscores/1912/1912-DMN,1912,Dallas City League,abell,P6189752,Abell,,,Dallas Foundry,19120421,19120505,2,0,1b2
 boxscores/1912/1912-DMN,1912,Dallas City League,bailey,P2418713,Bailey,,,Moose,19120505,19120505,1,0,2b1
-boxscores/1912/1912-DMN,1912,Dallas City League,barber,P3801670,Barber,,,Dallas Foundry,19120421,19120421,1,0,of1cf1
+boxscores/1912/1912-DMN,1912,Dallas City League,barber,P3801670,Barber,,,Dallas Foundry,19120421,19120421,1,0,"of1,cf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,bartel,P5948161,Bartel,,,W. O. W.,19120505,19120505,1,0,1b1
-boxscores/1912/1912-DMN,1912,Dallas City League,bavouset,P0966367,Bavouset,,,Brown Crackers,19120421,19120505,2,0,of2cf2
+boxscores/1912/1912-DMN,1912,Dallas City League,bavouset,P0966367,Bavouset,,,Brown Crackers,19120421,19120505,2,0,"of2,cf2"
 boxscores/1912/1912-DMN,1912,Dallas City League,bethell,P5782264,Bethell,,,Dallas Foundry,19120421,19120505,2,0,c2
-boxscores/1912/1912-DMN,1912,Dallas City League,bond,P5408795,Bond,,,Dallas Foundry,19120421,19120505,2,0,of2lf2
-boxscores/1912/1912-DMN,1912,Dallas City League,bracken,P6003453,Bracken,,,W. O. W.,19120421,19120505,2,0,of2lf1cf1
+boxscores/1912/1912-DMN,1912,Dallas City League,bond,P5408795,Bond,,,Dallas Foundry,19120421,19120505,2,0,"of2,lf2"
+boxscores/1912/1912-DMN,1912,Dallas City League,bracken,P6003453,Bracken,,,W. O. W.,19120421,19120505,2,0,"of2,lf1,cf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,britt,P5210536,Britt,,,Moose,19120421,19120421,1,1,p1
-boxscores/1912/1912-DMN,1912,Dallas City League,cliver,P4362636,Cliver,,,W. O. W.,19120421,19120421,1,0,of1rf1
+boxscores/1912/1912-DMN,1912,Dallas City League,cliver,P4362636,Cliver,,,W. O. W.,19120421,19120421,1,0,"of1,rf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,cluck,P7980840,Cluck,,,Brown Crackers,19120421,19120505,2,2,p2
-boxscores/1912/1912-DMN,1912,Dallas City League,coleman,P8261250,Coleman,,,Moose,19120421,19120421,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas City League,coleman,P8261250,Coleman,,,Moose,19120421,19120421,1,0,"of1,lf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,cone,P6356936,Cone,,,Moose,19120421,19120421,1,0,1b1
-boxscores/1912/1912-DMN,1912,Dallas City League,cordell,P8056776,Cordell,,,Moose,19120421,19120421,1,0,of1rf1
-boxscores/1912/1912-DMN,1912,Dallas City League,crawford,P5782463,Crawford,,,W. O. W.,19120505,19120505,1,0,of1rf1
+boxscores/1912/1912-DMN,1912,Dallas City League,cordell,P8056776,Cordell,,,Moose,19120421,19120421,1,0,"of1,rf1"
+boxscores/1912/1912-DMN,1912,Dallas City League,crawford,P5782463,Crawford,,,W. O. W.,19120505,19120505,1,0,"of1,rf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,crone,P6994970,Crone,,,Moose,19120505,19120505,1,0,1b1
-boxscores/1912/1912-DMN,1912,Dallas City League,cummins,P1669108,Cummins,,,Dallas Foundry,19120421,19120505,2,0,of2rf2
+boxscores/1912/1912-DMN,1912,Dallas City League,cummins,P1669108,Cummins,,,Dallas Foundry,19120421,19120505,2,0,"of2,rf2"
 boxscores/1912/1912-DMN,1912,Dallas City League,dobbins,P6253736,Dobbins,,,W. O. W.,19120421,19120505,2,0,2b2
 boxscores/1912/1912-DMN,1912,Dallas City League,edwards,P6672322,Edwards,,,Dallas Foundry,19120421,19120421,1,1,p1
 boxscores/1912/1912-DMN,1912,Dallas City League,erwin.h,P6014334,Erwin,H.,,Moose,19120505,19120505,1,0,c1
-boxscores/1912/1912-DMN,1912,Dallas City League,erwin.t,P7330058,Erwin,T.,,Moose,19120505,19120505,1,0,of1rf1
+boxscores/1912/1912-DMN,1912,Dallas City League,erwin.t,P7330058,Erwin,T.,,Moose,19120505,19120505,1,0,"of1,rf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,fritts,P4924963,Fritts,,,W. O. W.,19120421,19120421,1,0,1b1
-boxscores/1912/1912-DMN,1912,Dallas City League,gamble,P8231008,Gamble,,,Dallas Foundry,19120505,19120505,1,0,of1cf1
+boxscores/1912/1912-DMN,1912,Dallas City League,gamble,P8231008,Gamble,,,Dallas Foundry,19120505,19120505,1,0,"of1,cf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,gerrish,P1366427,Gerrish,,,W. O. W.,19120421,19120421,1,1,p1
-boxscores/1912/1912-DMN,1912,Dallas City League,hughes,P8908156,Hughes,,,Dallas Foundry,19120505,19120505,1,0,c1of1cf1
+boxscores/1912/1912-DMN,1912,Dallas City League,hughes,P8908156,Hughes,,,Dallas Foundry,19120505,19120505,1,0,"c1,of1,cf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,jenkins,P2487720,Jenkins,,,Brown Crackers,19120421,19120421,1,1,p1
-boxscores/1912/1912-DMN,1912,Dallas City League,jobiansky,P3271392,Jobiansky,,,Brown Crackers,19120421,19120421,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas City League,jobiansky,P3271392,Jobiansky,,,Brown Crackers,19120421,19120421,1,0,"of1,lf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,lagenhauser,P4963830,Lagenhauser,,,W. O. W.,19120421,19120421,1,0,ss1
 boxscores/1912/1912-DMN,1912,Dallas City League,landrum,P7961434,Landrum,,,W. O. W.,19120421,19120505,2,0,c2
 boxscores/1912/1912-DMN,1912,Dallas City League,lewis,P7326364,Lewis,,,Dallas Foundry,19120421,19120505,2,0,2b2
@@ -35,26 +35,26 @@ boxscores/1912/1912-DMN,1912,Dallas City League,mcferren,P4334425,McFerren,,,W. 
 boxscores/1912/1912-DMN,1912,Dallas City League,oconnell,P2898468,O'Connell,,,Moose,19120421,19120505,2,0,3b2
 boxscores/1912/1912-DMN,1912,Dallas City League,oldham,P5021419,Oldham,,,Brown Crackers,19120421,19120505,2,0,1b2
 boxscores/1912/1912-DMN,1912,Dallas City League,oliver,P0884120,Oliver,,,W. O. W.,19120505,19120505,1,1,p1
-boxscores/1912/1912-DMN,1912,Dallas City League,parker,P8085416,Parker,,,Moose,19120421,19120505,2,0,of2cf2
-boxscores/1912/1912-DMN,1912,Dallas City League,parrish,P0599328,Parrish,,,W. O. W.,19120505,19120505,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas City League,parker,P8085416,Parker,,,Moose,19120421,19120505,2,0,"of2,cf2"
+boxscores/1912/1912-DMN,1912,Dallas City League,parrish,P0599328,Parrish,,,W. O. W.,19120505,19120505,1,0,"of1,lf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,peterman.c,P4209763,Peterman,C.,,Brown Crackers,19120421,19120505,2,0,ss2
 boxscores/1912/1912-DMN,1912,Dallas City League,peterman.f,P8012006,Peterman,F.,,Brown Crackers,19120421,19120505,2,0,2b2
 boxscores/1912/1912-DMN,1912,Dallas City League,query,P2451212,Query,,,Brown Crackers,19120505,19120505,1,0,c1
-boxscores/1912/1912-DMN,1912,Dallas City League,quinn,P8734465,Quinn,,,Brown Crackers,19120421,19120505,2,0,c1of1rf1
-boxscores/1912/1912-DMN,1912,Dallas City League,rizzotto,P8589931,Rizzotto,,,Brown Crackers,19120421,19120505,2,0,of2rf2
-boxscores/1912/1912-DMN,1912,Dallas City League,roberts,P6520004,Roberts,,,Moose,19120421,19120505,2,2,p2of1lf1
+boxscores/1912/1912-DMN,1912,Dallas City League,quinn,P8734465,Quinn,,,Brown Crackers,19120421,19120505,2,0,"c1,of1,rf1"
+boxscores/1912/1912-DMN,1912,Dallas City League,rizzotto,P8589931,Rizzotto,,,Brown Crackers,19120421,19120505,2,0,"of2,rf2"
+boxscores/1912/1912-DMN,1912,Dallas City League,roberts,P6520004,Roberts,,,Moose,19120421,19120505,2,2,"p2,of1,lf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,rust,P1471249,Rust,,,Moose,19120421,19120421,1,0,ss1
 boxscores/1912/1912-DMN,1912,Dallas City League,satoris,P8160808,Satoris,,,Moose,19120421,19120421,1,0,2b1
 boxscores/1912/1912-DMN,1912,Dallas City League,schaffner,P9762886,Schaffner,,,Brown Crackers,19120505,19120505,1,0,3b1
 boxscores/1912/1912-DMN,1912,Dallas City League,schaffner,P2371555,Shaffner,,,Brown Crackers,19120421,19120421,1,0,3b1
-boxscores/1912/1912-DMN,1912,Dallas City League,shannon,P4868312,Shannon,,,Moose,19120505,19120505,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas City League,shannon,P4868312,Shannon,,,Moose,19120505,19120505,1,0,"of1,lf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,simpson,P0049985,Simpson,,,Dallas Foundry,19120421,19120505,2,0,ss2
 boxscores/1912/1912-DMN,1912,Dallas City League,striplin,P6554140,Striplin,,,W. O. W.,19120505,19120505,1,0,ss1
 boxscores/1912/1912-DMN,1912,Dallas City League,thomas.m,P5109870,Thomas,M.,,W. O. W.,19120505,19120505,1,0,
 boxscores/1912/1912-DMN,1912,Dallas City League,thomas,P5626099,Thomas,,,W. O. W.,19120421,19120505,2,0,3b2
-boxscores/1912/1912-DMN,1912,Dallas City League,thompson,P1537819,Thompson,,,Moose,19120421,19120505,2,0,c1ss1
+boxscores/1912/1912-DMN,1912,Dallas City League,thompson,P1537819,Thompson,,,Moose,19120421,19120505,2,0,"c1,ss1"
 boxscores/1912/1912-DMN,1912,Dallas City League,tiner@ump,P8261556,Tiner,,,#umpire,19120421,19120505,,,
-boxscores/1912/1912-DMN,1912,Dallas City League,tobiansky,P4986602,Tobiansky,,,Brown Crackers,19120505,19120505,1,0,of1lf1
+boxscores/1912/1912-DMN,1912,Dallas City League,tobiansky,P4986602,Tobiansky,,,Brown Crackers,19120505,19120505,1,0,"of1,lf1"
 boxscores/1912/1912-DMN,1912,Dallas City League,webb,P3949304,Webb,,,Dallas Foundry,19120421,19120505,2,0,3b2
 boxscores/1912/1912-DMN,1912,Dallas City League,white,P1159539,White,,,#umpire,19120421,19120505,,,
-boxscores/1912/1912-DMN,1912,Dallas City League,williams,P4053737,Williams,,,W. O. W.,19120421,19120505,2,0,of2cf1rf1
+boxscores/1912/1912-DMN,1912,Dallas City League,williams,P4053737,Williams,,,W. O. W.,19120421,19120505,2,0,"of2,cf1,rf1"

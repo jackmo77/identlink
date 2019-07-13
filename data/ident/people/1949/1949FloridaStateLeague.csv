@@ -2,14 +2,14 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1950TSN,1949,Florida State League,acosta,B00286,Acosta,Julio,1,Leesburg,,,,,
 minoraverages/1950TSN,1949,Florida State League,acosta,B00286,Acosta,Julio,2,DeLand,,,,,
 minoraverages/1950TSN,1949,Florida State League,acosta,B00286,Acosta,Julio,T,,,,63,,
-minoraverages/1950TSN,1949,Florida State League,acosta,F20115,Acosta,,1,Leesburg,,,,,1b.
-minoraverages/1950TSN,1949,Florida State League,acosta,F20115,Acosta,,2,DeLand,,,,,1b.
+minoraverages/1950TSN,1949,Florida State League,acosta,F20115,Acosta,,1,Leesburg,,,,,1b
+minoraverages/1950TSN,1949,Florida State League,acosta,F20115,Acosta,,2,DeLand,,,,,1b
 minoraverages/1950TSN,1949,Florida State League,acosta,F20115,Acosta,,T,,,,,,1b35
-minoraverages/1950TSN,1949,Florida State League,acosta,F20970,Acosta,,1,Leesburg,,,,,lf.
-minoraverages/1950TSN,1949,Florida State League,acosta,F20970,Acosta,,2,DeLand,,,,,lf.
+minoraverages/1950TSN,1949,Florida State League,acosta,F20970,Acosta,,1,Leesburg,,,,,lf
+minoraverages/1950TSN,1949,Florida State League,acosta,F20970,Acosta,,2,DeLand,,,,,lf
 minoraverages/1950TSN,1949,Florida State League,acosta,F20970,Acosta,,T,,,,,,lf21
-minoraverages/1950TSN,1949,Florida State League,acosta,F21158,Acosta,,1,Leesburg,,,,,cf.
-minoraverages/1950TSN,1949,Florida State League,acosta,F21158,Acosta,,2,DeLand,,,,,cf.
+minoraverages/1950TSN,1949,Florida State League,acosta,F21158,Acosta,,1,Leesburg,,,,,cf
+minoraverages/1950TSN,1949,Florida State League,acosta,F21158,Acosta,,2,DeLand,,,,,cf
 minoraverages/1950TSN,1949,Florida State League,acosta,F21158,Acosta,,T,,,,,,cf12
 minoraverages/1950TSN,1949,Florida State League,acosta,F22142,Acosta,,0,Leesburg,,,,,p12
 minoraverages/1950TSN,1949,Florida State League,acosta,M90129,Acosta,Julian,,Leesburg,19490428,,,,
@@ -37,8 +37,8 @@ minoraverages/1950TSN,1949,Florida State League,bailey,P10176,Bailey,,0,Daytona 
 minoraverages/1950TSN,1949,Florida State League,ballard,B01625,Ballard,Louis,1,DeLand,,,,,
 minoraverages/1950TSN,1949,Florida State League,ballard,B01625,Ballard,Louis,2,St. Augustine,,,,,
 minoraverages/1950TSN,1949,Florida State League,ballard,B01625,Ballard,Louis,T,,,,32,,
-minoraverages/1950TSN,1949,Florida State League,ballard,F21833,Ballard,,1,DeLand,,,,,p.
-minoraverages/1950TSN,1949,Florida State League,ballard,F21833,Ballard,,2,St. Augustine,,,,,p.
+minoraverages/1950TSN,1949,Florida State League,ballard,F21833,Ballard,,1,DeLand,,,,,p
+minoraverages/1950TSN,1949,Florida State League,ballard,F21833,Ballard,,2,St. Augustine,,,,,p
 minoraverages/1950TSN,1949,Florida State League,ballard,F21833,Ballard,,T,,,,,,p29
 minoraverages/1950TSN,1949,Florida State League,ballard,P10441,Ballard,,1,DeLand,,,,,
 minoraverages/1950TSN,1949,Florida State League,ballard,P10441,Ballard,,2,St. Augustine,,,,,
@@ -151,9 +151,9 @@ minoraverages/1950TSN,1949,Florida State League,dulaney,B00936,Dulaney,Ralph,1,O
 minoraverages/1950TSN,1949,Florida State League,dulaney,B00936,Dulaney,Ralph,2,Daytona Beach,,,,,
 minoraverages/1950TSN,1949,Florida State League,dulaney,B00936,Dulaney,Ralph,3,Gainesville,,,,,
 minoraverages/1950TSN,1949,Florida State League,dulaney,B00936,Dulaney,Ralph,T,,,,109,,
-minoraverages/1950TSN,1949,Florida State League,dulaney,F21450,Dulaney,,1,Orlando,,,,,c.
-minoraverages/1950TSN,1949,Florida State League,dulaney,F21450,Dulaney,,2,Daytona Beach,,,,,c.
-minoraverages/1950TSN,1949,Florida State League,dulaney,F21450,Dulaney,,3,Gainesville,,,,,c.
+minoraverages/1950TSN,1949,Florida State League,dulaney,F21450,Dulaney,,1,Orlando,,,,,c
+minoraverages/1950TSN,1949,Florida State League,dulaney,F21450,Dulaney,,2,Daytona Beach,,,,,c
+minoraverages/1950TSN,1949,Florida State League,dulaney,F21450,Dulaney,,3,Gainesville,,,,,c
 minoraverages/1950TSN,1949,Florida State League,dulaney,F21450,Dulaney,,T,,,,,,c98
 minoraverages/1950TSN,1949,Florida State League,dulaney,M90083,Dulaney,Ralph,,Orlando,,,,,
 minoraverages/1950TSN,1949,Florida State League,duncan,B00667,Duncan,Roman,0,St. Augustine,,,19,,
@@ -258,8 +258,8 @@ minoraverages/1950TSN,1949,Florida State League,kennedy,B01663,Kennedy,Philip,1,
 minoraverages/1950TSN,1949,Florida State League,kennedy,B01663,Kennedy,Philip,2,Leesburg,,,,,
 minoraverages/1950TSN,1949,Florida State League,kennedy,B01663,Kennedy,Philip,T,,,,40,,
 minoraverages/1950TSN,1949,Florida State League,kennedy,F20375,Kennedy,,0,DeLand,,,,,3b11
-minoraverages/1950TSN,1949,Florida State League,kennedy,F20807,Kennedy,,1,Leesburg,,,,,lf.
-minoraverages/1950TSN,1949,Florida State League,kennedy,F20807,Kennedy,,2,DeLand,,,,,lf.
+minoraverages/1950TSN,1949,Florida State League,kennedy,F20807,Kennedy,,1,Leesburg,,,,,lf
+minoraverages/1950TSN,1949,Florida State League,kennedy,F20807,Kennedy,,2,DeLand,,,,,lf
 minoraverages/1950TSN,1949,Florida State League,kennedy,F20807,Kennedy,,T,,,,,,lf18
 minoraverages/1950TSN,1949,Florida State League,kerestes,B00590,Kerestes,Mel,0,Orlando,,,136,,
 minoraverages/1950TSN,1949,Florida State League,kerestes,F20233,Kerestes,,0,Orlando,,,,,2b136
@@ -272,8 +272,8 @@ minoraverages/1950TSN,1949,Florida State League,knepper,F20908,Knepper,,0,Leesbu
 minoraverages/1950TSN,1949,Florida State League,knepper,F21125,Knepper,,0,Leesburg,,,,,cf79
 minoraverages/1950TSN,1949,Florida State League,knepper,F21370,Knepper,,0,Leesburg,,,,,rf18
 minoraverages/1950TSN,1949,Florida State League,knepper,F21999,Knepper,,0,Leesburg,,,,,p10
-minoraverages/1950TSN,1949,Florida State League,kopsky,F21638,Koposky,,1,Leesburg,,,,,p.
-minoraverages/1950TSN,1949,Florida State League,kopsky,F21638,Koposky,,2,DeLand,,,,,p.
+minoraverages/1950TSN,1949,Florida State League,kopsky,F21638,Koposky,,1,Leesburg,,,,,p
+minoraverages/1950TSN,1949,Florida State League,kopsky,F21638,Koposky,,2,DeLand,,,,,p
 minoraverages/1950TSN,1949,Florida State League,kopsky,F21638,Koposky,,T,,,,,,p15
 minoraverages/1950TSN,1949,Florida State League,kopsky,B00887,Kopsky,William,1,Leesburg,,,,,
 minoraverages/1950TSN,1949,Florida State League,kopsky,B00887,Kopsky,William,2,DeLand,,,,,
@@ -372,14 +372,14 @@ minoraverages/1950TSN,1949,Florida State League,perrin,P10081,Perrin,,0,DeLand,,
 minoraverages/1950TSN,1949,Florida State League,pichan,B00182,Pichan,Elden,1,Gainesville,,,,,
 minoraverages/1950TSN,1949,Florida State League,pichan,B00182,Pichan,Elden,2,St. Augustine,,,,,
 minoraverages/1950TSN,1949,Florida State League,pichan,B00182,Pichan,Elden,T,,,,102,,
-minoraverages/1950TSN,1949,Florida State League,pichan,F20539,Pichan,,1,Gainesville,,,,,3b.
-minoraverages/1950TSN,1949,Florida State League,pichan,F20539,Pichan,,2,St. Augustine,,,,,3b.
+minoraverages/1950TSN,1949,Florida State League,pichan,F20539,Pichan,,1,Gainesville,,,,,3b
+minoraverages/1950TSN,1949,Florida State League,pichan,F20539,Pichan,,2,St. Augustine,,,,,3b
 minoraverages/1950TSN,1949,Florida State League,pichan,F20539,Pichan,,T,,,,,,3b25
-minoraverages/1950TSN,1949,Florida State League,pichan,F20864,Pichan,,1,Gainesville,,,,,lf.
-minoraverages/1950TSN,1949,Florida State League,pichan,F20864,Pichan,,2,St. Augustine,,,,,lf.
+minoraverages/1950TSN,1949,Florida State League,pichan,F20864,Pichan,,1,Gainesville,,,,,lf
+minoraverages/1950TSN,1949,Florida State League,pichan,F20864,Pichan,,2,St. Augustine,,,,,lf
 minoraverages/1950TSN,1949,Florida State League,pichan,F20864,Pichan,,T,,,,,,lf52
-minoraverages/1950TSN,1949,Florida State League,pichan,F21278,Pidan,,1,Gainesville,,,,,rf.
-minoraverages/1950TSN,1949,Florida State League,pichan,F21278,Pidan,,2,St. Augustine,,,,,rf.
+minoraverages/1950TSN,1949,Florida State League,pichan,F21278,Pidan,,1,Gainesville,,,,,rf
+minoraverages/1950TSN,1949,Florida State League,pichan,F21278,Pidan,,2,St. Augustine,,,,,rf
 minoraverages/1950TSN,1949,Florida State League,pichan,F21278,Pidan,,T,,,,,,rf18
 minoraverages/1950TSN,1949,Florida State League,piet,B00174,Piet,Frank,0,St. Augustine,,,79,,
 minoraverages/1950TSN,1949,Florida State League,piet,F20327,Piet,,0,St. Augustine,,,,,3b21
@@ -404,8 +404,8 @@ minoraverages/1950TSN,1949,Florida State League,rapp,F21515,Rapp,,0,Daytona Beac
 minoraverages/1950TSN,1949,Florida State League,reagan,B00760,Reagan,Martin,1,Gainesville,,,,,
 minoraverages/1950TSN,1949,Florida State League,reagan,B00760,Reagan,Martin,2,Leesburg,,,,,
 minoraverages/1950TSN,1949,Florida State League,reagan,B00760,Reagan,Martin,T,,,,23,,
-minoraverages/1950TSN,1949,Florida State League,reagan,F21667,Regan,,1,Gainesville,,,,,p.
-minoraverages/1950TSN,1949,Florida State League,reagan,F21667,Regan,,2,Leesburg,,,,,p.
+minoraverages/1950TSN,1949,Florida State League,reagan,F21667,Regan,,1,Gainesville,,,,,p
+minoraverages/1950TSN,1949,Florida State League,reagan,F21667,Regan,,2,Leesburg,,,,,p
 minoraverages/1950TSN,1949,Florida State League,reagan,F21667,Regan,,T,,,,,,p23
 minoraverages/1950TSN,1949,Florida State League,reagan,P10588,Regan,,1,Gainesville,,,,,
 minoraverages/1950TSN,1949,Florida State League,reagan,P10588,Regan,,2,Leesburg,,,,,
@@ -447,8 +447,8 @@ minoraverages/1950TSN,1949,Florida State League,shores,F21232,Shores,,0,Orlando,
 minoraverages/1950TSN,1949,Florida State League,singer,B00502,Singer,Walter,1,Palatka,,,,,
 minoraverages/1950TSN,1949,Florida State League,singer,B00502,Singer,Walter,2,Gainesville,,,,,
 minoraverages/1950TSN,1949,Florida State League,singer,B00502,Singer,Walter,T,,,,132,,
-minoraverages/1950TSN,1949,Florida State League,singer,F20594,Singer,,1,Palatka,,,,,ss.
-minoraverages/1950TSN,1949,Florida State League,singer,F20594,Singer,,2,Gainesville,,,,,ss.
+minoraverages/1950TSN,1949,Florida State League,singer,F20594,Singer,,1,Palatka,,,,,ss
+minoraverages/1950TSN,1949,Florida State League,singer,F20594,Singer,,2,Gainesville,,,,,ss
 minoraverages/1950TSN,1949,Florida State League,singer,F20594,Singer,,T,,,,,,ss132
 minoraverages/1950TSN,1949,Florida State League,solla,B00771,Solla,Anthony,0,Palatka,,,14,,
 minoraverages/1950TSN,1949,Florida State League,spitzer,B00013,Spitzer,Ernie,0,Palatka,,,10,,
@@ -489,11 +489,11 @@ minoraverages/1950TSN,1949,Florida State League,tundidor,B01538,Tundidor,Clodora
 minoraverages/1950TSN,1949,Florida State League,tyler,B00865,Tyler,Earle,1,Leesburg,,,,,
 minoraverages/1950TSN,1949,Florida State League,tyler,B00865,Tyler,Earle,2,DeLand,,,,,
 minoraverages/1950TSN,1949,Florida State League,tyler,B00865,Tyler,Earle,T,,,,39,,
-minoraverages/1950TSN,1949,Florida State League,tyler,F20287,Tyler,,1,Leesburg,,,,,2b.
-minoraverages/1950TSN,1949,Florida State League,tyler,F20287,Tyler,,2,DeLand,,,,,2b.
+minoraverages/1950TSN,1949,Florida State League,tyler,F20287,Tyler,,1,Leesburg,,,,,2b
+minoraverages/1950TSN,1949,Florida State League,tyler,F20287,Tyler,,2,DeLand,,,,,2b
 minoraverages/1950TSN,1949,Florida State League,tyler,F20287,Tyler,,T,,,,,,2b10
-minoraverages/1950TSN,1949,Florida State League,tyler,F20829,Tyler,,1,Leesburg,,,,,lf.
-minoraverages/1950TSN,1949,Florida State League,tyler,F20829,Tyler,,2,DeLand,,,,,lf.
+minoraverages/1950TSN,1949,Florida State League,tyler,F20829,Tyler,,1,Leesburg,,,,,lf
+minoraverages/1950TSN,1949,Florida State League,tyler,F20829,Tyler,,2,DeLand,,,,,lf
 minoraverages/1950TSN,1949,Florida State League,tyler,F20829,Tyler,,T,,,,,,lf31
 minoraverages/1950TSN,1949,Florida State League,varner,B00092,Varner,Glen,0,Orlando,,,130,,
 minoraverages/1950TSN,1949,Florida State League,varner,F20776,Varner,,0,Orlando,,,,,lf13

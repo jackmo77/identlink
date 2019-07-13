@@ -148,9 +148,12 @@ def clean_sources(df):
                                  .apply(lambda x:
                                         "yes" if not pd.isnull(x) and int(x) > 0
                                         else None))
-        df["pos"] += (pos.lower() +
-                      df[f"F_{pos}_G"].replace({"0": None,
-                                                "yes": "."})).fillna("")
+        df["pos"] += ((pos.lower() +
+                       df[f"F_{pos}_G"].replace({"0": None,
+                                                 "yes": ""})) \
+                      .fillna("") + ",") \
+                     .replace(",", "")
+    df["pos"] = df["pos"].str.rstrip(",")
     for col in ['person.name.given', 'S_STINT']:
         df[col] = df[col].fillna("")
     # We convert dates to YYYYMMDD. This way, ident files can be loaded
