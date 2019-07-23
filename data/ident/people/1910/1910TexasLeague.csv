@@ -63,7 +63,7 @@ minoraverages/1911Spalding,1910,Texas League,connaway,B00752,Connaway,,0,Waco,,,
 minoraverages/1911Spalding,1910,Texas League,connaway,F20144,Connaway,,0,Waco,,,,,1b109
 minoraverages/1911Spalding,1910,Texas League,corkhill,B00196,Corkhill,,0,Houston,,,129,,
 minoraverages/1911Spalding,1910,Texas League,corkhill,F21324,Corkhill,,0,Houston,,,,,rf120
-minoraverages/1911Spalding,1910,Texas League,corlin,B01032,Corlin,,0,Houston,,,43,,
+minoraverages/1911Spalding,1910,Texas League,carlin,B01032,Corlin,,0,Houston,,,43,,
 minoraverages/1911Spalding,1910,Texas League,cowan,B00898,Cowan,,0,Shreveport,,,94,,
 minoraverages/1911Spalding,1910,Texas League,cowan,F20482,Cowan,,0,Shreveport,,,,,3b35
 minoraverages/1911Spalding,1910,Texas League,cowan,F20612,Cowan,,0,Shreveport,,,,,ss58
@@ -165,10 +165,10 @@ minoraverages/1911Spalding,1910,Texas League,harbison,F20583,Harbison,,T,,,,,,ss
 minoraverages/1911Spalding,1910,Texas League,harris,B01227,Harris,,0,Dallas,,,14,,
 minoraverages/1911Spalding,1910,Texas League,harrison,B00973,Harrison,,0,San Antonio,,,16,,
 minoraverages/1911Spalding,1910,Texas League,harrison,F20768,Harrison,,0,San Antonio,,,,,ss16
-minoraverages/1911Spalding,1910,Texas League,hayes,B00264,Hayes,,0,Shreveport,,,86,,
-minoraverages/1911Spalding,1910,Texas League,heatherford,B01269,Heatherford,,0,Fort Worth,,,37,,
-minoraverages/1911Spalding,1910,Texas League,heatherford,F21747,Heatherford,,0,Fort Worth,,,,,p37
-minoraverages/1911Spalding,1910,Texas League,hemmer,F20206,Hemmer,,0,Oklahoma City,,,,,1b11
+minoraverages/1911Spalding,1910,Texas League,mayes,B00264,Hayes,,0,Shreveport,,,86,,
+minoraverages/1911Spalding,1910,Texas League,weatherford,B01269,Heatherford,,0,Fort Worth,,,37,,
+minoraverages/1911Spalding,1910,Texas League,weatherford,F21747,Heatherford,,0,Fort Worth,,,,,p37
+minoraverages/1911Spalding,1910,Texas League,kenner,F20206,Hemmer,,0,Oklahoma City,,,,,1b11
 minoraverages/1911Spalding,1910,Texas League,hendrichson,B00985,Hendrichson,,0,Galveston,,,52,,
 minoraverages/1911Spalding,1910,Texas League,henninger,B00811,Henninger,,0,Shreveport,,,94,,
 minoraverages/1911Spalding,1910,Texas League,henninger,F21920,Henninger,,0,Shreveport,,,,,c94
@@ -178,9 +178,9 @@ minoraverages/1911Spalding,1910,Texas League,herbert,P10145,Herbert,,0,Shrevepor
 minoraverages/1911Spalding,1910,Texas League,hill,B00544,Hill,,0,Houston,,,110,,
 minoraverages/1911Spalding,1910,Texas League,hill,F20303,Hill,,0,Houston,,,,,2b19
 minoraverages/1911Spalding,1910,Texas League,hill,F20560,Hill,,0,Houston,,,,,ss98
-minoraverages/1911Spalding,1910,Texas League,hindrichson,F21397,Hindrichson,,0,Galveston,,,,,rf13
-minoraverages/1911Spalding,1910,Texas League,hindrichson,F21614,Hindrichson,,0,Galveston,,,,,p34
-minoraverages/1911Spalding,1910,Texas League,hindrichson,P10320,Hindrichson,,0,Galveston,,,,34,
+minoraverages/1911Spalding,1910,Texas League,hendrichson,F21397,Hindrichson,,0,Galveston,,,,,rf13
+minoraverages/1911Spalding,1910,Texas League,hendrichson,F21614,Hindrichson,,0,Galveston,,,,,p34
+minoraverages/1911Spalding,1910,Texas League,hendrichson,P10320,Hindrichson,,0,Galveston,,,,34,
 minoraverages/1911Spalding,1910,Texas League,hirsch,B01706,Hirsch,,0,Dallas,,,11,,
 minoraverages/1911Spalding,1910,Texas League,hirsch,F21531,Hirsch,,0,Dallas,,,,,p11
 minoraverages/1911Spalding,1910,Texas League,hirsch,P10407,Hirsch,,0,Dallas,,,,11,
@@ -432,7 +432,7 @@ minoraverages/1911Spalding,1910,Texas League,torrey,F21865,Torrey,,0,Dallas,,,,,
 minoraverages/1911Spalding,1910,Texas League,torrey,P10184,Torrey,,0,Dallas,,,,12,
 minoraverages/1911Spalding,1910,Texas League,tullos,B00182,Tullos,,0,Waco,,,134,,
 minoraverages/1911Spalding,1910,Texas League,tullos,F20425,Tullos,,0,Waco,,,,,3b132
-minoraverages/1911Spalding,1910,Texas League,tyler,F21084,Tyler,,0,Waco,,,,,cf12
+minoraverages/1911Spalding,1910,Texas League,myler,F21084,Tyler,,0,Waco,,,,,cf12
 minoraverages/1911Spalding,1910,Texas League,walsh,B01162,Walsh,,0,Oklahoma City,,,16,,
 minoraverages/1911Spalding,1910,Texas League,watson,B00566,Watson,,0,Houston,,,31,,
 minoraverages/1911Spalding,1910,Texas League,watson,F21672,Watson,,0,Houston,,,,,p31
@@ -452,7 +452,7 @@ minoraverages/1911Spalding,1910,Texas League,yantz,F21957,Yantz,,0,San Antonio,,
 minoraverages/1911Spalding,1910,Texas League,yates,B01453,Yates,,0,Dallas,,,22,,
 minoraverages/1911Spalding,1910,Texas League,yates,F21528,Yates,,0,Dallas,,,,,p22
 minoraverages/1911Spalding,1910,Texas League,yates,P10043,Yates,,0,Dallas,,,,22,
-minoraverages/1911Spalding,1910,Texas League,yants,B00651,Yontz,,0,San Antonio,,,110,,
+minoraverages/1911Spalding,1910,Texas League,yantz,B00651,Yontz,,0,San Antonio,,,110,,
 minoraverages/1911Spalding,1910,Texas League,young,B01682,Young,,0,Oklahoma City,,,13,,
 minoraverages/1911Spalding,1910,Texas League,young,F21771,Young,,0,Oklahoma City,,,,,p12
 minoraverages/1911Spalding,1910,Texas League,young,P10455,Young,,0,Oklahoma City,,,,12,
