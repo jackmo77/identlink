@@ -134,6 +134,7 @@ boxscores/1915/1915-MDS,1915,Buckeye League,chapman,P3667595,Chapman,,,Findlay,1
 boxscores/1915/1915-NDA,1915,Buckeye League,chapman,P7521178,Chapman,,,Findlay,19150523,19150705,11,0,1b11
 minoraverages/Nemec,1915,Buckeye League,chapman,B00196,Chapman,Ollie,0,Findlay,19150519,19150705,39,,1b
 minoraverages/Nemec,1915,Buckeye League,chapman,M90026,Chapman,Ollie,,Findlay,,,,,
+minoraverages/emilbb,1915,Buckeye League,chapman,M92747,Chapman,Ollie,,Findlay,,,,,
 boxscores/1915/1915-ABJ,1915,Buckeye League,clark-akr+can,P4030397,Clark,,,Akron,19150522,19150531,7,0,2b7
 boxscores/1915/1915-ABJ,1915,Buckeye League,clark-lim,P9605989,Clark,,,Lima,19150521,19150626,10,8,"p8,of2,rf2"
 boxscores/1915/1915-CER,1915,Buckeye League,clark-lim,P3377874,Clark,,,Lima,19150527,19150527,1,1,p1
@@ -626,6 +627,7 @@ boxscores/1915/1915-MDS,1915,Buckeye League,murray,P6169743,Murray,,,Lima,191506
 boxscores/1915/1915-NDA,1915,Buckeye League,murray,P6699166,Murray,,,Lima,19150609,19150620,3,0,2b3
 minoraverages/Nemec,1915,Buckeye League,murray,B00865,Murray,Sandy,0,Lima,19150519,19150702,39,,"2b,ss"
 minoraverages/Nemec,1915,Buckeye League,murray,M90018,Murray,Sandy,,Lima,,,,,
+minoraverages/emilbb,1915,Buckeye League,murray,M92739,Murray,Sandy,,Lima,,,,,
 boxscores/1915/1915-ABJ,1915,Buckeye League,myers,P4888032,Myers,,,Akron,19150519,19150521,2,0,3b2
 boxscores/1915/1915-CER,1915,Buckeye League,myers,P9360237,Myers,,,Akron,19150519,19150521,2,0,3b2
 minoraverages/Nemec,1915,Buckeye League,myers,B00879,Myers,,0,Akron,19150519,19150521,2,,3b
@@ -644,6 +646,7 @@ boxscores/1915/1915-MDS,1915,Buckeye League,newnham,P0121141,Newnham,,,Akron,191
 boxscores/1915/1915-NDA,1915,Buckeye League,newnham,P6662788,Newnham,,,Akron,19150527,19150628,10,0,"2b8,ss2"
 minoraverages/Nemec,1915,Buckeye League,newnham,B00898,Newnham,Al,0,Akron,19150519,19150628,34,,"2b,ss"
 minoraverages/Nemec,1915,Buckeye League,newnham,M90039,Newnham,Al,,Akron,,,,,
+minoraverages/emilbb,1915,Buckeye League,newnham,M92752,Newnham,Al,,Akron,,,,,
 boxscores/1915/1915-ABJ,1915,Buckeye League,oneill@ump,P3332069,O'Neil,,,#umpire,19150619,19150620,,,
 boxscores/1915/1915-LDN,1915,Buckeye League,oneill@ump,P4770262,O'Neil,,,#umpire,19150620,19150620,,,
 boxscores/1915/1915-MDS,1915,Buckeye League,oneill@ump,P3021020,O'Neil,,,#umpire,19150610,19150610,,,
@@ -738,6 +741,7 @@ boxscores/1915/1915-LDN,1915,Buckeye League,prout,P4351747,Prout,,,Canton,191505
 boxscores/1915/1915-MDS,1915,Buckeye League,prout,P7632073,Prout,,,Canton,19150523,19150525,2,0,2b2
 minoraverages/Nemec,1915,Buckeye League,prout,B01007,Prout,Pill,0,Canton,19150519,19150531,9,,2b
 minoraverages/Nemec,1915,Buckeye League,prout,M90052,Prout,Bill,,Canton,,,,,
+minoraverages/emilbb,1915,Buckeye League,prout,M92783,Prouty,Bill,,Canton,,,,,
 boxscores/1915/1915-ABJ,1915,Buckeye League,reese,P7249361,Reese,,,Newark,19150628,19150630,2,0,"1b1,of1,rf1"
 boxscores/1915/1915-NDA,1915,Buckeye League,reese,P7438167,Reese,,,Newark,19150628,19150705,6,0,"1b5,of1,rf1"
 minoraverages/Nemec,1915,Buckeye League,reese,B01010,Reese,Dick,0,Newark,19150629,19150705,6,,"1b,of"
@@ -806,6 +810,7 @@ boxscores/1915/1915-LDN,1915,Buckeye League,schultz,P6593399,Shultz,,,Findlay,19
 boxscores/1915/1915-MDS,1915,Buckeye League,schultz,P8868413,Shultz,,,Findlay,19150521,19150606,3,3,p3
 boxscores/1915/1915-NDA,1915,Buckeye League,schultz,P4742764,Shultz,,,Findlay,19150521,19150606,2,2,p2
 boxscores/1915/1915-MDS,1915,Buckeye League,schultz,P5821001,Shulz,,,Findlay,19150605,19150605,1,1,p1
+minoraverages/emilbb,1915,Buckeye League,skelley,M92794,Skelley,Charles,,Canton,,,,,
 boxscores/1915/1915-CER,1915,Buckeye League,smith,P3410250,Smith,,,Canton,19150525,19150525,1,0,"of1,cf1"
 boxscores/1915/1915-MDS,1915,Buckeye League,smith,P8545332,Smith,,,Canton,19150525,19150525,1,0,"of1,cf1"
 minoraverages/Nemec,1915,Buckeye League,smith,B01108,Smith,,0,Canton,19150525,19150525,1,,of
@@ -890,6 +895,7 @@ boxscores/1915/1915-MDS,1915,Buckeye League,wetzel,P1107981,Wetzel,,,Marion,1915
 boxscores/1915/1915-NDA,1915,Buckeye League,wetzel,P7649628,Wetzel,,,Marion,19150519,19150531,5,0,3b5
 minoraverages/Nemec,1915,Buckeye League,wetzel,B01216,Wetzel,,0,Marion,19150519,19150610,15,,3b
 minoraverages/Nemec,1915,Buckeye League,wetzel,M90060,Wetzel,,,Marion,,,,,
+minoraverages/emilbb,1915,Buckeye League,wetzel,M92771,Wetzel,"Henry ""Buzz""",,Marion,,,,,
 boxscores/1915/1915-ABJ,1915,Buckeye League,wilhelm,P7585962,Wilhelm,,,Canton,19150521,19150521,1,1,p1
 boxscores/1915/1915-CER,1915,Buckeye League,wilhelm,P5217047,Wilhelm,,,Canton,19150521,19150522,2,1,p1
 boxscores/1915/1915-LDN,1915,Buckeye League,wilhelm,P5046331,Wilhelm,,,Canton,19150521,19150521,1,1,p1
@@ -907,6 +913,7 @@ boxscores/1915/1915-NDA,1915,Buckeye League,wratten,P3923496,Wratten,,,Newark,19
 minoraverages/Nemec,1915,Buckeye League,wratten,B01234,Wratten,Erve,0,Newark,19150520,19150705,38,,"p,3b"
 minoraverages/Nemec,1915,Buckeye League,wratten,M90047,Wratten,Erve,,Newark,,,,,
 minoraverages/Nemec,1915,Buckeye League,wratten,P10455,Wratten,Erve,0,Newark,,,,1,
+minoraverages/emilbb,1915,Buckeye League,wratten,M92760,Wratten,Erv,,Newark,,,,,
 boxscores/1915/1915-ABJ,1915,Buckeye League,wratten,P2333292,Wratton,,,Newark,19150614,19150616,2,0,3b2
 boxscores/1915/1915-ABJ,1915,Buckeye League,yockey,P1569392,Yockey,,,Findlay,19150519,19150626,10,1,"p1,2b9"
 boxscores/1915/1915-LDN,1915,Buckeye League,yockey,P9029761,Yockey,,,Findlay,19150519,19150630,14,1,"p1,2b14"

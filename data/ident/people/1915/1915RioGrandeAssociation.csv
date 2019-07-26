@@ -86,6 +86,7 @@ boxscores/1915/1915-EPH,1915,Rio Grande Association,brashear,P2496774,Brashear,,
 boxscores/1915/1915-EPH,1915,Rio Grande Association,brashear@ump,P4933756,Brashear,,,#umpire,19150616,19150629,,,
 minoraverages/Nemec,1915,Rio Grande Association,brashear,B00130,Brashear,Kitty,0,Tucson,,,10,,"p,1b"
 minoraverages/Nemec,1915,Rio Grande Association,brashear,P10062,Brashear,,0,Tucson,,,,1,
+minoraverages/emilbb,1915,Rio Grande Association,brashear,M92544,Brashear,Kitty,,Tucson,,,,,
 boxscores/1915/1915-AJ,1915,Rio Grande Association,brown,P4353363,Brown,,,Phoenix,19150526,19150531,3,0,
 boxscores/1915/1915-AR,1915,Rio Grande Association,brown,P0612059,Brown,,,Phoenix,19150427,19150704,18,0,"2b3,3b2,of7,cf6,rf1"
 boxscores/1915/1915-EPH,1915,Rio Grande Association,brown,P5309093,Brown,,,Phoenix,19150427,19150603,16,0,"2b1,3b2,of7,cf5,rf2"
@@ -224,6 +225,7 @@ boxscores/1915/1915-AR,1915,Rio Grande Association,hester,P3315582,Hester,,,Phoe
 boxscores/1915/1915-EPH,1915,Rio Grande Association,hester,P8317704,Hester,,,Phoenix,19150430,19150629,49,3,"p3,1b34,2b1,3b12,of2,lf2,cf1"
 minoraverages/Nemec,1915,Rio Grande Association,hester,B00416,Hester,,0,Phoenix,,,57,,"p,1b"
 minoraverages/Nemec,1915,Rio Grande Association,hester,P10159,Hester,,0,Phoenix,,,,4,
+minoraverages/emilbb,1915,Rio Grande Association,hester,M92515,Hester,Herbert,,Phoenix,,,,,
 boxscores/1915/1915-AJ,1915,Rio Grande Association,horstman,P0027512,Horstman,,,Tucson,19150501,19150705,16,15,p15
 boxscores/1915/1915-AR,1915,Rio Grande Association,horstman,P5747456,Horstman,,,Tucson,19150501,19150705,18,18,p18
 boxscores/1915/1915-EPH,1915,Rio Grande Association,horstman,P0817482,Horstman,,,Tucson,19150501,19150619,17,16,p16
@@ -245,6 +247,7 @@ boxscores/1915/1915-AJ,1915,Rio Grande Association,hurley,P7769038,Hurley,,,Las 
 boxscores/1915/1915-AR,1915,Rio Grande Association,hurley,P6788054,Hurley,,,Las Cruces,19150519,19150523,6,0,1b6
 boxscores/1915/1915-EPH,1915,Rio Grande Association,hurley,P8046368,Hurley,,,Las Cruces,19150501,19150523,15,0,1b15
 minoraverages/Nemec,1915,Rio Grande Association,hurley,B00450,Hurley,Bill,0,Las Cruces,,,19,,1b
+minoraverages/emilbb,1915,Rio Grande Association,hurley,M92577,Hurley,William,,Las Cruces,,,,,
 boxscores/1915/1915-AJ,1915,Rio Grande Association,irion,P6545597,Irion,,,Albuquerque,19150505,19150705,23,20,"p20,of3,lf3"
 boxscores/1915/1915-AR,1915,Rio Grande Association,irion,P5564613,Irion,,,Albuquerque,19150505,19150705,19,19,p19
 boxscores/1915/1915-EPH,1915,Rio Grande Association,irion,P6822927,Irion,,,Albuquerque,19150505,19150629,19,17,"p17,of2,lf2"
@@ -312,6 +315,7 @@ boxscores/1915/1915-AR,1915,Rio Grande Association,macmurdo,P0638284,MacMurdo,,,
 boxscores/1915/1915-EPH,1915,Rio Grande Association,macmurdo,P5708310,MacMurdo,,,Tucson,19150516,19150629,33,0,"c1,1b31,2b1,3b1"
 minoraverages/Nemec,1915,Rio Grande Association,macmurdo,B00544,MacMurdo,,0,Tucson,,,49,,"p,1b"
 minoraverages/Nemec,1915,Rio Grande Association,macmurdo,P10215,MacMurdo,,0,Tucson,,,,1,
+minoraverages/emilbb,1915,Rio Grande Association,macmurdo,M92553,MacMurdo,Spots,,Tucson,,,,,
 boxscores/1915/1915-AJ,1915,Rio Grande Association,macmurdo,P6487086,MagGardo,,,Tucson,19150701,19150701,1,0,c1
 boxscores/1915/1915-AJ,1915,Rio Grande Association,mahaffey@ump,P1081827,Mahaffey,,,#umpire,19150504,19150514,,,
 boxscores/1915/1915-AR,1915,Rio Grande Association,mahaffey@ump,P6801771,Mahaffey,,,#umpire,19150521,19150523,,,
@@ -338,6 +342,7 @@ boxscores/1915/1915-AJ,1915,Rio Grande Association,mccarty,P0133650,McCarty,,,Do
 minoraverages/Nemec,1915,Rio Grande Association,mccarty,B00590,McCarty,,0,Douglas,,,3,,3b
 boxscores/1915/1915-EPH,1915,Rio Grande Association,mccloskey,P2963024,McCloskey,,,El Paso,19150501,19150502,2,0,
 minoraverages/Nemec,1915,Rio Grande Association,mccloskey,B00609,McCloskey,John,0,El Paso,,,2,,
+minoraverages/emilbb,1915,Rio Grande Association,mccloskey,M92528,McCloskey,John,,El Paso,,,,,
 boxscores/1915/1915-EPH,1915,Rio Grande Association,mcconnell,P1158571,McConell,,,Tucson,19150624,19150624,1,0,"of1,rf1"
 boxscores/1915/1915-AJ,1915,Rio Grande Association,mcconnell,P1465934,McConnel,,,Douglas,19150523,19150523,1,1,p1
 boxscores/1915/1915-AR,1915,Rio Grande Association,mcconnell,P0224086,McConnel,,,Douglas,19150523,19150523,1,1,p1
@@ -442,6 +447,7 @@ boxscores/1915/1915-AR,1915,Rio Grande Association,quigley@ump,P3841354,Quigley,
 boxscores/1915/1915-EPH,1915,Rio Grande Association,quigley,P4026193,Quigley,,,Douglas,19150504,19150523,13,0,2b13
 boxscores/1915/1915-EPH,1915,Rio Grande Association,quigley@ump,P8843476,Quigley,,,#umpire,19150618,19150629,,,
 minoraverages/Nemec,1915,Rio Grande Association,quigley,B00739,Quigley,Bill,0,Douglas,,,16,,2b
+minoraverages/emilbb,1915,Rio Grande Association,quigley,M92566,Quigley,William,,Douglas,,,,,
 boxscores/1915/1915-EPH,1915,Rio Grande Association,raedel,P2415606,Radel,,,Albuquerque,19150523,19150523,1,0,c1
 boxscores/1915/1915-AJ,1915,Rio Grande Association,rader,P7952314,Rader,,,Tucson,19150518,19150620,17,0,"3b1,ss17"
 boxscores/1915/1915-AR,1915,Rio Grande Association,rader,P2687426,Rader,,,Tucson,19150515,19150705,18,0,ss18
@@ -459,6 +465,7 @@ boxscores/1915/1915-AR,1915,Rio Grande Association,raedel,P0803511,Raeder,,,Albu
 boxscores/1915/1915-EPH,1915,Rio Grande Association,raedel,P2327873,Raeder,,,Albuquerque,19150525,19150525,1,0,c1
 boxscores/1915/1915-EPH,1915,Rio Grande Association,rader,P8485297,Raeder,,,Tucson,19150516,19150625,19,0,ss19
 boxscores/1915/1915-AR,1915,Rio Grande Association,raedel,P4896509,Readell,,,Albuquerque,19150511,19150511,1,0,c1
+minoraverages/emilbb,1915,Rio Grande Association,reed,M92531,Reed,George,,Albuquerque,,,,,
 boxscores/1915/1915-EPH,1915,Rio Grande Association,ritchie,P7096966,Ritchie,,,Tucson,19150529,19150531,3,0,"of3,rf3"
 minoraverages/Nemec,1915,Rio Grande Association,ritchie,B00760,Ritchie,,0,Tucson,,,3,,of
 boxscores/1915/1915-AR,1915,Rio Grande Association,rogers,P4139430,Rogers,,,Tucson,19150626,19150626,1,0,

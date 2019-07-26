@@ -1,6 +1,7 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1916Reach,1915,Central Association,anderson,B00037,Anderson,,0,Cedar Rapids,,,30,,
 minoraverages/1916Reach,1915,Central Association,anderson,F21232,Anderson,,0,Cedar Rapids,,,,,c30
+minoraverages/emilbb,1915,Central Association,andrews,M91875,Andrews,Jay,,Waterloo,,,,,
 minoraverages/1916Reach,1915,Central Association,augustus,B00760,Augustus,,0,Muscatine,,,124,,
 minoraverages/1916Reach,1915,Central Association,augustus,F20391,Augustus,,0,Muscatine,,,,,ss124
 minoraverages/1916Reach,1915,Central Association,augustus,P10070,Augustus,,0,Muscatine,,,,5,
@@ -11,6 +12,7 @@ minoraverages/1916Reach,1915,Central Association,baum,B00609,Baum,,0,Keokuk,,,91
 minoraverages/1916Reach,1915,Central Association,baum,F20552,Baum,,0,Keokuk,,,,,lf91
 minoraverages/1916Reach,1915,Central Association,bay,B00450,Bay,,0,Mason City,,,91,,
 minoraverages/1916Reach,1915,Central Association,bay,F20661,Bay,,0,Mason City,,,,,cf91
+minoraverages/emilbb,1915,Central Association,bay,M91827,Bay,Harry,,Mason City,,,,,
 minoraverages/1916Reach,1915,Central Association,beard,B01029,Beard,,0,Marshalltown,,,33,,
 minoraverages/1916Reach,1915,Central Association,beard,F21117,Beard,,0,Marshalltown,,,,,p33
 minoraverages/1916Reach,1915,Central Association,beard,P10320,Beard,,0,Marshalltown,,,,32,
@@ -31,10 +33,12 @@ minoraverages/1916Reach,1915,Central Association,blunk,F20878,Blunk,,0,Burlingto
 minoraverages/1916Reach,1915,Central Association,blunk,P10062,Blunk,,0,Burlington,,,,38,
 minoraverages/1916Reach,1915,Central Association,bold,B00577,Bold,,0,Burlington,,,123,,
 minoraverages/1916Reach,1915,Central Association,bold,F20080,Bold,,0,Burlington,,,,,1b123
+minoraverages/emilbb,1915,Central Association,boyle,M91816,Boyle,Frank,,Keokuk,,,,,
 minoraverages/1916Reach,1915,Central Association,brausen,B00469,Brausen,,0,Mason City,,,129,,
 minoraverages/1916Reach,1915,Central Association,brausen,F20233,Brausen,,0,Mason City,,,,,3b129
 minoraverages/1916Reach,1915,Central Association,brennan,B00771,Brennan,,0,Waterloo,,,103,,
 minoraverages/1916Reach,1915,Central Association,brennan,F21255,Brennan,,0,Waterloo,,,,,c103
+minoraverages/emilbb,1915,Central Association,brennan,M91888,Brennan,Eddie,,Waterloo,,,,,
 minoraverages/1916Reach,1915,Central Association,broderick,B00936,Broderick,,0,Marshalltown,,,43,,
 minoraverages/1916Reach,1915,Central Association,broderick,F20458,Broderk,,0,Marshalltown,,,,,ss43
 minoraverages/1916Reach,1915,Central Association,brown-mc,B00101,Brown,,0,Mason City,,,78,,
@@ -86,6 +90,7 @@ minoraverages/1916Reach,1915,Central Association,drohan-cli,P10137,Drohan,,0,Cli
 minoraverages/1916Reach,1915,Central Association,drohan-wat,P10304,Drohan,,0,Waterloo,,,,34,
 minoraverages/1916Reach,1915,Central Association,durham,B00021,Durham,,0,Marshalltown,,,61,,
 minoraverages/1916Reach,1915,Central Association,durham,F20298,Durham,,0,Marshalltown,,,,,3b61
+minoraverages/emilbb,1915,Central Association,egan,M91796,Egan,Ned,,Muscatine,,,,,
 minoraverages/1916Reach,1915,Central Association,ellison,B00370,Ellison,,0,Clinton,,,112,,
 minoraverages/1916Reach,1915,Central Association,ellison,F20388,Ellison,,0,Clinton,,,,,ss112
 minoraverages/1916Reach,1915,Central Association,evans,B00747,Evans,,0,Clinton,,,98,,
@@ -131,6 +136,7 @@ minoraverages/1916Reach,1915,Central Association,gross,P10357,Gross,,1,Clinton,,
 minoraverages/1916Reach,1915,Central Association,gross,P10357,Gross,,2,Cedar Rapids,,,,,
 minoraverages/1916Reach,1915,Central Association,gross,P10357,Gross,,T,,,,,11,
 minoraverages/1916Reach,1915,Central Association,hammerschmidt,F21207,Ham'rschmidt,,0,Marshalltown,,,,,c115
+minoraverages/emilbb,1915,Central Association,hamilton,M91834,Hamilton,James,,Cedar Rapids,,,,,
 minoraverages/1916Reach,1915,Central Association,hammerschmidt,B00920,Hammerschmidt,,0,Marshalltown,,,115,,
 minoraverages/1916Reach,1915,Central Association,hardy,B00718,Hardy,,0,Mason City,,,111,,
 minoraverages/1916Reach,1915,Central Association,hardy,F20144,Hardy,,0,Mason City,,,,,2b111
@@ -149,6 +155,7 @@ minoraverages/1916Reach,1915,Central Association,hasbrook,F20067,Hasbrook,,0,Mus
 minoraverages/1916Reach,1915,Central Association,hasbrook,F20369,Hasbrook,,0,Muscatine,,,,,ss13
 minoraverages/1916Reach,1915,Central Association,herbert,B00319,Herbert,,0,Cedar Rapids,,,70,,
 minoraverages/1916Reach,1915,Central Association,herbert,F20166,Herbert,,0,Cedar Rapids,,,,,2b70
+minoraverages/emilbb,1915,Central Association,herbert,M91842,Herbert,Jack,,Cedar Rapids,,,,,
 minoraverages/1916Reach,1915,Central Association,heuser,B00544,Heuser,,1,Clinton,,,,,
 minoraverages/1916Reach,1915,Central Association,heuser,B00544,Heuser,,2,Waterloo,,,,,
 minoraverages/1916Reach,1915,Central Association,heuser,B00544,Heuser,,T,,,,25,,
@@ -199,11 +206,13 @@ minoraverages/1916Reach,1915,Central Association,luther,F20211,Luther,,2,Keokuk,
 minoraverages/1916Reach,1915,Central Association,luther,F20211,Luther,,T,,,,,,2b56
 minoraverages/1916Reach,1915,Central Association,lynch,B00502,Lynch,,0,Marshalltown,,,24,,
 minoraverages/1916Reach,1915,Central Association,lynch,F20316,Lynch,,0,Marshalltown,,,,,3b24
+minoraverages/emilbb,1915,Central Association,lynch,M91869,Lynch,Bob,,Marshalltown,,,,,
 minoraverages/1916Reach,1915,Central Association,lyons,B01041,Lyons,,0,Clinton,,,11,,
 minoraverages/1916Reach,1915,Central Association,lyons,F21158,Lyons,,0,Clinton,,,,,p11
 minoraverages/1916Reach,1915,Central Association,lyons,P10399,Lyons,,0,Clinton,,,,11,
 minoraverages/1916Reach,1915,Central Association,manush,B00442,Manusch,,0,Clinton,,,79,,
 minoraverages/1916Reach,1915,Central Association,manush,F20759,Manusch,,0,Clinton,,,,,rf79
+minoraverages/emilbb,1915,Central Association,manush,M91891,Manush,George,,Clinton,,,,,
 minoraverages/1916Reach,1915,Central Association,marr,B00705,Marr,,0,Cedar Rapids,,,130,,
 minoraverages/1916Reach,1915,Central Association,marr,F20287,Marr,,0,Cedar Rapids,,,,,3b31
 minoraverages/1916Reach,1915,Central Association,marr,F20474,Marr,,0,Cedar Rapids,,,,,lf99
@@ -266,6 +275,8 @@ minoraverages/1916Reach,1915,Central Association,richardson,B00948,Richardson,,0
 minoraverages/1916Reach,1915,Central Association,richardson,F20102,Richardson,,0,Marshalltown,,,,,1b20
 minoraverages/1916Reach,1915,Central Association,richardson,F21068,Richardson,,0,Marshalltown,,,,,p47
 minoraverages/1916Reach,1915,Central Association,richardson,P10184,Richardson,,0,Marshalltown,,,,37,
+minoraverages/emilbb,1915,Central Association,richardson,M91850,Richardson,Frank,,Marshalltown,,,,,
+minoraverages/emilbb,1915,Central Association,rohn,M91782,Rohn,Richard,,Burlington,,,,,
 minoraverages/1916Reach,1915,Central Association,rojas,B00854,Rojas,,1,Waterloo,,,,,
 minoraverages/1916Reach,1915,Central Association,rojas,B00854,Rojas,,2,Muscatine,,,,,
 minoraverages/1916Reach,1915,Central Association,rojas,B00854,Rojas,,T,,,,49,,
@@ -286,6 +297,7 @@ minoraverages/1916Reach,1915,Central Association,ross,F21059,Ross,,T,,,,,,p28
 minoraverages/1916Reach,1915,Central Association,ross,P10024,Ross,,0,Waterloo,,,,25,
 minoraverages/1916Reach,1915,Central Association,runser,B00566,Runser,,0,Muscatine,,,112,,
 minoraverages/1916Reach,1915,Central Association,runser,F20240,Runser,,0,Muscatine,,,,,3b112
+minoraverages/emilbb,1915,Central Association,runser,M91803,Runser,Jesse,,Muscatine,,,,,
 minoraverages/1916Reach,1915,Central Association,ryan.t,B00695,Ryan,T.,0,Marshalltown,,,116,,
 minoraverages/1916Reach,1915,Central Association,ryan.m,B00961,Ryan,M.,0,Marshalltown,,,24,,
 minoraverages/1916Reach,1915,Central Association,ryan.t,F20153,Ryan,T.,0,Marshalltown,,,,,2b116

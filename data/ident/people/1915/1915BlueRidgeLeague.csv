@@ -172,6 +172,7 @@ minoraverages/1916Reach,1915,Blue Ridge League,clay,B00125,Clay,,T,,,,59,,
 minoraverages/1916Reach,1915,Blue Ridge League,clay,F21680,Clay,,1,Chambersburg,,,,,rf
 minoraverages/1916Reach,1915,Blue Ridge League,clay,F21680,Clay,,2,Gettysburg,,,,,rf
 minoraverages/1916Reach,1915,Blue Ridge League,clay,F21680,Clay,,T,,,,,,rf59
+minoraverages/emilbb,1915,Blue Ridge League,clay,M91701,Clay,Bill,,Chambersburg,,,,,
 boxscores/1915/1915-FP,1915,Blue Ridge League,cleary@ump,P2095483,Cleary,,,#umpire,19150719,19150825,,,
 boxscores/1915/1915-GSS,1915,Blue Ridge League,cleary@ump,P4579346,Cleary,,,#umpire,19150719,19150825,,,
 boxscores/1915/1915-HES,1915,Blue Ridge League,cleary@ump,P2053189,Cleary,,,#umpire,19150714,19150818,,,
@@ -292,6 +293,7 @@ minoraverages/1916Reach,1915,Blue Ridge League,dolan,B00101,Dolan,,0,Hagerstown,
 minoraverages/1916Reach,1915,Blue Ridge League,dolan,F20700,Dolan,,0,Hagerstown,,,,,1b12
 boxscores/1915/1915-PI,1915,Blue Ridge League,donnelly,P3054584,Don'elly,,,Martinsburg,19150615,19150615,1,0,1b1
 boxscores/1915/1915-HES,1915,Blue Ridge League,donnelly,P5805272,Donelly,,,Martinsburg,19150617,19150717,2,0,1b2
+minoraverages/emilbb,1915,Blue Ridge League,doner,M91686,Doner,Gus,,Chambersburg,,,,,
 boxscores/1915/1915-PI,1915,Blue Ridge League,donnelly,P7424437,Donn'ly,,,Martinsburg,19150614,19150614,1,0,1b1
 boxscores/1915/1915-FP,1915,Blue Ridge League,donnelly,P5413628,Donnelly,,,Martinsburg,19150619,19150806,7,0,"1b5,of2,rf2"
 boxscores/1915/1915-GSS,1915,Blue Ridge League,donnelly,P3593779,Donnelly,,,Martinsburg,19150607,19150729,13,0,"1b8,of5,cf5"
@@ -551,6 +553,7 @@ boxscores/1915/1915-HMH,1915,Blue Ridge League,hanks,P5579335,Hanks,,,Hagerstown
 boxscores/1915/1915-HMH,1915,Blue Ridge League,hanks@ump,P6050199,Hanks,,,#umpire,19150528,19150819,,,
 minoraverages/1916Reach,1915,Blue Ridge League,hanks,B01032,Hanks,,0,Hagerstown,,,11,,
 minoraverages/1916Reach,1915,Blue Ridge League,hanks,F21319,Hanks,,0,Hagerstown,,,,,lf5
+minoraverages/emilbb,1915,Blue Ridge League,hanks,M91664,Hanks,Gene,,Hagerstown,,,,,
 boxscores/1915/1915-PI,1915,Blue Ridge League,harpster,P9064400,Harper,,,Hagerstown,19150618,19150618,1,0,"of1,rf1"
 boxscores/1915/1915-HES,1915,Blue Ridge League,harpster,P4578718,Harpster,,,Hagerstown,19150619,19150619,1,0,"of1,rf1"
 boxscores/1915/1915-PI,1915,Blue Ridge League,harpster,P2289687,Harpster,,,Hagerstown,19150619,19150619,1,0,"of1,rf1"
@@ -945,6 +948,7 @@ boxscores/1915/1915-HMH,1915,Blue Ridge League,laughlin,P7269958,Laughlin,,,Hage
 boxscores/1915/1915-PI,1915,Blue Ridge League,laughlin,P5749314,Laughlin,,,Hagerstown,19150604,19150616,2,0,c2
 minoraverages/1916Reach,1915,Blue Ridge League,laughlin,B00879,Laughlin,,0,Hagerstown,,,21,,
 minoraverages/1916Reach,1915,Blue Ridge League,laughlin,F20401,Laughlin,,0,Hagerstown,,,,,c16
+minoraverages/emilbb,1915,Blue Ridge League,laughlin,M91655,Laughlin,John,,Hagerstown,,,,,
 boxscores/1915/1915-HES,1915,Blue Ridge League,laughlin,P0631170,Laughman,,,Hagerstown,19150614,19150614,1,0,"c1,1b1"
 boxscores/1915/1915-FP,1915,Blue Ridge League,lawrence,P2509071,Lawrence,,,Chambersburg,19150816,19150825,4,4,p4
 boxscores/1915/1915-FP,1915,Blue Ridge League,lawrence,P3247085,Lawrence,,,Hanover,19150609,19150708,5,4,"p4,of1,lf1"
@@ -1151,6 +1155,7 @@ minoraverages/1916Reach,1915,Blue Ridge League,morris,F20612,Morris,,0,Martinsbu
 minoraverages/1916Reach,1915,Blue Ridge League,morris,F20886,Morris,,0,Martinsburg,,,,,2b5
 minoraverages/1916Reach,1915,Blue Ridge League,morris,F21531,Morris,,0,Martinsburg,,,,,cf13
 minoraverages/1916Reach,1915,Blue Ridge League,morris,F21667,Morris,,0,Martinsburg,,,,,rf28
+minoraverages/emilbb,1915,Blue Ridge League,morris,M91632,Morris,"William J. ""Country""",,Martinsburg,,,,,
 boxscores/1915/1915-HES,1915,Blue Ridge League,morrison,P2198803,Morris'n,,,Frederick,19150610,19150610,1,0,"of1,lf1"
 boxscores/1915/1915-FP,1915,Blue Ridge League,morrison,P9427537,Morrison,,,Frederick,19150527,19150826,54,0,"2b3,of51,lf51"
 boxscores/1915/1915-GSS,1915,Blue Ridge League,morrison,P4090696,Morrison,,,Frederick,19150531,19150826,15,0,"2b1,of14,lf14"
@@ -1249,6 +1254,7 @@ boxscores/1915/1915-HMH,1915,Blue Ridge League,orrison,P9498891,Orrison,,,Freder
 boxscores/1915/1915-PI,1915,Blue Ridge League,orrison,P0773895,Orrison,,,Frederick,19150531,19150821,9,1,"p1,of8,rf8"
 minoraverages/1916Reach,1915,Blue Ridge League,orrison,B00059,Orrison,,0,Frederick,,,77,,
 minoraverages/1916Reach,1915,Blue Ridge League,orrison,F21705,Orrison,,0,Frederick,,,,,rf74
+minoraverages/emilbb,1915,Blue Ridge League,orrison,M91629,Orrison,Robert,,Frederick,,,,,
 boxscores/1915/1915-FP,1915,Blue Ridge League,oyler,P2363396,Oyler,,,Gettysburg,19150531,19150826,11,0,"2b1,3b1,ss7,of1,cf1"
 boxscores/1915/1915-GSS,1915,Blue Ridge League,oyler,P4948027,Oyler,,,Gettysburg,19150527,19150826,53,0,"2b8,3b5,ss37,of4,lf3,cf1"
 boxscores/1915/1915-HES,1915,Blue Ridge League,oyler,P2443918,Oyler,,,Gettysburg,19150527,19150826,39,0,"2b7,3b4,ss25,of4,lf3,cf1"
@@ -1300,6 +1306,7 @@ minoraverages/1916Reach,1915,Blue Ridge League,plank,B00434,Plank,,0,Gettysburg,
 minoraverages/1916Reach,1915,Blue Ridge League,plank,F20594,Plank,,0,Gettysburg,,,,,1b25
 minoraverages/1916Reach,1915,Blue Ridge League,plank,F21515,Plank,,0,Gettysburg,,,,,cf11
 minoraverages/1916Reach,1915,Blue Ridge League,plank,F21589,Plank,,0,Gettysburg,,,,,rf13
+minoraverages/emilbb,1915,Blue Ridge League,plank,M91678,Plank,Ira,,Gettysburg,,,,,
 boxscores/1915/1915-HMH,1915,Blue Ridge League,plank,P5278958,Plank [Get],,,Gettysburg,19150529,19150529,1,0,1b1
 boxscores/1915/1915-HMH,1915,Blue Ridge League,clunk,P7323112,Plank [Han],,,Hanover,19150529,19150529,1,0,"of1,cf1"
 boxscores/1915/1915-FP,1915,Blue Ridge League,plitt,P1246187,Plitt,,,Chambersburg,19150701,19150701,1,1,p1
@@ -1564,6 +1571,7 @@ boxscores/1915/1915-PI,1915,Blue Ridge League,starr,P1882091,Starr,,,Hanover,191
 minoraverages/1916Reach,1915,Blue Ridge League,starr,B00416,Starr,,0,Hanover,,,77,,
 minoraverages/1916Reach,1915,Blue Ridge League,starr,F20776,Starr,,0,Hanover,,,,,2b58
 minoraverages/1916Reach,1915,Blue Ridge League,starr,F20908,Starr,,0,Hanover,,,,,3b19
+minoraverages/emilbb,1915,Blue Ridge League,starr,M91641,Starr,William,,Hanover,,,,,
 boxscores/1915/1915-HMH,1915,Blue Ridge League,statton,P8778508,Statton,,,Frederick,19150528,19150528,1,0,2b1
 boxscores/1915/1915-PI,1915,Blue Ridge League,stevens,P6359873,Ste's,,,Frederick,19150608,19150608,1,0,"of1,lf1"
 boxscores/1915/1915-PI,1915,Blue Ridge League,steinbach,P0094356,Stein'ch,,,Hanover,19150604,19150614,3,0,c3
@@ -1690,6 +1698,7 @@ minoraverages/1916Reach,1915,Blue Ridge League,stroh.g,B00308,Stroh,G.,T,,,,74,,
 minoraverages/1916Reach,1915,Blue Ridge League,stroh.g,F20474,Stroh,G.,1,Chambersburg,,,,,c
 minoraverages/1916Reach,1915,Blue Ridge League,stroh.g,F20474,Stroh,G.,2,Hanover,,,,,c
 minoraverages/1916Reach,1915,Blue Ridge League,stroh.g,F20474,Stroh,G.,T,,,,,,c72
+minoraverages/emilbb,1915,Blue Ridge League,stroh.g,M91693,Stroh,George,,Chambersburg,,,,,
 boxscores/1915/1915-GSS,1915,Blue Ridge League,steinbach,P8688910,Stroh [Steinbach],,,Chambersburg,19150809,19150809,1,0,c1
 boxscores/1915/1915-FP,1915,Blue Ridge League,settan,P0256356,Sutton,,,Martinsburg,19150531,19150531,1,1,p1
 boxscores/1915/1915-GSS,1915,Blue Ridge League,sutton-get,P7510909,Sutton,,,Gettysburg,19150701,19150702,2,0,"of2,lf1,rf2"

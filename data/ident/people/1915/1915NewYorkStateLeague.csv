@@ -143,6 +143,7 @@ boxscores/1915/1915-BPSB,1915,New York State League,calhoun,P4169832,Calhoun,,,B
 boxscores/1915/1915-ESG,1915,New York State League,calhoun,P3243904,Calhoun,,,Binghamton,19150506,19150824,61,0,1b58
 minoraverages/1916Reach,1915,New York State League,calhoun,B00609,Calhoun,,0,Binghamton,,,82,,
 minoraverages/1916Reach,1915,New York State League,calhoun,F20375,Calhoun,,0,Binghamton,,,,,1b82
+minoraverages/emilbb,1915,New York State League,calhoun,M90702,Calhoun,John,,Binghamton,,,,,
 boxscores/1915/1915-ESG,1915,New York State League,caporel,P6044075,Caporal,,,Elmira,19150507,19150626,6,5,p5
 boxscores/1915/1915-BPSB,1915,New York State League,caporel,P5519255,Caporel,,,Elmira,19150710,19150828,2,2,p2
 boxscores/1915/1915-ESG,1915,New York State League,caporel,P3651887,Caporel,,,Elmira,19150514,19150906,31,28,"p28,of1,rf1"
@@ -168,6 +169,7 @@ boxscores/1915/1915-ESG,1915,New York State League,conroy,P3412835,Conroy,,,Elmi
 boxscores/1915/1915-WBR,1915,New York State League,conroy,P5082063,Conroy,,,Elmira,19150724,19150724,2,0,"of2,cf2"
 minoraverages/1916Reach,1915,New York State League,conroy,B00528,Conroy,,0,Elmira,,,122,,
 minoraverages/1916Reach,1915,New York State League,conroy,F20131,Conroy,,0,Elmira,,,,,of122
+minoraverages/emilbb,1915,New York State League,conroy,M90728,Conroy,Bill,,Elmira,,,,,
 boxscores/1915/1915-BPSB,1915,New York State League,cook,P8025169,Cook,,,Troy,19150710,19150717,4,0,2b4
 boxscores/1915/1915-ESG,1915,New York State League,cook,P0607593,Cook,,,Troy,19150506,19150805,62,0,"2b62,ss1"
 boxscores/1915/1915-WBR,1915,New York State League,cook,P5602261,Cook,,,Troy,19150530,19150626,3,0,2b3
@@ -195,6 +197,7 @@ minoraverages/1916Reach,1915,New York State League,cornwell,P10407,Cornwell,,1,S
 minoraverages/1916Reach,1915,New York State League,cornwell,P10407,Cornwell,,2,Syracuse,,,,,
 minoraverages/1916Reach,1915,New York State League,cornwell,P10407,Cornwell,,T,,,,,,
 boxscores/1915/1915-ESG,1915,New York State League,coughlin,P0253104,Coughlin,,,Scranton,19150510,19150606,3,0,"of1,rf1"
+minoraverages/emilbb,1915,New York State League,coughlin,M90731,Coughlin,William,,Scranton,,,,,
 boxscores/1915/1915-WBR,1915,New York State League,cranston,P7269117,Crans'n,,,Utica,19150530,19150530,1,0,2b1
 boxscores/1915/1915-BPSB,1915,New York State League,cranston,P0556149,Cranston,,,Utica,19150522,19150522,1,0,2b1
 boxscores/1915/1915-ESG,1915,New York State League,cranston,P8688781,Cranston,,,Utica,19150506,19150903,96,0,2b96
@@ -553,6 +556,7 @@ boxscores/1915/1915-SR,1915,New York State League,mcdonough,P6287247,McDonough,,
 boxscores/1915/1915-WBR,1915,New York State League,mcdonough,P3786645,McDonough,,,Utica,19150710,19150717,4,0,c4
 minoraverages/1916Reach,1915,New York State League,mcdonough,B00752,McDonough,,0,Utica,,,90,,
 minoraverages/1916Reach,1915,New York State League,mcdonough,F21343,McDonough,,0,Utica,,,,,c90
+minoraverages/emilbb,1915,New York State League,mcdonough,M90715,McDonough,Edward,,Utica,,,,,
 boxscores/1915/1915-BPSB,1915,New York State League,mcginley,P5616951,McGinley,,,Wilkes-Barre,19150515,19150710,4,4,p4
 boxscores/1915/1915-ESG,1915,New York State League,mcginley,P0542415,McGinley,,,Wilkes-Barre,19150506,19150727,17,16,"p16,1b1"
 boxscores/1915/1915-WBR,1915,New York State League,mcginley,P9730363,McGinley,,,Wilkes-Barre,19150612,19150710,3,3,p3
@@ -668,6 +672,7 @@ minoraverages/1916Reach,1915,New York State League,noonan,F20449,Nonnan,,0,Wilke
 boxscores/1915/1915-ESG,1915,New York State League,noonan,P3138112,Noonan,,,Wilkes-Barre,19150506,19150906,42,0,1b39
 boxscores/1915/1915-WBR,1915,New York State League,noonan,P8096044,Noonan,,,Wilkes-Barre,19150612,19150905,9,0,1b8
 minoraverages/1916Reach,1915,New York State League,noonan,B00936,Noonan,,0,Wilkes-Barre,,,51,,
+minoraverages/emilbb,1915,New York State League,noonan,M90753,Noonan,Peter,,Wilkes-Barre,,,,,
 boxscores/1915/1915-ESG,1915,New York State League,north,P2082210,North,,,Wilkes-Barre,19150509,19150610,9,6,"p6,of2,rf2"
 boxscores/1915/1915-WBR,1915,New York State League,north,P5868814,North,,,Wilkes-Barre,19150530,19150530,1,1,"p1,of1,rf1"
 minoraverages/1916Reach,1915,New York State League,north,B01078,North,,0,Wilkes-Barre,,,9,,
@@ -696,6 +701,7 @@ minoraverages/1916Reach,1915,New York State League,oneill-syr,B00092,O'Neill,M.,
 minoraverages/1916Reach,1915,New York State League,oneill-uti,B00469,O'Neill,,0,Utica,,,120,,
 minoraverages/1916Reach,1915,New York State League,oneill-syr,F20153,O'Neill,M.,0,Syracuse,,,,,of120
 minoraverages/1916Reach,1915,New York State League,oneill-uti,F20745,O'Neill,M.,0,Utica,,,,,ss120
+minoraverages/emilbb,1915,New York State League,oneill-syr,M90744,O'Neill,Michael,,Syracuse,,,,,
 boxscores/1915/1915-ESG,1915,New York State League,oneill-syr,P9793470,O'Neill [SYR],,,Syracuse,19150702,19150702,1,0,"of1,lf1"
 boxscores/1915/1915-BPSB,1915,New York State League,orourke-alb,P2918332,O'Rourke,,,Albany,19150605,19150828,8,0,"c3,2b2,ss4"
 boxscores/1915/1915-BPSB,1915,New York State League,orourke-syr,P4891252,O'Rourke,,,Syracuse,19150828,19150828,2,0,3b2
@@ -718,6 +724,7 @@ minoraverages/1916Reach,1915,New York State League,orourke-alb,B01055,O'Rourke,,
 minoraverages/1916Reach,1915,New York State League,orourke-alb,F20547,O'Rourke,,0,Albany,,,,,2b123
 minoraverages/1916Reach,1915,New York State League,orourke-syr,F20657,O'Rourke,,0,Syracuse,,,,,3b36
 minoraverages/1916Reach,1915,New York State League,orourke-wb,F20685,O'Rourke,,0,Wilkes-Barre,,,,,ss116
+minoraverages/emilbb,1915,New York State League,orourke-alb,M90777,O'Rourke,Joseph,,Albany,,,,,
 boxscores/1915/1915-BPSB,1915,New York State League,oakes,P7940097,Oakes,,,Albany,19150605,19150821,6,0,"of6,lf6"
 boxscores/1915/1915-ESG,1915,New York State League,oakes,P2511385,Oakes,,,Albany,19150506,19150906,90,0,"3b3,ss3,of86,lf85,rf1"
 boxscores/1915/1915-SR,1915,New York State League,oakes,P8262847,Oakes,,,Albany,19150612,19150626,2,0,"of2,lf2"
@@ -951,6 +958,7 @@ boxscores/1915/1915-WBR,1915,New York State League,tyler,P1732762,Tyler,,,Syracu
 minoraverages/1916Reach,1915,New York State League,tyler,B00207,Tyler,,0,Syracuse,,,102,,
 minoraverages/1916Reach,1915,New York State League,tyler,F21278,Tyler,,0,Syracuse,,,,,c102
 boxscores/1915/1915-ESG,1915,New York State League,wachter,P1880331,Wachter,,,Troy,19150802,19150906,4,2,"p2,3b1"
+minoraverages/emilbb,1915,New York State League,wachter,M90766,Wachter,Lewis,,Troy,,,,,
 boxscores/1915/1915-BPSB,1915,New York State League,wagner,P2268337,Wagner,,,Utica,19150522,19150522,1,0,"of1,lf1"
 boxscores/1915/1915-ESG,1915,New York State League,wagner,P6839625,Wagner,,,Utica,19150506,19150903,97,0,"of97,lf97"
 boxscores/1915/1915-SR,1915,New York State League,wagner,P2591087,Wagner,,,Utica,19150529,19150821,3,0,"of3,lf3"

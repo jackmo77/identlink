@@ -43,6 +43,7 @@ minoraverages/Nemec,1915,Southern Michigan League,carpenter,B00207,Carpenter,Buc
 minoraverages/Nemec,1915,Southern Michigan League,carpenter,P10081,Carpenter,,0,Battle Creek,,,,16,
 minoraverages/Nemec,1915,Southern Michigan League,claffey,B00210,Claffey,Joseph,0,South Bend,,,14,,ss
 minoraverages/Nemec,1915,Southern Michigan League,collins,M90047,Collins,Danny,,Jackson,,,,,
+minoraverages/emilbb,1915,Southern Michigan League,collins,M91423,Collins,Danny,,Jackson,,,,,
 minoraverages/Nemec,1915,Southern Michigan League,conway,B00229,Conway,Charles,0,Bay City,,,57,,"c,of"
 minoraverages/Nemec,1915,Southern Michigan League,crossman,B00232,Crossman,Hal,0,Bay City,,,22,,p
 minoraverages/Nemec,1915,Southern Michigan League,crossman,P10062,Crossman,,0,Bay City,,,,20,
@@ -103,11 +104,13 @@ minoraverages/Nemec,1915,Southern Michigan League,hixenbaugh,B00553,Hixenbaugh,C
 minoraverages/Nemec,1915,Southern Michigan League,hoffman,B00566,Hoffman,Edward (Dutch),0,Flint,,,70,,"2b,ss,of"
 minoraverages/Nemec,1915,Southern Michigan League,holmes,B00577,Holmes,Howard (Ducky),0,Saginaw,,,37,,"c,1b,of"
 minoraverages/Nemec,1915,Southern Michigan League,holmes,M90052,Holmes,Howard (Ducky),,Saginaw,,,,,
+minoraverages/emilbb,1915,Southern Michigan League,holmes,M91446,Holmes,"Howard ""Ducky""",,Saginaw,,,,,
 minoraverages/Nemec,1915,Southern Michigan League,huntress,B00589,Huntress,Fred,0,Flint,,,10,,of
 minoraverages/Nemec,1915,Southern Michigan League,jenkins.d,B00590,Jenkins,Daniel,0,Bay City,,,64,,of
 minoraverages/Nemec,1915,Southern Michigan League,jenkins.j,B00609,Jenkins,Joseph,0,Bay City,,,16,,"p,of"
 minoraverages/Nemec,1915,Southern Michigan League,jenkins.d,M90026,Jenkins,Dan,,Bay City,,,,,
 minoraverages/Nemec,1915,Southern Michigan League,jenkins.j,P10228,Jenkins,J.,0,Bay City,,,,12,
+minoraverages/emilbb,1915,Southern Michigan League,jenkins.d,M91438,Jenkins,Dan,,Bay City,,,,,
 minoraverages/Nemec,1915,Southern Michigan League,jones,B00614,Jones,Bert,0,Saginaw,,,22,,"p,of"
 minoraverages/Nemec,1915,Southern Michigan League,jones,P10231,Jones,,0,Saginaw,,,,20,
 minoraverages/Nemec,1915,Southern Michigan League,kaiser,B00623,Kaiser,Anthony J.,1,Battle Creek,,,,,
@@ -205,6 +208,7 @@ minoraverages/Nemec,1915,Southern Michigan League,scott,P10534,Scott,Edwin L.,0,
 minoraverages/Nemec,1915,Southern Michigan League,seneff,B01010,Seneff,A. E.,0,Jackson,,,54,,"1b,3b,of"
 minoraverages/Nemec,1915,Southern Michigan League,seneff,P10399,Seneff,,0,Jackson,,,,1,
 minoraverages/Nemec,1915,Southern Michigan League,sharkey,B01029,Sharkey,Thomas,0,Jackson,,,7,,1b
+minoraverages/emilbb,1915,Southern Michigan League,smith,M91409,Smith,Ed,,South Bend,,,,,
 minoraverages/Nemec,1915,Southern Michigan League,stadtfeldt,B01032,Stadtfeldt,Nicholas,0,Bay City,,,10,,ss
 minoraverages/Nemec,1915,Southern Michigan League,streeter,B01041,Streeter,Fred,0,Battle Creek,,,49,,of
 minoraverages/Nemec,1915,Southern Michigan League,stupp,B01055,Stupp,Harry,0,Saginaw,,,61,,"3b,ss,of"
@@ -216,6 +220,7 @@ minoraverages/Nemec,1915,Southern Michigan League,vallandingham,P10410,Vallandin
 minoraverages/Nemec,1915,Southern Michigan League,varley,B01093,Varley,Bill,0,Saginaw,,,67,,"2b,ss"
 minoraverages/Nemec,1915,Southern Michigan League,wagner,B01108,Wagner,Charles,0,Battle Creek,,,63,,2b
 minoraverages/Nemec,1915,Southern Michigan League,wagner,M90018,Wagner,Charles,,Battle Creek,,,,,
+minoraverages/emilbb,1915,Southern Michigan League,wagner,M91414,Wagner,Charles,,Battle Creek,,,,,
 minoraverages/Nemec,1915,Southern Michigan League,warner,B01119,Warner,G. Hoke,1,Jackson,,,,,
 minoraverages/Nemec,1915,Southern Michigan League,warner,B01119,Warner,G. Hoke,2,Saginaw,,,,,
 minoraverages/Nemec,1915,Southern Michigan League,warner,B01119,Warner,G. Hoke,T,,,,56,,"3b,ss"
@@ -225,8 +230,10 @@ minoraverages/Nemec,1915,Southern Michigan League,warner,P10429,Warner,,0,Jackso
 minoraverages/Nemec,1915,Southern Michigan League,wells-bay,B01124,Wells,Leslie,0,Bay City,,,2,,p
 minoraverages/Nemec,1915,Southern Michigan League,wells-flint,B01135,Wells,Robert G.,0,Flint,,,61,,"c,of"
 minoraverages/Nemec,1915,Southern Michigan League,wells-bay,P10432,Wells,Leslie,0,Bay City,,,,2,
+minoraverages/emilbb,1915,Southern Michigan League,wells-flint,M91467,Wells,Bob,,Flint,,,,,
 minoraverages/Nemec,1915,Southern Michigan League,wheeler,B01143,Wheeler,Edward,0,Flint,,,51,,"2b,of"
 minoraverages/Nemec,1915,Southern Michigan League,wheeler,M90039,Wheeler,Edward,,Flint,,,,,
+minoraverages/emilbb,1915,Southern Michigan League,wheeler,M91451,Wheeler,Ed,,Flint,,,,,
 minoraverages/Nemec,1915,Southern Michigan League,williams-fli,B01156,Williams,,0,Flint,,,1,,p
 minoraverages/Nemec,1915,Southern Michigan League,williams-sb,P10441,Williams,C.,0,South Bend,,,,7,
 minoraverages/Nemec,1915,Southern Michigan League,williams-fli,P10455,Williams,,0,Flint,,,,1,

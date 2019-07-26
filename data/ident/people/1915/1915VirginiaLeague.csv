@@ -65,6 +65,7 @@ boxscores/1915/1915-NNDP,1915,Virginia League,busch,P6090177,Busch,,,Petersburg,
 boxscores/1915/1915-RTD,1915,Virginia League,busch,P0489563,Busch,,,Petersburg,19150422,19150731,73,0,ss73
 minoraverages/1916Reach,1915,Virginia League,busch,B00577,Busch,,0,Petersburg,,,79,,
 minoraverages/1916Reach,1915,Virginia League,busch,F20342,Busch,,0,Petersburg,,,,,ss79
+minoraverages/emilbb,1915,Virginia League,busch,M91543,Busch,Henry,,Petersburg,,,,,
 boxscores/1915/1915-RTD,1915,Virginia League,bussey@ump,P6551120,Bussey,,,#umpire,19150513,19150814,,,
 boxscores/1915/1915-RTD,1915,Virginia League,bussey@ump,P1794112,Bussie,,,#umpire,19150615,19150616,,,
 boxscores/1915/1915-NNDP,1915,Virginia League,calder,P1045815,Calder,,,Petersburg,19150422,19150422,1,0,3b1
@@ -83,11 +84,13 @@ boxscores/1915/1915-RTD,1915,Virginia League,carnes,P2499652,Carnes,,,Portsmouth
 boxscores/1915/1915-RTD,1915,Virginia League,carnes,P6636491,Carnes,,,Newport News,19150426,19150814,88,0,1b88
 minoraverages/1916Reach,1915,Virginia League,carnes,B00680,Carnes,,0,Portsmouth,,,123,,
 minoraverages/1916Reach,1915,Virginia League,carnes,F20038,Carnes,,0,Portsmouth,,,,,1b123
+minoraverages/emilbb,1915,Virginia League,carnes,M91508,Carnes,Carl,,Newport News,,,,,
 boxscores/1915/1915-RTD,1915,Virginia League,calder,P5646566,Caulder,,,Petersburg,19150428,19150428,1,0,3b1
 boxscores/1915/1915-RTD,1915,Virginia League,causey,P5152434,Causey,,,Portsmouth,19150724,19150816,8,8,p8
 minoraverages/1916Reach,1915,Virginia League,causey,B00182,Causey,,0,Portsmouth,,,17,,
 minoraverages/1916Reach,1915,Virginia League,causey,F20997,Causey,,0,Portsmouth,,,,,p17
 minoraverages/1916Reach,1915,Virginia League,causey,P10113,Causey,,0,Portsmouth,,,,17,
+minoraverages/emilbb,1915,Virginia League,clark,M91480,Clark,Win,,Portsmouth,,,,,
 boxscores/1915/1915-NNDP,1915,Virginia League,cleveland,P9473810,Cleveland,,,Norfolk,19150422,19150428,4,0,3b4
 boxscores/1915/1915-RTD,1915,Virginia League,cleveland,P4653548,Cleveland,,,Norfolk,19150426,19150818,100,0,3b100
 minoraverages/1916Reach,1915,Virginia League,cleveland,B00286,Cleveland,,0,Norfolk,,,129,,
@@ -123,6 +126,7 @@ boxscores/1915/1915-NNDP,1915,Virginia League,crist,P9865690,Crist,,,Newport New
 boxscores/1915/1915-RTD,1915,Virginia League,crist,P0797044,Crist,,,Newport News,19150426,19150818,97,0,"2b17,3b14,ss38,of28,cf18,rf10"
 minoraverages/1916Reach,1915,Virginia League,crist,B00149,Crist,,0,Newport News,,,126,,
 minoraverages/1916Reach,1915,Virginia League,crist,F20254,Crist,,0,Newport News,,,,,3b126
+minoraverages/emilbb,1915,Virginia League,crist,M91519,Crist,Brooke,,Newport News,,,,,
 boxscores/1915/1915-RTD,1915,Virginia League,crowell,P1081408,Crowell,,,Portsmouth,19150723,19150818,26,0,ss26
 minoraverages/1916Reach,1915,Virginia League,crowell,B00488,Crowell,,0,Portsmouth,,,53,,
 minoraverages/1916Reach,1915,Virginia League,crowell,F20369,Crowell,,0,Portsmouth,,,,,ss53
@@ -345,6 +349,7 @@ boxscores/1915/1915-RTD,1915,Virginia League,keliher,P4111946,Keliher,,,Petersbu
 minoraverages/1916Reach,1915,Virginia League,keliher,B00158,Keliher,,0,Petersburg,,,20,,
 minoraverages/1916Reach,1915,Virginia League,keliher,F20023,Keliher,,0,Petersburg,,,,,1b20
 boxscores/1915/1915-RTD,1915,Virginia League,keliher,P9092178,Keliper,,,Petersburg,19150712,19150712,1,0,1b1
+minoraverages/emilbb,1915,Virginia League,kelly,M91535,Kelly,"George ""King""",,Suffolk,,,,,
 boxscores/1915/1915-NNDP,1915,Virginia League,knight,P3968872,Knight,,,Suffolk,19150423,19150424,2,0,"c1,of1,rf1"
 boxscores/1915/1915-RTD,1915,Virginia League,knight,P2678146,Knight,,,Suffolk,19150423,19150423,1,0,c1
 boxscores/1915/1915-RTD,1915,Virginia League,lake,P0836315,Lake,,,Rocky Mount,19150805,19150805,1,0,
@@ -404,6 +409,7 @@ boxscores/1915/1915-RTD,1915,Virginia League,mccleary,P5714997,McLeary,,,Portsmo
 boxscores/1915/1915-RTD,1915,Virginia League,mcmahon,P0413505,McMahon,,,Norfolk,19150503,19150818,90,0,ss90
 minoraverages/1916Reach,1915,Virginia League,mcmahon,B00491,McMahon,,0,Norfolk,,,116,,
 minoraverages/1916Reach,1915,Virginia League,mcmahon,F20327,McMahon,,0,Norfolk,,,,,ss116
+minoraverages/emilbb,1915,Virginia League,mcmahon,M91495,McMahon,"M. D. ""Red""",,Norfolk,,,,,
 boxscores/1915/1915-RTD,1915,Virginia League,mcmanus,P9519723,McManns,,,Norfolk,19150726,19150726,1,1,p1
 boxscores/1915/1915-RTD,1915,Virginia League,mcmanus,P6370866,McManus,,,Norfolk,19150727,19150818,7,7,p7
 minoraverages/1916Reach,1915,Virginia League,mcmanus,B01203,McManus,,0,Norfolk,,,15,,
@@ -508,6 +514,7 @@ boxscores/1915/1915-RTD,1915,Virginia League,ryan@ump,P3239695,Ryan,,,#umpire,19
 boxscores/1915/1915-RTD,1915,Virginia League,ryan-suf,P8112183,Ryan,,,Suffolk,19150427,19150427,1,1,p1
 minoraverages/1916Reach,1915,Virginia League,ryan,B00822,Ryan,,0,Rocky Mount,,,50,,
 minoraverages/1916Reach,1915,Virginia League,ryan,F21158,Ryan,,0,Rocky Mount,,,,,c50
+minoraverages/emilbb,1915,Virginia League,ryan,M91472,Ryan,Ray,,Rocky Mount,,,,,
 boxscores/1915/1915-RTD,1915,Virginia League,saracino,P1136824,S'r'c'no,,,Norfolk,19150427,19150427,1,0,"of1,rf1"
 boxscores/1915/1915-RTD,1915,Virginia League,saracino,P0666372,Sar'c'o,,,Norfolk,19150426,19150426,1,0,"of1,rf1"
 boxscores/1915/1915-NNDP,1915,Virginia League,saracino,P7443220,Saracino,,,Norfolk,19150426,19150428,3,0,"of3,lf1,rf2"
@@ -668,6 +675,7 @@ minoraverages/1916Reach,1915,Virginia League,welcher-por,B01010,Welcher,,0,Ports
 minoraverages/1916Reach,1915,Virginia League,welcher-por,F20919,Welcher,,0,Portsmouth,,,,,p21
 minoraverages/1916Reach,1915,Virginia League,welcher-suf,F21125,Welcher,,0,Suffolk,,,,,c87
 minoraverages/1916Reach,1915,Virginia League,welcher-por,P10231,Welcher,,0,Portsmouth,,,,21,
+minoraverages/emilbb,1915,Virginia League,welcher-suf,M91524,Welcher,Harry,,Suffolk,,,,,
 boxscores/1915/1915-RTD,1915,Virginia League,welcher-por,P8888955,Welcher [POR],,,Portsmouth,19150629,19150629,1,1,p1
 boxscores/1915/1915-RTD,1915,Virginia League,welcher-por,P0928699,Welcher [Por],,,Portsmouth,19150506,19150622,2,2,p2
 boxscores/1915/1915-RTD,1915,Virginia League,welcher-suf,P1323629,Welcher [SUF],,,Suffolk,19150629,19150629,1,0,c1

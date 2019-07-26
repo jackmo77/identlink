@@ -2,6 +2,7 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1916Reach,1915,Interstate League,andrews,P10373,Andrews,,0,,,,,,
 minoraverages/1916Reach,1915,Interstate League,apple,B00609,Apple,,0,Wellsville,,,86,,
 minoraverages/1916Reach,1915,Interstate League,apple,F20190,Apple,,0,Wellsville,,,,,2b85
+minoraverages/emilbb,1915,Interstate League,archer,M92163,Archer,R. W.,,Warren,,,,,
 minoraverages/1916Reach,1915,Interstate League,artman,B00286,Artman,,0,Olean,,,25,,
 minoraverages/1916Reach,1915,Interstate League,artman,F21021,Artman,,0,Olean,,,,,p25
 minoraverages/1916Reach,1915,Interstate League,artman,P10215,Artman,,0,Olean,,,,23,
@@ -20,6 +21,7 @@ minoraverages/1916Reach,1915,Interstate League,behan,F20518,Behan,,T,,,,,,ss64
 minoraverages/1916Reach,1915,Interstate League,bell,B00590,Bell,,0,Warren,,,15,,
 minoraverages/1916Reach,1915,Interstate League,bell,F21125,Bell,,0,Warren,,,,,p15
 minoraverages/1916Reach,1915,Interstate League,bell,P10043,Bell,,0,Warren,,,,15,
+minoraverages/emilbb,1915,Interstate League,bell,M92174,Bell,George,,Warren,,,,,
 minoraverages/1916Reach,1915,Interstate League,blake,B00904,Blake,,0,Jamestown,,,44,,
 minoraverages/1916Reach,1915,Interstate League,blake,F20829,Blake,,0,Jamestown,,,,,c45
 minoraverages/1916Reach,1915,Interstate League,blessing,F20636,Blessing,,0,,,,,,ss
@@ -58,6 +60,7 @@ minoraverages/1916Reach,1915,Interstate League,buffington,F20391,Buffington,,0,O
 minoraverages/1916Reach,1915,Interstate League,burne,F21609,Burne,,0,,,,,,
 minoraverages/1916Reach,1915,Interstate League,burrell,B00037,Burrell,,0,Hornell,,,72,,
 minoraverages/1916Reach,1915,Interstate League,burrell,F20342,Burrell,,0,Hornell,,,,,3b71
+minoraverages/emilbb,1915,Interstate League,burrell,M92158,Burrell,Lenny,,Hornell,,,,,
 minoraverages/1916Reach,1915,Interstate League,byberg,B00912,Byberg,,0,Warren,,,25,,
 minoraverages/1916Reach,1915,Interstate League,byrnes,F20153,Byrnes,,0,,,,,,1b
 minoraverages/1916Reach,1915,Interstate League,cable,B00059,Cable,,0,Bradford,,,63,,
@@ -120,6 +123,7 @@ minoraverages/1916Reach,1915,Interstate League,duffy,F20430,Duffy,,0,Warren,,,,,
 minoraverages/1916Reach,1915,Interstate League,duffy,F20699,Duffy,,0,,,,,,ss
 minoraverages/1916Reach,1915,Interstate League,dundon,B00343,Dundon,,0,Olean,,,63,,
 minoraverages/1916Reach,1915,Interstate League,dundon,F20189,Dundon,,0,Olean,,,,,2b63
+minoraverages/emilbb,1915,Interstate League,dundon,M92117,Dundon,Gus,,Olean,,,,,
 minoraverages/1916Reach,1915,Interstate League,eby,F20970,Eby,,0,Warren,,,,,p6
 minoraverages/1916Reach,1915,Interstate League,eby,P10304,Eby,,0,Warren,,,,6,
 minoraverages/1916Reach,1915,Interstate League,eccles,P10336,Eccles,,0,,,,,,
@@ -239,6 +243,7 @@ minoraverages/1916Reach,1915,Interstate League,lindholm,B00324,Lindholm,,0,James
 minoraverages/1916Reach,1915,Interstate League,lindholm,F21491,Lindholm,,0,Jamestown,,,,,of43
 minoraverages/1916Reach,1915,Interstate League,lohr,B00264,Lohr,,0,Wellsville,,,58,,
 minoraverages/1916Reach,1915,Interstate League,lohr,F21324,Lohr,,0,Wellsville,,,,,of57
+minoraverages/emilbb,1915,Interstate League,lohr,M92101,Lohr,Joe,,Wellsville,,,,,
 minoraverages/1916Reach,1915,Interstate League,ludden,B00667,Ludden,,0,Warren,,,29,,
 minoraverages/1916Reach,1915,Interstate League,ludden,F21232,Ludden,,0,Warren,,,,,p14
 minoraverages/1916Reach,1915,Interstate League,ludden,F21278,Ludden,,1,Jamestown,,,,,of
@@ -324,6 +329,7 @@ minoraverages/1916Reach,1915,Interstate League,peer,F20594,Peer,,2,Warren,,,,,ss
 minoraverages/1916Reach,1915,Interstate League,peer,F20594,Peer,,T,,,,,,ss87
 minoraverages/1916Reach,1915,Interstate League,prezeller,F20810,Prezeller,,0,Hornell,,,,,c23
 minoraverages/1916Reach,1915,Interstate League,prezeller,B00434,Prozeller,,0,Hornell,,,23,,
+minoraverages/emilbb,1915,Interstate League,prezeller,M92149,Prozeller,Joe,,Hornell,,,,,
 minoraverages/1916Reach,1915,Interstate League,byberg,F20841,Pyburg,,0,Warren,,,,,c25
 minoraverages/1916Reach,1915,Interstate League,ralinger,B00045,Ralinger,,0,Warren,,,84,,
 minoraverages/1916Reach,1915,Interstate League,ralinger,F21475,Ralinger,,0,Warren,,,,,of84
@@ -362,6 +368,7 @@ minoraverages/1916Reach,1915,Interstate League,servatius,B00149,Servatius,,T,,,,
 minoraverages/1916Reach,1915,Interstate League,servatius,F20038,Servatius,,1,Bradford,,,,,1b
 minoraverages/1916Reach,1915,Interstate League,servatius,F20038,Servatius,,2,Jamestown,,,,,1b
 minoraverages/1916Reach,1915,Interstate League,servatius,F20038,Servatius,,T,,,,,,1b58
+minoraverages/emilbb,1915,Interstate League,servatius,M92125,Servatius,Duke,,Bradford,,,,,
 minoraverages/1916Reach,1915,Interstate League,sharrock,B00278,Sharrock,,0,Bradford,,,46,,
 minoraverages/1916Reach,1915,Interstate League,sharrock,F21084,Sharrock,,0,Bradford,,,,,p28
 minoraverages/1916Reach,1915,Interstate League,sharrock,F21403,Sharrock,,0,Bradford,,,,,of15
@@ -410,6 +417,7 @@ minoraverages/1916Reach,1915,Interstate League,topham,B00973,Topham,,0,Bradford,
 minoraverages/1916Reach,1915,Interstate League,topham,F21013,Topham,,0,Bradford,,,,,p11
 minoraverages/1916Reach,1915,Interstate League,topham,F21752,Topham,,0,,,,,,
 minoraverages/1916Reach,1915,Interstate League,topham,P10277,Topham,,0,Bradford,,,,11,
+minoraverages/emilbb,1915,Interstate League,topham,M92130,Topham,Ray,,Bradford,,,,,
 minoraverages/1916Reach,1915,Interstate League,turner,B00488,Turner,,0,Hornell,,,11,,
 minoraverages/1916Reach,1915,Interstate League,turner,F21196,Turner,,0,Hornell,,,,,p11
 minoraverages/1916Reach,1915,Interstate League,turner,P10184,Turner,,0,Hornell,,,,7,
@@ -427,6 +435,7 @@ minoraverages/1916Reach,1915,Interstate League,webb.w,F21718,Webb,W.,0,,,,,,
 minoraverages/1916Reach,1915,Interstate League,webb.l,P10113,Webb,L.,1,Jamestown,,,,,
 minoraverages/1916Reach,1915,Interstate League,webb.l,P10113,Webb,L.,2,Hornell,,,,,
 minoraverages/1916Reach,1915,Interstate League,webb.l,P10113,Webb,L.,T,,,,,32,
+minoraverages/emilbb,1915,Interstate League,webb.w,M92182,Webb,William,,Jamestown,,,,,
 minoraverages/1916Reach,1915,Interstate League,webster,P10503,Webster,,0,,,,,,
 minoraverages/1916Reach,1915,Interstate League,whalen,B00117,Whalen,,0,Bradford,,,76,,
 minoraverages/1916Reach,1915,Interstate League,whalen,F21319,Whalen,,0,Bradford,,,,,of76

@@ -81,6 +81,7 @@ minoraverages/1916Reach,1915,Western League,clark,P10253,Clark,,0,Sioux City,,,,
 boxscores/1915/1915-SL,1915,Western League,clarke,P3507274,Clarke,,,Sioux City,19150423,19150429,7,0,"of7,lf6,cf1"
 minoraverages/1916Reach,1915,Western League,clarke,B00887,Clarke,J.,0,Sioux City,,,56,,
 minoraverages/1916Reach,1915,Western League,clarke,F20832,Clarke,J.,0,Sioux City,,,,,of52
+minoraverages/emilbb,1915,Western League,clarke,M90476,Clarke,Josh,,Sioux City,,,,,
 boxscores/1915/1915-SL,1915,Western League,closman,P0288602,Closman,,,Omaha,19150426,19150429,2,2,p2
 minoraverages/1916Reach,1915,Western League,closman,B00076,Closman,,0,Omaha,,,11,,
 boxscores/1915/1915-SL,1915,Western League,clunn,P2314379,Clunn,,,Topeka,19150429,19150429,1,1,p1
@@ -101,6 +102,7 @@ boxscores/1915/1915-SL,1915,Western League,coffey,P7048391,Coffey,,,Denver,19150
 minoraverages/1916Reach,1915,Western League,coffey,B00397,Coffey,,0,Denver,,,105,,
 minoraverages/1916Reach,1915,Western League,coffey,F20713,Coffey,,0,Denver,,,,,3b75
 minoraverages/1916Reach,1915,Western League,coffey,F21084,Coffey,,0,Denver,,,,,of30
+minoraverages/emilbb,1915,Western League,coffey,M90421,Coffey,Jack,,Denver,,,,,
 minoraverages/1916Reach,1915,Western League,connelly,B01313,Connelly,,0,St. Joseph,,,31,,
 minoraverages/1916Reach,1915,Western League,connelly,F20144,Connelly,,0,St. Joseph,,,,,c29
 boxscores/1915/1915-SL,1915,Western League,cooney,P1104741,Cooney,,,Sioux City,19150423,19150429,6,0,2b6
@@ -187,6 +189,7 @@ boxscores/1915/1915-SL,1915,Western League,gaspar,P5835606,Gaspar,,,Sioux City,1
 minoraverages/1916Reach,1915,Western League,gaspar,B01162,Gaspar,,0,Sioux City,,,33,,
 minoraverages/1916Reach,1915,Western League,gaspar,F21488,Gaspar,,0,Sioux City,,,,,p33
 minoraverages/1916Reach,1915,Western League,gaspar,P10100,Gaspar,,0,Sioux City,,,,34,
+minoraverages/emilbb,1915,Western League,gaspar,M90484,Gaspar,Harry,,Sioux City,,,,,
 boxscores/1915/1915-SL,1915,Western League,geisel@ump,P5974546,Geisel,,,#umpire,19150423,19150429,,,
 boxscores/1915/1915-SL,1915,Western League,geist,P1787724,Geist,,,Wichita,19150423,19150428,4,3,p3
 minoraverages/1916Reach,1915,Western League,geist,B01300,Geist,,0,Wichita,,,60,,
@@ -254,6 +257,7 @@ minoraverages/1916Reach,1915,Western League,hoffman,F21491,Hoffman,,T,,,,,,p17
 minoraverages/1916Reach,1915,Western League,hoffman,P10289,Hoffman,,1,Omaha,,,,,
 minoraverages/1916Reach,1915,Western League,hoffman,P10289,Hoffman,,2,Lincoln,,,,,
 minoraverages/1916Reach,1915,Western League,hoffman,P10289,Hoffman,,T,,,,,20,
+minoraverages/emilbb,1915,Western League,holland,M90511,Holland,Jack,,St. Joseph,,,,,
 minoraverages/1916Reach,1915,Western League,hosp,B00695,Hosp,,0,Wichita,,,123,,
 minoraverages/1916Reach,1915,Western League,hosp,F20604,Hosp,,0,Wichita,,,,,ss108
 boxscores/1915/1915-SL,1915,Western League,huelsman,P7949642,Huelsman,,,Omaha,19150424,19150429,6,0,"of6,lf1,rf5"
@@ -270,9 +274,11 @@ minoraverages/1916Reach,1915,Western League,hunter,F20919,Hunter,,0,Des Moines,,
 minoraverages/1916Reach,1915,Western League,ingersoll,B01625,Ingersoll,,0,Omaha,,,14,,
 minoraverages/1916Reach,1915,Western League,ingersoll,F21609,Ingersoll,,0,Omaha,,,,,p15
 minoraverages/1916Reach,1915,Western League,ingersoll,P10070,Ingersoll,,0,Omaha,,,,15,
+minoraverages/emilbb,1915,Western League,isbell,M90413,Isbell,Frank,,Des Moines,,,,,
 boxscores/1915/1915-SL,1915,Western League,jackson,P6505716,Jackson,,,Topeka,19150423,19150429,6,0,"of6,cf6"
 minoraverages/1916Reach,1915,Western League,jackson,B00125,Jackson,,0,Topeka,,,105,,
 minoraverages/1916Reach,1915,Western League,jackson,F20962,Jackson,,0,Topeka,,,,,of104
+minoraverages/emilbb,1915,Western League,jackson,M90445,Jackson,Jimmy,,Topeka,,,,,
 boxscores/1915/1915-SL,1915,Western League,johnson,P3426604,Johnson,,,Omaha,19150424,19150424,1,1,p1
 boxscores/1915/1915-SL,1915,Western League,johnson,P9421342,Johnson,Frank,,Omaha,19150428,19150428,1,1,p1
 minoraverages/1916Reach,1915,Western League,johnson,B01523,Johnson,,0,Omaha,,,19,,
@@ -311,6 +317,7 @@ boxscores/1915/1915-SL,1915,Western League,krug,P3849222,Krug,,,Omaha,19150424,1
 minoraverages/1916Reach,1915,Western League,krug,B00264,Krug,,0,Omaha,,,142,,
 minoraverages/1916Reach,1915,Western League,krug,F20552,Krug,,0,Omaha,,,,,ss36
 minoraverages/1916Reach,1915,Western League,krug,F20768,Krug,,0,Omaha,,,,,3b106
+minoraverages/emilbb,1915,Western League,krug,M90459,Krug,Marty,,Omaha,,,,,
 boxscores/1915/1915-SL,1915,Western League,lakaff,P8701107,Lakaff,,,Des Moines,19150424,19150424,1,1,p1
 minoraverages/1916Reach,1915,Western League,lakaff,B01674,Lakaff,,0,Topeka,,,35,,
 minoraverages/1916Reach,1915,Western League,lakaff,F21553,Lakaff,,0,Topeka,,,,,p35
@@ -352,6 +359,7 @@ minoraverages/1916Reach,1915,Western League,mcgaffigan,F20526,McGaffigan,,0,Linc
 boxscores/1915/1915-SL,1915,Western League,mcintyre,P8520481,McIntyre,,,Lincoln,19150424,19150429,4,0,"of4,rf4"
 minoraverages/1916Reach,1915,Western League,mcintyre,B00255,McIntyre,,0,Lincoln,,,123,,
 minoraverages/1916Reach,1915,Western League,mcintyre,F20924,McIntyre,,0,Lincoln,,,,,of119
+minoraverages/emilbb,1915,Western League,mcintyre,M90468,McIntyre,Matty,,Lincoln,,,,,
 minoraverages/1916Reach,1915,Western League,miller,B00638,Miller,,0,Denver,,,92,,
 minoraverages/1916Reach,1915,Western League,miller,F21101,Miller,,0,Denver,,,,,of92
 boxscores/1915/1915-SL,1915,Western League,mitchell,P6856573,Mitchell,,,Denver,19150428,19150428,1,1,p1
@@ -410,6 +418,7 @@ minoraverages/1916Reach,1915,Western League,patterson.w,B01567,Patterson,W.,0,St
 minoraverages/1916Reach,1915,Western League,patterson.h,F20265,Patterson,H.,1,St. Joseph,,,,,1b
 minoraverages/1916Reach,1915,Western League,patterson.h,F20265,Patterson,H.,2,Wichita,,,,,1b
 minoraverages/1916Reach,1915,Western League,patterson.h,F20265,Patterson,H.,T,,,,,,1b128
+minoraverages/emilbb,1915,Western League,patterson.h,M90506,Patterson,Ham,,Wichita,,,,,
 boxscores/1915/1915-SL,1915,Western League,payne,P0455530,Payne,,,Omaha,19150424,19150426,3,0,"3b1,of2,lf2"
 minoraverages/1916Reach,1915,Western League,payne,B00794,Payne,,0,Omaha,,,17,,
 boxscores/1915/1915-SL,1915,Western League,phelps,P8238372,Phelps,,,Sioux City,19150423,19150429,6,0,c3
@@ -496,6 +505,7 @@ minoraverages/1916Reach,1915,Western League,southern,P10277,Southern,,0,Wichita,
 boxscores/1915/1915-SL,1915,Western League,spahr,P9674249,Spahr,,,Denver,19150423,19150429,5,0,c5
 minoraverages/1916Reach,1915,Western League,spahr,B00229,Spahr,,0,Denver,,,75,,
 minoraverages/1916Reach,1915,Western League,spahr,F20115,Spahr,,0,Denver,,,,,c66
+minoraverages/emilbb,1915,Western League,spahr,M90437,Spahr,Larry,,Denver,,,,,
 boxscores/1915/1915-SL,1915,Western League,spencer,P4957755,Spencer,,,Denver,19150423,19150429,6,0,"of6,cf5,rf1"
 minoraverages/1916Reach,1915,Western League,spencer,B00059,Spencer,,0,Denver,,,135,,
 minoraverages/1916Reach,1915,Western League,spencer,F21163,Spencer,,0,Denver,,,,,of135
@@ -577,6 +587,7 @@ minoraverages/1916Reach,1915,Western League,varney,B01376,Varney,,0,Omaha,,,14,,
 boxscores/1915/1915-SL,1915,Western League,wares,P1344402,Wares,,,Wichita,19150423,19150429,6,0,2b6
 minoraverages/1916Reach,1915,Western League,wares,B00590,Wares,,0,Wichita,,,32,,
 minoraverages/1916Reach,1915,Western League,wares,F20417,Wares,,0,Wichita,,,,,2b30
+minoraverages/emilbb,1915,Western League,wares,M90492,Wares,"Clyde ""Buzzy""",,Wichita,,,,,
 boxscores/1915/1915-SL,1915,Western League,watson.g,P0963489,Watson,,,St. Joseph,19150424,19150429,6,0,"of6,cf1,rf5"
 minoraverages/1916Reach,1915,Western League,watson.g,B00370,Watson,G.,1,St. Joseph,,,,,
 minoraverages/1916Reach,1915,Western League,watson.g,B00370,Watson,G.,2,Sioux City,,,,,

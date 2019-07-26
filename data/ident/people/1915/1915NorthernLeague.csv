@@ -344,6 +344,8 @@ boxscores/1915/1915-WT,1915,Northern League,curtis.f-sup+win,P6114894,Curtis,,,S
 minoraverages/1916Reach,1915,Northern League,curtis.f-sup+win,B00544,Curtis,,0,Winnipeg,,,103,,
 minoraverages/1916Reach,1915,Northern League,curtis.f-sup+win,F20014,Curtis,,0,Winnipeg,,,,,1b78
 minoraverages/1916Reach,1915,Northern League,curtis.f-sup+win,F20425,Curtis,,0,Winnipeg,,,,,of26
+minoraverages/emilbb,1915,Northern League,curtis.f-sup+win,M91213,Curtis,Fred,,Winnipeg,,,,,
+minoraverages/emilbb,1915,Northern League,curtis.f-sup+win,M91237,Curtis,Fred,,Superior,,,,,
 boxscores/1915/1915-WT,1915,Northern League,curtis.f-sup+win,P1983294,Curtis [SUP],,,Superior,19150510,19150511,2,0,1b2
 boxscores/1915/1915-WT,1915,Northern League,curtis-win,P0967612,Curtis [WIN],,,Winnipeg,19150510,19150511,2,0,"of2,lf2"
 boxscores/1915/1915-DNT,1915,Northern League,curtis-win,P1875818,Curtis [a],,,Winnipeg,19150602,19150602,1,0,ss1
@@ -474,6 +476,7 @@ boxscores/1915/1915-GFDH,1915,Northern League,fox,P4676839,Fox,,,Grand Forks,191
 boxscores/1915/1915-GFDH,1915,Northern League,fox@ump,P8004104,Fox,,,#umpire,19150713,19150724,,,
 boxscores/1915/1915-WT,1915,Northern League,fox,P1358841,Fox,,,Grand Forks,19150521,19150705,23,0,2b23
 boxscores/1915/1915-WT,1915,Northern League,fox@ump,P8134618,Fox,,,#umpire,19150723,19150903,,,
+minoraverages/emilbb,1915,Northern League,fox,M91245,Fox,William,,Grand Forks,,,,,
 boxscores/1915/1915-DNT,1915,Northern League,flaherty,P9015366,Fraherty,,,Fargo-Moorhead,19150821,19150821,1,0,"of1,rf1"
 boxscores/1915/1915-WT,1915,Northern League,fremer,P1236451,Framer,,,Fargo-Moorhead,19150521,19150521,1,0,2b1
 boxscores/1915/1915-GFDH,1915,Northern League,frankenhoff,P6806730,Frankenhoff,,,Virginia,19150511,19150513,2,0,1b1
@@ -842,6 +845,7 @@ boxscores/1915/1915-WT,1915,Northern League,mitchell,P0972462,Mitchell,,,Winnipe
 boxscores/1915/1915-WT,1915,Northern League,mitchell,P9782265,Mitchell,,,St. Boniface,19150724,19150801,11,0,"3b5,ss5,of1,rf1"
 minoraverages/1916Reach,1915,Northern League,mitchell,B00324,Mitchell,,0,St. Boniface,,,72,,
 minoraverages/1916Reach,1915,Northern League,mitchell,F20254,Mitchell,,0,St. Boniface,,,,,3b72
+minoraverages/emilbb,1915,Northern League,moll,M91173,Moll,Charles,,St. Boniface,,,,,
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P5179219,Moore [Paul],,,Grand Forks,19150528,19150528,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,morse.paul,P9881990,Moorse [Paul],,,Grand Forks,19150704,19150704,1,1,p1
 boxscores/1915/1915-DNT,1915,Northern League,morse.pete,P8907559,Moorse [Pete],,,Duluth,19150708,19150710,2,0,"2b1,ss1"
@@ -964,6 +968,7 @@ boxscores/1915/1915-GFDH,1915,Northern League,obrien,P6453541,O'Brien,,,Duluth,1
 boxscores/1915/1915-WT,1915,Northern League,obrien,P5746935,O'Brien,,,Duluth,19150508,19150810,18,0,"2b15,of1,rf1"
 minoraverages/1916Reach,1915,Northern League,obrien,B00651,O'Brien,,0,Duluth,,,96,,
 minoraverages/1916Reach,1915,Northern League,obrien,F20177,O'Brien,,0,Duluth,,,,,2b96
+minoraverages/emilbb,1915,Northern League,obrien,M91199,O'Brien,"William ""Darby""",,Duluth,,,,,
 boxscores/1915/1915-DNT,1915,Northern League,odonnell,P4870873,O'Donnell,,,Winnipeg,19150510,19150515,4,0,c4
 boxscores/1915/1915-GFDH,1915,Northern League,odonnell,P8761836,O'Donnell,,,Winnipeg,19150508,19150515,6,0,c6
 boxscores/1915/1915-WT,1915,Northern League,odonnell,P9867710,O'Donnell,,,Winnipeg,19150508,19150515,6,0,c6
@@ -983,6 +988,7 @@ boxscores/1915/1915-WT,1915,Northern League,patterson-win+fm,P3461926,Patterson,
 minoraverages/1916Reach,1915,Northern League,patterson-win+fm,B00806,Patterson,,0,Fargo-Moorhead,,,27,,
 minoraverages/1916Reach,1915,Northern League,patterson-win+fm,F20776,Patterson,,0,Fargo-Moorhead,,,,,p27
 minoraverages/1916Reach,1915,Northern League,patterson-win+fm,P10019,Patterson,,0,Fargo-Moorhead,,,,,
+minoraverages/emilbb,1915,Northern League,patterson-win+fm,M91200,Patterson,Roy,,Winnipeg,,,,,
 boxscores/1915/1915-DNT,1915,Northern League,patterson.2b-fm,P4705421,Patterson [2b],,,Fargo-Moorhead,19150615,19150630,8,0,2b7
 boxscores/1915/1915-GFDH,1915,Northern League,patterson.2b-fm,P1760192,Patterson [2b],,,Fargo-Moorhead,19150613,19150613,1,0,2b1
 boxscores/1915/1915-WT,1915,Northern League,patterson.2b-fm,P1783250,Patterson [2b],,,Fargo-Moorhead,19150701,19150701,1,0,2b1
@@ -1167,11 +1173,13 @@ boxscores/1915/1915-GFDH,1915,Northern League,sullivan,P1160649,Sullivan,,,Fort 
 boxscores/1915/1915-WT,1915,Northern League,sullivan,P6127067,Sullivan,,,Fort William-Port Arthur,19150514,19150903,31,0,"3b2,of27,lf11,rf16"
 minoraverages/1916Reach,1915,Northern League,sullivan,B00092,Sullivan,,0,Fort William,,,97,,
 minoraverages/1916Reach,1915,Northern League,sullivan,F20401,Sullivan,,0,Fort William,,,,,of97
+minoraverages/emilbb,1915,Northern League,sullivan,M91185,Sullivan,Denny,,Fort William,,,,,
 boxscores/1915/1915-DNT,1915,Northern League,sundheim,P8521964,Sundheim,,,Virginia,19150526,19150903,101,0,ss99
 boxscores/1915/1915-GFDH,1915,Northern League,sundheim,P1670175,Sundheim,,,Virginia,19150510,19150630,7,0,ss7
 boxscores/1915/1915-WT,1915,Northern League,sundheim,P8370353,Sundheim,,,Virginia,19150514,19150731,29,0,ss29
 minoraverages/1916Reach,1915,Northern League,sundheim,B00397,Sundheim,,0,Virginia,,,122,,
 minoraverages/1916Reach,1915,Northern League,sundheim,F20303,Sundheim,,0,Virginia,,,,,ss122
+minoraverages/emilbb,1915,Northern League,sundheim,M91221,Sundheim,John,,Virginia,,,,,
 minoraverages/1916Reach,1915,Northern League,swalm,F20547,Swaim,,0,Winnipeg,,,,,of121
 boxscores/1915/1915-DNT,1915,Northern League,swalm,P5952379,Swalm,,,Winnipeg,19150723,19150810,17,0,"of17,lf17"
 boxscores/1915/1915-DNT,1915,Northern League,swalm,P7709747,Swalm,,,Superior,19150522,19150705,40,0,"of40,lf38,rf2"
@@ -1216,6 +1224,7 @@ boxscores/1915/1915-GFDH,1915,Northern League,unglaub,P3988418,Unglaub,,,Fargo-M
 boxscores/1915/1915-WT,1915,Northern League,unglaub,P3188372,Unglaub,,,Fargo-Moorhead,19150521,19150901,40,0,1b37
 minoraverages/1916Reach,1915,Northern League,unglaub,B00076,Unglaub,,0,Fargo-Moorhead,,,98,,
 minoraverages/1916Reach,1915,Northern League,unglaub,F20023,Unglaub,,0,Fargo-Moorhead,,,,,1b98
+minoraverages/emilbb,1915,Northern League,unglaub,M91161,Unglaub,Bob,,Fargo-Moorhead,,,,,
 boxscores/1915/1915-DNT,1915,Northern League,ursella,P9641087,Ursella,,,Grand Forks,19150510,19150609,7,7,p7
 boxscores/1915/1915-GFDH,1915,Northern League,ursella,P8042866,Ursella,,,Grand Forks,19150510,19150609,8,8,p8
 boxscores/1915/1915-WT,1915,Northern League,ursella,P4536708,Ursella,,,Grand Forks,19150520,19150605,4,4,p4

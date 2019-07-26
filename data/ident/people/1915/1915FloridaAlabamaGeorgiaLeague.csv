@@ -35,6 +35,7 @@ minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,baker-dot+gai,P10121
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,baker-dot+gai,P10121,Baker,,2,Gainesville,,,,,
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,baker-dot+gai,P10121,Baker,,T,,,,,12,
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,baker-val,P10159,Baker,,0,Valdosta,,,,9,
+minoraverages/emilbb,1915,Florida-Alabama-Georgia League,baker-dot+gai,M92013,Baker,Oscar,,Americus/Gainesville,,,,,
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,baker-dot+gai,P1760187,Baker [DOT],,,Dothan,19150429,19150429,1,1,p1
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,barber,P5487106,Baker [WAY],,,Waycross,19150429,19150429,1,0,1b1
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,bales,P4386462,Bales,,,Valdosta,19150616,19150717,30,0,3b30
@@ -274,6 +275,7 @@ minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,jordan-val,F20518,Jo
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,jordan-val,F20661,Jordan,,0,Valdosta,,,,,1b14
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,jordan-bru,F20768,Jordan,,0,Brunswick,,,,,c51
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,jordan-bru,P10441,Jordan,,0,Brunswick,,,,,
+minoraverages/emilbb,1915,Florida-Alabama-Georgia League,jordan-val,M91989,Jordan,Otto,,Valdosta,,,,,
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,jordan-bru,P5108688,Jordan [BRU],,,Brunswick,19150614,19150619,4,0,c4
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,jordan-val,P7137104,Jordan [VAL],,,Valdosta,19150614,19150619,4,0,2b4
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,jordan-bru,P1750045,Jordon,,,Brunswick,19150428,19150428,1,0,c1
@@ -375,6 +377,7 @@ minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,mulligan,B00207,Mull
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,murch,P7868096,Murch,,,Thomasville,19150426,19150628,45,0,"2b44,ss1"
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,murch,B00705,Murch,,0,Thomasville,,,46,,
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,murch,F20571,Murch,,0,Thomasville,,,,,2b45
+minoraverages/emilbb,1915,Florida-Alabama-Georgia League,murch,M92021,Murch,Red,,Thomasville,,,,,
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,nance,P0743862,Nance,,,Brunswick,19150426,19150717,73,1,"p1,c14,3b59,of1,rf1"
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,nance,B00667,Nance,,0,Brunswick,,,74,,
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,nance,F20369,Nance,,0,Brunswick,,,,,3b62
@@ -451,6 +454,7 @@ minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,rafferty,F20265,Raff
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,reidy,P1637428,Reidy,,,Dothan,19150426,19150717,75,0,"of75,cf75"
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,reidy,B00264,Reidy,,0,Dothan,,,75,,
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,reidy,F20046,Reidy,,0,Dothan,,,,,of75
+minoraverages/emilbb,1915,Florida-Alabama-Georgia League,reidy,M91966,Reidy,Jack,,Dothan,,,,,
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,reilly,P2203463,Reilley,,,Brunswick,19150430,19150501,2,0,2b2
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,reilly,P4255170,Reilly,,,Brunswick,19150426,19150708,58,1,"p1,2b58"
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,reilly,B00163,Reilly,,0,Brunswick,,,60,,
@@ -464,6 +468,8 @@ minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,reynolds-way,B00241,
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,reynolds-bru,F20190,Reynolds,,0,Brunswick,,,,,of43
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,reynolds-bru,F20745,Reynolds,,0,Brunswick,,,,,c11
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,reynolds-way,F20776,Reynolds,,0,Waycross,,,,,c71
+minoraverages/emilbb,1915,Florida-Alabama-Georgia League,reynolds-way,M91977,Reynolds,Hammond,,Waycross,,,,,
+minoraverages/emilbb,1915,Florida-Alabama-Georgia League,reynolds-bru,M91990,Reynolds,Wade,,Brunswick,,,,,
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,reynolds-bru,P0086242,Reynolds [BRU],,,Brunswick,19150426,19150717,15,0,"c5,1b1,2b1,of8,lf1,rf7"
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,reynolds-way,P3391181,Reynolds [WAY],,,Waycross,19150426,19150717,13,0,c13
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,reynolds-way,P8168077,Reynolds [Way],,,Waycross,19150715,19150715,1,0,c1
@@ -612,6 +618,7 @@ boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,wagnon,P4700924,Wagno
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,wagnon@ump,P6165173,Wagnon,,,#umpire,19150602,19150624,,,
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,wagnon,B00397,Wagnon,,0,Americus,,,26,,
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,wagnon,F20067,Wagnon,,0,Americus,,,,,of25
+minoraverages/emilbb,1915,Florida-Alabama-Georgia League,wagnon,M92000,Wagnon,John,,Americus/Gainesville,,,,,
 boxscores/1915/1915-MT,1915,Florida-Alabama-Georgia League,walker,P8133175,Walker,,,Brunswick,19150709,19150713,4,1,"p1,2b1,of3,rf3"
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,walker,B01234,Walker,,0,Brunswick,,,4,,
 minoraverages/1916Reach,1915,Florida-Alabama-Georgia League,walker,P10455,Walker,,0,Brunswick,,,,,
