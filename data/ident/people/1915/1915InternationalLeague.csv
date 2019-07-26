@@ -62,10 +62,10 @@ boxscores/1915/1915-SL,1915,International League,breckenridge,P8720977,Brecken'e
 boxscores/1915/1915-SL,1915,International League,breckenridge,P3087568,Breckenridge,,,Richmond,19150501,19150501,1,0,"of1,rf1"
 minoraverages/1916Reach,1915,International League,breckenridge,B00726,Breckenridge,,0,Richmond,,,35,,
 minoraverages/1916Reach,1915,International League,breckenridge,F21021,Breckenridge,,0,Richmond,,,,,cf30
-boxscores/1915/1915-SL,1915,International League,brown,P0447348,Brown,,,Toronto,19150427,19150501,4,0,"of4,lf3,cf1"
+boxscores/1915/1915-SL,1915,International League,brown-tor,P0447348,Brown,,,Toronto,19150427,19150501,4,0,"of4,lf3,cf1"
 boxscores/1915/1915-SL,1915,International League,brown@ump,P5395025,Brown,,,#umpire,19150429,19150501,,,
-minoraverages/1916Reach,1915,International League,brown,B01010,Brown,,0,Toronto,,,19,,
-minoraverages/1916Reach,1915,International League,brown,P10569,Brown,,0,Harrisburg,,,,7,
+minoraverages/1916Reach,1915,International League,brown-tor,B01010,Brown,,0,Toronto,,,19,,
+minoraverages/1916Reach,1915,International League,brown-har,P10569,Brown,,0,Harrisburg,,,,7,
 minoraverages/1916Reach,1915,International League,bruck,B01617,Bruck,,0,Jersey City,,,37,,
 minoraverages/1916Reach,1915,International League,bruck,F21553,Bruck,,0,Jersey City,,,,,p37
 minoraverages/1916Reach,1915,International League,bruck,P10478,Bruck,,0,Jersey City,,,,37,
@@ -151,11 +151,11 @@ minoraverages/1916Reach,1915,International League,dowd,B01489,Dowd,,0,Montreal,,
 minoraverages/1916Reach,1915,International League,dowd,F21381,Dowd,,0,Montreal,,,,,p34
 minoraverages/1916Reach,1915,International League,dowd,P10121,Dowd,,0,Montreal,,,,34,
 boxscores/1915/1915-SL,1915,International League,duchesnil,P8464453,Duchesnil,,,Rochester,19150501,19150501,1,1,p1
-minoraverages/1916Reach,1915,International League,dunn,B01431,Dunn,,0,Richmond,,,61,,
-minoraverages/1916Reach,1915,International League,dunn,F20832,Dunn,,0,Richmond,,,,,lf17
-minoraverages/1916Reach,1915,International League,dunn,F20981,Dunn,,0,Richmond,,,,,cf12
-minoraverages/1916Reach,1915,International League,dunn,F21068,Dunn,,0,Richmond,,,,,rf22
-minoraverages/emilbb,1915,International League,dunn,M90186,Dunn,Jack,,Richmond,,,,,
+minoraverages/1916Reach,1915,International League,dunn.jr,B01431,Dunn,,0,Richmond,,,61,,
+minoraverages/1916Reach,1915,International League,dunn.jr,F20832,Dunn,,0,Richmond,,,,,lf17
+minoraverages/1916Reach,1915,International League,dunn.jr,F20981,Dunn,,0,Richmond,,,,,cf12
+minoraverages/1916Reach,1915,International League,dunn.jr,F21068,Dunn,,0,Richmond,,,,,rf22
+minoraverages/emilbb,1915,International League,dunn.sr,M90186,Dunn,Jack,,Richmond,,,,,
 minoraverages/1916Reach,1915,International League,eayrs,B00515,Eayrs,,0,Providence,,,54,,
 minoraverages/1916Reach,1915,International League,eayrs,F21059,Eayrs,,0,Providence,,,,,rf26
 minoraverages/1916Reach,1915,International League,eayrs,F21356,Eayrs,,0,Providence,,,,,p16
