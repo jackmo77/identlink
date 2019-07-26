@@ -40,8 +40,8 @@ boxscores/1915/1915-SL,1915,Western League,bramble,P9924621,Bramble,,,Sioux City
 boxscores/1915/1915-SL,1915,Western League,breen-dm,P3353978,Breen,,,Des Moines,19150423,19150429,7,0,c7
 boxscores/1915/1915-SL,1915,Western League,breen-oma,P8159289,Breen,,,Omaha,19150424,19150429,6,0,2b6
 minoraverages/1916Reach,1915,Western League,breen-oma,B00577,Breen,,0,Omaha,,,141,,
-minoraverages/1916Reach,1915,Western League,breen-des,B01007,Breen,,0,Des Moines,,,89,,
-minoraverages/1916Reach,1915,Western League,breen-des,F20051,Breen,,0,Des Moines,,,,,c76
+minoraverages/1916Reach,1915,Western League,breen-dm,B01007,Breen,,0,Des Moines,,,89,,
+minoraverages/1916Reach,1915,Western League,breen-dm,F20051,Breen,,0,Des Moines,,,,,c76
 minoraverages/1916Reach,1915,Western League,breen-oma,F20388,Breen,,0,Omaha,,,,,2b141
 boxscores/1915/1915-SL,1915,Western League,britton,P7192711,Britton,,,St. Joseph,19150424,19150429,6,0,3b6
 minoraverages/1916Reach,1915,Western League,britton,B00207,Britton,,0,Wichita,,,142,,
@@ -239,7 +239,7 @@ minoraverages/1916Reach,1915,Western League,harrington,P10410,Harrington,,0,Denv
 boxscores/1915/1915-SL,1915,Western League,hartford,P7420552,Hartford,,,Des Moines,19150423,19150429,7,0,ss7
 minoraverages/1916Reach,1915,Western League,hartford,B00434,Hartford,,0,Des Moines,,,141,,
 minoraverages/1916Reach,1915,Western League,hartford,F20560,Hartford,,0,Des Moines,,,,,ss141
-minoraverages/1916Reach,1915,Western League,henry,B00651,Heary,,0,Wichita,,,24,,
+minoraverages/1916Reach,1915,Western League,henry-wic,B00651,Heary,,0,Wichita,,,24,,
 minoraverages/1916Reach,1915,Western League,helmer,B00469,Helmer,,0,St. Joseph,,,67,,
 boxscores/1915/1915-SL,1915,Western League,henry-wic,P5670838,Henry,,,Wichita,19150423,19150429,6,0,1b6
 boxscores/1915/1915-SL,1915,Western League,henry-sj,P8560363,Henry,,,St. Joseph,19150424,19150424,1,0,
