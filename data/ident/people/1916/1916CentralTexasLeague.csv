@@ -1,4 +1,5 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+minoraverages/emilbb,1916,Central Texas League,,M91597,Akin,Roy,,Mexia,,,,,
 minoraverages/1917Reach,1916,Central Texas League,,B00130,Allison,,0,Temple,,,52,,
 minoraverages/1917Reach,1916,Central Texas League,,F20240,Allison,,0,Temple,,,,,ss
 minoraverages/Nemec,1916,Central Texas League,allison,B00013,Allison,Frank,0,Temple,,,52,,ss
@@ -76,6 +77,7 @@ minoraverages/1917Reach,1916,Central Texas League,,B00076,Countryman,,0,Marlin,,
 minoraverages/1917Reach,1916,Central Texas League,,F20552,Countryman,,0,Marlin,,,,,of
 minoraverages/Nemec,1916,Central Texas League,countryman,B00207,Countryman,Robert,0,Marlin,,,26,,"p,of"
 minoraverages/Nemec,1916,Central Texas League,countryman,P10113,Countryman,,0,Marlin,,,,7,
+minoraverages/emilbb,1916,Central Texas League,,M91655,Countryman,Bob,,Marlin,,,,,
 minoraverages/1917Reach,1916,Central Texas League,,F20505,Currie,,0,Temple,,,,,of
 minoraverages/1917Reach,1916,Central Texas League,,B00544,Curry,,0,Temple,,,41,,
 minoraverages/Nemec,1916,Central Texas League,curry,B00210,Curry,,0,Temple,,,41,,of
@@ -165,6 +167,7 @@ minoraverages/Nemec,1916,Central Texas League,gober,B00427,Gober,E.,0,Waxahachie
 minoraverages/1917Reach,1916,Central Texas League,,B00117,Green,,0,Ennis,,,57,,
 minoraverages/1917Reach,1916,Central Texas League,,F20189,Green,,0,Ennis,,,,,3b
 minoraverages/Nemec,1916,Central Texas League,greene,B00434,Greene,Lewis (Babe),0,Ennis,,,57,,3b
+minoraverages/emilbb,1916,Central Texas League,,M91610,Griffin,Hank,,Terrell,,,,,
 minoraverages/1917Reach,1916,Central Texas League,,B00434,Griggs,,0,Waxahachie,,,40,,
 minoraverages/1917Reach,1916,Central Texas League,,F20287,Griggs,,0,Waxahachie,,,,,ss
 minoraverages/Nemec,1916,Central Texas League,griggs,B00442,Griggs,Cecil,0,Waxahachie,,,40,,ss
@@ -252,6 +255,8 @@ minoraverages/Nemec,1916,Central Texas League,mosley,B00680,Mosley,Earl,0,Terrel
 minoraverages/1917Reach,1916,Central Texas League,,B00013,Murray,,0,Marlin,,,11,,
 minoraverages/1917Reach,1916,Central Texas League,,F20342,Murray,,0,Marlin,,,,,of
 minoraverages/Nemec,1916,Central Texas League,murray,B00695,Murray,,0,Marlin,,,11,,of
+minoraverages/emilbb,1916,Central Texas League,,M91664,Murray,Fielder,,Marlin,,,,,
+minoraverages/emilbb,1916,Central Texas League,,M91629,Nance,William,,Terrell,,,,,
 minoraverages/1917Reach,1916,Central Texas League,,B00806,Naylor,,0,Mexia,,,60,,
 minoraverages/1917Reach,1916,Central Texas League,,F20636,Naylor,,0,Mexia,,,,,c
 minoraverages/Nemec,1916,Central Texas League,naylor,B00705,Naylor,Jerry,0,Mexia,,,60,,c
@@ -267,6 +272,7 @@ minoraverages/1917Reach,1916,Central Texas League,,F20700,Palmer,,0,Terrell,,,,,
 minoraverages/Nemec,1916,Central Texas League,palmer,B00739,Palmer,Oscar,0,Terrell,,,59,,c
 minoraverages/Nemec,1916,Central Texas League,phillips,B00747,Phillips,,0,Marlin,,,5,,p
 minoraverages/Nemec,1916,Central Texas League,phillips,P10266,Phillips,,0,Marlin,,,,5,
+minoraverages/emilbb,1916,Central Texas League,,M91632,Poindexter,Dee,,Waxahachie,,,,,
 minoraverages/1917Reach,1916,Central Texas League,,B00609,Poteet,,0,Mexia,,,24,,
 minoraverages/1917Reach,1916,Central Texas League,,F20759,Poteet,,0,Mexia,,,,,p
 minoraverages/1917Reach,1916,Central Texas League,,P10035,Poteet,,0,all,,,,,
@@ -323,6 +329,7 @@ minoraverages/1917Reach,1916,Central Texas League,,B00207,Smith,,0,Waxahachie,,,
 minoraverages/1917Reach,1916,Central Texas League,,F20673,Smith,,0,Waxahachie,,,,,c
 minoraverages/Nemec,1916,Central Texas League,smith,B00898,Smith,E. Syd,0,Waxahachie,,,47,,c
 minoraverages/1917Reach,1916,Central Texas League,,F20014,Tarleton,,0,Marlin,,,,,1b
+minoraverages/emilbb,1916,Central Texas League,,M91641,Tarleton,Bob,,Marlin,,,,,
 minoraverages/1917Reach,1916,Central Texas League,,B00037,Tarlton,,0,Marlin,,,33,,
 minoraverages/Nemec,1916,Central Texas League,tarlton,B00904,Tarlton,Robert,0,Marlin,,,33,,1b
 minoraverages/Nemec,1916,Central Texas League,taylor,B00912,Taylor,,0,Marlin,,,6,,p
@@ -332,6 +339,7 @@ minoraverages/1917Reach,1916,Central Texas League,,P10168,Trammel,,0,all,,,,,
 minoraverages/Nemec,1916,Central Texas League,trammel,B00920,Trammel,Paul,0,Temple,,,47,,"p,of"
 minoraverages/Nemec,1916,Central Texas League,trammel,P10320,Trammel,,0,Temple,,,,15,
 minoraverages/1917Reach,1916,Central Texas League,,F20391,Trammell,,0,Temple,,,,,of
+minoraverages/emilbb,1916,Central Texas League,,M91570,Trammell,Paul,,Temple,,,,,
 minoraverages/Nemec,1916,Central Texas League,wade,B00936,Wade,,0,Terrell,,,6,,p
 minoraverages/Nemec,1916,Central Texas League,wade,P10336,Wade,,0,Terrell,,,,6,
 minoraverages/1917Reach,1916,Central Texas League,,B00590,Weber,,0,Terrell,,,26,,
@@ -345,7 +353,9 @@ minoraverages/Nemec,1916,Central Texas League,wesley,B00961,Wesley,,0,Waxahachie
 minoraverages/1917Reach,1916,Central Texas League,,B00502,White,,0,Mexia,,,60,,
 minoraverages/1917Reach,1916,Central Texas League,,F20128,White,,0,Mexia,,,,,2b
 minoraverages/Nemec,1916,Central Texas League,white,B00973,White,Grady,0,Mexia,,,60,,2b
+minoraverages/emilbb,1916,Central Texas League,,M91607,White,Grady,,Mexia,,,,,
 minoraverages/Nemec,1916,Central Texas League,wicker,M90018,Wicker,E. T.,,Ennis,,,,,
+minoraverages/emilbb,1916,Central Texas League,,M91581,Wicker,Ed,,Ennis,,,,,
 minoraverages/1917Reach,1916,Central Texas League,,B00469,Wren,,0,Mexia,,,57,,
 minoraverages/1917Reach,1916,Central Texas League,,F20430,Wren,,0,Mexia,,,,,of
 minoraverages/Nemec,1916,Central Texas League,wren,B00985,Wren,Clyde,0,Mexia,,,57,,of

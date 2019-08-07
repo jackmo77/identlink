@@ -16,6 +16,7 @@ minoraverages/1915Spalding,1914,Georgia-Alabama League,askew,F20072,Askew,,0,Gad
 minoraverages/1915Spalding,1914,Georgia-Alabama League,askew,F20482,Askew,,0,Gadsden,,,,,of59
 minoraverages/1915Spalding,1914,Georgia-Alabama League,baker,B00324,Baker,,0,Talladega,,,78,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,baker,F21092,Baker,,0,Talladega,,,,,c78
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92623,Baker,Howard,,Talladega,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,bannister,B00335,Bannister,,0,La Grange,,,78,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,bannister,F20583,Bannister,,0,La Grange,,,,,of78
 minoraverages/1915Spalding,1914,Georgia-Alabama League,barclay,B00794,Barclay,,0,Rome,,,16,,
@@ -76,6 +77,7 @@ minoraverages/1915Spalding,1914,Georgia-Alabama League,donalson-ope+lg,F20539,Do
 minoraverages/1915Spalding,1914,Georgia-Alabama League,donalson-ope+lg,F20539,Donalson,,T,,,,,,of76
 minoraverages/1915Spalding,1914,Georgia-Alabama League,doyle,B00811,Doyle,,0,Talladega,,,20,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,doyle,F20095,Doyle,,0,Talladega,,,,,1b20
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92614,Draper,Lovell,,Talladega,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,edmonson,B00577,Edmonson,,0,Newnan,,,74,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,edmonson,F20233,Edmonson,,0,Newnan,,,,,3b74
 minoraverages/1915Spalding,1914,Georgia-Alabama League,ery,B00434,Ery,,0,Opelika,,,53,,
@@ -88,16 +90,19 @@ minoraverages/1915Spalding,1914,Georgia-Alabama League,flowers.h,F20792,Flowers,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,flowers.b,F20943,Flowers,B.,0,Rome,,,,,p33
 minoraverages/1915Spalding,1914,Georgia-Alabama League,garnett,B00672,Garrett,,0,Talladega,,,39,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,garnett,F20038,Garrett,,0,Talladega,,,,,1b39
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92638,Garrett,"H. L. ""Tige""",,Talladega,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,garrison,B01032,Garrison,,0,Talladega,,,6,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,garrison,F20430,Garrison,,0,Talladega,,,,,of6
 minoraverages/1915Spalding,1914,Georgia-Alabama League,glazner,B00948,Glazner,,0,Anniston,,,22,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,glazner,F20886,Glazner,,0,Anniston,,,,,p22
 minoraverages/1915Spalding,1914,Georgia-Alabama League,graves,B00680,Graner,,0,Talladega,,,8,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,graves,F20303,Graves,,0,Talladega,,,,,3b8
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92515,Guiterez,W.,,Selma,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,guittierz,B00609,Guittierz,,0,Selma,,,62,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,guittierz,F21117,Guittierz,,0,Selma,,,,,c62
 minoraverages/1915Spalding,1914,Georgia-Alabama League,hawkins,B00865,Hawkins,,0,Opelika,,,26,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,hawkins,F21045,Hawkins,,0,Opelika,,,,,p26
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92646,Hayes,Bruce,,Gadsden,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,head,B01029,Head,,0,La Grange,,,28,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,head,F20908,Head,,0,La Grange,,,,,p28
 minoraverages/1915Spalding,1914,Georgia-Alabama League,hodges,B00293,Hodge,,0,Talladega,,,15,,
@@ -112,6 +117,7 @@ minoraverages/1915Spalding,1914,Georgia-Alabama League,jackson,B00450,Jackson,,0
 minoraverages/1915Spalding,1914,Georgia-Alabama League,jackson,F20518,Jackson,,0,La Grange,,,,,of10
 minoraverages/1915Spalding,1914,Georgia-Alabama League,jorda,B00207,Jorda,,0,Gadsden,,,68,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,jorda,F21125,Jorda,,0,Gadsden,,,,,c68
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92651,Jordan,Louis,,Gadsden,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,killinsworth,B01055,Killinsworth,,0,Anniston,,,31,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,killinsworth,F20878,Killinsworth,,0,Anniston,,,,,p31
 minoraverages/1915Spalding,1914,Georgia-Alabama League,kimball-rom,B00182,Kimball,,0,Rome,,,90,,
@@ -126,6 +132,7 @@ minoraverages/1915Spalding,1914,Georgia-Alabama League,knox,B00059,Knox,,0,Talla
 minoraverages/1915Spalding,1914,Georgia-Alabama League,knox,F20425,Knox,,0,Talladega,,,,,of23
 minoraverages/1915Spalding,1914,Georgia-Alabama League,lafitte,F21084,La Fitte,,0,La Grange,,,,,c95
 minoraverages/1915Spalding,1914,Georgia-Alabama League,lafitte,B00286,LaFitte,,0,La Grange,,,95,,
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92544,Lafitte,James,,La Grange,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,lamar,B00174,Lamar,,0,Anniston,,,98,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,lamar,F20177,Lamar,,0,Anniston,,,,,2b98
 minoraverages/1915Spalding,1914,Georgia-Alabama League,long,B00092,Long,,0,Newnan,,,25,,
@@ -139,6 +146,7 @@ minoraverages/1915Spalding,1914,Georgia-Alabama League,may,F20970,May,,0,Newnan,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,mclin,F20661,McLin,,0,Opelika,,,,,of50
 minoraverages/1915Spalding,1914,Georgia-Alabama League,mills,B00502,Mills,,0,Gadsden,,,59,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,mills,F20051,Mills,,0,Gadsden,,,,,1b59
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92667,Mills,L. C.,,Gadsden,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,moore,B00920,Moore,,0,Talladega,,,29,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,moore,F20463,Moore,,0,Talladega,,,,,of29
 minoraverages/1915Spalding,1914,Georgia-Alabama League,moorefield,B00045,Moorefield,,0,Rome,,,50,,
@@ -147,20 +155,27 @@ minoraverages/1915Spalding,1914,Georgia-Alabama League,morrison,B01041,Morrison,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,morrison,F20745,Morrison,,0,Selma,,,,,p22
 minoraverages/1915Spalding,1914,Georgia-Alabama League,newell,B00416,Newell,,0,Opelika,,,91,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,newell,F20144,Newell,,0,Opelika,,,,,2b91
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92553,Newell,Kirk,,Opelika,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,overton,B00806,Overton,,0,Selma,,,46,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,overton,F20342,Overton,,0,Selma,,,,,ss46
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92609,Pace,Carl,,Talladega,,,,,
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92590,Procter,Louis,,Anniston,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,proctor,B00912,Proctor,,0,Anniston,,,54,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,proctor,F20458,Proctor,,0,Anniston,,,,,of54
 minoraverages/1915Spalding,1914,Georgia-Alabama League,ragsdale,B00590,Ragsdale,,0,Anniston,,,97,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,ragsdale,F20505,Ragsdale,,0,Anniston,,,,,of97
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92589,Ragsdale,Bob,,Anniston,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,reidy,B00163,Reidy,,0,Rome,,,95,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,reidy,F20449,Reidy,,0,Rome,,,,,of95
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92577,Reidy,Jack,,Rome,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,reinecke,B00936,Reinecke,,0,Talladega,,,54,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,reinecke,F20401,Reinecke,,0,Talladega,,,,,ss54
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92528,Riggs,Arthur,,Selma,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,robinson,B00278,Robinson,,0,Talladega,,,35,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,robinson,F20673,Robinson,,0,Talladega,,,,,of35
 minoraverages/1915Spalding,1914,Georgia-Alabama League,sanders,B00771,Sanders,,0,Newnan,,,88,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,sanders,F20496,Sanders,,0,Newnan,,,,,of88
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92531,Sanders,Warren,,Newnan,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,sanford,B00747,Sanford,,0,Anniston,,,33,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,schultz,F21059,Schultz,,0,Talladega,,,,,p12
 minoraverages/1915Spalding,1914,Georgia-Alabama League,swartz,F20080,Schwartz,,0,Opelika,,,,,1b92
@@ -189,6 +204,7 @@ minoraverages/1915Spalding,1914,Georgia-Alabama League,spitznagle,B00343,Spitzna
 minoraverages/1915Spalding,1914,Georgia-Alabama League,spitznagle,F20391,Spitznagle,,0,Opelika,,,,,ss91
 minoraverages/1915Spalding,1914,Georgia-Alabama League,steele,B00101,Steele,,0,Opelika,,,86,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,steele,F20612,Steele,,0,Opelika,,,,,of86
+minoraverages/emilbb,1914,Georgia-Alabama League,,M92566,Steele,F. M.,,Opelika,,,,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,stephenson,B00515,Stephenson,,0,Anniston,,,47,,
 minoraverages/1915Spalding,1914,Georgia-Alabama League,stephenson,F20807,Stephenson,,0,Anniston,,,,,p47
 minoraverages/1915Spalding,1914,Georgia-Alabama League,stringfield,B00427,Stringfield,,0,Rome,,,71,,

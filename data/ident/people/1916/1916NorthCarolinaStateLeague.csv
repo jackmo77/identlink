@@ -34,6 +34,7 @@ minoraverages/1917Reach,1916,North Carolina State League,busch,B00879,Busch,,T,,
 minoraverages/1917Reach,1916,North Carolina State League,busch,F20342,Busch,,1,Raleigh,,,,,ss
 minoraverages/1917Reach,1916,North Carolina State League,busch,F20342,Busch,,2,Asheville,,,,,ss
 minoraverages/1917Reach,1916,North Carolina State League,busch,F20342,Busch,,T,,,,,,ss38
+minoraverages/emilbb,1916,North Carolina State League,,M92101,Busch,Henry,,Raleigh,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,bussell,B01181,Bussell,,0,Charlotte,,,12,,
 minoraverages/1917Reach,1916,North Carolina State League,bussell,F21356,Bussell,,0,Charlotte,,,,,p12
 minoraverages/1917Reach,1916,North Carolina State League,bussell,P10019,Bussell,,0,Charlotte,,,,,
@@ -45,11 +46,13 @@ minoraverages/1917Reach,1916,North Carolina State League,christenbury,B00229,Chr
 minoraverages/1917Reach,1916,North Carolina State League,christenbury,F20430,Christenbury,,0,Greensboro,,,,,ss14
 minoraverages/1917Reach,1916,North Carolina State League,clancey,B01007,Clancey,,0,Charlotte,,,30,,
 minoraverages/1917Reach,1916,North Carolina State League,clancey,F20334,Clancey,,0,Charlotte,,,,,ss30
+minoraverages/emilbb,1916,North Carolina State League,,M92045,Clancy,Charles,,Winston-Salem,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,cochran,B00163,Cochran,,0,Winston-Salem,,,6,,
 minoraverages/1917Reach,1916,North Carolina State League,cochran,F21117,Cochran,,0,Winston-Salem,,,,,p6
 minoraverages/1917Reach,1916,North Carolina State League,cochran,P10024,Cochran,,0,Winston-Salem,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,corbett,B00577,Corbett,,0,Asheville,,,99,,
 minoraverages/1917Reach,1916,North Carolina State League,corbett,F20369,Corbett,,0,Asheville,,,,,ss99
+minoraverages/emilbb,1916,North Carolina State League,,M92076,Corbett,Jack,,Asheville,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,cotter,B01162,Cotter,,0,Winston-Salem,,,11,,
 minoraverages/1917Reach,1916,North Carolina State League,cotter,F21182,Cotter,,0,Winston-Salem,,,,,p11
 minoraverages/1917Reach,1916,North Carolina State League,cotter,P10081,Cotter,,0,Winston-Salem,,,,,
@@ -73,8 +76,10 @@ minoraverages/1917Reach,1916,North Carolina State League,doyle,B00718,Doyle,,0,G
 minoraverages/1917Reach,1916,North Carolina State League,doyle,F20222,Doyle,,0,Greensboro,,,,,2b22
 minoraverages/1917Reach,1916,North Carolina State League,dudley,B00999,Dudley,,0,Charlotte,,,11,,
 minoraverages/1917Reach,1916,North Carolina State League,dudley,F20713,Dudley,,0,Charlotte,,,,,c11
+minoraverages/emilbb,1916,North Carolina State League,,M92037,Dudley,Martin,,Charlotte,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,duncan,B00037,Duncan,,0,Raleigh,,,94,,
 minoraverages/1917Reach,1916,North Carolina State League,duncan,F20919,Duncan,,0,Raleigh,,,,,of94
+minoraverages/emilbb,1916,North Carolina State League,,M92117,Duncan,Duke,,Raleigh,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,dunning,B00232,Dunning,,0,Asheville,,,92,,
 minoraverages/1917Reach,1916,North Carolina State League,dunning,F20807,Dunning,,0,Asheville,,,,,of92
 minoraverages/1917Reach,1916,North Carolina State League,eldridge,B00651,Eldridge,,0,Raleigh,,,22,,
@@ -152,6 +157,7 @@ minoraverages/1917Reach,1916,North Carolina State League,hiller,B00059,Hiller,,0
 minoraverages/1917Reach,1916,North Carolina State League,hiller,F20518,Hiller,,0,Winston-Salem,,,,,3b108
 minoraverages/1917Reach,1916,North Carolina State League,hoffman,B00381,Hoffman,,0,Durham,,,46,,
 minoraverages/1917Reach,1916,North Carolina State League,hoffman,F21037,Hoffman,,0,Durham,,,,,of46
+minoraverages/emilbb,1916,North Carolina State League,,M92059,Hoffman,Richard,,Durham,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,honig,B00045,Honig,,0,Winston-Salem,,,114,,
 minoraverages/1917Reach,1916,North Carolina State League,honig,F21021,Honig,,0,Winston-Salem,,,,,of114
 minoraverages/1917Reach,1916,North Carolina State League,hook,B01143,Hook,,0,Raleigh,,,24,,
@@ -188,11 +194,14 @@ minoraverages/1917Reach,1916,North Carolina State League,kelly.w-dur,B00811,Kell
 minoraverages/1917Reach,1916,North Carolina State League,kelly.w-dur,F20177,Kelly,Wm.,0,Durham,,,,,2b47
 minoraverages/1917Reach,1916,North Carolina State League,kelly.w-dur,F20375,Kelly,Wm.,0,Durham,,,,,ss65
 minoraverages/1917Reach,1916,North Carolina State League,kelly.j-gbo,F20829,Kelly,J. A.,0,Greensboro,,,,,of48
+minoraverages/emilbb,1916,North Carolina State League,,M92084,Kelly,"James ""King""",,Greensboro,,,,,
+minoraverages/emilbb,1916,North Carolina State League,,M92125,Kelly,"George ""King""",,Raleigh,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,knowlson,F21370,Knowlson,,0,Charlotte,,,,,p8
 minoraverages/1917Reach,1916,North Carolina State League,knowlson,P10244,Knowlson,,0,Charlotte,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,laval,B00362,Laval,,0,Greensboro,,,88,,
 minoraverages/1917Reach,1916,North Carolina State League,laval,F20131,Laval,,0,Greensboro,,,,,1b25
 minoraverages/1917Reach,1916,North Carolina State League,laval,F20855,Laval,,0,Greensboro,,,,,of63
+minoraverages/emilbb,1916,North Carolina State League,,M92092,Laval,Bill,,Greensboro,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,leonard,B00403,Leonard,,0,Greensboro,,,40,,
 minoraverages/1917Reach,1916,North Carolina State League,leonard,F20316,Leonard,,0,Greensboro,,,,,2b40
 minoraverages/1917Reach,1916,North Carolina State League,livingston,B01216,Livingston,,0,Durham,,,10,,
@@ -209,6 +218,7 @@ minoraverages/1917Reach,1916,North Carolina State League,manchester,B00515,Manch
 minoraverages/1917Reach,1916,North Carolina State League,manchester,F20657,Manchester,,0,Charlotte,,,,,c106
 minoraverages/1917Reach,1916,North Carolina State League,manush,B00319,Manush,,0,Durham,,,39,,
 minoraverages/1917Reach,1916,North Carolina State League,manush,F20474,Manush,,0,Durham,,,,,3b39
+minoraverages/emilbb,1916,North Carolina State League,,M92068,Manush,Frank,,Durham,,,,,
 minoraverages/1917Reach,1916,North Carolina State League,mcbane,B00210,McBane,,0,Greensboro,,,112,,
 minoraverages/1917Reach,1916,North Carolina State League,mcbane,F20832,McBane,,0,Greensboro,,,,,of112
 minoraverages/1917Reach,1916,North Carolina State League,mccord,B00747,McCord,,0,Raleigh,,,110,,

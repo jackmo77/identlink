@@ -2,6 +2,7 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1914Reach,1913,American Association,allison,P10894,Allison,,0,Kansas City,,,,10,
 minoraverages/1914Reach,1913,American Association,altizer,B00232,Altizer,,0,Minneapolis,,,166,,
 minoraverages/1914Reach,1913,American Association,altizer,F20552,Altizer,,0,Minneapolis,,,,,ss166
+minoraverages/emilbb,1913,American Association,,M90083,Armour,Bill,,Kansas City,,,,,
 minoraverages/1914Reach,1913,American Association,autrey,B00590,Autrey,,0,St. Paul,,,169,,
 minoraverages/1914Reach,1913,American Association,autrey,F20014,Autrey,,0,St. Paul,,,,,1b169
 minoraverages/1914Reach,1913,American Association,barbeau,B00680,Barbeau,,0,Kansas City,,,144,,
@@ -52,6 +53,7 @@ minoraverages/1914Reach,1913,American Association,brief,F20095,Brief,,0,Kansas C
 minoraverages/1914Reach,1913,American Association,bronkie,B00491,Bronkie,,0,Toledo,,,162,,
 minoraverages/1914Reach,1913,American Association,bronkie,F20369,Bronkie,,0,Toledo,,,,,3b151
 minoraverages/1914Reach,1913,American Association,bronkie,F20648,Bronkie,,0,Toledo,,,,,ss11
+minoraverages/emilbb,1913,American Association,,M90071,Bronkie,Herman,,Toledo,,,,,
 minoraverages/1914Reach,1913,American Association,browne,B00403,Browne,,0,Minneapolis,,,38,,
 minoraverages/1914Reach,1913,American Association,browne,F21264,Browne,,0,Minneapolis,,,,,of29
 minoraverages/1914Reach,1913,American Association,burch,B00695,Burch,,0,Louisville,,,158,,
@@ -64,6 +66,7 @@ minoraverages/1914Reach,1913,American Association,burns-tol,F20864,Burns,,0,Tole
 minoraverages/1914Reach,1913,American Association,burns-min,F21854,Burns,,0,Minneapolis,,,,,p32
 minoraverages/1914Reach,1913,American Association,burns-min,P10184,Burns,,0,Minneapolis,,,,,
 minoraverages/1914Reach,1913,American Association,burns-min,P10709,Burns,,0,Minneapolis,,,,30,
+minoraverages/emilbb,1913,American Association,,M90026,Cantillon,Joe,,Minneapolis,,,,,
 minoraverages/1914Reach,1913,American Association,carr,B00553,Carr,,0,Kansas City,,,77,,
 minoraverages/1914Reach,1913,American Association,carr,F20072,Carr,,0,Kansas City,,,,,1b72
 minoraverages/1914Reach,1913,American Association,casey,B01007,Casey,,0,Indianapolis,,,73,,
@@ -72,6 +75,7 @@ minoraverages/1914Reach,1913,American Association,chappelle,B00045,Chappelle,,0,
 minoraverages/1914Reach,1913,American Association,chappelle,F21149,Chappelle,,0,Milwaukee,,,,,of85
 minoraverages/1914Reach,1913,American Association,clark,B00319,Clark,,0,Milwaukee,,,165,,
 minoraverages/1914Reach,1913,American Association,clark,F20391,Clark,,0,Milwaukee,,,,,3b165
+minoraverages/emilbb,1913,American Association,,M90018,Clark,Harry,,Milwaukee,,,,,
 minoraverages/1914Reach,1913,American Association,clarke,B00416,Clarke,,0,Indianapolis,,,28,,
 minoraverages/1914Reach,1913,American Association,clarke,F21416,Clarke,,0,Indianapolis,,,,,c27
 minoraverages/1914Reach,1913,American Association,clemons.v,B00324,Clemons,V.,0,Louisville,,,112,,
@@ -190,6 +194,7 @@ minoraverages/1914Reach,1913,American Association,flynn,F20153,Flynn,,T,,,,,,1b1
 minoraverages/1914Reach,1913,American Association,flynn,F20886,Flynn,,1,St. Paul,,,,,of
 minoraverages/1914Reach,1913,American Association,flynn,F20886,Flynn,,2,Indianapolis,,,,,of
 minoraverages/1914Reach,1913,American Association,flynn,F20886,Flynn,,T,,,,,,of92
+minoraverages/emilbb,1913,American Association,,M90052,Friel,William,,St. Paul,,,,,
 minoraverages/1914Reach,1913,American Association,galligan,B01490,Galligan,,0,Minneapolis,,,30,,
 minoraverages/1914Reach,1913,American Association,galloway,B00609,Galloway,,0,Indianapolis,,,84,,
 minoraverages/1914Reach,1913,American Association,galloway,F20303,Galloway,,0,Indianapolis,,,,,2b19
@@ -222,15 +227,18 @@ minoraverages/1914Reach,1913,American Association,harrington,B01466,Harrington,,
 minoraverages/1914Reach,1913,American Association,harrington,F21760,Harrington,,0,Indianapolis,,,,,p38
 minoraverages/1914Reach,1913,American Association,harrington,P10441,Harrington,,0,Indianapolis,,,,,
 minoraverages/1914Reach,1913,American Association,harrington,P11014,Harrington,,0,Indianapolis,,,,44,
+minoraverages/emilbb,1913,American Association,,M90060,Hartsel,Topsy,,Toledo,,,,,
 minoraverages/1914Reach,1913,American Association,hartzel,F20700,Hartzel,,0,Toledo,,,,,of10
 minoraverages/1914Reach,1913,American Association,haugher,B01242,Haugher,,0,Toledo,,,22,,
 minoraverages/1914Reach,1913,American Association,haugher,F20661,Haugher,,0,Toledo,,,,,of22
+minoraverages/emilbb,1913,American Association,,M90039,Hayden,John,,Louisville,,,,,
 minoraverages/1914Reach,1913,American Association,hemphill,B00356,Hemphill,,0,St. Paul,,,107,,
 minoraverages/1914Reach,1913,American Association,hemphill,F20924,Hemphill,,0,St. Paul,,,,,of107
 minoraverages/1914Reach,1913,American Association,hinchman-col,B00278,Hinchman,W.,0,Columbus,,,167,,
 minoraverages/1914Reach,1913,American Association,hinchman-stp,B00577,Hinchman,H.,0,St. Paul,,,159,,
 minoraverages/1914Reach,1913,American Association,hinchman-stp,F20222,Hinchman,H.,0,St. Paul,,,,,2b157
 minoraverages/1914Reach,1913,American Association,hinchman-col,F20962,Hinchman,W.,0,Columbus,,,,,of167
+minoraverages/emilbb,1913,American Association,,M90047,Hinchman,Bill,,Columbus,,,,,
 minoraverages/1914Reach,1913,American Association,hovlik,B01663,Hovlik,,0,Milwaukee,,,22,,
 minoraverages/1914Reach,1913,American Association,hovlik,F22020,Hovlik,,0,Milwaukee,,,,,p22
 minoraverages/1914Reach,1913,American Association,hovlik,P10215,Hovlik,,0,Milwaukee,,,,,
@@ -273,6 +281,7 @@ minoraverages/1914Reach,1913,American Association,karger,B01313,Karger,,0,St. Pa
 minoraverages/1914Reach,1913,American Association,karger,F21747,Karger,,0,St. Paul,,,,,p38
 minoraverages/1914Reach,1913,American Association,karger,P10289,Karger,,0,St. Paul,,,,,
 minoraverages/1914Reach,1913,American Association,karger,P10805,Karger,,0,St. Paul,,,,40,
+minoraverages/emilbb,1913,American Association,,M90094,Kelley,Mike,,Indianapolis,,,,,
 minoraverages/1914Reach,1913,American Association,kelliher,B01135,Kelliher,,0,Indianapolis,,,36,,
 minoraverages/1914Reach,1913,American Association,kelliher,F20547,Kelliher,,0,Indianapolis,,,,,ss36
 minoraverages/1914Reach,1913,American Association,killifer,B00515,Killifer,,0,Minneapolis,,,161,,

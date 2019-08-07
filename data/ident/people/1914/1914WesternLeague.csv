@@ -78,6 +78,7 @@ minoraverages/1915Spalding,1914,Western League,clark.c-top+sc,F21210,Clarke,C. R
 minoraverages/1915Spalding,1914,Western League,clark.c-top+sc,P10348,Clarke,C. R.,1,Topeka,,,,,
 minoraverages/1915Spalding,1914,Western League,clark.c-top+sc,P10348,Clarke,C. R.,2,Sioux City,,,,,
 minoraverages/1915Spalding,1914,Western League,clark.c-top+sc,P10348,Clarke,C. R.,T,,,,,44,
+minoraverages/emilbb,1914,Western League,,M90330,Clarke,Josh,,Sioux City,,,,,
 minoraverages/1915Spalding,1914,Western League,claus,P10043,Claus,,0,Lincoln,,,,9,
 minoraverages/1915Spalding,1914,Western League,clemens,B01321,Clemens,,0,Wichita,,,26,,
 minoraverages/1915Spalding,1914,Western League,clemens,P10455,Clemens,,0,Wichita,,,,27,
@@ -90,11 +91,13 @@ minoraverages/1915Spalding,1914,Western League,cochran,F20401,Cochran,,0,Topeka,
 minoraverages/1915Spalding,1914,Western League,cochran,F20496,Cochran,,0,Topeka,,,,,ss15
 minoraverages/1915Spalding,1914,Western League,coffey,B00084,Coffey,,0,Denver,,,165,,
 minoraverages/1915Spalding,1914,Western League,coffey,F20505,Coffey,,0,Denver,,,,,ss164
+minoraverages/emilbb,1914,Western League,,M90349,Coffey,Jack,,Denver,,,,,
 minoraverages/1915Spalding,1914,Western League,collier,P10780,Collier,,0,Des Moines,,,,14,
 minoraverages/1915Spalding,1914,Western League,collins,B00961,Collins,,0,Lincoln,,,165,,
 minoraverages/1915Spalding,1914,Western League,collins,F20970,Collins,,0,Lincoln,,,,,of163
 minoraverages/1915Spalding,1914,Western League,congalton,B00068,Congalton,,0,Omaha,,,136,,
 minoraverages/1915Spalding,1914,Western League,congalton,F21084,Congalton,,0,Omaha,,,,,of136
+minoraverages/emilbb,1914,Western League,,M90421,Cooley,Dick,,Topeka,,,,,
 minoraverages/1915Spalding,1914,Western League,cooney-sc,B00695,Cooney,P.,0,Sioux City,,,167,,
 minoraverages/1915Spalding,1914,Western League,cooney-lin,B01466,Cooney,J.,0,Lincoln,,,28,,
 minoraverages/1915Spalding,1914,Western League,cooney-sc,F20131,Cooney,P.,0,Sioux City,,,,,2b167
@@ -166,6 +169,7 @@ minoraverages/1915Spalding,1914,Western League,gaspar,F21241,Gaspar,,0,Sioux Cit
 minoraverages/1915Spalding,1914,Western League,gaspar,P10137,Gaspar,,0,Sioux City,,,,34,
 minoraverages/1915Spalding,1914,Western League,gear,B00898,Gear,,0,Topeka,,,30,,
 minoraverages/1915Spalding,1914,Western League,gear,F20935,Gear,,0,Topeka,,,,,of24
+minoraverages/emilbb,1914,Western League,,M90413,Gear,Dale,,Topeka,,,,,
 minoraverages/1915Spalding,1914,Western League,glaze,B01162,Glaze,,0,Topeka,,,20,,
 minoraverages/1915Spalding,1914,Western League,glaze,F21149,Glaze,,1,Topeka,,,,,p
 minoraverages/1915Spalding,1914,Western League,glaze,F21149,Glaze,,2,St. Joseph,,,,,p
@@ -173,12 +177,14 @@ minoraverages/1915Spalding,1914,Western League,glaze,F21149,Glaze,,T,,,,,,p20
 minoraverages/1915Spalding,1914,Western League,glaze,P10550,Glaze,,0,Topeka,,,,21,
 minoraverages/1915Spalding,1914,Western League,gleason,B01313,Gleason,,0,Topeka,,,22,,
 minoraverages/1915Spalding,1914,Western League,gleason,F21747,Gleason,,0,Topeka,,,,,c20
+minoraverages/emilbb,1914,Western League,,M90400,Gondling,John,,Omaha,,,,,
 minoraverages/1915Spalding,1914,Western League,gourley,B00293,Gourley,,0,Wichita,,,16,,
 minoraverages/1915Spalding,1914,Western League,gourley,F20458,Gourley,,0,Wichita,,,,,3b16
 minoraverages/1915Spalding,1914,Western League,graham-wic,B00614,Graham,P.,0,Wichita,,,130,,
 minoraverages/1915Spalding,1914,Western League,graham-oma,B01291,Graham,G.,0,Omaha,,,45,,
 minoraverages/1915Spalding,1914,Western League,graham-oma,F20265,Graham,G.,0,Omaha,,,,,2b43
 minoraverages/1915Spalding,1914,Western League,graham-wic,F21783,Graham,P.,0,Wichita,,,,,c111
+minoraverages/emilbb,1914,Western League,,M90445,Graham,George,,Wichita,,,,,
 minoraverages/1915Spalding,1914,Western League,griffith,B00705,Griffith,,0,St. Joseph,,,81,,
 minoraverages/1915Spalding,1914,Western League,griffith,F21695,Griffith,,0,St. Joseph,,,,,c70
 minoraverages/1915Spalding,1914,Western League,grover,B01242,Grover,,0,Topeka,,,39,,
@@ -205,9 +211,11 @@ minoraverages/1915Spalding,1914,Western League,hogan,F21196,Hogan,,1,Sioux City,
 minoraverages/1915Spalding,1914,Western League,hogan,F21196,Hogan,,2,Des Moines,,,,,p
 minoraverages/1915Spalding,1914,Western League,hogan,F21196,Hogan,,T,,,,,,p26
 minoraverages/1915Spalding,1914,Western League,hogan,P10266,Hogan,,0,Des Moines,,,,28,
+minoraverages/emilbb,1914,Western League,,M90358,Holland,Jack,,St. Joseph,,,,,
 minoraverages/1915Spalding,1914,Western League,house,P10738,House,,0,Omaha,,,,5,
 minoraverages/1915Spalding,1914,Western League,hunter,B00590,Hunter,,0,Des Moines,,,168,,
 minoraverages/1915Spalding,1914,Western League,hunter,F20886,Hunter,,0,Des Moines,,,,,of168
+minoraverages/emilbb,1914,Western League,,M90363,Isbell,Frank,,Des Moines,,,,,
 minoraverages/1915Spalding,1914,Western League,jones-dm,B00324,Jones,W.,0,Des Moines,,,163,,
 minoraverages/1915Spalding,1914,Western League,jones-wic,B01402,Jones,B.,0,Wichita,,,62,,
 minoraverages/1915Spalding,1914,Western League,jones-dm,F20023,Jones,W.,0,Des Moines,,,,,1b163
@@ -255,12 +263,14 @@ minoraverages/1915Spalding,1914,Western League,lejeune,F20807,Lejeune,,0,Sioux C
 minoraverages/1915Spalding,1914,Western League,lemon,B00771,Lemon,,0,Topeka,,,28,,
 minoraverages/1915Spalding,1914,Western League,lloyd,B00403,Lloyd,,0,Lincoln,,,166,,
 minoraverages/1915Spalding,1914,Western League,lloyd,F20177,Lloyd,,0,Lincoln,,,,,2b166
+minoraverages/emilbb,1914,Western League,,M90382,Lloyd,Dick,,Lincoln,,,,,
 minoraverages/1915Spalding,1914,Western League,luhrsen,P10611,Luhrsen,,1,Omaha,,,,,
 minoraverages/1915Spalding,1914,Western League,luhrsen,P10611,Luhrsen,,2,Sioux City,,,,,
 minoraverages/1915Spalding,1914,Western League,luhrsen,P10611,Luhrsen,,T,,,,,12,
 minoraverages/1915Spalding,1914,Western League,maddox,B01093,Maddox,,0,Wichita,,,20,,
 minoraverages/1915Spalding,1914,Western League,maddox,F21174,Maddox,,0,Wichita,,,,,p18
 minoraverages/1915Spalding,1914,Western League,maddox,P10503,Maddox,,0,Wichita,,,,18,
+minoraverages/emilbb,1914,Western League,,M90437,Maddox,Nick,,Wichita,,,,,
 minoraverages/1915Spalding,1914,Western League,matthews,B00343,Matthews,,0,Denver,,,20,,
 minoraverages/1915Spalding,1914,Western League,matthews,F20128,Matthews,,0,Denver,,,,,2b20
 minoraverages/1915Spalding,1914,Western League,mcallister,B00822,McAllister,,0,Topeka,,,88,,
@@ -292,6 +302,7 @@ minoraverages/1915Spalding,1914,Western League,morgan,P10714,Morgan,,0,Denver,,,
 minoraverages/1915Spalding,1914,Western League,morse,P10100,Morse,,0,Lincoln,,,,5,
 minoraverages/1915Spalding,1914,Western League,mullen,B00013,Mullen,,0,Lincoln,,,71,,
 minoraverages/1915Spalding,1914,Western League,mullen,F20080,Mullen,,0,Lincoln,,,,,1b71
+minoraverages/emilbb,1914,Western League,,M90374,Mullen,Charles,,Lincoln,,,,,
 minoraverages/1915Spalding,1914,Western League,murphy,B00125,Murphy,,0,Sioux City,,,73,,
 minoraverages/1915Spalding,1914,Western League,murphy,F21672,Murphy,,0,Sioux City,,,,,c70
 minoraverages/1915Spalding,1914,Western League,nicholson,B00264,Nicholson,,0,Wichita,,,154,,
@@ -350,6 +361,7 @@ minoraverages/1915Spalding,1914,Western League,ridgeway,B01523,Ridgeway,,0,Topek
 minoraverages/1915Spalding,1914,Western League,ridgeway,F21356,Ridgeway,,0,Topeka,,,,,p21
 minoraverages/1915Spalding,1914,Western League,ridgeway,P10304,Ridgeway,,0,Topeka,,,,20,
 minoraverages/1915Spalding,1914,Western League,riley,P10176,Riley,,0,Sioux City,,,,5,
+minoraverages/emilbb,1914,Western League,,M90396,Rourke,"William ""Pa""",,Omaha,,,,,
 minoraverages/1915Spalding,1914,Western League,salisbury,P10751,Salisbury,,1,Des Moines,,,,,
 minoraverages/1915Spalding,1914,Western League,salisbury,P10751,Salisbury,,2,Wichita,,,,,
 minoraverages/1915Spalding,1914,Western League,salisbury,P10751,Salisbury,,T,,,,,5,

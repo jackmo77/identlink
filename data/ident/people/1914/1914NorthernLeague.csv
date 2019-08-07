@@ -55,6 +55,7 @@ minoraverages/1915Spalding,1914,Northern League,chapman,F21502,Chapman,,0,Fort W
 minoraverages/1915Spalding,1914,Northern League,chicken,B00760,Chicken,,0,Superior,,,41,,
 minoraverages/1915Spalding,1914,Northern League,chicken,F21149,Chicken,,0,Superior,,,,,p41
 minoraverages/1915Spalding,1914,Northern League,chicken,P10184,Chicken,,0,Superior,,,,,
+minoraverages/emilbb,1914,Northern League,,M91508,Clymer,Bill,,Duluth,,,,,
 minoraverages/1915Spalding,1914,Northern League,collins-dul,B00130,Collins,,0,Duluth,,,115,,
 minoraverages/1915Spalding,1914,Northern League,collins-fw,B00488,Collins,,0,Fort William,,,113,,
 minoraverages/1915Spalding,1914,Northern League,collins-fw,F20233,Collins,,0,Fort William,,,,,2b34
@@ -79,11 +80,13 @@ minoraverages/1915Spalding,1914,Northern League,cunningham,F21076,Cunningham,,0,
 minoraverages/1915Spalding,1914,Northern League,cunningham,P10081,Cunningham,,0,Duluth,,,,,
 minoraverages/1915Spalding,1914,Northern League,curtis,B00229,Curtis,,0,Winnipeg,,,113,,
 minoraverages/1915Spalding,1914,Northern League,curtis,F20067,Curtis,,0,Winnipeg,,,,,1b113
+minoraverages/emilbb,1914,Northern League,,M91519,Curtis,Fred,,Winnipeg,,,,,
 minoraverages/1915Spalding,1914,Northern League,dahlgren,B01359,Dahlgren,,0,Virginia,,,24,,
 minoraverages/1915Spalding,1914,Northern League,dahlgren,F21117,Dahlgren,,0,Virginia,,,,,p24
 minoraverages/1915Spalding,1914,Northern League,dahlgren,P10357,Dahlgren,,0,Virginia,,,,,
 minoraverages/1915Spalding,1914,Northern League,davis,B00125,Davis,,0,Winona,,,105,,
 minoraverages/1915Spalding,1914,Northern League,davis,F20864,Davis,,0,Winona,,,,,of105
+minoraverages/emilbb,1914,Northern League,,M91535,Davis,"Alfonzo ""Lefty""",,Winona,,,,,
 minoraverages/1915Spalding,1914,Northern League,derose,B00045,DeRose,,0,Fort William,,,106,,
 minoraverages/1915Spalding,1914,Northern League,derose,F20612,DeRose,,0,Fort William,,,,,of36
 minoraverages/1915Spalding,1914,Northern League,derose,F21442,DeRose,,0,Fort William,,,,,c70
@@ -202,9 +205,11 @@ minoraverages/1915Spalding,1914,Northern League,kurke,B00672,Kurke,,0,Winnipeg,,
 minoraverages/1915Spalding,1914,Northern League,kurke,F21416,Kurke,,0,Winnipeg,,,,,c82
 minoraverages/1915Spalding,1914,Northern League,landry,B00904,Landry,,0,Superior,,,50,,
 minoraverages/1915Spalding,1914,Northern League,landry,F20841,Landry,,0,Superior,,,,,of50
+minoraverages/emilbb,1914,Northern League,,M91581,Landry,John,,Superior,,,,,
 minoraverages/1915Spalding,1914,Northern League,larson,B01216,Larson,,0,Grand Forks,,,28,,
 minoraverages/1915Spalding,1914,Northern League,larson,F20935,Larson,,0,Grand Forks,,,,,p28
 minoraverages/1915Spalding,1914,Northern League,larson,P10159,Larson,,0,Grand Forks,,,,,
+minoraverages/emilbb,1914,Northern League,,M91607,Lezotte,Abe,,Fort William,,,,,
 minoraverages/1915Spalding,1914,Northern League,lizzette,B00718,Lizzette,,0,Fort William,,,85,,
 minoraverages/1915Spalding,1914,Northern League,lizzette,F20115,Lizzette,,0,Fort William,,,,,1b85
 minoraverages/1915Spalding,1914,Northern League,lorenzen,B01170,Lorenzen,,0,Fort William,,,17,,
@@ -221,6 +226,7 @@ minoraverages/1915Spalding,1914,Northern League,maupin,P10215,Maupin,,0,Fargo-Mo
 minoraverages/1915Spalding,1914,Northern League,mcgee,B00771,McGee,,0,Superior,,,125,,
 minoraverages/1915Spalding,1914,Northern League,mcgee,F20401,McGee,,0,Superior,,,,,3b79
 minoraverages/1915Spalding,1914,Northern League,mcgee,F20547,McGee,,0,Superior,,,,,ss46
+minoraverages/emilbb,1914,Northern League,,M91562,McGee,Frank,,Virginia,,,,,
 minoraverages/1915Spalding,1914,Northern League,mcgraw,B00163,McGraw,,0,Grand Forks,,,122,,
 minoraverages/1915Spalding,1914,Northern League,mcgraw,F20673,McGraw,,0,Grand Forks,,,,,of122
 minoraverages/1915Spalding,1914,Northern League,mclaughlin,P10145,McLaughlin,,0,Fargo-Moorhead,,,,,
@@ -281,6 +287,7 @@ minoraverages/1915Spalding,1914,Northern League,sullivan,B00255,Sullivan,,0,Farg
 minoraverages/1915Spalding,1914,Northern League,sullivan,F20700,Sullivan,,0,Fargo-Moorhead,,,,,of108
 minoraverages/1915Spalding,1914,Northern League,sundheim,B00416,Sundheim,,0,Virginia,,,119,,
 minoraverages/1915Spalding,1914,Northern League,sundheim,F20496,Sundheim,,0,Virginia,,,,,ss119
+minoraverages/emilbb,1914,Northern League,,M91556,Sundheim,John,,Virginia,,,,,
 minoraverages/1915Spalding,1914,Northern League,sutton,B00609,Sutton,,0,Fort William,,,28,,
 minoraverages/1915Spalding,1914,Northern League,sutton,F21045,Sutton,,0,Fort William,,,,,p28
 minoraverages/1915Spalding,1914,Northern League,sutton,P10231,Sutton,,0,Fort William,,,,,
@@ -291,6 +298,8 @@ minoraverages/1915Spalding,1914,Northern League,sweeley,F21469,Sweeley,,0,Duluth
 minoraverages/1915Spalding,1914,Northern League,tacke,B00854,Tacke,,0,Winnipeg,,,105,,
 minoraverages/1915Spalding,1914,Northern League,tacke,F20023,Tacke,,0,Winnipeg,,,,,1b25
 minoraverages/1915Spalding,1914,Northern League,tacke,F20211,Tacke,,0,Winnipeg,,,,,2b80
+minoraverages/emilbb,1914,Northern League,,M91543,Taylor,"John ""Kid""",,Virginia,,,,,
+minoraverages/emilbb,1914,Northern League,,M91597,Taylor,"John ""Kid""",,Superior,,,,,
 minoraverages/1915Spalding,1914,Northern League,thomas,B00182,Thomas,,0,Fort William,,,123,,
 minoraverages/1915Spalding,1914,Northern League,thomas,F20768,Thomas,,0,Fort William,,,,,of123
 minoraverages/1915Spalding,1914,Northern League,toraason,B01269,Toraason,,0,Winona,,,31,,
@@ -298,6 +307,7 @@ minoraverages/1915Spalding,1914,Northern League,toraason,F21343,Toraason,,0,Wino
 minoraverages/1915Spalding,1914,Northern League,toraason,P10244,Toraason,,0,Winona,,,,,
 minoraverages/1915Spalding,1914,Northern League,unglaub,B00021,Unglaub,,0,Fargo-Moorhead,,,112,,
 minoraverages/1915Spalding,1914,Northern League,unglaub,F20038,Unglaub,,0,Fargo-Moorhead,,,,,1b112
+minoraverages/emilbb,1914,Northern League,,M91570,Unglaub,Bob,,Fargo-Moorhead,,,,,
 minoraverages/1915Spalding,1914,Northern League,ward,B00566,Ward,,0,Winona,,,58,,
 minoraverages/1915Spalding,1914,Northern League,ward,F20298,Ward,,0,Winona,,,,,2b53
 minoraverages/1915Spalding,1914,Northern League,warner,B01007,Warner,,0,Superior,,,43,,
@@ -315,6 +325,7 @@ minoraverages/1915Spalding,1914,Northern League,wertz,F20458,Wertz,,0,Fargo-Moor
 minoraverages/1915Spalding,1914,Northern League,wheeler,B00695,Wheeler,,0,Grand Forks,,,116,,
 minoraverages/1915Spalding,1914,Northern League,wheeler,F20153,Wheeler,,0,Grand Forks,,,,,2b49
 minoraverages/1915Spalding,1914,Northern League,wheeler,F20388,Wheeler,,0,Grand Forks,,,,,3b67
+minoraverages/emilbb,1914,Northern League,,M91524,Wheeler,Edward,,Grand Forks,,,,,
 minoraverages/1915Spalding,1914,Northern League,wilkes,B00553,Wilkes,,0,Winnipeg,,,132,,
 minoraverages/1915Spalding,1914,Northern League,wilkes,F20518,Wilkes,,0,Winnipeg,,,,,ss132
 minoraverages/1915Spalding,1914,Northern League,wilson,B01313,Wilson,,0,Virginia,,,16,,

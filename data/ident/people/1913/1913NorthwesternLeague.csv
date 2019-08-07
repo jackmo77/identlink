@@ -33,6 +33,7 @@ minoraverages/1914Spalding,1913,Northwestern League,brown-sea,B00544,Brown,,0,Se
 minoraverages/1914Spalding,1913,Northwestern League,brown-sea,F20303,Brown,,0,Seattle,,,,,2b20
 minoraverages/1914Spalding,1913,Northwestern League,brown-sea,F20547,Brown,,0,Seattle,,,,,ss12
 minoraverages/1914Spalding,1913,Northwestern League,brown-vic,P10289,Brown,,0,Victoria,,,,4,
+minoraverages/emilbb,1913,Northwestern League,,M90946,Brown,Robert,,Vancouver,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,burrell,B00912,Burrell,,1,Tacoma,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,burrell,B00912,Burrell,,2,Victoria,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,burrell,B00912,Burrell,,T,,,,34,,
@@ -85,6 +86,7 @@ minoraverages/1914Spalding,1913,Northwestern League,dell,P10266,Dell,,0,Seattle,
 minoraverages/1914Spalding,1913,Northwestern League,delmas,B00319,Delmas,,0,Victoria,,,143,,
 minoraverages/1914Spalding,1913,Northwestern League,delmas,F20279,Delmas,,0,Victoria,,,,,2b27
 minoraverages/1914Spalding,1913,Northwestern League,delmas,F20458,Delmas,,0,Victoria,,,,,ss104
+minoraverages/emilbb,1913,Northwestern League,,M90980,Delmas,Bert,,Victoria,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,doty,B00726,Doty,,0,Vancouver,,,27,,
 minoraverages/1914Spalding,1913,Northwestern League,doty,F20924,Doty,,0,Vancouver,,,,,p23
 minoraverages/1914Spalding,1913,Northwestern League,doty,P10320,Doty,,0,Vancouver,,,,23,
@@ -238,6 +240,8 @@ minoraverages/1914Spalding,1913,Northwestern League,lynch,B00229,Lynch,,T,,,,165
 minoraverages/1914Spalding,1913,Northwestern League,lynch,F20713,Lynch,,1,Victoria,,,,,of
 minoraverages/1914Spalding,1913,Northwestern League,lynch,F20713,Lynch,,2,Spokane,,,,,of
 minoraverages/1914Spalding,1913,Northwestern League,lynch,F20713,Lynch,,T,,,,,,of165
+minoraverages/emilbb,1913,Northwestern League,,M90972,Lynch,Mike,,Victoria,,,,,
+minoraverages/emilbb,1913,Northwestern League,,M91022,Lynch,Mike,,Spokane,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,macmurdo,B00475,MacMurdo,,1,Vancouver,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,macmurdo,B00475,MacMurdo,,2,Tacoma,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,macmurdo,B00475,MacMurdo,,T,,,,120,,
@@ -264,6 +268,7 @@ minoraverages/1914Spalding,1913,Northwestern League,mccreery,P10145,McCreery,,0,
 minoraverages/1914Spalding,1913,Northwestern League,mcginnity,B01032,McGinnity,,0,Tacoma,,,70,,
 minoraverages/1914Spalding,1913,Northwestern League,mcginnity,F20981,McGinnity,,0,Tacoma,,,,,p68
 minoraverages/1914Spalding,1913,Northwestern League,mcginnity,P10231,McGinnity,,0,Tacoma,,,,68,
+minoraverages/emilbb,1913,Northwestern League,,M90995,McGinnity,Joe,,Tacoma,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,mcivor,B00308,McIvor,,0,Seattle,,,37,,
 minoraverages/1914Spalding,1913,Northwestern League,mcivor,F21174,McIvor,,0,Seattle,,,,,p29
 minoraverages/1914Spalding,1913,Northwestern League,mcivor,P10410,McIvor,,0,Seattle,,,,29,
@@ -314,6 +319,7 @@ minoraverages/1914Spalding,1913,Northwestern League,nordyke,F20038,Nordyke,,0,Vi
 minoraverages/1914Spalding,1913,Northwestern League,olmstead,P10575,Olmstead,,0,Spokane,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,ostdick,B00771,Ostdick,,0,Spokane,,,21,,
 minoraverages/1914Spalding,1913,Northwestern League,ostdick,F21356,Ostdick,,0,Spokane,,,,,c20
+minoraverages/emilbb,1913,Northwestern League,,M91006,Ostdiek,Harry,,Spokane,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,pappa,B00232,Pappa,,0,Spokane,,,127,,
 minoraverages/1914Spalding,1913,Northwestern League,pappa,F20886,Pappa,,0,Spokane,,,,,of127
 minoraverages/1914Spalding,1913,Northwestern League,peters,B01007,Peters,,0,Spokane,,,12,,
@@ -323,11 +329,13 @@ minoraverages/1914Spalding,1913,Northwestern League,peters,P10432,Peters,,0,Spok
 minoraverages/1914Spalding,1913,Northwestern League,peterson,P10569,Peterson,,0,Seattle,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,powell,B00149,Powell,,0,Spokane,,,88,,
 minoraverages/1914Spalding,1913,Northwestern League,powell,F20776,Powell,,0,Spokane,,,,,of98
+minoraverages/emilbb,1913,Northwestern League,,M91011,Powell,Watt,,Spokane,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,rawlings,B00397,Rawlings,,0,Victoria,,,172,,
 minoraverages/1914Spalding,1913,Northwestern League,rawlings,F20233,Rawlings,,0,Victoria,,,,,2b115
 minoraverages/1914Spalding,1913,Northwestern League,rawlings,F20496,Rawlings,,0,Victoria,,,,,ss68
 minoraverages/1914Spalding,1913,Northwestern League,raymond,B00985,Raymond,,0,Seattle,,,158,,
 minoraverages/1914Spalding,1913,Northwestern League,raymond,F20463,Raymond,,0,Seattle,,,,,ss158
+minoraverages/emilbb,1913,Northwestern League,,M90967,Raymond,"Frank ""Tealey""",,Seattle,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,reardon,B01203,Reardon,,0,Seattle,,,13,,
 minoraverages/1914Spalding,1913,Northwestern League,reardon,F21037,Reardon,,0,Seattle,,,,,p13
 minoraverages/1914Spalding,1913,Northwestern League,reardon,P10043,Reardon,,0,Seattle,,,,13,
@@ -390,6 +398,7 @@ minoraverages/1914Spalding,1913,Northwestern League,west,F20095,West,,0,Tacoma,,
 minoraverages/1914Spalding,1913,Northwestern League,williams,B00566,Williams,,0,Portland,,,92,,
 minoraverages/1914Spalding,1913,Northwestern League,williams,F20023,Williams,,0,Portland,,,,,1b20
 minoraverages/1914Spalding,1913,Northwestern League,williams,F21324,Williams,,0,Portland,,,,,c67
+minoraverages/emilbb,1913,Northwestern League,,M90951,Williams,"Robert ""Nick""",,Portland,,,,,
 minoraverages/1914Spalding,1913,Northwestern League,wilson-sea,B00646,Wilson,W.,0,Seattle,,,106,,
 minoraverages/1914Spalding,1913,Northwestern League,wilson-vic+van,B01197,Wilson,K.,0,Vancouver,,,15,,
 minoraverages/1914Spalding,1913,Northwestern League,wilson-sea,F20864,Wilson,,0,Seattle,,,,,of102

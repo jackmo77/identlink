@@ -389,6 +389,7 @@ minoraverages/Nemec,1913,Federal League,keeley,F20482,Keeley,,0,Chicago,,,,,p10
 minoraverages/Nemec,1913,Federal League,keeley,F20943,Keeley,,0,Chicago,,,,,of1
 minoraverages/Nemec,1913,Federal League,keeley,M90018,Keeley,Burton E.,,Chicago,,,,,
 minoraverages/Nemec,1913,Federal League,keeley,P10441,Keeley,,0,Chicago,,,,10,
+minoraverages/emilbb,1913,Federal League,,M93858,Keeley,Bert,,Chicago,,,,,
 minoraverages/Nemec,1913,Federal League,keener,B01119,Keener,Roy,0,Indianapolis,19130709,19130914,62,,"p,of"
 minoraverages/Nemec,1913,Federal League,keener,F21726,Keener,,0,Indianapolis,,,,,of62
 minoraverages/Nemec,1913,Federal League,keener,F21898,Keener,,0,Indianapolis,,,,,p1
@@ -443,6 +444,7 @@ minoraverages/Nemec,1913,Federal League,leever,F21442,Leever,,0,Covington,,,,,p3
 minoraverages/Nemec,1913,Federal League,leever,M90039,Leever,Samuel,,Covington,,,,,
 minoraverages/Nemec,1913,Federal League,leever,M90052,Leever,Samuel,,Kansas City,,19130811,,,
 minoraverages/Nemec,1913,Federal League,leever,P10503,Leever,,0,Covington,,,,3,
+minoraverages/emilbb,1913,Federal League,,M93863,Leever,Sam,,Covington/Kansas City,,,,,
 minoraverages/Nemec,1913,Federal League,lelivelt,B01269,Lelivelt,William J.,0,St. Louis,19130609,19130614,2,,p
 minoraverages/Nemec,1913,Federal League,lelivelt,F23758,Lelivelt,,0,St. Louis,,,,,p2
 minoraverages/Nemec,1913,Federal League,lelivelt,P10516,Lelivelt,,0,St. Louis,,,,2,
@@ -548,6 +550,7 @@ minoraverages/Nemec,1913,Federal League,obrien-chi,F20547,O'Brien,,0,Chicago,,,,
 minoraverages/Nemec,1913,Federal League,obrien-stl,F23173,O'Brien,,0,St. Louis,,,,,1b5
 minoraverages/Nemec,1913,Federal League,obrien-chi,P10654,O'Brien,,0,Chicago,,,,4,
 minoraverages/Nemec,1913,Federal League,oconnor,M90083,O'Connor,Jack,,St. Louis,,,,,
+minoraverages/emilbb,1913,Federal League,,M93849,O'Connor,Jack,,St. Louis,,,,,
 minoraverages/Nemec,1913,Federal League,oleary-chi,B01649,O'Leary,,0,Chicago,19130506,19130730,70,,"2b,3b"
 minoraverages/Nemec,1913,Federal League,oleary-cle,B01658,O'Leary,,0,Cleveland,19130513,19130517,5,,ss
 minoraverages/Nemec,1913,Federal League,oleary-pit,B01663,O'Leary,,0,Pittsburgh,19130609,19130617,9,,2b
@@ -584,7 +587,9 @@ minoraverages/Nemec,1913,Federal League,phillippe,B01754,Phillippe,Charles L.,0,
 minoraverages/Nemec,1913,Federal League,phillippe,F22501,Phillippe,,0,Pittsburgh,,,,,p16
 minoraverages/Nemec,1913,Federal League,phillippe,M90071,Phillippe,"Charles L. ""Deacon""",,Pittsburgh,,,,,
 minoraverages/Nemec,1913,Federal League,phillippe,P10687,Phillippe,,0,Pittsburgh,,,,16,
+minoraverages/emilbb,1913,Federal League,,M93882,Phillippe,Deacon,,Pittsburgh,,,,,
 minoraverages/Nemec,1913,Federal League,phillips,M90047,Phillips,"William C. ""Whoa Bill""",,Indianapolis,,,,,
+minoraverages/emilbb,1913,Federal League,,M93825,Phillips,Bill,,Indianapolis,,,,,
 minoraverages/Nemec,1913,Federal League,phyle,B01765,Phyle,,0,St. Louis,19130525,19130628,6,,p
 minoraverages/Nemec,1913,Federal League,phyle,F23796,Phyle,,0,St. Louis,,,,,p6
 minoraverages/Nemec,1913,Federal League,phyle,P10698,Phyle,,0,St. Louis,,,,6,
@@ -723,6 +728,7 @@ minoraverages/Nemec,1913,Federal League,stoker,F20401,Stoker,,0,Cleveland,,,,,of
 minoraverages/Nemec,1913,Federal League,swartling,B02168,Swartling,Hugo,0,Kansas City,19130809,19130812,3,,1b
 minoraverages/Nemec,1913,Federal League,swartling,F21999,Swartling,,0,Kansas City,,,,,1b3
 minoraverages/Nemec,1913,Federal League,swartling,M90060,Swartling,Hugo,,Kansas City,,,,,
+minoraverages/emilbb,1913,Federal League,,M93874,Swartling,Hugo,,Covington/Kansas City,,,,,
 minoraverages/Nemec,1913,Federal League,symes,B02176,Symes,Harry,0,Pittsburgh,19130614,19130908,37,,"p,of"
 minoraverages/Nemec,1913,Federal League,symes,F22558,Symes,,0,Pittsburgh,,,,,p22
 minoraverages/Nemec,1913,Federal League,symes,F23104,Symes,,0,Pittsburgh,,,,,of14
@@ -790,5 +796,6 @@ minoraverages/Nemec,1913,Federal League,yockey,B02361,Yockey,,0,Covington,191305
 minoraverages/Nemec,1913,Federal League,yockey,F21092,Yockey,,0,Covington,,,,,2b2
 minoraverages/Nemec,1913,Federal League,yockey,F21229,Yockey,,0,Covington,,,,,ss1
 minoraverages/Nemec,1913,Federal League,young,M90026,Young,"Denton T. ""Cy""",,Cleveland,,,,,
+minoraverages/emilbb,1913,Federal League,,M93830,Young,Cy,,Cleveland,,,,,
 minoraverages/Nemec,1913,Federal League,zoellner,B02373,Zoellner,,0,St. Louis,19130506,19130509,4,,of
 minoraverages/Nemec,1913,Federal League,zoellner,F23524,Zoellner,,0,St. Louis,,,,,of4

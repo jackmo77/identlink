@@ -76,6 +76,7 @@ minoraverages/Nemec,1914,Illinois-Missouri League,collard,B00229,Collard,,0,La S
 minoraverages/Nemec,1914,Illinois-Missouri League,collard,P10137,Collard,,0,La Salle,,,,4,
 minoraverages/Nemec,1914,Illinois-Missouri League,conley,B00232,Conley,Gene,0,Kankakee,19140526,19140621,8,,of
 minoraverages/Nemec,1914,Illinois-Missouri League,conley,M90039,Conley,Gene,,Kankakee,19140525,,,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92752,Connelly,Gene,,Kankakee,,,,,
 minoraverages/Nemec,1914,Illinois-Missouri League,cooley,B00241,Cooley,,0,Streator,19140513,19140519,2,,p
 minoraverages/Nemec,1914,Illinois-Missouri League,cooley,P10145,Cooley,,0,Streator,,,,2,
 minoraverages/Nemec,1914,Illinois-Missouri League,cornell-ls,B00255,Cornell,,0,La Salle,19140517,19140517,1,,2b
@@ -151,6 +152,7 @@ minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B00427,Ehrgott,Louis E
 minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B01798,Ehrgott,Louis E.,0,Lincoln,19140515,19140701,47,,"c,1b,ss,of"
 minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B01804,Ehrgott,Louis E.,0,Ottawa,19140724,19140809,19,,c
 minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,M90071,Ehrgott,Louis E.,,Lincoln,,,,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92739,Ehrgott,Louis,,Lincoln,,,,,
 minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,1,Ottawa,,,,,
 minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,2,Kankakee,,,,,
 minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,3,La Salle,,,,,
@@ -172,11 +174,13 @@ minoraverages/1915Spalding,1914,Illinois-Missouri League,fitzpatrick,F20095,Fitz
 minoraverages/1915Spalding,1914,Illinois-Missouri League,fitzpatrick,F20206,Fitzpatrick,,0,La Salle,,,,,3b29
 minoraverages/Nemec,1914,Illinois-Missouri League,fitzpatrick,B00475,Fitzpatrick,John,0,La Salle,19140519,19140809,78,,"2b,3b"
 minoraverages/Nemec,1914,Illinois-Missouri League,fitzpatrick,M90060,Fitzpatrick,John,,La Salle,19140517,,,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92726,Fitzpatrick,John,,La Salle,,,,,
 minoraverages/1915Spalding,1914,Illinois-Missouri League,fleming,B00293,Fleming,,0,Ottawa,,,87,,
 minoraverages/1915Spalding,1914,Illinois-Missouri League,fleming,F20189,Fleming,,0,Ottawa,,,,,3b40
 minoraverages/1915Spalding,1914,Illinois-Missouri League,fleming,F20303,Fleming,,0,Ottawa,,,,,ss47
 minoraverages/Nemec,1914,Illinois-Missouri League,fleming,B00488,Fleming,Charles (Chuck),0,Ottawa,19140515,19140809,86,,"3b,ss"
 minoraverages/Nemec,1914,Illinois-Missouri League,fleming,M90083,Fleming,Charles (Chuck,,Ottawa,,,,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92680,Fleming,Chuck,,Ottawa,,,,,
 minoraverages/Nemec,1914,Illinois-Missouri League,flood,B00491,Flood,,0,Lincoln,19140518,19140523,2,,p
 minoraverages/Nemec,1914,Illinois-Missouri League,flood,P10202,Flood,,0,Lincoln,,,,2,
 minoraverages/Nemec,1914,Illinois-Missouri League,forrest,B00502,Forrest,Grieg,0,La Salle,19160616,19140625,4,,p
@@ -272,6 +276,8 @@ minoraverages/Nemec,1914,Illinois-Missouri League,higgins,B00672,Higgins,Doc,0,S
 minoraverages/Nemec,1914,Illinois-Missouri League,higgins,P10304,Higgins,,0,Streator,,,,16,
 minoraverages/Nemec,1914,Illinois-Missouri League,hindley,B00680,Hindley,,0,La Salle,19140513,19140516,4,,1b
 minoraverages/Nemec,1914,Illinois-Missouri League,hindley,M90052,Hindley,,,La Salle,,,,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92718,Hinley,Tony,,La Salle,,,,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92771,Hinley,William,,Kankakee,,,,,
 minoraverages/Nemec,1914,Illinois-Missouri League,hollingsworth,B00695,Hollingsworth,,0,Streator,19140528,19140605,5,,p
 minoraverages/Nemec,1914,Illinois-Missouri League,hollingsworth,P10312,Hollingsworth,,0,Streator,,,,4,
 minoraverages/Nemec,1914,Illinois-Missouri League,holly,B00705,Holly,,0,Kankakee,19140606,19140606,1,,of
@@ -524,15 +530,18 @@ minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B01242,Raftery,Sylves
 minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B01242,Raftery,Sylvester,T,,19140515,19140809,82,,"ss,of"
 minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B02277,Raftrey,Sylvester,0,Lincoln,19140515,19140701,47,,"ss,of"
 minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B02289,Raftrey,Sylvester,0,La Salle,19140707,19140809,35,,of
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92760,Raines,Teddy,,Kankakee,,,,,
 minoraverages/Nemec,1914,Illinois-Missouri League,rains,B01250,Rains,Teddy,0,Kankakee,19140622,19140630,9,,c
 minoraverages/Nemec,1914,Illinois-Missouri League,rains,M90047,Rains,Teddy,,Kankakee,19140622,,,,
 minoraverages/1915Spalding,1914,Illinois-Missouri League,randall,B00324,Randall,,0,Kankakee,,,45,,
 minoraverages/1915Spalding,1914,Illinois-Missouri League,randall,F20759,Randall,,0,Kankakee,,,,,p45
 minoraverages/Nemec,1914,Illinois-Missouri League,randall,B01269,Randall,Harry (Eph),0,Kankakee,19140513,19140630,45,,of
 minoraverages/Nemec,1914,Illinois-Missouri League,randall,M90026,Randall,Harry (Eph),,Kankakee,,,,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92747,Randall,Harry,,Kankakee,,,,,
 minoraverages/Nemec,1914,Illinois-Missouri League,ratczyzak,B01275,Ratczyzak,Joseph,0,La Salle,19140516,19140604,7,,p
 minoraverages/Nemec,1914,Illinois-Missouri League,ratczyzak,P10527,Ratczyzak,,0,La Salle,,,,7,
 minoraverages/Nemec,1914,Illinois-Missouri League,ray,M90094,Ray,John,,Streator,,,,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92695,Ray,John,,Streator,,,,,
 minoraverages/1915Spalding,1914,Illinois-Missouri League,remark,B00308,Remark,,0,Streator,,,22,,
 minoraverages/1915Spalding,1914,Illinois-Missouri League,remark,F20810,Remark,,0,Streator,,,,,p22
 minoraverages/1915Spalding,1914,Illinois-Missouri League,remark,P10159,Remark,,0,Streator,,,,18,
@@ -578,6 +587,7 @@ minoraverages/1915Spalding,1914,Illinois-Missouri League,seebach,B00101,Seebach,
 minoraverages/1915Spalding,1914,Illinois-Missouri League,seebach,F20128,Seebach,,0,Streator,,,,,2b62
 minoraverages/Nemec,1914,Illinois-Missouri League,seebach,B01376,Seebach,Heine,0,Streator,19140607,19140809,62,,"2b,ss,of"
 minoraverages/Nemec,1914,Illinois-Missouri League,seebach,M90107,Seebach,Heine,,Streator,19140620,,,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92705,Seebach,Heine,,Streator,,,,,
 minoraverages/1915Spalding,1914,Illinois-Missouri League,sears,B00013,Seers,,0,Streator,,,43,,
 minoraverages/1915Spalding,1914,Illinois-Missouri League,sears,F20505,Seers,,0,Streator,,,,,of43
 minoraverages/1915Spalding,1914,Illinois-Missouri League,sears,P10184,Seers,,0,Streator,,,,3,
@@ -698,6 +708,7 @@ minoraverages/Nemec,1914,Illinois-Missouri League,wilson-kan,B01658,Wilson,,0,Ka
 minoraverages/Nemec,1914,Illinois-Missouri League,wilson-cha,B01663,Wilson,Fred (Blackie),0,Champaign,19140513,19140809,82,,"2b,of"
 minoraverages/Nemec,1914,Illinois-Missouri League,wilson-cha,M90018,Wilson,Fred (Blackie),,Champaign,,,,,
 minoraverages/Nemec,1914,Illinois-Missouri League,wilson-kan,P10714,Wilson,,0,Kankakee,,,,1,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92672,Wilson,"Fred ""Blackie""",,Champaign-Urbana,,,,,
 minoraverages/Nemec,1914,Illinois-Missouri League,wise-ott,B01674,Wise,,0,Ottawa,19140516,19140516,1,,p
 minoraverages/Nemec,1914,Illinois-Missouri League,wise-las,B01682,Wise,,0,La Salle,19140513,19140514,2,,2b
 minoraverages/Nemec,1914,Illinois-Missouri League,wise-ott,P10723,Wise,,0,Ottawa,,,,1,

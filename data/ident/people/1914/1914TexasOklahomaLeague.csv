@@ -87,6 +87,7 @@ minoraverages/1915Spalding,1914,Texas-Oklahoma League,fenner,B00718,Fenner,,0,Ar
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,fenner,F20583,Fenner,,0,Ardmore,,,,,cf27
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,fillman,B00229,Fillman,,0,Paris,,,108,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,fillman,F20131,Fillman,,0,Paris,,,,,2b108
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93536,Fillman,John,,Paris,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,flannigan,B01093,Flannigan,,0,Sherman,,,20,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,flannigan,F21101,Flannigan,,0,Sherman,,,,,p20
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,flannigan,P10455,Flannigan,,0,Sherman,,,,18,
@@ -117,8 +118,10 @@ minoraverages/1915Spalding,1914,Texas-Oklahoma League,glenn,F20776,Glenn,,0,Deni
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,glenn,P10070,Glenn,,0,Denison,,,,37,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,gordon,B00680,Gordon,,0,Durant,,,11,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,gordon,F20298,Gordon,,0,Durant,,,,,3b11
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93637,Gordon,Brooks,,Ardmore,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,gray,B00531,Gray,,0,Sherman,,,57,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,gray,F21278,Gray,,0,Sherman,,,,,c57
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93600,Gray,Dolly,,Sherman,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,green,B00771,Green,,0,Hugo,,,34,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,green,F20401,Green,,0,Hugo,,,,,ss34
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,haetley,B00879,Haetley,,0,Durant,,,26,,
@@ -165,6 +168,7 @@ minoraverages/1915Spalding,1914,Texas-Oklahoma League,humphries,B00544,Humphries
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,humphries,F20350,Humphries,,1,Paris,,,,,ss
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,humphries,F20350,Humphries,,2,Durant,,,,,ss
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,humphries,F20350,Humphries,,T,,,,,,ss99
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93573,Humphries,Bert,,Durant,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,ikard,B01300,Ikard,,0,Ardmore,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,ikard,F21045,Ikard,,0,Ardmore,,,,,p6
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,ikard,P10019,Ikard,,0,Ardmore,,,,6,
@@ -222,8 +226,10 @@ minoraverages/1915Spalding,1914,Texas-Oklahoma League,mickey,F20886,Mickey,,0,Ar
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,mickey,P10215,Mickey,,0,Ardmore,,,,15,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,milam,B00397,Milam,,0,Texarkana,,,110,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,milam,F20594,Milam,,0,Texarkana,,,,,cf110
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93613,Moran,Charlie,,Sherman,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,morris,B00450,Morris,,0,Durant,,,99,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,morris,F20685,Morris,,0,Durant,,,,,rf99
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93561,Morris,"Fred ""Cap""",,Durant,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,moughon,B01156,Moughon,,0,Sherman,,,23,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,moughon,F20051,Moughon,,0,Sherman,,,,,1b23
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,murie,B00210,Murie,,0,Durant,,,104,,
@@ -253,6 +259,7 @@ minoraverages/1915Spalding,1914,Texas-Oklahoma League,nevitt,B01119,Nevitt,,0,Hu
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,nevitt,F20211,Nevitt,,0,Hugo,,,,,3b47
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,nichols,B00293,Nichols,,0,Bonham,,,66,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,nichols,F20067,Nichols,,0,Bonham,,,,,1b66
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93599,Nichols,Charlie,,Bonham,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,nicholson,B00076,Nicholson,,1,Hugo,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,nicholson,B00076,Nicholson,,2,Denison,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,nicholson,B00076,Nicholson,,T,,,,108,,
@@ -277,6 +284,7 @@ minoraverages/1915Spalding,1914,Texas-Oklahoma League,pate,F20737,Pate,,0,Texark
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,pate,P10097,Pate,,0,Texarkana,,,,28,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,peebles,B00149,Peebles,,0,Denison,,,92,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,peebles,F20657,Peebles,,0,Denison,,,,,rf92
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93557,Peebles,Babe,,Denison,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,phillips-hug,B01041,Phillips,,0,Hugo,,,36,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,phillips-par,B01055,Phillips,,0,Paris,,,35,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,phillips-hug,F20190,Phillips,,0,Hugo,,,,,2b36
@@ -285,6 +293,7 @@ minoraverages/1915Spalding,1914,Texas-Oklahoma League,phillips-par,P10168,Philli
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,porkorney,B00343,Porkorney,,0,Sherman,,,26,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,porkorney,F20095,Porkorney,,0,Sherman,,,,,1b26
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,querry,B01275,Querry,,0,Denison,,,,,
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93585,Rainey,Senter,,Bonham,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,ray,B01162,Ray,,0,Sherman,,,23,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,ray,F20908,Ray,,0,Sherman,,,,,p23
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,ray,P10290,Ray,,0,Sherman,,,,23,
@@ -300,6 +309,7 @@ minoraverages/1915Spalding,1914,Texas-Oklahoma League,redford,P10121,Redford,,T,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,reese,B01291,Reese,,0,Hugo,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,ritter,B00614,Ritter,,0,Texarkana,,,60,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,ritter,F21241,Ritter,,0,Texarkana,,,,,c60
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93548,Ritter,"A. L. ""Dad""",,Texarkana,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,robinson.b,B00117,Robinson,B.,0,Durant,,,24,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,robinson.t,B00416,Robinson,T.,0,Durant,,,117,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,robinson-par,B01029,Robinson,,0,Paris,,,31,,
@@ -351,6 +361,7 @@ minoraverages/1915Spalding,1914,Texas-Oklahoma League,tucker,F20620,Tucker,,2,Sh
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,tucker,F20620,Tucker,,T,,,,,,cf56
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,turner,B00822,Turner,,0,Ardmore,,,16,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,turner,F21158,Turner,,0,Ardmore,,,,,c16
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93645,Ury,Lon,,Hugo,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,verritt,B00705,Verritt,,0,Sherman,,,14,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,verritt,F21000,Verritt,,0,Sherman,,,,,p14
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,verritt,P10432,Verritt,,0,Sherman,,,,14,
@@ -363,6 +374,7 @@ minoraverages/1915Spalding,1914,Texas-Oklahoma League,watson,F20855,Watson,,0,Pa
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,watson,P10062,Watson,,0,Paris,,,,22,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,webber,B00667,Webber,,0,Sherman,,,100,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,webber,F20144,Webber,,0,Sherman,,,,,2b100
+minoraverages/emilbb,1914,Texas-Oklahoma League,,M93621,Webber,Harry,,Sherman,,,,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,weeks,B01234,Weeks,,0,Ardmore,,,20,,
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,weeks,F21130,Weeks,,0,Ardmore,,,,,p20
 minoraverages/1915Spalding,1914,Texas-Oklahoma League,weeks,P10176,Weeks,,0,Ardmore,,,,18,

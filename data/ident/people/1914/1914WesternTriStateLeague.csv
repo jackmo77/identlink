@@ -1,4 +1,5 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+minoraverages/emilbb,1914,Western Tri-State League,,M93998,Bade,Gus,,Walla Walla,,,,,
 minoraverages/1915Spalding,1914,Western Tri-State League,baker,B00515,Baker,,0,Baker,,,37,,
 minoraverages/1915Spalding,1914,Western Tri-State League,baker,F20518,Baker,,0,Baker,,,,,p
 minoraverages/1915Spalding,1914,Western Tri-State League,baker,P10168,Baker,,0,Baker,,,,,
@@ -39,6 +40,7 @@ minoraverages/1915Spalding,1914,Western Tri-State League,ford,B00397,Ford,,0,Nor
 minoraverages/1915Spalding,1914,Western Tri-State League,ford,F20067,Ford,,0,North Yakima,,,,,1b
 minoraverages/1915Spalding,1914,Western Tri-State League,ford,F20102,Ford,,0,North Yakima,,,,,2b
 minoraverages/1915Spalding,1914,Western Tri-State League,ford,F20265,Ford,,0,North Yakima,,,,,of
+minoraverages/emilbb,1914,Western Tri-State League,,M94015,Ford,Eddie,,North Yakima,,,,,
 minoraverages/1915Spalding,1914,Western Tri-State League,french,B00045,French,,0,Baker,,,85,,
 minoraverages/1915Spalding,1914,Western Tri-State League,french,F20128,French,,0,Baker,,,,,2b
 minoraverages/1915Spalding,1914,Western Tri-State League,fuller,B00174,Fuller,,1,Baker,,,,,
@@ -74,6 +76,7 @@ minoraverages/1915Spalding,1914,Western Tri-State League,kile,F20612,Kile,,0,Nor
 minoraverages/1915Spalding,1914,Western Tri-State League,kile,P10192,Kile,,0,North Yakima,,,,,
 minoraverages/1915Spalding,1914,Western Tri-State League,king,B00491,King,,0,Baker,,,91,,
 minoraverages/1915Spalding,1914,Western Tri-State League,king,F20673,King,,0,Baker,,,,,c
+minoraverages/emilbb,1914,Western Tri-State League,,M94002,King,Karl,,Baker,,,,,
 minoraverages/1915Spalding,1914,Western Tri-State League,krause,B00381,Krause,,0,North Yakima,,,96,,
 minoraverages/1915Spalding,1914,Western Tri-State League,krause,F20206,Krause,,0,North Yakima,,,,,ss
 minoraverages/1915Spalding,1914,Western Tri-State League,leeper,B00207,Leeper,,0,Walla Walla,,,58,,
@@ -93,6 +96,7 @@ minoraverages/1915Spalding,1914,Western Tri-State League,lind,B00163,Lind,,0,Bak
 minoraverages/1915Spalding,1914,Western Tri-State League,lind,F20327,Lind,,0,Baker,,,,,of
 minoraverages/1915Spalding,1914,Western Tri-State League,lodell,B00084,Lodell,,0,Pendleton,,,86,,
 minoraverages/1915Spalding,1914,Western Tri-State League,lodell,F20023,Lodell,,0,Pendleton,,,,,1b
+minoraverages/emilbb,1914,Western Tri-State League,,M93987,Lodell,Al,,Pendleton,,,,,
 minoraverages/1915Spalding,1914,Western Tri-State League,lund,B00590,Lund,,0,Walla Walla,,,19,,
 minoraverages/1915Spalding,1914,Western Tri-State League,lund,F20560,Lund,,0,Walla Walla,,,,,p
 minoraverages/1915Spalding,1914,Western Tri-State League,lund,P10097,Lund,,0,Walla Walla,,,,,

@@ -16,6 +16,7 @@ minoraverages/1917Reach,1916,Georgia-Alabama League,bowdoin,B00783,Bowdoin,,T,,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,bowdoin,F20327,Bowdoin,,0,Anniston,,,,,3b62
 minoraverages/1917Reach,1916,Georgia-Alabama League,bowen,B00174,Bowen,,0,La Grange,,,70,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,bowen,F20334,Bowen,,0,La Grange,,,,,3b70
+minoraverages/emilbb,1916,Georgia-Alabama League,,M91796,Bowen,Grady,,La Grange,,,,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,boyd,B00319,Boyd,,0,Newnan,,,70,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,boyd,F20046,Boyd,,0,Newnan,,,,,of68
 minoraverages/1917Reach,1916,Georgia-Alabama League,burgess,B00229,Burgess,,0,Griffin,,,70,,
@@ -103,6 +104,7 @@ minoraverages/1917Reach,1916,Georgia-Alabama League,koenig,B00590,Koernig,,0,Tal
 minoraverages/1917Reach,1916,Georgia-Alabama League,krapp,B00076,Krapp,,0,Talladega,,,13,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,krapp,F20832,Krapp,,0,Talladega,,,,,p12
 minoraverages/1917Reach,1916,Georgia-Alabama League,krapp,P10121,Krapp,,0,all,,,,,
+minoraverages/emilbb,1916,Georgia-Alabama League,,M91803,Krapp,Eugene,,Talladega,,,,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,lacey,B00442,Lacey,,0,Anniston,,,49,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,lacey,F20547,Lacey,,0,Anniston,,,,,2b49
 minoraverages/1917Reach,1916,Georgia-Alabama League,leonard,B00528,Leonard,,0,La Grange,,,61,,
@@ -121,8 +123,10 @@ minoraverages/1917Reach,1916,Georgia-Alabama League,mackie,B00117,Mackie,,0,Newn
 minoraverages/1917Reach,1916,Georgia-Alabama League,mackie,F20571,Mackie,,0,Newnan,,,,,2b65
 minoraverages/1917Reach,1916,Georgia-Alabama League,manush,B00130,Manush,,0,Rome,,,65,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,manush,F20375,Manush,,0,Rome,,,,,3b65
+minoraverages/emilbb,1916,Georgia-Alabama League,,M91774,Manush,Frank,,Rome,,,,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,matthews,B00469,Matthews,,0,Newnan,,,67,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,matthews,F20673,Matthews,,0,Newnan,,,,,c67
+minoraverages/emilbb,1916,Georgia-Alabama League,,M91782,Matthews,"Harry ""Matty""",,Newnan,,,,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,mcdonald,B00403,McDannold,,0,Anniston,,,35,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,mcdonald,F20700,McDonald,,0,Anniston,,,,,c35
 minoraverages/1917Reach,1916,Georgia-Alabama League,methvin,B00614,Methvin,,0,Griffin,,,4,,
@@ -160,9 +164,11 @@ minoraverages/1917Reach,1916,Georgia-Alabama League,raburn,F20956,Raburn,,0,Tall
 minoraverages/1917Reach,1916,Georgia-Alabama League,raburn,P10290,Raburn,,0,all,,,,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,reagan,B00646,Reagan,,0,Griffin,,,70,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,reagan,F20552,Reagan,,0,Griffin,,,,,2b70
+minoraverages/emilbb,1916,Georgia-Alabama League,,M91827,Reagan,Eddie,,Griffin,,,,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,reynolds,B00068,Reynolds,,0,Anniston,,,65,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,reynolds,F20240,Reynolds,,0,Anniston,,,,,of39
 minoraverages/1917Reach,1916,Georgia-Alabama League,reynolds,F20661,Reynolds,,0,Anniston,,,,,1b23
+minoraverages/emilbb,1916,Georgia-Alabama League,,M91816,Reynolds,Wade,,Anniston,,,,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,robertson,B00695,Robertson,,0,Griffin,,,31,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,robertson,P10176,Robertson,,0,all,,,,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,robertson,F20792,Robrtson,,0,Griffin,,,,,p26
@@ -223,6 +229,7 @@ minoraverages/1917Reach,1916,Georgia-Alabama League,webb,B00278,Webb,,0,Rome,,,2
 minoraverages/1917Reach,1916,Georgia-Alabama League,webb,F20657,Webb,,0,Rome,,,,,1b21
 minoraverages/1917Reach,1916,Georgia-Alabama League,wells,B00370,Wells,,0,Griffin,,,41,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,wells,F20685,Wells,,0,Griffin,,,,,c39
+minoraverages/emilbb,1916,Georgia-Alabama League,,M91834,Wells,Phil,,Griffin,,,,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,werner,B00566,Werner,,0,Rome,,,35,,
 minoraverages/1917Reach,1916,Georgia-Alabama League,werner,F20505,Werner,,0,Rome,,,,,2b35
 minoraverages/1917Reach,1916,Georgia-Alabama League,weston,B00553,Weston,,0,Rome,,,27,,

@@ -28,11 +28,13 @@ minoraverages/1914Spalding,1913,New York State League,buck,P10266,Buck,,0,Utica,
 minoraverages/1914Spalding,1913,New York State League,burchell,B01291,Burchell,,0,Syracuse,,,32,,
 minoraverages/1914Spalding,1913,New York State League,burchell,F21149,Burchell,,0,Syracuse,,,,,p32
 minoraverages/1914Spalding,1913,New York State League,burchell,P10184,Burchell,,0,Syracuse,,,,32,
+minoraverages/emilbb,1913,New York State League,,M90870,Burchell,Fred,,Syracuse,,,,,
 minoraverages/1914Spalding,1913,New York State League,cadore,B01242,Cadore,,0,Wilkes-Barre,,,30,,
 minoraverages/1914Spalding,1913,New York State League,cadore,F21182,Cadore,,0,Wilkes-Barre,,,,,p30
 minoraverages/1914Spalding,1913,New York State League,cadore,P10253,Cadore,,0,Wilkes-Barre,,,,30,
 minoraverages/1914Spalding,1913,New York State League,calhoun,B00833,Calhoun,,0,Binghamton,,,98,,
 minoraverages/1914Spalding,1913,New York State League,calhoun,F20023,Calhoun,,0,Binghamton,,,,,1b96
+minoraverages/emilbb,1913,New York State League,,M90819,Calhoun,John,,Binghamton,,,,,
 minoraverages/1914Spalding,1913,New York State League,catiz,B00948,Catiz,,1,Troy,,,,,
 minoraverages/1914Spalding,1913,New York State League,catiz,B00948,Catiz,,2,Syracuse,,,,,
 minoraverages/1914Spalding,1913,New York State League,catiz,B00948,Catiz,,T,,,,129,,
@@ -43,6 +45,7 @@ minoraverages/1914Spalding,1913,New York State League,clougher,B00760,Clougher,,
 minoraverages/1914Spalding,1913,New York State League,clougher,F21403,Clougher,,0,Utica,,,,,c67
 minoraverages/1914Spalding,1913,New York State League,coles,B00013,Coles,,0,Elmira,,,114,,
 minoraverages/1914Spalding,1913,New York State League,coles,F20832,Coles,,0,Elmira,,,,,of114
+minoraverages/emilbb,1913,New York State League,,M90909,Conroy,Bill,,Elmira,,,,,
 minoraverages/1914Spalding,1913,New York State League,corbin,B00469,Corbin,,0,Scranton,,,16,,
 minoraverages/1914Spalding,1913,New York State League,corbin,F20924,Corbin,,0,Scranton,,,,,of16
 minoraverages/1914Spalding,1913,New York State League,cranston,B00182,Cranston,,0,Troy,,,132,,
@@ -194,6 +197,7 @@ minoraverages/1914Spalding,1913,New York State League,kelly-scr,B00037,Kelly,Joh
 minoraverages/1914Spalding,1913,New York State League,kelly-elm,B00609,Kelly,R. J.,0,Elmira,,,21,,
 minoraverages/1914Spalding,1913,New York State League,kelly-elm,F20745,Kelly,,0,Elmira,,,,,of21
 minoraverages/1914Spalding,1913,New York State League,kelly-scr,F20792,Kelly,John,0,Scranton,,,,,of30
+minoraverages/emilbb,1913,New York State League,,M90938,Kelly,John,,Scranton,,,,,
 minoraverages/1914Spalding,1913,New York State League,kennedy,B00335,Kennedy,,0,Scranton,,,54,,
 minoraverages/1914Spalding,1913,New York State League,kennedy,F20265,Kennedy,,0,Scranton,,,,,2b51
 minoraverages/1914Spalding,1913,New York State League,keyes,B00822,Keyes,,0,Elmira,,,26,,
@@ -227,11 +231,13 @@ minoraverages/1914Spalding,1913,New York State League,mccarthy-wb,B00059,McCarth
 minoraverages/1914Spalding,1913,New York State League,mccarthy-tro,B00163,McCarthy,,0,Troy,,,111,,
 minoraverages/1914Spalding,1913,New York State League,mccarthy-wb,F20240,McCarthy,,0,Wilkes-Barre,,,,,2b127
 minoraverages/1914Spalding,1913,New York State League,mccarthy-tro,F20612,McCarthy,,0,Troy,,,,,of101
+minoraverages/emilbb,1913,New York State League,,M90824,McCarthy,Joe,,Wilkes-Barre,,,,,
 minoraverages/1914Spalding,1913,New York State League,mcchesney,B00362,McChesney,,0,Binghamton,,,138,,
 minoraverages/1914Spalding,1913,New York State League,mcchesney,F20657,McChesney,,0,Binghamton,,,,,of138
 minoraverages/1914Spalding,1913,New York State League,mcdonough,B00502,McDonough,,0,Albany,,,109,,
 minoraverages/1914Spalding,1913,New York State League,mcdonough,F20131,McDonough,,0,Albany,,,,,1b10
 minoraverages/1914Spalding,1913,New York State League,mcdonough,F21381,McDonough,,0,Albany,,,,,c99
+minoraverages/emilbb,1913,New York State League,,M90862,McDonough,Ed,,Albany,,,,,
 minoraverages/1914Spalding,1913,New York State League,mcginley,B01064,McGinley,,0,Binghamton,,,28,,
 minoraverages/1914Spalding,1913,New York State League,mcginley,F21000,McGinley,,0,Binghamton,,,,,p28
 minoraverages/1914Spalding,1913,New York State League,mcginley,P10137,McGinley,,0,Binghamton,,,,28,
@@ -273,6 +279,7 @@ minoraverages/1914Spalding,1913,New York State League,nicholson,F21045,Nicholson
 minoraverages/1914Spalding,1913,New York State League,nicholson,P10081,Nicholson,,0,Wilkes-Barre,,,,28,
 minoraverages/1914Spalding,1913,New York State League,oneill,B00241,O'Neill,,0,Utica,,,134,,
 minoraverages/1914Spalding,1913,New York State League,oneill,F20685,O'Neill,,0,Utica,,,,,of134
+minoraverages/emilbb,1913,New York State League,,M90843,O'Neill,Michael,,Utica,,,,,
 minoraverages/1914Spalding,1913,New York State League,orourke,B00672,O'Rourke,,0,Wilkes-Barre,,,87,,
 minoraverages/1914Spalding,1913,New York State League,orourke,F20401,O'Rourke,,0,Wilkes-Barre,,,,,3b83
 minoraverages/1914Spalding,1913,New York State League,owens,B01250,Owens,,0,Syracuse,,,30,,
@@ -289,9 +296,11 @@ minoraverages/1914Spalding,1913,New York State League,partenheimer,F20388,Parten
 minoraverages/1914Spalding,1913,New York State League,partenheimer,F20388,Partenheimer,,T,,,,,,3b32
 minoraverages/1914Spalding,1913,New York State League,payne,B00957,Payne,,0,Syracuse,,,54,,
 minoraverages/1914Spalding,1913,New York State League,payne,F21343,Payne,,0,Syracuse,,,,,c51
+minoraverages/emilbb,1913,New York State League,,M90881,Payne,Fred,,Syracuse,,,,,
 minoraverages/1914Spalding,1913,New York State League,peterson,B00705,Peterson,,0,Scranton,,,127,,
 minoraverages/1914Spalding,1913,New York State League,peterson,F20095,Peterson,,0,Scranton,,,,,1b35
 minoraverages/1914Spalding,1913,New York State League,peterson,F21450,Peterson,,0,Scranton,,,,,c63
+minoraverages/emilbb,1913,New York State League,,M90923,Peterson,Bob,,Scranton,,,,,
 minoraverages/1914Spalding,1913,New York State League,pfeffer,B00638,Pfeffer,,0,Wilkes-Barre,,,135,,
 minoraverages/1914Spalding,1913,New York State League,pfeffer,F20482,Pfeffer,,0,Wilkes-Barre,,,,,ss135
 minoraverages/1914Spalding,1913,New York State League,phelan,B00614,Phelan,,0,Utica,,,142,,
@@ -306,6 +315,7 @@ minoraverages/1914Spalding,1913,New York State League,raftis,B00920,Raftis,,T,,,
 minoraverages/1914Spalding,1913,New York State League,raftis,F20334,Raftis,,1,Elmira,,,,,3b
 minoraverages/1914Spalding,1913,New York State League,raftis,F20334,Raftis,,2,Binghamton,,,,,3b
 minoraverages/1914Spalding,1913,New York State League,raftis,F20334,Raftis,,T,,,,,,3b98
+minoraverages/emilbb,1913,New York State League,,M90835,Ramsey,Henry,,Troy,,,,,
 minoraverages/1914Spalding,1913,New York State League,rapp,B01337,Rapp,,0,Binghamton,,,18,,
 minoraverages/1914Spalding,1913,New York State League,rapp,F20962,Rapp,,0,Binghamton,,,,,p18
 minoraverages/1914Spalding,1913,New York State League,rapp,P10399,Rapp,,0,Binghamton,,,,18,
@@ -315,6 +325,7 @@ minoraverages/1914Spalding,1913,New York State League,riley,B00403,Riley,,0,Syra
 minoraverages/1914Spalding,1913,New York State League,riley,F20841,Riley,,0,Syracuse,,,,,of101
 minoraverages/1914Spalding,1913,New York State League,ritter,B00427,Ritter,,0,Elmira,,,116,,
 minoraverages/1914Spalding,1913,New York State League,ritter,F21356,Ritter,,0,Elmira,,,,,c115
+minoraverages/emilbb,1913,New York State League,,M90897,Ritter,Louis,,Elmira,,,,,
 minoraverages/1914Spalding,1913,New York State League,russell,B01010,Russell,,0,Binghamton,,,45,,
 minoraverages/1914Spalding,1913,New York State League,russell,F20886,Russell,,0,Binghamton,,,,,of45
 minoraverages/1914Spalding,1913,New York State League,savage,B00092,Savage,,0,Utica,,,134,,
@@ -338,12 +349,14 @@ minoraverages/1914Spalding,1913,New York State League,smith.f,B01093,Smith,F.,0,
 minoraverages/1914Spalding,1913,New York State League,smith,F20128,Smith,,0,Scranton,,,,,1b61
 minoraverages/1914Spalding,1913,New York State League,smith.f,F21158,Smith,F.,0,Scranton,,,,,p34
 minoraverages/1914Spalding,1913,New York State League,smith.f,P10097,Smith,F.,0,Scranton,,,,34,
+minoraverages/emilbb,1913,New York State League,,M90914,Smith,Richard,,Scranton,,,,,
 minoraverages/1914Spalding,1913,New York State League,somerlot,F20072,Somerlot,,0,Troy,,,,,1b46
 minoraverages/1914Spalding,1913,New York State League,swift,B01216,Swift,,0,Elmira,,,33,,
 minoraverages/1914Spalding,1913,New York State League,swift,F21196,Swift,,0,Elmira,,,,,p33
 minoraverages/1914Spalding,1913,New York State League,swift,P10070,Swift,,0,Elmira,,,,33,
 minoraverages/1914Spalding,1913,New York State League,tamsett,B01181,Tamsett,,0,Albany,,,60,,
 minoraverages/1914Spalding,1913,New York State League,tamsett,F20496,Tamsett,,0,Albany,,,,,ss60
+minoraverages/emilbb,1913,New York State League,,M90856,Tamsett,James,,Albany,,,,,
 minoraverages/1914Spalding,1913,New York State League,taylor,B01156,Taylor,,0,Utica,,,33,,
 minoraverages/1914Spalding,1913,New York State League,taylor,F21084,Taylor,,0,Utica,,,,,p33
 minoraverages/1914Spalding,1913,New York State League,taylor,P10385,Taylor,,0,Utica,,,,33,

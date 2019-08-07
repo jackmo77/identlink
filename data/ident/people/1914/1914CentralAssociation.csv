@@ -1,6 +1,7 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1915Spalding,1914,Central Association,abbott,B01093,Abbott,,0,Keokuk,,,52,,
 minoraverages/1915Spalding,1914,Central Association,abbott,F20128,Abbott,,0,Keokuk,,,,,1b52
+minoraverages/emilbb,1914,Central Association,,M92293,Abbott,Spencer,,Keokuk,,,,,
 minoraverages/1915Spalding,1914,Central Association,addington,B01572,Addington,,0,Keokuk,,,35,,
 minoraverages/1915Spalding,1914,Central Association,addington,F20327,Addington,,0,Keokuk,,,,,3b35
 minoraverages/1915Spalding,1914,Central Association,alberts,B01625,Alberts,,0,Muscatine,,,32,,
@@ -13,6 +14,7 @@ minoraverages/1915Spalding,1914,Central Association,andreen,F21811,Andreen,,0,Ma
 minoraverages/1915Spalding,1914,Central Association,andrews,B00865,Andrews,,0,Waterloo,,,27,,
 minoraverages/1915Spalding,1914,Central Association,andrews,F20417,Andrews,,0,Waterloo,,,,,3b27
 minoraverages/1915Spalding,1914,Central Association,andrews,P10925,Andrews,,0,Waterloo,,,,,
+minoraverages/emilbb,1914,Central Association,,M92232,Andrews,Jay,,Waterloo,,,,,
 minoraverages/1915Spalding,1914,Central Association,askland,B01368,Askland,,0,Waterloo,,,88,,
 minoraverages/1915Spalding,1914,Central Association,askland,F21794,Askland,,0,Waterloo,,,,,c88
 minoraverages/1915Spalding,1914,Central Association,baichley,B02024,Baichley,,0,Burlington,,,,,
@@ -42,6 +44,7 @@ minoraverages/1915Spalding,1914,Central Association,blodgett,F21434,Blodgett,,0,
 minoraverages/1915Spalding,1914,Central Association,blodgett,P10097,Blodgett,,0,Waterloo,,,,26,
 minoraverages/1915Spalding,1914,Central Association,bower,B02818,Bover,,0,Keokuk,,,,,
 minoraverages/1915Spalding,1914,Central Association,bower,P10860,Bower,,0,Keokuk,,,,,
+minoraverages/emilbb,1914,Central Association,,M92264,Boyle,Frank,,Muscatine,,,,,
 minoraverages/1915Spalding,1914,Central Association,brady,B02035,Brady,,0,Clinton,,,,,
 minoraverages/1915Spalding,1914,Central Association,brady,P11102,Brady,,0,Clinton,,,,,
 minoraverages/1915Spalding,1914,Central Association,brennan-mus,B01086,Brennan,,0,Muscatine,,,58,,
@@ -126,6 +129,7 @@ minoraverages/1915Spalding,1914,Central Association,dunne,F21101,Dunne,,0,Galesb
 minoraverages/1915Spalding,1914,Central Association,dunne,P10606,Dunne,,0,Galesburg,,,,9,
 minoraverages/1915Spalding,1914,Central Association,eastman,B00973,Eastman,,0,Galesburg,,,18,,
 minoraverages/1915Spalding,1914,Central Association,eastman,F20505,Eastman,,0,Galesburg,,,,,ss48
+minoraverages/emilbb,1914,Central Association,,M92324,Egan,Ned,,Ottumwa/Rock Island/Galesburg,,,,,
 minoraverages/1915Spalding,1914,Central Association,ellis,B00068,Ellis,,0,Waterloo,,,25,,
 minoraverages/1915Spalding,1914,Central Association,ellis,F20685,Ellis,,0,Waterloo,,,,,lf25
 minoraverages/1915Spalding,1914,Central Association,evans-wat,B00293,Evans,,0,Waterloo,,,74,,
@@ -200,6 +204,7 @@ minoraverages/1915Spalding,1914,Central Association,harvey,B00783,Harvey,,0,Mars
 minoraverages/1915Spalding,1914,Central Association,harvey,F20474,Harvey,,0,Marshalltown,,,,,ss83
 minoraverages/1915Spalding,1914,Central Association,hasbrook,B01143,Hasbrook,,0,Muscatine,,,128,,
 minoraverages/1915Spalding,1914,Central Association,hasbrook,F20038,Hasbrook,,0,Muscatine,,,,,1b128
+minoraverages/emilbb,1914,Central Association,,M92241,Hayden,Tom,,Burlington,,,,,
 minoraverages/1915Spalding,1914,Central Association,hensling,B00101,Hensling,,0,Keokuk,,,102,,
 minoraverages/1915Spalding,1914,Central Association,hensling,B01010,Hensling,,0,Cedar Rapids,,,22,,
 minoraverages/1915Spalding,1914,Central Association,hensling,F20388,Hensling,,0,Keokuk,,,,,3b102
@@ -214,6 +219,7 @@ minoraverages/1915Spalding,1914,Central Association,hill.j,B00125,Hill,J.,0,Wate
 minoraverages/1915Spalding,1914,Central Association,hill.h,B02228,Hill,H.,0,Waterloo,,,,,
 minoraverages/1915Spalding,1914,Central Association,hill.j,F20745,Hill,J.,0,Waterloo,,,,,lf67
 minoraverages/1915Spalding,1914,Central Association,hill.h,P10949,Hill,H.,0,Waterloo,,,,,
+minoraverages/emilbb,1914,Central Association,,M92286,Hill,Belden,,Cedar Rapids,,,,,
 minoraverages/1915Spalding,1914,Central Association,hofer,B01601,Hofer,,0,Cedar Rapids,,,21,,
 minoraverages/1915Spalding,1914,Central Association,hofer,B02611,Hofer,,0,Waterloo,,,,,
 minoraverages/1915Spalding,1914,Central Association,hofer,F21174,Hofer,,0,Cedar Rapids,,,,,p21
@@ -229,6 +235,7 @@ minoraverages/1915Spalding,1914,Central Association,holly,F20908,Holly,,0,Galesb
 minoraverages/1915Spalding,1914,Central Association,holmes,B00475,Holmes,,0,Waterloo,,,24,,
 minoraverages/1915Spalding,1914,Central Association,holmes,F20391,Holmes,,0,Waterloo,,,,,3b24
 minoraverages/1915Spalding,1914,Central Association,hough,P11115,Hough,,0,Clinton,,,,,
+minoraverages/emilbb,1914,Central Association,,M92278,Hough,Bert,,Clinton,,,,,
 minoraverages/1915Spalding,1914,Central Association,hrusky,B00149,Hruska,,0,Galesburg,,,100,,
 minoraverages/1915Spalding,1914,Central Association,hrusky,F21936,Hruska,,0,Galesburg,,,,,c100
 minoraverages/1915Spalding,1914,Central Association,hubbart,B00760,Hubbart,,0,Clinton,,,128,,
@@ -305,6 +312,7 @@ minoraverages/1915Spalding,1914,Central Association,malone,P11023,Malone,,0,Mars
 minoraverages/1915Spalding,1914,Central Association,manahl,B02622,Manahl,,0,Waterloo,,,,,
 minoraverages/1915Spalding,1914,Central Association,manush,B00747,Manush,,0,Burlington,,,48,,
 minoraverages/1915Spalding,1914,Central Association,manush,F20144,Manush,,0,Burlington,,,,,1b48
+minoraverages/emilbb,1914,Central Association,,M92255,Manush,Heinie,,Burlington,,,,,
 minoraverages/1915Spalding,1914,Central Association,mariott,B01124,Mariott,,0,Marshalltown,,,26,,
 minoraverages/1915Spalding,1914,Central Association,mariott,F20375,Mariott,,0,Marshalltown,,,,,3b26
 minoraverages/1915Spalding,1914,Central Association,marr,B00502,Marr,,0,Cedar Rapids,,,37,,
@@ -446,6 +454,7 @@ minoraverages/1915Spalding,1914,Central Association,richards,F20222,Richards,,0,
 minoraverages/1915Spalding,1914,Central Association,richardson,B00811,Richardson,,0,Marshalltown,,,32,,
 minoraverages/1915Spalding,1914,Central Association,richardson,F21335,Richardson,,0,Marshalltown,,,,,p32
 minoraverages/1915Spalding,1914,Central Association,richardson,P10493,Richardson,,0,Marshalltown,,,,28,
+minoraverages/emilbb,1914,Central Association,,M92319,Richardson,Frank,,Marshalltown,,,,,
 minoraverages/1915Spalding,1914,Central Association,riley,B02202,Riley,,0,Keokuk,,,,,
 minoraverages/1915Spalding,1914,Central Association,riley,F21739,Riley,,0,Keokuk,,,,,p7
 minoraverages/1915Spalding,1914,Central Association,riley,P10679,Riley,,0,Keokuk,,,,9,
@@ -536,6 +545,7 @@ minoraverages/1915Spalding,1914,Central Association,suttcliffe,B02654,Suttcliffe
 minoraverages/1915Spalding,1914,Central Association,suttcliffe,P10709,Suttcliffe,,0,Waterloo,,,,5,
 minoraverages/1915Spalding,1914,Central Association,sweet,B00912,Sweet,,0,Keokuk,,,125,,
 minoraverages/1915Spalding,1914,Central Association,sweet,F21879,Sweet,,0,Keokuk,,,,,c125
+minoraverages/emilbb,1914,Central Association,,M92308,Sweet,Harry,,Keokuk,,,,,
 minoraverages/1915Spalding,1914,Central Association,taylor,B00469,Taylor,,0,Marshalltown,,,48,,
 minoraverages/1915Spalding,1914,Central Association,taylor,F21590,Taylor,,0,Marshalltown,,,,,p48
 minoraverages/1915Spalding,1914,Central Association,taylor,P10410,Taylor,,0,Marshalltown,,,,24,

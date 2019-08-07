@@ -107,6 +107,7 @@ minoraverages/1917Reach,1916,Western League,dyer,P10818,Dyer,,0,Denver,,,,2,
 minoraverages/1917Reach,1916,Western League,east,B00783,East,,0,Lincoln,,,45,,
 minoraverages/1917Reach,1916,Western League,east,F21362,East,,0,Lincoln,,,,,p43
 minoraverages/1917Reach,1916,Western League,east,P10290,East,,0,Lincoln,,,,,
+minoraverages/emilbb,1916,Western League,,M90484,Engel,Clyde,,Topeka,,,,,
 minoraverages/1917Reach,1916,Western League,engle,B00577,Engle,,0,Topeka,,,99,,
 minoraverages/1917Reach,1916,Western League,engle,F20449,Engle,,0,Topeka,,,,,3b53
 minoraverages/1917Reach,1916,Western League,engle,F20981,Engle,,0,Topeka,,,,,of33
@@ -146,6 +147,7 @@ minoraverages/1917Reach,1916,Western League,gaspar,B01444,Gaspar,,0,Sioux City,,
 minoraverages/1917Reach,1916,Western League,gaspar,F21403,Gaspar,,0,Sioux City,,,,,p34
 minoraverages/1917Reach,1916,Western League,gaspar,P10253,Gaspar,,0,Sioux City,,,,,
 minoraverages/1917Reach,1916,Western League,gaspar,P10550,Gaspar,,0,Sioux City,,,,33,
+minoraverages/emilbb,1916,Western League,,M90445,Gaspar,Harry,,Sioux City,,,,,
 minoraverages/1917Reach,1916,Western League,gaut,P10805,Gaut,,0,Denver,,,,5,
 minoraverages/1917Reach,1916,Western League,gilligan,B01086,Gilligan,,0,Des Moines,,,22,,
 minoraverages/1917Reach,1916,Western League,gilligan,F21646,Gilligan,,0,Des Moines,,,,,p22
@@ -217,7 +219,9 @@ minoraverages/1917Reach,1916,Western League,hichman,F20189,Hinchman,,1,Lincoln,,
 minoraverages/1917Reach,1916,Western League,hichman,F20189,Hinchman,,2,St. Joseph,,,,,2b
 minoraverages/1917Reach,1916,Western League,hichman,F20189,Hinchman,,T,,,,,,2b77
 minoraverages/1917Reach,1916,Western League,hoffman,P10795,Hoffman,,0,Lincoln,,,,5,
+minoraverages/emilbb,1916,Western League,,M90492,Holland,Jack,,St. Joseph,,,,,
 minoraverages/1917Reach,1916,Western League,holmes,B00811,Holmes,,0,Lincoln,,,15,,
+minoraverages/emilbb,1916,Western League,,M90437,Holmes,"William ""Ducky""",,Lincoln,,,,,
 minoraverages/1917Reach,1916,Western League,hovlik,B01197,Hovlik,,0,St. Joseph,,,41,,
 minoraverages/1917Reach,1916,Western League,hovlik,F21638,Hovlik,,0,St. Joseph,,,,,p41
 minoraverages/1917Reach,1916,Western League,hovlik,P10244,Hovlik,,0,St. Joseph,,,,,
@@ -242,9 +246,11 @@ minoraverages/1917Reach,1916,Western League,irion,P10410,Irion,,T,,,,,,
 minoraverages/1917Reach,1916,Western League,irion,P10996,Irion,,1,Topeka,,,,,
 minoraverages/1917Reach,1916,Western League,irion,P10996,Irion,,2,Denver,,,,,
 minoraverages/1917Reach,1916,Western League,irion,P10996,Irion,,T,,,,,19,
+minoraverages/emilbb,1916,Western League,,M90468,Isbell,Frank,,Des Moines,,,,,
 minoraverages/1917Reach,1916,Western League,jackson,B00747,Jackson,,0,Wichita,,,142,,
 minoraverages/1917Reach,1916,Western League,jackson,F21059,Jackson,,0,Wichita,,,,,of141
 minoraverages/1917Reach,1916,Western League,jackson,P11265,Jackson,,0,St. Joseph,,,,,
+minoraverages/emilbb,1916,Western League,,M90506,Jackson,Jimmy,,Wichita/Colorado Springs,,,,,
 minoraverages/1917Reach,1916,Western League,johnson,B00084,Johnson,,0,Lincoln,,,103,,
 minoraverages/1917Reach,1916,Western League,johnson,F20547,Johnson,,0,Lincoln,,,,,c83
 minoraverages/1917Reach,1916,Western League,jones,B00229,Jones,,0,Des Moines,,,151,,
@@ -304,6 +310,7 @@ minoraverages/1917Reach,1916,Western League,krueger,F20552,Krueger,,0,Omaha,,,,,
 minoraverages/1917Reach,1916,Western League,krug,B00502,Krug,,0,Omaha,,,122,,
 minoraverages/1917Reach,1916,Western League,krug,F20265,Krug,,0,Omaha,,,,,2b97
 minoraverages/1917Reach,1916,Western League,krug,F21101,Krug,,0,Omaha,,,,,of19
+minoraverages/emilbb,1916,Western League,,M90421,Krug,Marty,,Omaha,,,,,
 minoraverages/1917Reach,1916,Western League,kruger,B01078,Kruger,,0,Topeka,,,93,,
 minoraverages/1917Reach,1916,Western League,kruger,F20919,Kruger,,0,Topeka,,,,,of90
 minoraverages/1917Reach,1916,Western League,lambeth,B00794,Lambeth,,0,Topeka,,,27,,
@@ -323,6 +330,7 @@ minoraverages/1917Reach,1916,Western League,lattimore,B00948,Lattimore,,T,,,,129
 minoraverages/1917Reach,1916,Western League,lattimore,F20190,Lattimore,,1,Topeka,,,,,2b
 minoraverages/1917Reach,1916,Western League,lattimore,F20190,Lattimore,,2,Lincoln,,,,,2b
 minoraverages/1917Reach,1916,Western League,lattimore,F20190,Lattimore,,T,,,,,,2b128
+minoraverages/emilbb,1916,Western League,,M90476,Lattimore,Doc,,Topeka,,,,,
 minoraverages/1917Reach,1916,Western League,lejeune,B00475,Lejeune,,0,Sioux City,,,123,,
 minoraverages/1917Reach,1916,Western League,lejeune,F20908,Lejeune,,0,Sioux City,,,,,of123
 minoraverages/1917Reach,1916,Western League,lindmore,B00623,Lindmore,,0,Topeka,,,22,,
@@ -382,6 +390,7 @@ minoraverages/1917Reach,1916,Western League,otoole,F21308,O'Toole,,0,Omaha,,,,,p
 minoraverages/1917Reach,1916,Western League,otoole,P10168,O'Toole,,0,Omaha,,,,,
 minoraverages/1917Reach,1916,Western League,oakes,B00068,Oakes,,0,Denver,,,152,,
 minoraverages/1917Reach,1916,Western League,oakes,F20962,Oakes,,0,Denver,,,,,of152
+minoraverages/emilbb,1916,Western League,,M90459,Oakes,Rebel,,Denver,,,,,
 minoraverages/1917Reach,1916,Western League,pate,P10493,Pate,,0,Wichita,,,,,
 minoraverages/1917Reach,1916,Western League,pate,P11009,Pate,,0,Wichita,,,,11,
 minoraverages/1917Reach,1916,Western League,patterson,B01384,Patterson,,0,St. Joseph,,,28,,
