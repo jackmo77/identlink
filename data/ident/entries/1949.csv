@@ -1,0 +1,484 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1949,American League,New York,NYA,NYA,NYA
+1949,American League,Boston,BOS,BOS,BOS
+1949,American League,Cleveland,CLE,CLE,CLE
+1949,American League,Detroit,DET,DET,DET
+1949,American League,Philadelphia,PHA,PHA,PHA
+1949,American League,Chicago,CHA,CHA,CHA
+1949,American League,St. Louis,SLA,SLA,SLA
+1949,American League,Washington,WS1,WS1,WS1
+1949,National League,Brooklyn,BRO,BRO,BRO
+1949,National League,St. Louis,SLN,SLN,SLN
+1949,National League,Philadelphia,PHI,PHI,PHI
+1949,National League,Boston,BSN,BSN,BSN
+1949,National League,New York,NY1,NY1,NY1
+1949,National League,Pittsburgh,PIT,PIT,PIT
+1949,National League,Cincinnati,CIN,CIN,CIN
+1949,National League,Chicago,CHN,CHN,CHN
+1949,American Association,St. Paul,STP,STP,STP
+1949,American Association,Indianapolis,IND,IND,IND
+1949,American Association,Milwaukee,MIL,MIL,MIL
+1949,American Association,Minneapolis,MIN,MIN,MIN
+1949,American Association,Kansas City,KC,KC,KC
+1949,American Association,Louisville,LOU,LOU,LOU
+1949,American Association,Columbus,COL,COL,COL
+1949,American Association,Toledo,TOL,TOL,TOL
+1949,International League,Buffalo,BUF,BUF,BUF
+1949,International League,Rochester,ROC,ROC,ROC
+1949,International League,Montreal,MON,MON,MON
+1949,International League,Jersey City,JC,JC,JC
+1949,International League,Toronto,TOR,TOR,TOR
+1949,International League,Syracuse,SYR,SYR,SYR
+1949,International League,Baltimore,BAL,BAL,BAL
+1949,International League,Newark,NEW,NEW,NEW
+1949,Pacific Coast League,Hollywood,HOL,HOL,HOL
+1949,Pacific Coast League,Oakland,OAK,OAK,OAK
+1949,Pacific Coast League,Sacramento,SAC,SAC,SAC
+1949,Pacific Coast League,San Diego,SD,SD,SD
+1949,Pacific Coast League,Seattle,SEA,SEA,SEA
+1949,Pacific Coast League,Portland,POR,POR,POR
+1949,Pacific Coast League,San Francisco,SF,SF,SF
+1949,Pacific Coast League,Los Angeles,LA,LA,LA
+1949,Southern Association,Nashville,NAS,NAS,NAS
+1949,Southern Association,Birmingham,BIR,BIR,BIR
+1949,Southern Association,Mobile,MOB,MOB,MOB
+1949,Southern Association,New Orleans,NO,NO,NO
+1949,Southern Association,Atlanta,ATL,ATL,ATL
+1949,Southern Association,Little Rock,LR,LR,LR
+1949,Southern Association,Memphis,MEM,MEM,MEM
+1949,Southern Association,Chattanooga,CHA,CHA,CHA
+1949,Texas League,Fort Worth,FTW,FTW,FTW
+1949,Texas League,Tulsa,TUL,TUL,TUL
+1949,Texas League,Oklahoma City,OKC,OKC,OKC
+1949,Texas League,Shreveport,SHR,SHR,SHR
+1949,Texas League,Dallas,DAL,DAL,DAL
+1949,Texas League,San Antonio,SA,SA,SA
+1949,Texas League,Houston,HOU,HOU,HOU
+1949,Texas League,Beaumont,BEA,BEA,BEA
+1949,Central League,Dayton,DAY,DAY,DAY
+1949,Central League,Flint,FLI,FLI,FLI
+1949,Central League,Grand Rapids,GR,GR,GR
+1949,Central League,Charleston,CHA,CHA,CHA
+1949,Central League,Muskegon,MUS,MUS,MUS
+1949,Central League,Saginaw,SAG,SAG,SAG
+1949,Eastern League,Albany,ALB,ALB,ALB
+1949,Eastern League,Scranton,SCR,SCR,SCR
+1949,Eastern League,Wilkes-Barre,WB,WB,WB
+1949,Eastern League,Binghamton,BIN,BIN,BIN
+1949,Eastern League,Hartford,HAR,HAR,HAR
+1949,Eastern League,Williamsport,WPT,WPT,WPT
+1949,Eastern League,Elmira,ELM,ELM,ELM
+1949,Eastern League,Utica,UTI,UTI,UTI
+1949,South Atlantic League,Macon,MAC,MAC,MAC
+1949,South Atlantic League,Savannah,SAV,SAV,SAV
+1949,South Atlantic League,Greenville,GVL,GVL,GVL
+1949,South Atlantic League,Columbus,COL,COL,COL
+1949,South Atlantic League,Jacksonville,JAX,JAX,JAX
+1949,South Atlantic League,Augusta,AUG,AUG,AUG
+1949,South Atlantic League,Charleston,CHA,CHA,CHA
+1949,South Atlantic League,Columbia,CBA,CBA,CBA
+1949,Western League,Lincoln,LIN,LIN,LIN
+1949,Western League,Denver,DEN,DEN,DEN
+1949,Western League,Pueblo,PUE,PUE,PUE
+1949,Western League,Des Moines,DM,DM,DM
+1949,Western League,Omaha,OMA,OMA,OMA
+1949,Western League,Sioux City,SC,SC,SC
+1949,Big State League,Wichita Falls,WF,WF,WF
+1949,Big State League,Texarkana,TEX,TEX,TEX
+1949,Big State League,Austin,AUS,AUS,AUS
+1949,Big State League,Waco,WAC,WAC,WAC
+1949,Big State League,Sherman-Denison,SD,SD,SD
+1949,Big State League,Greenville,GVL,GVL,GVL
+1949,Big State League,Gainesville,GAI,GAI,GAI
+1949,Big State League,Temple,TEM,TEM,TEM
+1949,Carolina League,Danville,DAN,DAN,DAN
+1949,Carolina League,Winston-Salem,WS,WS,WS
+1949,Carolina League,Raleigh,RAL,RAL,RAL
+1949,Carolina League,Burlington,BUR,BUR,BUR
+1949,Carolina League,Greensboro,GBO,GBO,GBO
+1949,Carolina League,Durham,DUR,DUR,DUR
+1949,Carolina League,Reidsville,REI,REI,REI
+1949,Carolina League,Martinsville,MAR,MAR,MAR
+1949,Colonial League,Bristol,BRS,BRS,BRS
+1949,Colonial League,Stamford,STA,STA,STA
+1949,Colonial League,Bridgeport,BPT,BPT,BPT
+1949,Colonial League,Waterbury,WAT,WAT,WAT
+1949,Colonial League,Poughkeepsie,POU,POU,POU
+1949,Colonial League,Kingston,KIN,KIN,KIN
+1949,Florida International League,Havana,HAV,HAV,HAV
+1949,Florida International League,Miami,MIA,MIA,MIA
+1949,Florida International League,Miami Beach,MB,MB,MB
+1949,Florida International League,Tampa,TAM,TAM,TAM
+1949,Florida International League,West Palm Beach,WPB,WPB,WPB
+1949,Florida International League,Fort Lauderdale,FL,FL,FL
+1949,Florida International League,St. Petersburg,STP,STP,STP
+1949,Florida International League,Lakeland,LAK,LAK,LAK
+1949,Interstate League,Allentown,ALL,ALL,ALL
+1949,Interstate League,Wilmington,WIL,WIL,WIL
+1949,Interstate League,Harrisburg,HAR,HAR,HAR
+1949,Interstate League,Trenton,TRE,TRE,TRE
+1949,Interstate League,Lancaster,LAN,LAN,LAN
+1949,Interstate League,York,YOR,YOR,YOR
+1949,Interstate League,Sunbury,SUN,SUN,SUN
+1949,Interstate League,Hagerstown,HAG,HAG,HAG
+1949,New England League,Pawtucket,PAW,PAW,PAW
+1949,New England League,Nashua,NAS,NAS,NAS
+1949,New England League,Portland,POR,POR,POR
+1949,New England League,Springfield,SPR,SPR,SPR
+1949,New England League,Fall River,FR,FR,FR
+1949,New England League,Manchester,MAN,MAN,MAN
+1949,New England League,Lynn,LYN,LYN,LYN
+1949,New England League,Providence,PRO,PRO,PRO
+1949,Piedmont League,Lynchburg,LYN,LYN,LYN
+1949,Piedmont League,Portsmouth,POR,POR,POR
+1949,Piedmont League,Richmond,RIC,RIC,RIC
+1949,Piedmont League,Roanoke,ROA,ROA,ROA
+1949,Piedmont League,Norfolk,NOR,NOR,NOR
+1949,Piedmont League,Newport News,NN,NN,NN
+1949,Southeastern League,Pensacola,PEN,PEN,PEN
+1949,Southeastern League,Meridian,MER,MER,MER
+1949,Southeastern League,Jackson,JAC,JAC,JAC
+1949,Southeastern League,Vicksburg,VIC,VIC,VIC
+1949,Southeastern League,Montgomery,MON,MON,MON
+1949,Southeastern League,Anniston,ANN,ANN,ANN
+1949,Southeastern League,Selma,SEL,SEL,SEL
+1949,Southeastern League,Gadsden,GAD,GAD,GAD
+1949,Illinois-Indiana-Iowa League,Evansville,EVA,EVA,EVA
+1949,Illinois-Indiana-Iowa League,Waterloo,WAT,WAT,WAT
+1949,Illinois-Indiana-Iowa League,Terre Haute,TH,TH,TH
+1949,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1949,Illinois-Indiana-Iowa League,Quincy,QUI,QUI,QUI
+1949,Illinois-Indiana-Iowa League,Decatur,DEC,DEC,DEC
+1949,Illinois-Indiana-Iowa League,Danville,DAN,DAN,DAN
+1949,Illinois-Indiana-Iowa League,Springfield,SPR,SPR,SPR
+1949,Tri-State League,Florence,FLO,FLO,FLO
+1949,Tri-State League,Spartanburg,SPA,SPA,SPA
+1949,Tri-State League,Asheville,ASH,ASH,ASH
+1949,Tri-State League,Rock Hill,RH,RH,RH
+1949,Tri-State League,Knoxville,KNO,KNO,KNO
+1949,Tri-State League,Sumter,SUM,SUM,SUM
+1949,Tri-State League,Charlotte,CHA,CHA,CHA
+1949,Tri-State League,Anderson,AND,AND,AND
+1949,Western International League,Yakima,YAK,YAK,YAK
+1949,Western International League,Vancouver,VAN,VAN,VAN
+1949,Western International League,Spokane,SPO,SPO,SPO
+1949,Western International League,Wenatchee,WEN,WEN,WEN
+1949,Western International League,Victoria,VIC,VIC,VIC
+1949,Western International League,Salem,SAL,SAL,SAL
+1949,Western International League,Tacoma,TAC,TAC,TAC
+1949,Western International League,Bremerton,BRE,BRE,BRE
+1949,Arizona-Texas League,Phoenix,PHX,PHX,PHX
+1949,Arizona-Texas League,Juarez,JUA,JUA,JUA
+1949,Arizona-Texas League,Tucson,TUC,TUC,TUC
+1949,Arizona-Texas League,El Paso,ELP,ELP,ELP
+1949,Arizona-Texas League,Bisbee-Douglas,BD,BD,BD
+1949,Arizona-Texas League,Globe-Miami,GM,GM,GM
+1949,Border League,Geneva,GEN,GEN,GEN
+1949,Border League,Ottawa,OTT,OTT,OTT
+1949,Border League,Ogdensburg,OGD,OGD,OGD
+1949,Border League,Auburn,AUB,AUB,AUB
+1949,Border League,Watertown,WAT,WAT,WAT
+1949,Border League,Kingston,KIN,KIN,KIN
+1949,California League,Bakersfield,BAK,BAK,BAK
+1949,California League,Fresno,FRE,FRE,FRE
+1949,California League,Ventura,VEN,VEN,VEN
+1949,California League,San Jose,SJ,SJ,SJ
+1949,California League,Santa Barbara,SB,SB,SB
+1949,California League,Stockton,STO,STO,STO
+1949,California League,Modesto,MOD,MOD,MOD
+1949,California League,Visalia,VIS,VIS,VIS
+1949,Canadian-American League,Quebec,QUE,QUE,QUE
+1949,Canadian-American League,Oneonta,ONE,ONE,ONE
+1949,Canadian-American League,Trois-Rivieres,TR,TR,TR
+1949,Canadian-American League,Pittsfield,PIT,PIT,PIT
+1949,Canadian-American League,Amsterdam,AMS,AMS,AMS
+1949,Canadian-American League,Gloversville-Johnstown,GJ,GJ,GJ
+1949,Canadian-American League,Schenectady,SCH,SCH,SCH
+1949,Canadian-American League,Rome,ROM,ROM,ROM
+1949,Central Association,Burlington,BUR,BUR,BUR
+1949,Central Association,Keokuk,KEO,KEO,KEO
+1949,Central Association,Kewanee,KEW,KEW,KEW
+1949,Central Association,Cedar Rapids,CR,CR,CR
+1949,Central Association,Clinton,CLI,CLI,CLI
+1949,Central Association,Rockford,ROC,ROC,ROC
+1949,Cotton States League,Greenwood,GWD,GWD,GWD
+1949,Cotton States League,El Dorado,ELD,ELD,ELD
+1949,Cotton States League,Natchez,NAT,NAT,NAT
+1949,Cotton States League,Pine Bluff,PB,PB,PB
+1949,Cotton States League,Greenville,GVL,GVL,GVL
+1949,Cotton States League,Hot Springs,HS,HS,HS
+1949,Cotton States League,Clarksdale,CLA,CLA,CLA
+1949,Cotton States League,Helena,HEL,HEL,HEL
+1949,East Texas League,Longview,LON,LON,LON
+1949,East Texas League,Gladewater,GLA,GLA,GLA
+1949,East Texas League,Paris,PAR,PAR,PAR
+1949,East Texas League,Kilgore,KIL,KIL,KIL
+1949,East Texas League,Marshall,MAR,MAR,MAR
+1949,East Texas League,Tyler,TYL,TYL,TYL
+1949,East Texas League,Henderson,HEN,HEN,HEN
+1949,East Texas League,Bryan,BRY,BRY,BRY
+1949,Evangeline League,Houma,HOU,HOU,HOU
+1949,Evangeline League,Lafayette,LAF,LAF,LAF
+1949,Evangeline League,Hammond,HAM,HAM,HAM
+1949,Evangeline League,Alexandria,ALX,ALX,ALX
+1949,Evangeline League,Abbeville,ABB,ABB,ABB
+1949,Evangeline League,Thibodaux,THI,THI,THI
+1949,Evangeline League,New Iberia,NI,NI,NI
+1949,Evangeline League,Baton Rouge,BR,BR,BR
+1949,Middle Atlantic League,Erie,ERI,ERI,ERI
+1949,Middle Atlantic League,Johnstown,JOH,JOH,JOH
+1949,Middle Atlantic League,Youngstown,YOU,YOU,YOU
+1949,Middle Atlantic League,Oil City,OC,OC,OC
+1949,Middle Atlantic League,Butler,BUT,BUT,BUT
+1949,Middle Atlantic League,Vandergrift,VAN,VAN,VAN
+1949,Middle Atlantic League,Uniontown,UNI,UNI,UNI
+1949,Middle Atlantic League,New Castle,NC,NC,NC
+1949,Northern League,Eau Claire,EC,EC,EC
+1949,Northern League,Aberdeen,ABE,ABE,ABE
+1949,Northern League,St. Cloud,STC,STC,STC
+1949,Northern League,Superior,SUP,SUP,SUP
+1949,Northern League,Duluth,DUL,DUL,DUL
+1949,Northern League,Sioux Falls,SF,SF,SF
+1949,Northern League,Fargo-Moorhead,FM,FM,FM
+1949,Northern League,Grand Forks,GF,GF,GF
+1949,Pioneer League,Billings,BIL,BIL,BIL
+1949,Pioneer League,Pocatello,POC,POC,POC
+1949,Pioneer League,Salt Lake City,SLC,SLC,SLC
+1949,Pioneer League,Great Falls,GF,GF,GF
+1949,Pioneer League,Ogden,OGD,OGD,OGD
+1949,Pioneer League,Boise,BOI,BOI,BOI
+1949,Pioneer League,Idaho Falls,IF,IF,IF
+1949,Sunset League,Las Vegas,LV,LV,LV
+1949,Sunset League,Mexicali,MEX,MEX,MEX
+1949,Sunset League,San Bernardino,SB,SB,SB
+1949,Sunset League,Porterville,POR,POR,POR
+1949,Sunset League,El Centro,EC,EC,EC
+1949,Sunset League,Salinas/Tijuana,SAL+TIJ,,SAL+TIJ
+1949,Sunset League,Salinas,SAL+TIJ,SAL,SAL+TIJ
+1949,Sunset League,Tijuana,SAL+TIJ,TIJ,SAL+TIJ
+1949,Sunset League,Reno,REN,REN,REN
+1949,Sunset League,Riverside,RIV,RIV,RIV
+1949,West Texas-New Mexico League,Albuquerque,ALB,ALB,ALB
+1949,West Texas-New Mexico League,Abilene,ABI,ABI,ABI
+1949,West Texas-New Mexico League,Amarillo,AMA,AMA,AMA
+1949,West Texas-New Mexico League,Lamesa,LAM,LAM,LAM
+1949,West Texas-New Mexico League,Pampa,PAM,PAM,PAM
+1949,West Texas-New Mexico League,Lubbock,LUB,LUB,LUB
+1949,West Texas-New Mexico League,Borger,BOR,BOR,BOR
+1949,West Texas-New Mexico League,Clovis,CLO,CLO,CLO
+1949,Western Association,St. Joseph,STJ,STJ,STJ
+1949,Western Association,Fort Smith,FTS,FTS,FTS
+1949,Western Association,Joplin,JOP,JOP,JOP
+1949,Western Association,Topeka,TOP,TOP,TOP
+1949,Western Association,Muskogee,MUS,MUS,MUS
+1949,Western Association,Salina,SAL,SAL,SAL
+1949,Western Association,Hutchinson,HUT,HUT,HUT
+1949,Western Association,Leavenworth,LEA,LEA,LEA
+1949,Alabama State League,Greenville,GVL,GVL,GVL
+1949,Alabama State League,Ozark,OZA,OZA,OZA
+1949,Alabama State League,Enterprise,ENT,ENT,ENT
+1949,Alabama State League,Andalusia,AND,AND,AND
+1949,Alabama State League,Dothan,DOT,DOT,DOT
+1949,Alabama State League,Geneva,GEN,GEN,GEN
+1949,Alabama State League,Brewton,BRE,BRE,BRE
+1949,Alabama State League,Troy,TRO,TRO,TRO
+1949,Appalachian League,Bluefield,BLU,BLU,BLU
+1949,Appalachian League,Pulaski,PUL,PUL,PUL
+1949,Appalachian League,Bristol,BRI,BRI,BRI
+1949,Appalachian League,Johnson City,JC,JC,JC
+1949,Appalachian League,New River,NR,NR,NR
+1949,Appalachian League,Welch,WEL,WEL,WEL
+1949,Appalachian League,Elizabethton,ELI,ELI,ELI
+1949,Appalachian League,Kingsport,KIN,KIN,KIN
+1949,Blue Ridge League,Mount Airy,MTA,MTA,MTA
+1949,Blue Ridge League,Galax,GAL,GAL,GAL
+1949,Blue Ridge League,Wytheville,WYT,WYT,WYT
+1949,Blue Ridge League,North Wilkesboro,NWI,NWI,NWI
+1949,Blue Ridge League,Elkin,ELK,ELK,ELK
+1949,Blue Ridge League,Radford,RAD,RAD,RAD
+1949,Coastal Plain League,Rocky Mount,RM,RM,RM
+1949,Coastal Plain League,Kinston,KIN,KIN,KIN
+1949,Coastal Plain League,New Bern,NB,NB,NB
+1949,Coastal Plain League,Greenville,GVL,GVL,GVL
+1949,Coastal Plain League,Goldsboro,GOL,GOL,GOL
+1949,Coastal Plain League,Tarboro,TAR,TAR,TAR
+1949,Coastal Plain League,Roanoke Rapids,ROA,ROA,ROA
+1949,Coastal Plain League,Wilson,WIL,WIL,WIL
+1949,Eastern Shore League,Easton,EAS,EAS,EAS
+1949,Eastern Shore League,Federalsburg,FED,FED,FED
+1949,Eastern Shore League,Salisbury,SAL,SAL,SAL
+1949,Eastern Shore League,Rehoboth Beach,RB,RB,RB
+1949,Eastern Shore League,Seaford,SEA,SEA,SEA
+1949,Eastern Shore League,Cambridge,CAM,CAM,CAM
+1949,Far West League,Pittsburg,PIT,PIT,PIT
+1949,Far West League,Klamath Falls,KF,KF,KF
+1949,Far West League,Willows,WIL,WIL,WIL
+1949,Far West League,Redding,RED,RED,RED
+1949,Far West League,Marysville,MAR,MAR,MAR
+1949,Far West League,Medford,MED,MED,MED
+1949,Far West League,Santa Rosa,SR,SR,SR
+1949,Far West League,Vallejo,VAL,VAL,VAL
+1949,Florida State League,Gainesville,GAI,GAI,GAI
+1949,Florida State League,Daytona Beach,DB,DB,DB
+1949,Florida State League,St. Augustine,STA,STA,STA
+1949,Florida State League,Palatka,PAL,PAL,PAL
+1949,Florida State League,Sanford,SAN,SAN,SAN
+1949,Florida State League,DeLand,DEL,DEL,DEL
+1949,Florida State League,Orlando,ORL,ORL,ORL
+1949,Florida State League,Leesburg,LEE,LEE,LEE
+1949,Georgia State League,Eastman,EAS,EAS,EAS
+1949,Georgia State League,Douglas,DOU,DOU,DOU
+1949,Georgia State League,Tifton,TIF,TIF,TIF
+1949,Georgia State League,Vidalia-Lyons,VID,VID,VID
+1949,Georgia State League,Sparta,SPA,SPA,SPA
+1949,Georgia State League,Dublin,DUB,DUB,DUB
+1949,Georgia State League,Hazlehurst-Baxley,BAX,BAX,BAX
+1949,Georgia State League,Fitzgerald,FIT,FIT,FIT
+1949,Georgia-Alabama League,Newnan,NEW,NEW,NEW
+1949,Georgia-Alabama League,Alexander City,AC,AC,AC
+1949,Georgia-Alabama League,Tallassee,TAL,TAL,TAL
+1949,Georgia-Alabama League,La Grange,LAG,LAG,LAG
+1949,Georgia-Alabama League,Valley,VAL,VAL,VAL
+1949,Georgia-Alabama League,Opelika,OPE,OPE,OPE
+1949,Georgia-Alabama League,Carrollton,CAR,CAR,CAR
+1949,Georgia-Alabama League,Griffin,GRI,GRI,GRI
+1949,Georgia-Florida League,Albany,ALB,ALB,ALB
+1949,Georgia-Florida League,Valdosta,VAL,VAL,VAL
+1949,Georgia-Florida League,Waycross,WAY,WAY,WAY
+1949,Georgia-Florida League,Americus,AME,AME,AME
+1949,Georgia-Florida League,Thomasville,THO,THO,THO
+1949,Georgia-Florida League,Moultrie,MOU,MOU,MOU
+1949,Georgia-Florida League,Cordele,COR,COR,COR
+1949,Georgia-Florida League,Tallahassee,TAL,TAL,TAL
+1949,Kansas-Oklahoma-Missouri League,Independence,IND,IND,IND
+1949,Kansas-Oklahoma-Missouri League,Bartlesville,BAR,BAR,BAR
+1949,Kansas-Oklahoma-Missouri League,Iola,IOL,IOL,IOL
+1949,Kansas-Oklahoma-Missouri League,Ponca City,PC,PC,PC
+1949,Kansas-Oklahoma-Missouri League,Chanute,CHA,CHA,CHA
+1949,Kansas-Oklahoma-Missouri League,Carthage,CAR,CAR,CAR
+1949,Kansas-Oklahoma-Missouri League,Miami,MIA,MIA,MIA
+1949,Kansas-Oklahoma-Missouri League,Pittsburg,PIT,PIT,PIT
+1949,Kentucky-Illinois-Tennessee League,Owensboro,OWE,OWE,OWE
+1949,Kentucky-Illinois-Tennessee League,Cairo,CAI,CAI,CAI
+1949,Kentucky-Illinois-Tennessee League,Hopkinsville,HOP,HOP,HOP
+1949,Kentucky-Illinois-Tennessee League,Madisonville,MAD,MAD,MAD
+1949,Kentucky-Illinois-Tennessee League,Union City,UC,UC,UC
+1949,Kentucky-Illinois-Tennessee League,Fulton,FUL,FUL,FUL
+1949,Kentucky-Illinois-Tennessee League,Clarksville,CLA,CLA,CLA
+1949,Kentucky-Illinois-Tennessee League,Mayfield,MAY,MAY,MAY
+1949,Longhorn League,Big Spring,BIG,BIG,BIG
+1949,Longhorn League,Midland,MID,MID,MID
+1949,Longhorn League,Vernon,VER,VER,VER
+1949,Longhorn League,San Angelo,SA,SA,SA
+1949,Longhorn League,Odessa,ODE,ODE,ODE
+1949,Longhorn League,Ballinger,BAL,BAL,BAL
+1949,Longhorn League,Sweetwater,SWE,SWE,SWE
+1949,Longhorn League,Roswell,ROS,ROS,ROS
+1949,Mississippi-Ohio Valley League,Centralia,CEN,CEN,CEN
+1949,Mississippi-Ohio Valley League,West Frankfort,WF,WF,WF
+1949,Mississippi-Ohio Valley League,Mattoon,MAT,MAT,MAT
+1949,Mississippi-Ohio Valley League,Paducah,PAD,PAD,PAD
+1949,Mississippi-Ohio Valley League,Mount Vernon,MV,MV,MV
+1949,Mississippi-Ohio Valley League,Belleville,BEL,BEL,BEL
+1949,Mountain States League,Harlan,HAR,HAR,HAR
+1949,Mountain States League,Morristown,MOR,MOR,MOR
+1949,Mountain States League,Middlesboro,MID,MID,MID
+1949,Mountain States League,Jenkins,JEN,JEN,JEN
+1949,Mountain States League,Pennington Gap,PEN,PEN,PEN
+1949,Mountain States League,Newport,NEW,NEW,NEW
+1949,Mountain States League,Big Stone Gap,BSG,BSG,BSG
+1949,Mountain States League,Hazard,HAZ,HAZ,HAZ
+1949,North Atlantic League,Stroudsburg,STR,STR,STR
+1949,North Atlantic League,Lebanon,LEB,LEB,LEB
+1949,North Atlantic League,Mahanoy City,MC,MC,MC
+1949,North Atlantic League,Peekskill,PKS,PKS,PKS
+1949,North Atlantic League,Carbondale,CAR,CAR,CAR
+1949,North Atlantic League,Bangor/Berwick,BAN+BER,,BAN+BER
+1949,North Atlantic League,Bangor,BAN+BER,BAN,BAN+BER
+1949,North Atlantic League,Berwick,BAN+BER,BER,BAN+BER
+1949,North Atlantic League,Hazleton,HAZ,HAZ,HAZ
+1949,North Atlantic League,Nazareth,NAZ,NAZ,NAZ
+1949,North Carolina State League,High Point-Thomasville,HPT,HPT,HPT
+1949,North Carolina State League,Mooresville,MOO,MOO,MOO
+1949,North Carolina State League,Landis,LAN,LAN,LAN
+1949,North Carolina State League,Lexington,LEX,LEX,LEX
+1949,North Carolina State League,Statesville,STA,STA,STA
+1949,North Carolina State League,Concord,CON,CON,CON
+1949,North Carolina State League,Hickory,HIC,HIC,HIC
+1949,North Carolina State League,Salisbury,SAL,SAL,SAL
+1949,Ohio-Indiana League,Portsmouth,POR,POR,POR
+1949,Ohio-Indiana League,Springfield,SPR,SPR,SPR
+1949,Ohio-Indiana League,Muncie,MUN,MUN,MUN
+1949,Ohio-Indiana League,Marion,MAR,MAR,MAR
+1949,Ohio-Indiana League,Zanesville,ZAN,ZAN,ZAN
+1949,Ohio-Indiana League,Newark,NEW,NEW,NEW
+1949,Ohio-Indiana League,Richmond,RIC,RIC,RIC
+1949,Ohio-Indiana League,Lima,LIM,LIM,LIM
+1949,Pennsylvania-Ohio-New York League,Bradford,BRA,BRA,BRA
+1949,Pennsylvania-Ohio-New York League,Jamestown,JAM,JAM,JAM
+1949,Pennsylvania-Ohio-New York League,Hamilton,HAM,HAM,HAM
+1949,Pennsylvania-Ohio-New York League,Batavia,BAT,BAT,BAT
+1949,Pennsylvania-Ohio-New York League,Hornell,HOR,HOR,HOR
+1949,Pennsylvania-Ohio-New York League,Lockport,LOC,LOC,LOC
+1949,Pennsylvania-Ohio-New York League,Wellsville,WEL,WEL,WEL
+1949,Pennsylvania-Ohio-New York League,Olean,OLE,OLE,OLE
+1949,Rio Grande Valley League,Corpus Christi,CC,CC,CC
+1949,Rio Grande Valley League,Laredo,LAR,LAR,LAR
+1949,Rio Grande Valley League,Brownsville,BRO,BRO,BRO
+1949,Rio Grande Valley League,McAllen,MCA,MCA,MCA
+1949,Rio Grande Valley League,Del Rio,DR,DR,DR
+1949,Rio Grande Valley League,Donna/Robstown,DON+ROB,,DON+ROB
+1949,Rio Grande Valley League,Donna,DON+ROB,DON,DON+ROB
+1949,Rio Grande Valley League,Robstown,DON+ROB,ROB,DON+ROB
+1949,Sooner State League,Pauls Valley,PV,PV,PV
+1949,Sooner State League,Lawton,LAW,LAW,LAW
+1949,Sooner State League,Chickasha,CHI,CHI,CHI
+1949,Sooner State League,Ada,ADA,ADA,ADA
+1949,Sooner State League,Duncan,DUN,DUN,DUN
+1949,Sooner State League,McAlester,MCA,MCA,MCA
+1949,Sooner State League,Ardmore,ARD,ARD,ARD
+1949,Sooner State League,Seminole,SEM,SEM,SEM
+1949,Tobacco State League,Dunn-Erwin,DUN,DUN,DUN
+1949,Tobacco State League,Red Springs,RS,RS,RS
+1949,Tobacco State League,Lumberton,LUM,LUM,LUM
+1949,Tobacco State League,Sanford,SAN,SAN,SAN
+1949,Tobacco State League,Smithfield-Selma,SS,SS,SS
+1949,Tobacco State League,Fayetteville,FAY,FAY,FAY
+1949,Tobacco State League,Clinton,CLI,CLI,CLI
+1949,Tobacco State League,Wilmington,WIL,WIL,WIL
+1949,Virginia League,Franklin,FRA,FRA,FRA
+1949,Virginia League,Petersburg,PET,PET,PET
+1949,Virginia League,Emporia,EMP,EMP,EMP
+1949,Virginia League,Suffolk,SUF,SUF,SUF
+1949,Virginia League,Hopewell,HOP,HOP,HOP
+1949,Virginia League,Lawrenceville,LAW,LAW,LAW
+1949,Western Carolina League,Newton-Conover,NC,NC,NC
+1949,Western Carolina League,Lincolnton,LIN,LIN,LIN
+1949,Western Carolina League,Rutherford County,RC,RC,RC
+1949,Western Carolina League,Morganton,MOR,MOR,MOR
+1949,Western Carolina League,Lenoir,LEN,LEN,LEN
+1949,Western Carolina League,Marion,MAR,MAR,MAR
+1949,Western Carolina League,Shelby,SHE,SHE,SHE
+1949,Western Carolina League,Hendersonville,HEN,HEN,HEN
+1949,Wisconsin State League,Oshkosh,OSH,OSH,OSH
+1949,Wisconsin State League,Green Bay,GB,GB,GB
+1949,Wisconsin State League,Sheboygan,SHE,SHE,SHE
+1949,Wisconsin State League,Wisconsin Rapids,WR,WR,WR
+1949,Wisconsin State League,Fond du Lac,FDL,FDL,FDL
+1949,Wisconsin State League,Appleton,APP,APP,APP
+1949,Wisconsin State League,Wausau,WAU,WAU,WAU
+1949,Wisconsin State League,Janesville,JAN,JAN,JAN
+1949,Mexican League,Monterrey,MTY,MTY,MTY
+1949,Mexican League,Torreon,TOR,TOR,TOR
+1949,Mexican League,Jalisco,JAL,JAL,JAL
+1949,Mexican League,Veracruz Azules,AZU,AZU,AZU
+1949,Mexican League,Mexico City,MXC,MXC,MXC
+1949,Mexican League,San Luis Potosi,SLP,SLP,SLP
+1949,Mexican League,Veracruz Aguila,AGU,AGU,AGU
+1949,Mexican League,Nuevo Laredo,NL,NL,NL
+1949,Provincial League,Drummondville,DRU,DRU,DRU
+1949,Provincial League,Granby,GRA,GRA,GRA
+1949,Provincial League,Sherbrooke,SHE,SHE,SHE
+1949,Provincial League,St. Jean,STJ,STJ,STJ
+1949,Provincial League,Farnham,FAR,FAR,FAR
+1949,Provincial League,St. Hyacinthe,STH,STH,STH

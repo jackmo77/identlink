@@ -1,8 +1,8 @@
 league.key,league.year,league.name.full,league.name.short
-1949-AAGL,1949,All-American Girls Professional Baseball League,AAGPBL
 1949-ALSL,1949,Alabama State League,Alabama State
-1949-AL,1949,American League,American
+1949-AAGL,1949,All-American Girls Professional Baseball League,AAGPBL
 1949-AA,1949,American Association,American Association
+1949-AL,1949,American League,American
 1949-APPY,1949,Appalachian League,Appalachian
 1949-AZTX,1949,Arizona-Texas League,Arizona-Texas
 1949-BASA,1949,Baseball Association Of America,Baseball Association Of America
@@ -13,9 +13,10 @@ league.key,league.year,league.name.full,league.name.short
 1949-CAML,1949,Canadian-American League,Canadian-American
 1949-CAZL,1949,Canal Zone League,Canal Zone
 1949-CARL,1949,Carolina League,Carolina
-1949-CENL,1949,Central League,Central
 1949-CENA,1949,Central Association,Central Association
+1949-CENL,1949,Central League,Central
 1949-COPL,1949,Coastal Plain League,Coastal Plain
+1949-COL,1949,Collegiate Teams,Collegiate
 1949-COLL,1949,Colonial League,Colonial
 1949-CSTL,1949,Cotton States League,Cotton States
 1949-CUBL,1949,Cuban League,Cuban
@@ -30,8 +31,8 @@ league.key,league.year,league.name.full,league.name.short
 1949-GASL,1949,Georgia State League,Georgia State
 1949-GAAL,1949,Georgia-Alabama League,Georgia-Alabama
 1949-GAFL,1949,Georgia-Florida League,Georgia-Florida
-1949-INDN,1949,Independent Negro,Independent Negro
 1949-IIIL,1949,Illinois-Indiana-Iowa League,Illinois-Indiana-Iowa
+1949-INDN,1949,Independent Negro,Independent Negro
 1949-IL,1949,International League,International
 1949-ISLG,1949,Interstate League,Interstate
 1949-JPBL,1949,Japanese Baseball League,Japanese
@@ -72,8 +73,8 @@ league.key,league.year,league.name.full,league.name.short
 1949-VEWL,1949,Venezuelan Winter League,Venezuelan Winter
 1949-VIRL,1949,Virginia League,Virginia
 1949-WTNM,1949,West Texas-New Mexico League,West Texas-New Mexico
-1949-WL,1949,Western League,Western
 1949-WA,1949,Western Association,Western Association
 1949-WCAR,1949,Western Carolina League,Western Carolina
 1949-WINT,1949,Western International League,Western International
+1949-WL,1949,Western League,Western
 1949-WISL,1949,Wisconsin State League,Wisconsin State

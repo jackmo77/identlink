@@ -1,0 +1,347 @@
+league.year,league.name.full,entry.name,entry.key,team.key,club.key
+1946,American League,Boston,BOS,BOS,BOS
+1946,American League,Detroit,DET,DET,DET
+1946,American League,New York,NYA,NYA,NYA
+1946,American League,Washington,WS1,WS1,WS1
+1946,American League,Chicago,CHA,CHA,CHA
+1946,American League,Cleveland,CLE,CLE,CLE
+1946,American League,St. Louis,SLA,SLA,SLA
+1946,American League,Philadelphia,PHA,PHA,PHA
+1946,National League,St. Louis,SLN,SLN,SLN
+1946,National League,Brooklyn,BRO,BRO,BRO
+1946,National League,Chicago,CHN,CHN,CHN
+1946,National League,Boston,BSN,BSN,BSN
+1946,National League,Philadelphia,PHI,PHI,PHI
+1946,National League,Cincinnati,CIN,CIN,CIN
+1946,National League,Pittsburgh,PIT,PIT,PIT
+1946,National League,New York,NY1,NY1,NY1
+1946,American Association,Louisville,LOU,LOU,LOU
+1946,American Association,Indianapolis,IND,IND,IND
+1946,American Association,St. Paul,STP,STP,STP
+1946,American Association,Minneapolis,MIN,MIN,MIN
+1946,American Association,Milwaukee,MIL,MIL,MIL
+1946,American Association,Toledo,TOL,TOL,TOL
+1946,American Association,Kansas City,KC,KC,KC
+1946,American Association,Columbus,COL,COL,COL
+1946,International League,Montreal,MON,MON,MON
+1946,International League,Syracuse,SYR,SYR,SYR
+1946,International League,Baltimore,BAL,BAL,BAL
+1946,International League,Newark,NEW,NEW,NEW
+1946,International League,Buffalo,BUF,BUF,BUF
+1946,International League,Toronto,TOR,TOR,TOR
+1946,International League,Rochester,ROC,ROC,ROC
+1946,International League,Jersey City,JC,JC,JC
+1946,Pacific Coast League,San Francisco,SF,SF,SF
+1946,Pacific Coast League,Oakland,OAK,OAK,OAK
+1946,Pacific Coast League,Hollywood,HOL,HOL,HOL
+1946,Pacific Coast League,Los Angeles,LA,LA,LA
+1946,Pacific Coast League,Sacramento,SAC,SAC,SAC
+1946,Pacific Coast League,San Diego,SD,SD,SD
+1946,Pacific Coast League,Portland,POR,POR,POR
+1946,Pacific Coast League,Seattle,SEA,SEA,SEA
+1946,Southern Association,Atlanta,ATL,ATL,ATL
+1946,Southern Association,Memphis,MEM,MEM,MEM
+1946,Southern Association,Chattanooga,CHA,CHA,CHA
+1946,Southern Association,New Orleans,NO,NO,NO
+1946,Southern Association,Nashville,NAS,NAS,NAS
+1946,Southern Association,Mobile,MOB,MOB,MOB
+1946,Southern Association,Birmingham,BIR,BIR,BIR
+1946,Southern Association,Little Rock,LR,LR,LR
+1946,Texas League,Fort Worth,FW,FW,FW
+1946,Texas League,Dallas,DAL,DAL,DAL
+1946,Texas League,San Antonio,SAC,SAC,SAC
+1946,Texas League,Tulsa,TUL,TUL,TUL
+1946,Texas League,Beaumont,BEA,BEA,BEA
+1946,Texas League,Houston,HOU,HOU,HOU
+1946,Texas League,Shreveport,SHR,SHR,SHR
+1946,Texas League,Oklahoma City,OKC,OKC,OKC
+1946,Eastern League,Scranton,SCR,SCR,SCR
+1946,Eastern League,Albany,ALB,ALB,ALB
+1946,Eastern League,Wilkes-Barre,WB,WB,WB
+1946,Eastern League,Hartford,HAR,HAR,HAR
+1946,Eastern League,Elmira,ELM,ELM,ELM
+1946,Eastern League,Williamsport,WPT,WPT,WPT
+1946,Eastern League,Utica,UTI,UTI,UTI
+1946,Eastern League,Binghamton,BIN,BIN,BIN
+1946,South Atlantic League,Columbus,COL,COL,COL
+1946,South Atlantic League,Columbia,CBA,CBA,CBA
+1946,South Atlantic League,Greenville,GVL,GVL,GVL
+1946,South Atlantic League,Augusta,AUG,AUG,AUG
+1946,South Atlantic League,Charleston,CHA,CHA,CHA
+1946,South Atlantic League,Jacksonville,JAX,JAX,JAX
+1946,South Atlantic League,Macon,MAC,MAC,MAC
+1946,South Atlantic League,Savannah,SAV,SAV,SAV
+1946,Interstate League,Wilmington,WIL,WIL,WIL
+1946,Interstate League,Harrisburg,HAR,HAR,HAR
+1946,Interstate League,Hagerstown,HAG,HAG,HAG
+1946,Interstate League,Allentown,ALL,ALL,ALL
+1946,Interstate League,York,YOR,YOR,YOR
+1946,Interstate League,Sunbury,SUN,SUN,SUN
+1946,Interstate League,Trenton,TRE,TRE,TRE
+1946,Interstate League,Lancaster,LAN,LAN,LAN
+1946,Mexican National League,Juarez,JUA,JUA,JUA
+1946,Mexican National League,Chihuahua,CHI,CHI,CHI
+1946,Mexican National League,Saltillo,SAL,SAL,SAL
+1946,Mexican National League,El Paso,ELP,ELP,ELP
+1946,Mexican National League,Mexico City,MXC,MXC,MXC
+1946,Mexican National League,Torreon-Gomez Palacio,TOR,TOR,TOR
+1946,New England League,Lynn,LYN,LYN,LYN
+1946,New England League,Nashua,NAS,NAS,NAS
+1946,New England League,Manchester,MAN,MAN,MAN
+1946,New England League,Pawtucket,PAW,PAW,PAW
+1946,New England League,Lawrence,LAW,LAW,LAW
+1946,New England League,Providence,PRO,PRO,PRO
+1946,New England League,Fall River,FR,FR,FR
+1946,New England League,Portland,POR,POR,POR
+1946,Piedmont League,Roanoke,ROA,ROA,ROA
+1946,Piedmont League,Portsmouth,POR,POR,POR
+1946,Piedmont League,Newport News,NN,NN,NN
+1946,Piedmont League,Norfolk,NOR,NOR,NOR
+1946,Piedmont League,Richmond,RIC,RIC,RIC
+1946,Piedmont League,Lynchburg,LYN,LYN,LYN
+1946,Southeastern League,Pensacola,PEN,PEN,PEN
+1946,Southeastern League,Anniston,ANN,ANN,ANN
+1946,Southeastern League,Vicksburg,VIC,VIC,VIC
+1946,Southeastern League,Montgomery,MON,MON,MON
+1946,Southeastern League,Jackson,JAC,JAC,JAC
+1946,Southeastern League,Gadsden,GAD,GAD,GAD
+1946,Southeastern League,Selma,SEL,SEL,SEL
+1946,Southeastern League,Meridian,MER,MER,MER
+1946,Illinois-Indiana-Iowa League,Davenport,DAV,DAV,DAV
+1946,Illinois-Indiana-Iowa League,Danville,DAN,DAN,DAN
+1946,Illinois-Indiana-Iowa League,Evansville,EVA,EVA,EVA
+1946,Illinois-Indiana-Iowa League,Terre Haute,TH,TH,TH
+1946,Illinois-Indiana-Iowa League,Waterloo,WAT,WAT,WAT
+1946,Illinois-Indiana-Iowa League,Springfield,SPR,SPR,SPR
+1946,Illinois-Indiana-Iowa League,Decatur,DEC,DEC,DEC
+1946,Illinois-Indiana-Iowa League,Quincy,QUI,QUI,QUI
+1946,Tri-State League,Charlotte,CHA,CHA,CHA
+1946,Tri-State League,Asheville,ASH,ASH,ASH
+1946,Tri-State League,Knoxville,KNO,KNO,KNO
+1946,Tri-State League,Shelby,SHE,SHE,SHE
+1946,Tri-State League,Anderson,AND,AND,AND
+1946,Tri-State League,Spartanburg,SPA,SPA,SPA
+1946,Western International League,Wenatchee,WEN,WEN,WEN
+1946,Western International League,Salem,SAL,SAL,SAL
+1946,Western International League,Bremerton,BRE,BRE,BRE
+1946,Western International League,Tacoma,TAC,TAC,TAC
+1946,Western International League,Yakima,YAK,YAK,YAK
+1946,Western International League,Vancouver,VAN,VAN,VAN
+1946,Western International League,Spokane,SPO,SPO,SPO
+1946,Western International League,Victoria,VIC,VIC,VIC
+1946,Border League,Auburn,AUB,AUB,AUB
+1946,Border League,Watertown,WAT,WAT,WAT
+1946,Border League,Kingston,KIN,KIN,KIN
+1946,Border League,Granby,GRA,GRA,GRA
+1946,Border League,Ogdensburg,OGD,OGD,OGD
+1946,Border League,Sherbrooke,SHE,SHE,SHE
+1946,California League,Stockton,STO,STO,STO
+1946,California League,Santa Barbara,SB,SB,SB
+1946,California League,Bakersfield,BAK,BAK,BAK
+1946,California League,Modesto,MOD,MOD,MOD
+1946,California League,Fresno,FRE,FRE,FRE
+1946,California League,Visalia,VIS,VIS,VIS
+1946,Canadian-American League,Trois-Rivieres,TR,TR,TR
+1946,Canadian-American League,Pittsfield,PIT,PIT,PIT
+1946,Canadian-American League,Rome,ROM,ROM,ROM
+1946,Canadian-American League,Oneonta,ONE,ONE,ONE
+1946,Canadian-American League,Amsterdam,AMS,AMS,AMS
+1946,Canadian-American League,Gloversville-Johnstown,GLO,GLO,GLO
+1946,Canadian-American League,Schenectady,SCH,SCH,SCH
+1946,Canadian-American League,Quebec,QUE,QUE,QUE
+1946,Carolina League,Greensboro,GBO,GBO,GBO
+1946,Carolina League,Raleigh,RAL,RAL,RAL
+1946,Carolina League,Durham,DUR,DUR,DUR
+1946,Carolina League,Burlington,BUR,BUR,BUR
+1946,Carolina League,Winston-Salem,WS,WS,WS
+1946,Carolina League,Martinsville,MAR,MAR,MAR
+1946,Carolina League,Danville-Schoolfield,DAN,DAN,DAN
+1946,Carolina League,Leaksville-Draper-Spray,LDS,LDS,LDS
+1946,East Texas League,Henderson,HEN,HEN,HEN
+1946,East Texas League,Texarkana,TEX,TEX,TEX
+1946,East Texas League,Tyler,TYL,TYL,TYL
+1946,East Texas League,Greenville,GVL,GVL,GVL
+1946,East Texas League,Sherman,SHE,SHE,SHE
+1946,East Texas League,Paris,PAR,PAR,PAR
+1946,East Texas League,Jacksonville,JAX,JAX,JAX
+1946,East Texas League,Lufkin,LUF,LUF,LUF
+1946,Florida International League,Havana,HAV,HAV,HAV
+1946,Florida International League,Tampa,TAM,TAM,TAM
+1946,Florida International League,Miami Beach,MB,MB,MB
+1946,Florida International League,West Palm Beach,WPB,WPB,WPB
+1946,Florida International League,Lakeland,LAK,LAK,LAK
+1946,Florida International League,Miami,MIA,MIA,MIA
+1946,Middle Atlantic League,Erie,ERI,ERI,ERI
+1946,Middle Atlantic League,Butler,BUT,BUT,BUT
+1946,Middle Atlantic League,Youngstown,YOU,YOU,YOU
+1946,Middle Atlantic League,Niagara Falls,NF,NF,NF
+1946,Middle Atlantic League,Johnstown,JOH,JOH,JOH
+1946,Middle Atlantic League,Oil City,OC,OC,OC
+1946,Northern League,St. Cloud,STC,STC,STC
+1946,Northern League,Fargo-Moorhead,FM,FM,FM
+1946,Northern League,Superior,SUP,SUP,SUP
+1946,Northern League,Eau Claire,EC,EC,EC
+1946,Northern League,Aberdeen,ABE,ABE,ABE
+1946,Northern League,Grand Forks,GF,GF,GF
+1946,Northern League,Sioux Falls,SF,SF,SF
+1946,Northern League,Duluth,DUL,DUL,DUL
+1946,Pioneer League,Salt Lake City,SLC,SLC,SLC
+1946,Pioneer League,Twin Falls,TF,TF,TF
+1946,Pioneer League,Ogden,OGD,OGD,OGD
+1946,Pioneer League,Pocatello,POC,POC,POC
+1946,Pioneer League,Idaho Falls,IDF,IDF,IDF
+1946,Pioneer League,Boise,BOI,BOI,BOI
+1946,West Texas-New Mexico League,Abilene,ABI,ABI,ABI
+1946,West Texas-New Mexico League,Pampa,PAM,PAM,PAM
+1946,West Texas-New Mexico League,Amarillo,AMA,AMA,AMA
+1946,West Texas-New Mexico League,Lubbock,LUB,LUB,LUB
+1946,West Texas-New Mexico League,Borger,BOR,BOR,BOR
+1946,West Texas-New Mexico League,Albuquerque,ALB,ALB,ALB
+1946,West Texas-New Mexico League,Clovis,CLO,CLO,CLO
+1946,West Texas-New Mexico League,Lamesa,LAM,LAM,LAM
+1946,Western Association,Leavenworth,LEA,LEA,LEA
+1946,Western Association,Hutchinson,HUT,HUT,HUT
+1946,Western Association,St. Joseph,STJ,STJ,STJ
+1946,Western Association,Muskogee,MUS,MUS,MUS
+1946,Western Association,Fort Smith,FS,FS,FS
+1946,Western Association,Joplin,JOP,JOP,JOP
+1946,Western Association,Topeka,TOP,TOP,TOP
+1946,Western Association,Salina,SAL,SAL,SAL
+1946,Alabama State League,Dothan,DOT,DOT,DOT
+1946,Alabama State League,Geneva,GEN,GEN,GEN
+1946,Alabama State League,Greenville,GVL,GVL,GVL
+1946,Alabama State League,Brewton,BRE,BRE,BRE
+1946,Alabama State League,Troy,TRO,TRO,TRO
+1946,Alabama State League,Ozark,OZA,OZA,OZA
+1946,Appalachian League,New River,NR,NR,NR
+1946,Appalachian League,Bristol,BRI,BRI,BRI
+1946,Appalachian League,Elizabethton,ELI,ELI,ELI
+1946,Appalachian League,Pulaski,PUL,PUL,PUL
+1946,Appalachian League,Johnson City,JC,JC,JC
+1946,Appalachian League,Kingsport,KIN,KIN,KIN
+1946,Appalachian League,Bluefield,BLU,BLU,BLU
+1946,Appalachian League,Welch,WEL,WEL,WEL
+1946,Blue Ridge League,Salem/Lenoir,SAL+LEN,,SAL+LEN
+1946,Blue Ridge League,Salem,SAL+LEN,SAL,SAL+LEN
+1946,Blue Ridge League,Lenoir,SAL+LEN,LEN,SAL+LEN
+1946,Blue Ridge League,Mount Airy,MTA,MTA,MTA
+1946,Blue Ridge League,Radford,RAD,RAD,RAD
+1946,Blue Ridge League,Galax,GAL,GAL,GAL
+1946,Coastal Plain League,Rocky Mount,RM,RM,RM
+1946,Coastal Plain League,Kinston,KIN,KIN,KIN
+1946,Coastal Plain League,Wilson,WIL,WIL,WIL
+1946,Coastal Plain League,Goldsboro,GOL,GOL,GOL
+1946,Coastal Plain League,Tarboro,TAR,TAR,TAR
+1946,Coastal Plain League,Greenville,GVL,GVL,GVL
+1946,Coastal Plain League,New Bern,NB,NB,NB
+1946,Coastal Plain League,Fayetteville,FAY,FAY,FAY
+1946,Eastern Shore League,Centreville,CEN,CEN,CEN
+1946,Eastern Shore League,Milford,MIL,MIL,MIL
+1946,Eastern Shore League,Dover,DOV,DOV,DOV
+1946,Eastern Shore League,Salisbury,SAL,SAL,SAL
+1946,Eastern Shore League,Easton,EAS,EAS,EAS
+1946,Eastern Shore League,Seaford,SEA,SEA,SEA
+1946,Eastern Shore League,Cambridge,CAM,CAM,CAM
+1946,Eastern Shore League,Federalsburg,FED,FED,FED
+1946,Evangeline League,Houma,HOU,HOU,HOU
+1946,Evangeline League,Natchez,NAT,NAT,NAT
+1946,Evangeline League,Abbeville,ABB,ABB,ABB
+1946,Evangeline League,Alexandria,ALX,ALX,ALX
+1946,Evangeline League,New Iberia,NI,NI,NI
+1946,Evangeline League,Thibodaux,THI,THI,THI
+1946,Evangeline League,Baton Rouge,BR,BR,BR
+1946,Evangeline League,Hammond,HAM,HAM,HAM
+1946,Florida State League,Orlando,ORL,ORL,ORL
+1946,Florida State League,Sanford,SAN,SAN,SAN
+1946,Florida State League,St. Augustine,STA,STA,STA
+1946,Florida State League,DeLand,DEL,DEL,DEL
+1946,Florida State League,Leesburg,LEE,LEE,LEE
+1946,Florida State League,Palatka,PAL,PAL,PAL
+1946,Florida State League,Daytona Beach,DB,DB,DB
+1946,Florida State League,Gainesville,GAI,GAI,GAI
+1946,Georgia-Alabama League,Carrollton,CAR,CAR,CAR
+1946,Georgia-Alabama League,Valley,VAL,VAL,VAL
+1946,Georgia-Alabama League,Tallassee,TAL,TAL,TAL
+1946,Georgia-Alabama League,Newnan,NEW,NEW,NEW
+1946,Georgia-Alabama League,La Grange,LAG,LAG,LAG
+1946,Georgia-Alabama League,Opelika,OPE,OPE,OPE
+1946,Georgia-Florida League,Americus,AME,AME,AME
+1946,Georgia-Florida League,Moultrie,MOU,MOU,MOU
+1946,Georgia-Florida League,Waycross,WAY,WAY,WAY
+1946,Georgia-Florida League,Valdosta,VAL,VAL,VAL
+1946,Georgia-Florida League,Tallahassee,TAL,TAL,TAL
+1946,Georgia-Florida League,Albany,ALB,ALB,ALB
+1946,Georgia-Florida League,Thomasville,THO,THO,THO
+1946,Georgia-Florida League,Cordele,COR,COR,COR
+1946,Kansas-Oklahoma-Missouri League,Chanute,CHA,CHA,CHA
+1946,Kansas-Oklahoma-Missouri League,Miami,MIA,MIA,MIA
+1946,Kansas-Oklahoma-Missouri League,Iola,IOL,IOL,IOL
+1946,Kansas-Oklahoma-Missouri League,Pittsburg,PIT,PIT,PIT
+1946,Kansas-Oklahoma-Missouri League,Carthage,CAR,CAR,CAR
+1946,Kansas-Oklahoma-Missouri League,Bartlesville,BAR,BAR,BAR
+1946,Kentucky-Illinois-Tennessee League,Owensboro,OWE,OWE,OWE
+1946,Kentucky-Illinois-Tennessee League,Hopkinsville,HOP,HOP,HOP
+1946,Kentucky-Illinois-Tennessee League,Fulton,FUL,FUL,FUL
+1946,Kentucky-Illinois-Tennessee League,Mayfield,MAY,MAY,MAY
+1946,Kentucky-Illinois-Tennessee League,Clarksville,CLA,CLA,CLA
+1946,Kentucky-Illinois-Tennessee League,Madisonville,MAD,MAD,MAD
+1946,Kentucky-Illinois-Tennessee League,Union City,UC,UC,UC
+1946,Kentucky-Illinois-Tennessee League,Cairo,CAI,CAI,CAI
+1946,North Atlantic League,Peekskill,PKS,PKS,PKS
+1946,North Atlantic League,Nazareth,NAZ,NAZ,NAZ
+1946,North Atlantic League,Stroudsburg,STR,STR,STR
+1946,North Atlantic League,Carbondale,CAR,CAR,CAR
+1946,North Atlantic League,Nyack,NYA,NYA,NYA
+1946,North Atlantic League,Bloomingdale,BLO,BLO,BLO
+1946,North Atlantic League,Mahanoy City,MC,MC,MC
+1946,North Atlantic League,Newburgh/Walden,NEW+WAL,,NEW+WAL
+1946,North Atlantic League,Newburgh,NEW+WAL,NEW,NEW+WAL
+1946,North Atlantic League,Walden,NEW+WAL,WAL,NEW+WAL
+1946,North Carolina State League,Concord,CON,CON,CON
+1946,North Carolina State League,Landis,LAN,LAN,LAN
+1946,North Carolina State League,Thomasville,THO,THO,THO
+1946,North Carolina State League,Mooresville,MOO,MOO,MOO
+1946,North Carolina State League,Salisbury,SAL,SAL,SAL
+1946,North Carolina State League,Hickory,HIC,HIC,HIC
+1946,North Carolina State League,Statesville,STA,STA,STA
+1946,North Carolina State League,Lexington,LEX,LEX,LEX
+1946,Ohio State League,Springfield,SPR,SPR,SPR
+1946,Ohio State League,Zanesville,ZAN,ZAN,ZAN
+1946,Ohio State League,Richmond,RIC,RIC,RIC
+1946,Ohio State League,Newark,NEW,NEW,NEW
+1946,Ohio State League,Lima,LIM,LIM,LIM
+1946,Ohio State League,Marion,MAR,MAR,MAR
+1946,Ohio State League,Dayton,DAY,DAY,DAY
+1946,Ohio State League,Middletown,MID,MID,MID
+1946,Pennsylvania-Ontario-New York League,Jamestown,JAM,JAM,JAM
+1946,Pennsylvania-Ontario-New York League,Batavia,BAT,BAT,BAT
+1946,Pennsylvania-Ontario-New York League,Olean,OLE,OLE,OLE
+1946,Pennsylvania-Ontario-New York League,Bradford,BRA,BRA,BRA
+1946,Pennsylvania-Ontario-New York League,Hamilton,HAM,HAM,HAM
+1946,Pennsylvania-Ontario-New York League,Wellsville,WEL,WEL,WEL
+1946,Pennsylvania-Ontario-New York League,Lockport,LOC,LOC,LOC
+1946,Pennsylvania-Ontario-New York League,Hornell,HOR,HOR,HOR
+1946,Tobacco State League,Sanford,SAN,SAN,SAN
+1946,Tobacco State League,Clinton,CLI,CLI,CLI
+1946,Tobacco State League,Smithfield-Selma,SS,SS,SS
+1946,Tobacco State League,Smithfield,SS,SS,SS
+1946,Tobacco State League,Angier-Fuquay Springs,AFS,AFS,AFS
+1946,Tobacco State League,Angier-Fuquay,AFS,AFS,AFS
+1946,Tobacco State League,Wilmington,WIL,WIL,WIL
+1946,Tobacco State League,Dunn-Erwin,DE,DE,DE
+1946,Wisconsin State League,Green Bay,GB,GB,GB
+1946,Wisconsin State League,Oshkosh,OSH,OSH,OSH
+1946,Wisconsin State League,Fond du Lac,FDL,FDL,FDL
+1946,Wisconsin State League,Wisconsin Rapids,WR,WR,WR
+1946,Wisconsin State League,Appleton,APP,APP,APP
+1946,Wisconsin State League,Janesville,JAN,JAN,JAN
+1946,Wisconsin State League,Sheboygan,SHE,SHE,SHE
+1946,Wisconsin State League,Wausau,WAU,WAU,WAU
+1946,Mexican League,Tampico,TAM,TAM,TAM
+1946,Mexican League,Mexico City,MXC,MXC,MXC
+1946,Mexican League,Puebla,PUE,PUE,PUE
+1946,Mexican League,Torreon,TOR,TOR,TOR
+1946,Mexican League,Monterrey,MTY,MTY,MTY
+1946,Mexican League,Nuevo Laredo,NL,NL,NL
+1946,Mexican League,Veracruz,VER,VER,VER
+1946,Mexican League,San Luis Potosi,SLP,SLP,SLP
