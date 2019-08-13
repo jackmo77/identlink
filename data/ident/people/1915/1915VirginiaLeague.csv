@@ -114,13 +114,13 @@ minoraverages/1916Reach,1915,Virginia League,cochran,P10062,Cochran,,0,Norfolk,,
 boxscores/1915/1915-RTD,1915,Virginia League,calder,P7302687,Colder,,,Petersburg,19150426,19150427,2,0,3b2
 boxscores/1915/1915-NNDP,1915,Virginia League,colley,P5819709,Colley,,,Newport News,19150423,19150423,1,1,p1
 boxscores/1915/1915-RTD,1915,Virginia League,colley,P6554391,Colley,,,Newport News,19150423,19150430,2,2,p2
-boxscores/1915/1915-NNDP,1915,Virginia League,cook-suf,P3509359,Cook,,,Suffolk,19150422,19150424,3,0,"ss1,of3,cf3"
-boxscores/1915/1915-RTD,1915,Virginia League,cook-suf,P6566025,Cook,,,Suffolk,19150426,19150521,20,0,"of20,cf20"
-boxscores/1915/1915-RTD,1915,Virginia League,cook-por,P8194996,Cook,,,Portsmouth,19150524,19150615,20,0,"c1,of20,lf17,cf2,rf1"
-minoraverages/1916Reach,1915,Virginia League,cook-suf,B00397,Cook,,0,Suffolk,,,24,,
-minoraverages/1916Reach,1915,Virginia League,cook-por,B01086,Cook,,0,Portsmouth,,,20,,
-minoraverages/1916Reach,1915,Virginia League,cook-por,F20594,Cook,,0,Portsmouth,,,,,of20
-minoraverages/1916Reach,1915,Virginia League,cook-suf,F20700,Cook,,0,Suffolk,,,,,of24
+boxscores/1915/1915-NNDP,1915,Virginia League,cook,P3509359,Cook,,,Suffolk,19150422,19150424,3,0,"ss1,of3,cf3"
+boxscores/1915/1915-RTD,1915,Virginia League,cook,P6566025,Cook,,,Suffolk,19150426,19150521,20,0,"of20,cf20"
+boxscores/1915/1915-RTD,1915,Virginia League,cook,P8194996,Cook,,,Portsmouth,19150524,19150615,20,0,"c1,of20,lf17,cf2,rf1"
+minoraverages/1916Reach,1915,Virginia League,cook,B00397,Cook,,0,Suffolk,,,24,,
+minoraverages/1916Reach,1915,Virginia League,cook,B01086,Cook,,0,Portsmouth,,,20,,
+minoraverages/1916Reach,1915,Virginia League,cook,F20594,Cook,,0,Portsmouth,,,,,of20
+minoraverages/1916Reach,1915,Virginia League,cook,F20700,Cook,,0,Suffolk,,,,,of24
 boxscores/1915/1915-RTD,1915,Virginia League,cowan@ump,P4869677,Cowan,,,#umpire,19150818,19150820,,,
 boxscores/1915/1915-RTD,1915,Virginia League,craft,P0721528,Craft,,,Portsmouth,19150610,19150720,13,13,p13
 boxscores/1915/1915-RTD,1915,Virginia League,craft,P3679310,Craft,,,Norfolk,19150809,19150903,6,6,p6
@@ -430,7 +430,7 @@ minoraverages/1916Reach,1915,Virginia League,mcmanus,F20855,McManus,,0,Norfolk,,
 minoraverages/1916Reach,1915,Virginia League,mcmanus,P10056,McManus,,0,Norfolk,,,,15,
 boxscores/1915/1915-NNDP,1915,Virginia League,mcnulty,P9320615,McNulty,,,#umpire,19150422,19150422,,,
 boxscores/1915/1915-RTD,1915,Virginia League,mcnulty,P8029889,McNulty,,,#umpire,19150422,19150422,,,
-boxscores/1915/1915-RTD,1915,Virginia League,miller-por,P6475203,Miller,,,Norfolk,19150519,19150522,4,0,"of4,rf4"
+boxscores/1915/1915-RTD,1915,Virginia League,miller,P6475203,Miller,,,Norfolk,19150519,19150522,4,0,"of4,rf4"
 boxscores/1915/1915-RTD,1915,Virginia League,milliman,P6728269,Miller,,,Portsmouth,19150528,19150528,1,0,c1
 boxscores/1915/1915-NNDP,1915,Virginia League,milliman,P2199969,Milliman,,,Portsmouth,19150423,19150424,2,0,c2
 boxscores/1915/1915-RTD,1915,Virginia League,milliman,P2934651,Milliman,,,Portsmouth,19150422,19150518,12,0,c8
@@ -545,10 +545,10 @@ minoraverages/1916Reach,1915,Virginia League,scott,F21084,Scott,,0,Newport News,
 minoraverages/1916Reach,1915,Virginia League,scott,P10312,Scott,,0,Newport News,,,,9,
 boxscores/1915/1915-RTD,1915,Virginia League,seiglie,P1721201,Seiglie,,,Newport News,19150505,19150906,80,0,"3b1,ss77,of1,cf1"
 minoraverages/1916Reach,1915,Virginia League,seiglie,B00544,Seiglie,,0,Newport News,,,89,,
-boxscores/1915/1915-RTD,1915,Virginia League,shaffer,P9643827,Shaeffer,,,Newport News,19150610,19150610,1,1,p1
+boxscores/1915/1915-RTD,1915,Virginia League,schaefer,P9643827,Shaeffer,,,Newport News,19150610,19150610,1,1,p1
 boxscores/1915/1915-NNDP,1915,Virginia League,schaefer,P4849287,Shafer,,,Portsmouth,19150427,19150427,1,1,p1
-boxscores/1915/1915-RTD,1915,Virginia League,shaffer,P6123688,Shafer,,,Newport News,19150528,19150528,1,1,p1
-boxscores/1915/1915-RTD,1915,Virginia League,shaffer,P7704110,Shaffer,,,Newport News,19150526,19150526,1,1,p1
+boxscores/1915/1915-RTD,1915,Virginia League,schaefer,P6123688,Shafer,,,Newport News,19150528,19150528,1,1,p1
+boxscores/1915/1915-RTD,1915,Virginia League,schaefer,P7704110,Shaffer,,,Newport News,19150526,19150526,1,1,p1
 boxscores/1915/1915-NNDP,1915,Virginia League,shamlin,P3520513,Shamlin,,,Newport News,19150426,19150426,1,1,p1
 boxscores/1915/1915-RTD,1915,Virginia League,shamlin,P7765019,Shamlin,,,Newport News,19150426,19150501,2,2,p2
 boxscores/1915/1915-RTD,1915,Virginia League,sharpe,P8533860,Sharp,,,Petersburg,19150626,19150721,7,0,2b7
@@ -675,7 +675,7 @@ boxscores/1915/1915-RTD,1915,Virginia League,walters,P8971345,Walters,,,Newport 
 minoraverages/1916Reach,1915,Virginia League,walters,F20177,Walters,,0,Newport News,,,,,2b24
 minoraverages/1916Reach,1915,Virginia League,walters,F20265,Walters,,0,Newport News,,,,,3b92
 boxscores/1915/1915-RTD,1915,Virginia League,webb,P3351055,Webb,,,Newport News,19150809,19150812,2,2,p2
-boxscores/1915/1915-RTD,1915,Virginia League,weir-nor,P0302901,Weir,,,Norfolk,19150705,19150710,6,0,"of6,rf6"
+boxscores/1915/1915-RTD,1915,Virginia League,weir,P0302901,Weir,,,Norfolk,19150705,19150710,6,0,"of6,rf6"
 boxscores/1915/1915-RTD,1915,Virginia League,weir,P8224052,Weir,,,Suffolk,19150616,19150702,17,0,"of17,rf17"
 minoraverages/1916Reach,1915,Virginia League,weir,B00760,Weir,,0,Norfolk,,,23,,
 minoraverages/1916Reach,1915,Virginia League,weir,F20721,Weir,,0,Norfolk,,,,,of23
