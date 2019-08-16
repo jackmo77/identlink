@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
-setup(name='identlink',
+setup(name='hgame-ident',
       version='0.1',
-      packages=find_packages(),
+      packages=['hgame.ident'],
       install_package_data=True,
       install_requires=[
-          'pathlib2', 'click', 'pandas', 'tabulate'
+          'click', 'pandas', 'tabulate'
       ],
       entry_points="""
          [console_scripts]
-         identlink=identlink.main:cli
+         hgame-ident=hgame.ident.main:cli
       """
       )

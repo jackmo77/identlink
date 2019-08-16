@@ -1,5 +1,4 @@
 .DS_Store
-venv3
-identlink.egg-info
+*.egg-info
 __pycache__
 *.pyc
