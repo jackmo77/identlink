@@ -1,5 +1,4 @@
 source,league.year,league.name,ident,game.date,game.number,away.name,away.score,home.name,home.score,game.ref
-boxscores/1910/1910-ADC,1910,Central Kansas League,0006-abilene-manhattan-0,19100006,0,Manhattan,2,Abilene,3,QTZHXST
 boxscores/1910/1910-SDU,1910,Central Kansas League,0516-beloit-manhattan-0,19100516,0,Manhattan,,Beloit,,BCJQVVX
 boxscores/1910/1910-SDU,1910,Central Kansas League,0516-claycenter-concordia-0,19100516,0,Clay Center,,Concordia,,LRKFNVX
 boxscores/1910/1910-JCDU,1910,Central Kansas League,0516-ellsworth-junctioncity-0,19100516,0,Junction City,0,Ellsworth,9,XQBSRHF
@@ -63,6 +62,7 @@ boxscores/1910/1910-SEJ,1910,Central Kansas League,0603-concordia-salina-0,19100
 boxscores/1910/1910-BDC,1910,Central Kansas League,0604-beloit-ellsworth-0,19100604,0,Ellsworth,0,Beloit,2,BNXTSLQ
 boxscores/1910/1910-TDR,1910,Central Kansas League,0604-claycenter-manhattan-0,19100604,0,Clay Center,4,Manhattan,1,ZTSPRRN
 boxscores/1910/1910-SEJ,1910,Central Kansas League,0604-concordia-salina-0,19100604,0,Concordia,0,Salina,2,ZGJKZPW
+boxscores/1910/1910-ADC,1910,Central Kansas League,0606-abilene-manhattan-0,19100606,0,Manhattan,2,Abilene,3,HLRDHDV
 boxscores/1910/1910-SDU,1910,Central Kansas League,0606-beloit-salina-0,19100606,0,Salina,5,Beloit,3,DYNDXYF
 boxscores/1910/1910-CBE,1910,Central Kansas League,0606-concordia-ellsworth-0,19100606,0,Ellsworth,1,Concordia,4,YXGDNTR
 boxscores/1910/1910-CCD,1910,Central Kansas League,0606-claycenter-junctioncity-0,19100606,0,Clay Center,0,Junction City,3,PFNBPRN
