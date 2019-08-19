@@ -1,20 +1,26 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+boxscores/1915/1915-DMN,1915,Middle Texas League,albus,P0997523,Albers,,,Temple,19150415,19150415,1,0,3b1
 minoraverages/Hamilton,1915,Middle Texas League,albus,B00229,Albus,George,0,Temple,,,59,,
 minoraverages/Hamilton,1915,Middle Texas League,alexander,B01181,Alexander,,0,Brenham,,,3,,
 minoraverages/Hamilton,1915,Middle Texas League,alexander,P10441,Alexander,,0,Brenham,,,,2,
+boxscores/1915/1915-DMN,1915,Middle Texas League,,P2209281,Allen,,,Schulenburg,19150415,19150415,1,0,"of1,cf1"
 minoraverages/Hamilton,1915,Middle Texas League,allen.l,B00084,Allen,Louis,0,Schulenburg,,,29,,
 minoraverages/Hamilton,1915,Middle Texas League,allen.w,B00308,Allen,William,0,Schulenburg,,,34,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,allison,P0524748,Allison,,,Temple,19150415,19150415,1,0,ss1
 minoraverages/Hamilton,1915,Middle Texas League,allison,B00726,Allison,F.,0,Temple,,,58,,
 minoraverages/Hamilton,1915,Middle Texas League,allison,P10062,Allison,,0,Temple,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,anderson,B01170,Anderson,Wayne,0,Temple,,,3,,
 minoraverages/Hamilton,1915,Middle Texas League,anderson,P10429,Anderson,,0,Belton,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,angel,B00948,Angel,F.,0,Temple,,,17,,
 minoraverages/Hamilton,1915,Middle Texas League,angel,P10113,Angel,,0,Temple,,,,16,
+boxscores/1915/1915-DMN,1915,Middle Texas League,prestwood,P1274842,B'stwood,,,Brenham [I],19150415,19150415,1,0,"of1,cf1"
 minoraverages/Hamilton,1915,Middle Texas League,bailey,B00196,Bailey,Eugene A.,0,Bartlett,,,36,,
 minoraverages/Hamilton,1915,Middle Texas League,banner,B00904,Banner,Jack,0,Bartlett,,,6,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,barrett,P7536805,Barrett,,,Brenham [I],19150415,19150415,1,0,ss1
 minoraverages/Hamilton,1915,Middle Texas League,barrett,B00957,Barrett,George,0,Brenham,,,17,,
 minoraverages/Hamilton,1915,Middle Texas League,bassler,B00577,Bassler,Charles,0,Temple,,,17,,
 minoraverages/Hamilton,1915,Middle Texas League,bassler,P10253,Bassler,,0,Temple,,,,6,
+boxscores/1915/1915-DMN,1915,Middle Texas League,battle,P5649014,Battle,,,Temple,19150415,19150415,1,0,"of1,lf1"
 minoraverages/Hamilton,1915,Middle Texas League,billings,B01029,Billings,,1,Belton,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,billings,B01029,Billings,,2,Brenham,,,14,,
 minoraverages/Hamilton,1915,Middle Texas League,billings,B01029,Billings,,3,Bartlett,,,4,,
@@ -23,6 +29,7 @@ minoraverages/Hamilton,1915,Middle Texas League,billings,P10277,Billings,,1,Bren
 minoraverages/Hamilton,1915,Middle Texas League,billings,P10277,Billings,,2,Belton,,,,1,
 minoraverages/Hamilton,1915,Middle Texas League,billings,P10277,Billings,,3,Bartlett,,,,3,
 minoraverages/Hamilton,1915,Middle Texas League,billings,P10277,Billings,,T,,,,,17,
+boxscores/1915/1915-DMN,1915,Middle Texas League,bowen,P3814224,Bowen,,,Schulenburg,19150415,19150415,1,1,p1
 minoraverages/Hamilton,1915,Middle Texas League,bowen,B00667,Bowen,Ted,1,Schulenburg,,,2,,
 minoraverages/Hamilton,1915,Middle Texas League,bowen,B00667,Bowen,Ted,2,Bartlett,,,2,,
 minoraverages/Hamilton,1915,Middle Texas League,bowen,B00667,Bowen,Ted,3,Brenham,,,5,,
@@ -31,7 +38,9 @@ minoraverages/Hamilton,1915,Middle Texas League,bowen,P10357,Bowen,,1,Schulenbur
 minoraverages/Hamilton,1915,Middle Texas League,bowen,P10357,Bowen,,2,Bartlett,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,bowen,P10357,Bowen,,3,Brenham,,,,5,
 minoraverages/Hamilton,1915,Middle Texas League,bowen,P10357,Bowen,,T,,,,,9,
+boxscores/1915/1915-DMN,1915,Middle Texas League,boykin,P7102785,Boykin,,,Schulenburg,19150415,19150415,1,0,"of1,rf1"
 minoraverages/Hamilton,1915,Middle Texas League,boykin,B01055,Boykin,,0,Schulenburg,,,6,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,bradley,P5604184,Bradley,,,Bartlett,19150415,19150415,1,0,1b1
 minoraverages/Hamilton,1915,Middle Texas League,bradley,B00544,Bradley,,1,Bartlett,,,8,,
 minoraverages/Hamilton,1915,Middle Texas League,bradley,B00544,Bradley,,2,Temple,,,13,,
 minoraverages/Hamilton,1915,Middle Texas League,bradley,B00544,Bradley,,T,,,,21,,
@@ -45,34 +54,44 @@ minoraverages/Hamilton,1915,Middle Texas League,brown,P10304,Brown,,T,,,,,9,
 minoraverages/Hamilton,1915,Middle Texas League,burleson,B01124,Burleson,Luther,0,Temple,,,8,,
 minoraverages/Hamilton,1915,Middle Texas League,burleson,M90047,Burleson,Luther,,Temple,,,,,
 minoraverages/emilbb,1915,Middle Texas League,burleson,M92207,Burleson,Luther,,Temple,,,,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,byrnes,P3711610,Byrnes,,,Austin,19150415,19150415,1,0,2b1
 minoraverages/Hamilton,1915,Middle Texas League,byrnes,B00680,Byrnes,,0,Austin,,,3,,
 minoraverages/Hamilton,1915,Middle Texas League,mcavoy,B00293,Carey (McAvoy),George R.,0,Belton,,,45,,
 minoraverages/Hamilton,1915,Middle Texas League,carter,B00515,Carter,Robin,0,Temple,,,13,,
 minoraverages/Hamilton,1915,Middle Texas League,carter,P10097,Carter,,0,Temple,,,,10,
+boxscores/1915/1915-DMN,1915,Middle Texas League,charbonet,P0997841,Ch'bonet,,,Austin,19150415,19150415,1,0,"of1,cf1"
 minoraverages/Hamilton,1915,Middle Texas League,charbonet,P10493,Charbonet,,0,Taylor,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,cole,B01291,Cole,,0,Brenham,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,cole,P10478,Cole,,0,Brenham,,,,1,
 minoraverages/Hamilton,1915,Middle Texas League,countryman,B00705,Countryman,Robert,0,Bartlett,,,36,,
 minoraverages/Hamilton,1915,Middle Texas League,countryman,P10121,Countryman,,0,Bartlett,,,,4,
+boxscores/1915/1915-DMN,1915,Middle Texas League,cowan,P5594797,Cowan,,,Bartlett,19150415,19150415,1,0,"of1,cf1"
 minoraverages/Hamilton,1915,Middle Texas League,cowan,B00117,Cowan,,0,Bartlett,,,20,,
 minoraverages/Hamilton,1915,Middle Texas League,craig,B01234,Craig,,0,Brenham,,,2,,
 minoraverages/Hamilton,1915,Middle Texas League,craig,P10464,Craig,,0,Brenham,,,,2,
+boxscores/1915/1915-DMN,1915,Middle Texas League,crevenstine,P7213623,Cravenstine,,,Bartlett,19150415,19150415,1,0,"of1,lf1"
 minoraverages/Hamilton,1915,Middle Texas League,crevenstine,B00553,Crevenstine,George,0,Bartlett,,,33,,
 minoraverages/Hamilton,1915,Middle Texas League,crevenstine,P10569,Crevenstine,,0,Bartlett,,,,1,
+boxscores/1915/1915-DMN,1915,Middle Texas League,crosslin,P0511540,Crosslin,,,Austin,19150415,19150415,1,0,
 minoraverages/Hamilton,1915,Middle Texas League,crosslin,B00021,Crosslin,,0,Austin,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,crowson,B00037,Crowson,Pat,0,Austin,,,2,,
 minoraverages/Hamilton,1915,Middle Texas League,crowson,P10407,Crowson,,0,Austin,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,curran,B01242,Curran,,0,Austin,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,curry,B01197,Curry,,0,Temple,,,1,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,disharon,P9074700,D'hasoom,,,Temple,19150415,19150415,1,0,2b1
+boxscores/1915/1915-DMN,1915,Middle Texas League,dailey,P6634669,Dailey,,,Schulenburg,19150415,19150415,1,0,2b1
 minoraverages/Hamilton,1915,Middle Texas League,dailey,B00427,Dailey,,0,Schulenburg,,,35,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,darnaby,P8210523,Darnaby,,,Temple,19150415,19150415,1,0,"of1,cf1"
 minoraverages/Hamilton,1915,Middle Texas League,darnaby,B00502,Darnaby,William T.,0,Temple,,,56,,
 minoraverages/Hamilton,1915,Middle Texas League,darnaby,P10591,Darnaby,,0,Temple,,,,1,
 minoraverages/Hamilton,1915,Middle Texas League,darnell,B00158,Darnell,,0,Brenham,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,darnell,P10455,Darnell,,0,Brenham,,,,1,
 minoraverages/Hamilton,1915,Middle Texas League,davenport,B00068,Davenport,Benjamin D.,0,Schulenburg,,,12,,
 minoraverages/Hamilton,1915,Middle Texas League,davenport,P10202,Davenport,,0,Schulenburg,,,,9,
+boxscores/1915/1915-DMN,1915,Middle Texas League,davis,P0317164,Davis,,,Bartlett,19150415,19150415,1,0,ss1
 minoraverages/Hamilton,1915,Middle Texas League,davis,B00822,Davis,J. Wilbur,0,Bartlett,,,59,,
 minoraverages/Hamilton,1915,Middle Texas League,davis,P10665,Davis,,0,Bartlett,,,,1,
+boxscores/1915/1915-DMN,1915,Middle Texas League,deats,P3409176,Deats,,,Austin,19150415,19150415,1,0,"of1,lf1"
 minoraverages/Hamilton,1915,Middle Texas League,deats,B00811,Deats,,0,Austin,,,8,,
 minoraverages/Hamilton,1915,Middle Texas League,delafield,B00362,Delafield,,1,Belton,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,delafield,B00362,Delafield,,2,Temple,,,7,,
@@ -82,6 +101,7 @@ minoraverages/Hamilton,1915,Middle Texas League,delafield,P10320,Delafield,,1,Be
 minoraverages/Hamilton,1915,Middle Texas League,delafield,P10320,Delafield,,2,Temple,,,,6,
 minoraverages/Hamilton,1915,Middle Texas League,delafield,P10320,Delafield,,3,Taylor,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,delafield,P10320,Delafield,,T,,,,,9,
+boxscores/1915/1915-DMN,1915,Middle Texas League,dennis,P3629656,Dennis,,,Belton,19150415,19150415,1,1,p1
 minoraverages/Hamilton,1915,Middle Texas League,dennis,B00335,Dennis,,0,Belton,,,10,,
 minoraverages/Hamilton,1915,Middle Texas League,dennis,P10019,Dennis,,0,Belton,,,,12,
 minoraverages/Hamilton,1915,Middle Texas League,disch,M90039,Disch,William J.,,Brenham,,,,,
@@ -89,6 +109,7 @@ minoraverages/emilbb,1915,Middle Texas League,disch,M92241,Disch,Billy,,Austin/T
 minoraverages/Hamilton,1915,Middle Texas League,disharon,B01162,Disharon,,0,Temple,,,7,,
 minoraverages/Hamilton,1915,Middle Texas League,donnell,B01269,Donnell,,0,Taylor,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,donnell,P10588,Donnell,,0,Taylor,,,,1,
+boxscores/1915/1915-DMN,1915,Middle Texas League,durr,P8946258,Durr,,,Schulenburg,19150415,19150415,1,0,c1
 minoraverages/Hamilton,1915,Middle Texas League,durr,B00865,Durr,Frank,0,Schulenburg,,,14,,
 minoraverages/Hamilton,1915,Middle Texas League,edmunds,B00319,Edmunds,Merle,1,Austin,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,edmunds,B00319,Edmunds,Merle,2,Taylor,,,38,,
@@ -103,7 +124,10 @@ minoraverages/Hamilton,1915,Middle Texas League,enloe,B00752,Enloe,,2,Taylor,,,1
 minoraverages/Hamilton,1915,Middle Texas League,enloe,B00752,Enloe,,3,Schulenburg,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,enloe,B00752,Enloe,,T,,,,23,,
 minoraverages/Hamilton,1915,Middle Texas League,enloe,P10679,Enloe,,0,Taylor,,,,1,
+boxscores/1915/1915-DMN,1915,Middle Texas League,erwin,P1157814,Erwin,,,Brenham [I],19150415,19150415,1,0,"of1,rf1"
 minoraverages/Hamilton,1915,Middle Texas League,erwin,B00324,Erwin,,0,Brenham,,,57,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,estill@ump,P8363922,Estill,,,#umpire,19150415,19150415,,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,fagan,P9330212,Fagan,,,Austin,19150415,19150415,1,1,p1
 minoraverages/Hamilton,1915,Middle Texas League,fagan,B00973,Fagan,Raymond,1,Austin,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,fagan,B00973,Fagan,Raymond,2,Taylor,,,15,,
 minoraverages/Hamilton,1915,Middle Texas League,fagan,B00973,Fagan,Raymond,3,Brenham,,,5,,
@@ -115,15 +139,19 @@ minoraverages/Hamilton,1915,Middle Texas League,fagan,P10145,Fagan,,T,,,,,18,
 minoraverages/Hamilton,1915,Middle Texas League,faulkner,B01156,Faulkner,George B.,0,Belton,,,10,,
 minoraverages/Hamilton,1915,Middle Texas League,faulkner,P10289,Faulkner,,0,Belton,,,,10,
 minoraverages/Hamilton,1915,Middle Texas League,faurotte,B00912,Faurotte,,0,Schulenburg,,,3,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,fenner.c,P7723526,Fenner,C.,,Belton,19150415,19150415,1,0,"of1,lf1"
+boxscores/1915/1915-DMN,1915,Middle Texas League,fenner.j,P8051213,Fenner,J.,,Belton,19150415,19150415,1,0,"of1,cf1"
 minoraverages/Hamilton,1915,Middle Texas League,fenner.c,B00255,Fenner,C.,0,Belton,,,58,,
 minoraverages/Hamilton,1915,Middle Texas League,fenner.j,B00343,Fenner,Joseph,0,Belton,,,58,,
 minoraverages/Hamilton,1915,Middle Texas League,fenner.c,P10654,Fenner,C.,0,Belton,,,,1,
 minoraverages/Hamilton,1915,Middle Texas League,fitzer,B01203,Fitzer,,0,Brenham,,,1,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,flowers,P7362492,Flowers,,,Temple,19150415,19150415,1,1,p1
 minoraverages/Hamilton,1915,Middle Texas League,flowers,B00783,Flowers,James,0,Temple,,,5,,
 minoraverages/Hamilton,1915,Middle Texas League,flowers,P10399,Flowers,,0,Temple,,,,4,
 minoraverages/Hamilton,1915,Middle Texas League,francis,B00961,Francis,Ray,0,Temple,,,20,,
 minoraverages/Hamilton,1915,Middle Texas League,francis,P10081,Francis,,0,Temple,,,,17,
 minoraverages/Hamilton,1915,Middle Texas League,fruth,B00442,Fruth,,0,Austin,,,4,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,fucich,P9957561,Fucich,,,Austin,19150415,19150415,1,0,
 minoraverages/Hamilton,1915,Middle Texas League,fucich,B01119,Fucich,,1,Austin,,,2,,
 minoraverages/Hamilton,1915,Middle Texas League,fucich,B01119,Fucich,,2,Taylor,,,5,,
 minoraverages/Hamilton,1915,Middle Texas League,fucich,B01119,Fucich,,T,,,,7,,
@@ -139,6 +167,7 @@ minoraverages/Hamilton,1915,Middle Texas League,gaines,B00278,Gaines,,0,Belton,,
 minoraverages/Hamilton,1915,Middle Texas League,gaines,P10070,Gaines,,0,Belton,,,,20,
 minoraverages/Hamilton,1915,Middle Texas League,gambrell,B01041,Gambrel,,0,Brenham,,,12,,
 minoraverages/Hamilton,1915,Middle Texas League,gambrell,P10486,Gambrell,,0,Brenham,,,,1,
+boxscores/1915/1915-DMN,1915,Middle Texas League,goeber,P1365796,Gober,,,Bartlett,19150415,19150415,1,0,3b1
 minoraverages/Hamilton,1915,Middle Texas League,goeber,B00806,Goeber,E.,0,Bartlett,,,58,,
 minoraverages/Hamilton,1915,Middle Texas League,goeber,P10622,Goeber,,0,Bartlett,,,,1,
 minoraverages/Hamilton,1915,Middle Texas League,gordon,B00232,Gordon,,0,Temple,,,49,,
@@ -150,13 +179,16 @@ minoraverages/Hamilton,1915,Middle Texas League,graboski,B01064,Graboski,,T,,,,1
 minoraverages/Hamilton,1915,Middle Texas League,graboski,P10159,Graboski,,1,Schulenburg,,,,9,
 minoraverages/Hamilton,1915,Middle Texas League,graboski,P10159,Graboski,,2,Temple,,,,6,
 minoraverages/Hamilton,1915,Middle Texas League,graboski,P10159,Graboski,,T,,,,,15,
+boxscores/1915/1915-DMN,1915,Middle Texas League,green,P2659272,Green,,,Belton,19150415,19150415,1,0,3b1
 minoraverages/Hamilton,1915,Middle Texas League,green,B01093,Green,Lewis,0,Belton,,,9,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,haislip,P4403739,Haislip,,,Brenham [I],19150415,19150415,1,1,p1
 minoraverages/Hamilton,1915,Middle Texas League,haislip,B00531,Haislip,Robert,1,Brenham,,,24,,
 minoraverages/Hamilton,1915,Middle Texas League,haislip,B00531,Haislip,Robert,2,Belton,,,2,,
 minoraverages/Hamilton,1915,Middle Texas League,haislip,B00531,Haislip,Robert,T,,,,26,,
 minoraverages/Hamilton,1915,Middle Texas League,haislip,P10348,Haislip,,1,Brenham,,,,15,
 minoraverages/Hamilton,1915,Middle Texas League,haislip,P10348,Haislip,,2,Belton,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,haislip,P10348,Haislip,,T,,,,,17,
+boxscores/1915/1915-DMN,1915,Middle Texas League,harper,P1546071,Harper,,,Schulenburg,19150415,19150415,1,0,3b1
 minoraverages/Hamilton,1915,Middle Texas League,helms,B00920,Helms,,0,Taylor,,,2,,
 minoraverages/Hamilton,1915,Middle Texas League,helms,P10056,Helms,,0,Taylor,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,hightower,B01321,Hightower,,1,Taylor,,,1,,
@@ -166,7 +198,9 @@ minoraverages/Hamilton,1915,Middle Texas League,hightower,P10527,Hightower,,1,Sc
 minoraverages/Hamilton,1915,Middle Texas League,hightower,P10527,Hightower,,2,Taylor,,,,1,
 minoraverages/Hamilton,1915,Middle Texas League,hightower,P10527,Hightower,,T,,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,holt,B00434,Holt,Cy,0,Schulenburg,,,10,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,hovel,P6722933,Hovel,,,Belton,19150415,19150415,1,0,ss1
 minoraverages/Hamilton,1915,Middle Texas League,hovel,B00833,Hovel,,0,Belton,,,57,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,huber,P4969003,Huber,,,Schulenburg,19150415,19150415,1,1,p1
 minoraverages/Hamilton,1915,Middle Texas League,huber,B00638,Huber,Leo,0,Schulenburg,,,41,,
 minoraverages/Hamilton,1915,Middle Texas League,hutto,B01275,Hutto,,1,Austin,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,hutto,B01275,Hutto,,2,Taylor,,,1,,
@@ -183,6 +217,7 @@ minoraverages/Hamilton,1915,Middle Texas League,johnson,B00397,Johnson,,T,,,,7,,
 minoraverages/Hamilton,1915,Middle Texas League,johnson,P10176,Johnson,,1,Belton,,,,4,
 minoraverages/Hamilton,1915,Middle Texas League,johnson,P10176,Johnson,,2,Bartlett,,,,3,
 minoraverages/Hamilton,1915,Middle Texas League,johnson,P10176,Johnson,,T,,,,,7,
+boxscores/1915/1915-DMN,1915,Middle Texas League,jordan,P8548197,Jordan,,,Austin,19150415,19150415,1,0,1b1
 minoraverages/Hamilton,1915,Middle Texas League,jordan,B00207,Jordan,Otto,1,Austin,,,8,,
 minoraverages/Hamilton,1915,Middle Texas League,jordan,B00207,Jordan,Otto,2,Taylor,,,39,,
 minoraverages/Hamilton,1915,Middle Texas League,jordan,B00207,Jordan,Otto,3,Brenham,,,12,,
@@ -190,8 +225,10 @@ minoraverages/Hamilton,1915,Middle Texas League,jordan,B00207,Jordan,Otto,T,,,,5
 minoraverages/Hamilton,1915,Middle Texas League,jordan,P10035,Jordan,,1,Taylor,,,,4,
 minoraverages/Hamilton,1915,Middle Texas League,jordan,P10035,Jordan,,2,Brenham,,,,1,
 minoraverages/Hamilton,1915,Middle Texas League,jordan,P10035,Jordan,,T,,,,,5,
+boxscores/1915/1915-DMN,1915,Middle Texas League,kizzlar,P2116827,Kizziar,,,Belton,19150415,19150415,1,0,1b1
 minoraverages/Hamilton,1915,Middle Texas League,kizzlar,B00174,Kizzlar,E. H.,0,Belton,,,55,,
 minoraverages/Hamilton,1915,Middle Texas League,kizzlar,P10611,Kizzlar,,0,Belton,,,,1,
+boxscores/1915/1915-DMN,1915,Middle Texas League,lawson,P2903627,Lawson,,,Belton,19150415,19150415,1,0,2b1
 minoraverages/Hamilton,1915,Middle Texas League,lawson,B00182,Lawson,Charles,0,Belton,,,57,,
 minoraverages/Hamilton,1915,Middle Texas League,lawson,M90026,Lawson,Charles,,Belton,,,,,
 minoraverages/Hamilton,1915,Middle Texas League,lawson,P10575,Lawson,,0,Belton,,,,1,
@@ -200,15 +237,20 @@ minoraverages/Hamilton,1915,Middle Texas League,lewis,B00646,Lewis,Sam,0,Belton,
 minoraverages/Hamilton,1915,Middle Texas League,lewis,P10137,Lewis,,0,Belton,,,,10,
 minoraverages/Hamilton,1915,Middle Texas League,mack,B00286,Mack,,0,Brenham,,,4,,
 minoraverages/Hamilton,1915,Middle Texas League,manuel,B01300,Manuel,,0,Temple,,,1,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,mchenry@ump,P1835803,McHenry,,,#umpire,19150415,19150415,,,
 minoraverages/Hamilton,1915,Middle Texas League,mchenry,B01078,McHenry,,0,Taylor,,,3,,
 minoraverages/Hamilton,1915,Middle Texas League,mckee,B00149,McKee,,0,Belton,,,2,,
 minoraverages/Hamilton,1915,Middle Texas League,mckee,P10024,McKee,,0,Belton,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,mckeown,B00045,McKeown,Frank,0,Temple,,,3,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,mcneil,P7317983,McNeil,,,Austin,19150415,19150415,1,0,
+boxscores/1915/1915-DMN,1915,Middle Texas League,montagut,P0414087,Montague,,,Austin,19150415,19150415,1,0,3b1
 minoraverages/Hamilton,1915,Middle Texas League,montagut,B00403,Montagut,Max J.,1,Austin,,,8,,
 minoraverages/Hamilton,1915,Middle Texas League,montagut,B00403,Montagut,Max J.,2,Taylor,,,39,,
 minoraverages/Hamilton,1915,Middle Texas League,montagut,B00403,Montagut,Max J.,3,Brenham,,,11,,
 minoraverages/Hamilton,1915,Middle Texas League,montagut,B00403,Montagut,Max J.,T,,,,58,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,moore,P1785001,Moore,,,Austin,19150415,19150415,1,0,"of1,rf1"
 minoraverages/Hamilton,1915,Middle Texas League,moore,B00076,Moore,Roland,0,Austin,,,6,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,naylor-bel,P4986508,Naylor,,,Belton,19150415,19150415,1,0,c1
 minoraverages/Hamilton,1915,Middle Texas League,naylor-bel,B00589,Naylor,J.,0,Belton,,,57,,
 minoraverages/Hamilton,1915,Middle Texas League,naylor-bar,B01010,Naylor,Roleine C.,0,Bartlett,,,22,,
 minoraverages/Hamilton,1915,Middle Texas League,naylor-bar,P10215,Naylor,,0,Bartlett,,,,14,
@@ -219,25 +261,31 @@ minoraverages/Hamilton,1915,Middle Texas League,neil,P10385,Neil,,1,Austin,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,neil,P10385,Neil,,2,Taylor,,,,4,
 minoraverages/Hamilton,1915,Middle Texas League,neil,P10385,Neil,,T,,,,,6,
 minoraverages/Hamilton,1915,Middle Texas League,nylius,B01288,Nylius,,0,Austin,,,1,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,osborne,P4046866,Osborne,,,Temple,19150415,19150415,1,0,1b1
 minoraverages/Hamilton,1915,Middle Texas League,osborne,B00210,Osborne,Thomas P.,0,Temple,,,57,,
 minoraverages/Hamilton,1915,Middle Texas League,pendarvis,B00130,Pendarvis,,0,Schulenburg,,,2,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,pendleton,P3140414,Pendleton,,,Bartlett,19150415,19150415,1,0,"of1,rf1"
 minoraverages/Hamilton,1915,Middle Texas League,pendleton,B00718,Pendleton,,0,Bartlett,,,10,,
 minoraverages/emilbb,1915,Middle Texas League,pendleton,M92229,Pendleton,Ike,,Bartlett,,,,,
 minoraverages/Hamilton,1915,Middle Texas League,pflughaupt,B01250,Pflughaupt,,0,Brenham,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,prestwood,B00771,Prestwood,,0,Brenham,,,44,,
 minoraverages/Hamilton,1915,Middle Texas League,prestwood,P10606,Prestwood,,0,Brenham,,,,1,
+boxscores/1915/1915-DMN,1915,Middle Texas League,rainey,P0720509,Rainey,,,Schulenburg,19150415,19150415,1,0,ss1
 minoraverages/Hamilton,1915,Middle Texas League,rainey,B01135,Rainey,,0,Schulenburg,,,28,,
 minoraverages/Hamilton,1915,Middle Texas League,reid,B01143,Reid,Thomas J.,0,Temple,,,7,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,reinecke,P6307693,Reinecke,,,Austin,19150415,19150415,1,0,ss1
 minoraverages/Hamilton,1915,Middle Texas League,reinecke,B00760,Reinecke,,1,Austin,,,8,,
 minoraverages/Hamilton,1915,Middle Texas League,reinecke,B00760,Reinecke,,2,Taylor,,,35,,
 minoraverages/Hamilton,1915,Middle Texas League,reinecke,B00760,Reinecke,,T,,,,43,,
 minoraverages/Hamilton,1915,Middle Texas League,rhine,B01007,Rhine,,1,Austin,,,2,,
 minoraverages/Hamilton,1915,Middle Texas League,rhine,B01007,Rhine,,2,Schulenburg,,,4,,
 minoraverages/Hamilton,1915,Middle Texas League,rhine,B01007,Rhine,,T,,,,6,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,roach,P4362814,Roach,,,Brenham [I],19150415,19150415,1,0,"of1,lf1"
 minoraverages/Hamilton,1915,Middle Texas League,roach,B00356,Roach,,0,Brenham,,,57,,
 minoraverages/emilbb,1915,Middle Texas League,robbins,M92255,Robbins,J.,,Schulenburg,,,,,
 minoraverages/Hamilton,1915,Middle Texas League,robinson,B00416,Robinson,Luke,0,Schulenburg,,,38,,
 minoraverages/Hamilton,1915,Middle Texas League,robinson,P10640,Robinson,,0,Schulenburg,,,,1,
+boxscores/1915/1915-DMN,1915,Middle Texas League,robinson,P0932849,Robison,,,Schulenburg,19150415,19150415,1,0,"of1,lf1"
 minoraverages/emilbb,1915,Middle Texas League,rogers,M92210,Rogers,Frank,,Temple,,,,,
 minoraverages/Hamilton,1915,Middle Texas League,schaffer,B00241,Schaffer,J. H.,0,Temple,,,52,,
 minoraverages/Hamilton,1915,Middle Texas League,schmid,B00059,Schmid,,1,Brenham,,,1,,
@@ -248,16 +296,21 @@ minoraverages/Hamilton,1915,Middle Texas League,schmid,P10043,Schmid,,2,Schulenb
 minoraverages/Hamilton,1915,Middle Texas League,schmid,P10043,Schmid,,T,,,,,2,
 minoraverages/Hamilton,1915,Middle Texas League,schmidt,B00609,Schmidt,Henry,0,Taylor,,,16,,
 minoraverages/Hamilton,1915,Middle Texas League,schmidt,P10336,Schmidt,,0,Taylor,,,,8,
+boxscores/1915/1915-DMN,1915,Middle Texas League,scroggins,P3013047,Scoggins,,,Temple,19150415,19150415,1,0,"of1,rf1"
+boxscores/1915/1915-DMN,1915,Middle Texas League,scott,P1214462,Scott,,,Brenham [I],19150415,19150415,1,0,c1
 minoraverages/Hamilton,1915,Middle Texas League,scott,B00879,Scott,Harry M.,1,Schulenburg,,,7,,
 minoraverages/Hamilton,1915,Middle Texas League,scott,B00879,Scott,Harry M.,2,Brenham,,,31,,
 minoraverages/Hamilton,1915,Middle Texas League,scott,B00879,Scott,Harry M.,T,,,,38,,
 minoraverages/Hamilton,1915,Middle Texas League,scroggins,B00672,Scroggins,James E.,0,Temple,,,7,,
 minoraverages/Hamilton,1915,Middle Texas League,selman,B00936,Selman,,0,Brenham,,,19,,
 minoraverages/Hamilton,1915,Middle Texas League,selman,P10312,Selman,,0,Brenham,,,,18,
+boxscores/1915/1915-DMN,1915,Middle Texas League,schaffer,P5715993,Shaffer,,,Temple,19150415,19150415,1,0,c1
 minoraverages/Hamilton,1915,Middle Texas League,showers,B00488,Showers,,1,Schulenburg,,,41,,
 minoraverages/Hamilton,1915,Middle Texas League,showers,B00488,Showers,,2,Temple,,,15,,
 minoraverages/Hamilton,1915,Middle Texas League,showers,B00488,Showers,,T,,,,56,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,slaughter,P8839588,Slaughter,,,Bartlett,19150415,19150415,1,0,c1
 minoraverages/Hamilton,1915,Middle Texas League,slaughter,B00840,Slaughter,,0,Bartlett,,,52,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,smith-sch,P9672762,Smith,,,Schulenburg,19150415,19150415,1,1,p1
 minoraverages/Hamilton,1915,Middle Texas League,smith-tay+bar+bre,B00985,Smith,,1,Taylor,,,2,,
 minoraverages/Hamilton,1915,Middle Texas League,smith-tay+bar+bre,B00985,Smith,,2,Bartlett,,,8,,
 minoraverages/Hamilton,1915,Middle Texas League,smith-tay+bar+bre,B00985,Smith,,3,Brenham,,,4,,
@@ -300,27 +353,35 @@ minoraverages/Hamilton,1915,Middle Texas League,utzman,P10432,Utzman,,2,Temple,,
 minoraverages/Hamilton,1915,Middle Texas League,utzman,P10432,Utzman,,T,,,,,3,
 minoraverages/Hamilton,1915,Middle Texas League,verritt,B00739,Verritt,,0,Schulenburg,,,17,,
 minoraverages/Hamilton,1915,Middle Texas League,verritt,P10231,Verritt,,0,Schulenburg,,,,14,
+boxscores/1915/1915-DMN,1915,Middle Texas League,wacey,P2110382,Wacey,,,Bartlett,19150415,19150415,1,1,p1
 minoraverages/Hamilton,1915,Middle Texas League,wacey,B00999,Wacey,J. Reems,0,Bartlett,,,15,,
 minoraverages/Hamilton,1915,Middle Texas League,wacey,P10192,Wacey,,0,Bartlett,,,,14,
 minoraverages/Hamilton,1915,Middle Texas League,watson,B01086,Watson,Roscoe,0,Bartlett,,,16,,
 minoraverages/Hamilton,1915,Middle Texas League,watson,P10184,Watson,,0,Bartlett,,,,16,
+boxscores/1915/1915-DMN,1915,Middle Texas League,wende,P7474650,Wende,,,Austin,19150415,19150415,1,0,c1
 minoraverages/Hamilton,1915,Middle Texas League,wende,B00450,Wende,Fred,1,Austin,,,5,,
 minoraverages/Hamilton,1915,Middle Texas League,wende,B00450,Wende,Fred,2,Taylor,,,36,,
 minoraverages/Hamilton,1915,Middle Texas League,wende,B00450,Wende,Fred,T,,,,41,,
 minoraverages/Hamilton,1915,Middle Texas League,wessley,B00651,Wessley,,0,Brenham,,,12,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,white,P7367122,White,,,Brenham [I],19150415,19150415,1,0,2b1
 minoraverages/Hamilton,1915,Middle Texas League,white,B00623,White,,0,Brenham,,,44,,
 minoraverages/emilbb,1915,Middle Texas League,wicks,M92264,Wickes,Art,,Brenham [I],,,,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,wicks,P5489682,Wicks,,,Brenham [I],19150415,19150415,1,0,3b1
 minoraverages/Hamilton,1915,Middle Texas League,wicks,B00854,Wicks,Arthur,1,Temple,,,18,,
 minoraverages/Hamilton,1915,Middle Texas League,wicks,B00854,Wicks,Arthur,2,Brenham,,,29,,
 minoraverages/Hamilton,1915,Middle Texas League,wicks,B00854,Wicks,Arthur,T,,,,47,,
 minoraverages/Hamilton,1915,Middle Texas League,wiggins,B01216,Wiggins,,0,Taylor,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,wiggins,P10503,Wiggins,,0,Taylor,,,,1,
+boxscores/1915/1915-DMN,1915,Middle Texas League,williamson,P3489078,Williamson,,,Belton,19150415,19150415,1,0,"of1,rf1"
 minoraverages/Hamilton,1915,Middle Texas League,williamson,B00101,Williamson,,0,Belton,,,58,,
 minoraverages/Hamilton,1915,Middle Texas League,wilsdon,B01227,Wilson,,0,Schulenburg,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,winters,B01337,Winters,,0,Temple,,,1,,
 minoraverages/Hamilton,1915,Middle Texas League,winters,P10698,Winters,,0,Temple,,,,1,
+boxscores/1915/1915-DMN,1915,Middle Texas League,woessner,P4704359,Woessner,,,Brenham [I],19150415,19150415,1,0,1b1
 minoraverages/Hamilton,1915,Middle Texas League,woessner,B00614,Woessner,,0,Brenham,,,45,,
 minoraverages/Hamilton,1915,Middle Texas League,wright,B00125,Wright,Pat,0,Temple,,,2,,
+boxscores/1915/1915-DMN,1915,Middle Texas League,young.b,P0771559,Young,,,Schulenburg,19150415,19150415,1,0,1b1
+boxscores/1915/1915-DMN,1915,Middle Texas League,young.r,P4917991,Young,,,Bartlett,19150415,19150415,1,0,2b1
 minoraverages/Hamilton,1915,Middle Texas League,young.r,B00381,Young,R.,0,Bartlett,,,59,,
 minoraverages/Hamilton,1915,Middle Texas League,young.b,B00469,Young,B.,1,Schulenburg,,,15,,
 minoraverages/Hamilton,1915,Middle Texas League,young.b,B00469,Young,B.,2,Bartlett,,,38,,
