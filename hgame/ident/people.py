@@ -142,17 +142,16 @@ def clean_sources(df):
     # but not games at that position
     df["pos"] = ""
     for pos in ["P", "C", "1B", "2B", "3B", "SS", "OF", "LF", "CF", "RF"]:
-        if "F_%s_G" % pos in df and "F_%s_POS" % pos in df:
-            df["F_%s_G" % pos] = df["F_%s_G" % pos] \
-                                 .fillna(df["F_%s_POS" % pos] \
+        if f"F_{pos}_G" in df and f"F_{pos}_POS" in df:
+            df[f"F_{pos}_G"] = df[f"F_{pos}_G"] \
+                                 .fillna(df[f"F_{pos}_POS"] \
                                  .apply(lambda x:
-                                        "yes" if not pd.isnull(x) and int(x) > 0
+                                        "" if not pd.isnull(x) and int(x) > 0
                                         else None))
-        df["pos"] += ((pos.lower() +
-                       df[f"F_{pos}_G"].replace({"0": None,
-                                                 "yes": ""})) \
-                      .fillna("") + ",") \
-                     .replace(",", "")
+        df["pos"] += df[f"F_{pos}_G"].apply(lambda x:
+                                            pos.lower() + str(x) + ","
+                                            if not pd.isnull(x) and x != "0"
+                                            else "")
     df["pos"] = df["pos"].str.rstrip(",")
     for col in ['person.name.given', 'S_STINT']:
         df[col] = df[col].fillna("")
