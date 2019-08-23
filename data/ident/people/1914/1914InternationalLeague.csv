@@ -398,7 +398,7 @@ minoraverages/1915Spalding,1914,International League,keller,B01234,Keller,,0,Mon
 minoraverages/1915Spalding,1914,International League,keller,F20303,Keller,,0,Montreal,,,,,2b25
 minoraverages/1915Spalding,1914,International League,keller,F20474,Keller,,0,Montreal,,,,,3b19
 boxscores/1914/1914-SL,1914,International League,kelly-tor,P8644751,Kelley,,,Toronto,19140421,19140422,2,0,"c1,of1,cf1"
-minoraverages/emilbb,1914,International League,kelly-tor,M90129,Kelley,Joe,,Toronto,,,,,
+minoraverages/emilbb,1914,International League,kelley.j-tor,M90129,Kelley,Joe,,Toronto,,,,,
 boxscores/1914/1914-SL,1914,International League,kelly-tor,P4732010,Kelly,,,Toronto,19140423,19140614,39,0,c38
 minoraverages/1915Spalding,1914,International League,kelly-jc,B00362,Kelly,,0,Jersey City,,,51,,
 minoraverages/1915Spalding,1914,International League,kelly-tor,B00898,Kelly,,0,Toronto,,,114,,
@@ -417,7 +417,7 @@ minoraverages/1915Spalding,1914,International League,koehler,B01041,Koehler,,0,J
 minoraverages/1915Spalding,1914,International League,koehler,F20189,Koehler,,0,Jersey City,,,,,2b15
 minoraverages/1915Spalding,1914,International League,koehler,F20612,Koehler,,0,Jersey City,,,,,ss16
 boxscores/1914/1914-SL,1914,International League,koehler,P7146532,Kohler,,,Jersey City,19140506,19140603,9,0,"2b3,ss6"
-boxscores/1914/1914-SL,1914,International League,koller,P5065183,Koller,,,Montreal,19140502,19140502,1,0,2b1
+boxscores/1914/1914-SL,1914,International League,keller,P5065183,Koller,,,Montreal,19140502,19140502,1,0,2b1
 boxscores/1914/1914-SL,1914,International League,kraft,P6794356,Kraft,,,Newark,19140530,19140614,18,0,"1b17,3b1"
 minoraverages/1915Spalding,1914,International League,kraft,B00450,Kraft,,0,Newark,,,96,,
 minoraverages/1915Spalding,1914,International League,kraft,F20144,Kraft,,0,Newark,,,,,1b96
@@ -839,7 +839,7 @@ boxscores/1914/1914-SL,1914,International League,witterstatter,P3623231,W'tenste
 minoraverages/1915Spalding,1914,International League,wagner,B00475,Wagner,,0,Toronto,,,23,,
 minoraverages/1915Spalding,1914,International League,wagner,F21553,Wagner,,0,Toronto,,,,,p23
 minoraverages/1915Spalding,1914,International League,wagner,P10113,Wagner,,0,Toronto,,,,22,
-boxscores/1914/1914-SL,1914,International League,walsh-rc,P0824994,Walsh,,,Rochester,19140514,19140613,22,0,"ss1,of18,lf15,cf2,rf1"
+boxscores/1914/1914-SL,1914,International League,walsh-roc,P0824994,Walsh,,,Rochester,19140514,19140613,22,0,"ss1,of18,lf15,cf2,rf1"
 boxscores/1914/1914-SL,1914,International League,walsh-mon,P6618165,Walsh,,,Montreal,19140422,19140511,3,3,p3
 minoraverages/1915Spalding,1914,International League,walsh-roc,B00092,Walsh,,0,Rochester,,,120,,
 minoraverages/1915Spalding,1914,International League,walsh-mon,B01918,Walsh,,0,all,,,,,
