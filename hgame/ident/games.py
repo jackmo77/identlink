@@ -5,6 +5,7 @@ import glob
 
 import pandas as pd
 
+
 def collect_from_boxscores(path):
     """Collect people entries from boxscores repository.
     """
@@ -49,9 +50,11 @@ def main():
     if not noleague.empty:
         print("WARNING: The following games have a null league entry:")
         print(noleague[['filename', 'date', 'away', 'home']])
-    games['league'] = games['league'] \
-                      .apply(lambda x:
-                             x + " League" if "Association" not in x else x)
+    games['league'] = (
+        games['league'].apply(
+            lambda x: x + " League" if "Association" not in x else x
+        )
+    )
     games = games.rename(columns={'league':  'league.name',
                                   'date':    'game.date',
                                   'number':  'game.number',
@@ -89,7 +92,8 @@ def main():
     games = add_default_idents(games)
 
     print("Writing ident files...")
-    for ((year, league), data) in games.groupby(['league.year', 'league.name']):
+    for ((year, league), data) in games.groupby(['league.year',
+                                                 'league.name']):
         print(year, league)
         try:
             os.makedirs("data/ident/games/%s" % year)

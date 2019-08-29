@@ -4,6 +4,7 @@ import pathlib
 
 import pandas as pd
 
+
 def extract_with_source(path, source, **kwargs):
     """Helper function to extract a CSV file and add a 'source' column.
     """
@@ -22,8 +23,10 @@ def collect_from_averages(path):
     return [pd.concat([extract_with_source(sourcepath/"playing_individual.csv",
                                            "minoraverages/"+sourcepath.name)
                        for sourcepath in (path/"processed").glob("*")] +
-                      [extract_with_source(sourcepath/"managing_individual.csv",
-                                           "minoraverages/"+sourcepath.name)
+                      [extract_with_source(
+                          sourcepath/"managing_individual.csv",
+                          "minoraverages/" + sourcepath.name
+                       )
                        for sourcepath in (path/"processed").glob("*")],
                       sort=True, ignore_index=True)]
 
@@ -36,13 +39,15 @@ def collect_from_boxscores(path):
                                              "/".join(["boxscores",
                                                        sourcepath.parts[-2],
                                                        sourcepath.parts[-1]]))
-                         for sourcepath in (path/"data"/"boxscores"/"processed").glob("*/*")],
+                         for sourcepath in
+                         (path/"data"/"boxscores"/"processed").glob("*/*")],
                         ignore_index=True)
     umpires = pd.concat([extract_with_source(sourcepath/"umpires.csv",
                                              "/".join(["boxscores",
                                                        sourcepath.parts[-2],
                                                        sourcepath.parts[-1]]))
-                         for sourcepath in (path/"data"/"boxscores"/"processed").glob("*/*")],
+                         for sourcepath in
+                         (path/"data"/"boxscores"/"processed").glob("*/*")],
                         ignore_index=True)
     umpires['entry.name'] = "#umpire"
     return [players, umpires]
@@ -54,10 +59,12 @@ def collect_retrosheet_rosters(path_retro, year):
     return pd.concat([pd.read_csv(fn, dtype=str, encoding='utf-8',
                                   header=None,
                                   names=['person.ref',
-                                         'person.name.last', 'person.name.given',
+                                         'person.name.last',
+                                         'person.name.given',
                                          'bats', 'throws', 'team.key', 'pos'],
                                   usecols=['person.ref', 'team.key',
-                                           'person.name.last', 'person.name.given'])
+                                           'person.name.last',
+                                           'person.name.given'])
                       for fn in (path_retro/"rosters").glob("*%s.ROS" % year)],
                      sort=False, ignore_index=True)
 
@@ -74,7 +81,8 @@ def collect_from_retrosheet(path_splits, path_retro):
                          usecols=['person.key', 'team.key', 'game.date']) \
                .groupby(['person.key', 'team.key'])['game.date'] \
                .agg(['min', 'max']) \
-               .set_axis(['S_FIRST', 'S_LAST'], axis='columns', inplace=False) \
+               .set_axis(['S_FIRST', 'S_LAST'],
+                         axis='columns', inplace=False) \
                .reset_index()
         df['league.year'] = df['S_FIRST'].str.split('-').str[0]
         df = df.merge(teams, how='left', on=['league.year', 'team.key']) \
@@ -87,24 +95,6 @@ def collect_from_retrosheet(path_splits, path_retro):
                           'person.name.last', 'person.name.given',
                           'entry.name', 'S_FIRST', 'S_LAST']])
     return dflist
-
-def collect_from_researchers(path):
-    """Collect engagement records from researchers repository.
-    """
-    print("Collecting items from researchers dataset.")
-    df = pd.read_csv("%s/processed/clubs.csv" % path, encoding='utf-8',
-                     dtype=str)
-    df.rename(inplace=True,
-              columns={'last':       'person.name.last',
-                       'first':      'person.name.given',
-                       'date':       'league.year',
-                       'league':     'league.name',
-                       'person':     'person.ref',
-                       'club':       'entry.name'})
-    df['source'] = 'researchers' + '/' + df['person.ref'].str.split("/").str[0]
-    df['person.ref'] = df['person.ref'].str.split("/").str[1]
-    df = df[~df['person.name.last'].isnull()].copy()
-    return [df]
 
 
 def extract_idents(path):
@@ -125,11 +115,12 @@ def extract_idents(path):
 def extract_sources():
     """Collect up person references from the various sources.
     """
-    retrolist = collect_from_retrosheet(path_splits=pathlib.Path("../retrosplits"),
-                                        path_retro=pathlib.Path("../retrosheet"))
+    retrolist = collect_from_retrosheet(
+        path_splits=pathlib.Path("../retrosplits"),
+        path_retro=pathlib.Path("../retrosheet")
+    )
     avglist = collect_from_averages(pathlib.Path("../minoraverages"))
     boxlist = collect_from_boxscores(pathlib.Path("../boxscores"))
-    #reslist = collect_from_researchers("../researchers")
     print("Concatenating files...")
     return pd.concat(retrolist + avglist + boxlist,
                      sort=False, ignore_index=True)
@@ -143,11 +134,15 @@ def clean_sources(df):
     df["pos"] = ""
     for pos in ["P", "C", "1B", "2B", "3B", "SS", "OF", "LF", "CF", "RF"]:
         if f"F_{pos}_G" in df and f"F_{pos}_POS" in df:
-            df[f"F_{pos}_G"] = df[f"F_{pos}_G"] \
-                                 .fillna(df[f"F_{pos}_POS"] \
-                                 .apply(lambda x:
-                                        "" if not pd.isnull(x) and int(x) > 0
-                                        else None))
+            df[f"F_{pos}_G"] = (
+                df[f"F_{pos}_G"].fillna(
+                    df[f"F_{pos}_POS"].apply(
+                        lambda x:
+                        "" if not pd.isnull(x) and int(x) > 0
+                        else None
+                    )
+                )
+            )
         df["pos"] += df[f"F_{pos}_G"].apply(lambda x:
                                             pos.lower() + str(x) + ","
                                             if not pd.isnull(x) and x != "0"
@@ -162,23 +157,27 @@ def clean_sources(df):
         df[col] = df[col].str.replace("-", "")
     return df
 
+
 def merge_idents(df, idents):
     """Apply existing person reference identifications to dataset of sources.
     """
     if not idents.empty:
         df = df.merge(idents, how='left',
                       on=['source', 'league.year', 'league.name',
-                          'person.ref', 'person.name.last', 'person.name.given',
+                          'person.ref',
+                          'person.name.last', 'person.name.given',
                           'S_STINT', 'entry.name'])
     else:
         df['ident'] = None
-    return df[['source', 'league.year', 'league.name', 'ident', 'person.ref',
-               'person.name.last', 'person.name.given',
-               'S_STINT', 'entry.name',
-               'S_FIRST', 'S_LAST', 'B_G', 'P_G', 'pos']] \
-           .drop_duplicates() \
-           .sort_values(['league.year', 'league.name',
-                         'person.name.last', 'source', 'person.ref'])
+    return (
+        df[['source', 'league.year', 'league.name', 'ident', 'person.ref',
+            'person.name.last', 'person.name.given',
+            'S_STINT', 'entry.name',
+            'S_FIRST', 'S_LAST', 'B_G', 'P_G', 'pos']]
+        .drop_duplicates()
+        .sort_values(['league.year', 'league.name',
+                      'person.name.last', 'source', 'person.ref'])
+    )
 
 
 def load_idents(df, path):
@@ -195,8 +194,9 @@ def load_idents(df, path):
             continue
         print(year, league)
         (path / year).mkdir(exist_ok=True)
-        filepath = path / year / \
-                   ("%s%s.csv" % (year, league.replace(" ", "").replace("-", "")))
+        filepath = (path / year /
+                    ("%s%s.csv" %
+                     (year, league.replace(" ", "").replace("-", ""))))
         data.to_csv(filepath, index=False, encoding='utf-8')
 
 
