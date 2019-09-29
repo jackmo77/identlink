@@ -217,6 +217,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1913,Georgia-Alabama League,Talladega,TAL,TAL,TAL
 1913,Illinois-Missouri League,Lincoln,LIN,LIN,LIN
 1913,Illinois-Missouri League,Champaign,CHA,CHA,CHA
+1913,Illinois-Missouri League,Champaign-Urbana,CHA,CHA,CHA
 1913,Illinois-Missouri League,Kankakee,KAN,KAN,KAN
 1913,Illinois-Missouri League,Streator,STR,STR,STR
 1913,Illinois-Missouri League,Pekin,PEK,PEK,PEK
@@ -241,10 +242,10 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1913,Michigan State League,Boyne City,BC,BC,BC
 1913,Michigan State League,Cadillac,CAD,CAD,CAD
 1913,Michigan State League,Ludington,LUD,LUD,LUD
-1913,Minnesota-Iowa-Nebraska-Kansas League,Auburn,AUB,AUB,AUB
-1913,Minnesota-Iowa-Nebraska-Kansas League,Nebraska City,NC,NC,NC
-1913,Minnesota-Iowa-Nebraska-Kansas League,Falls City,FC,FC,FC
-1913,Minnesota-Iowa-Nebraska-Kansas League,Humboldt,HUM,HUM,HUM
+1913,Missouri-Iowa-Nebraska-Kansas League,Auburn,AUB,AUB,AUB
+1913,Missouri-Iowa-Nebraska-Kansas League,Nebraska City,NC,NC,NC
+1913,Missouri-Iowa-Nebraska-Kansas League,Falls City,FC,FC,FC
+1913,Missouri-Iowa-Nebraska-Kansas League,Humboldt,HUM,HUM,HUM
 1913,Nebraska State League,Kearney,KEA,KEA,KEA
 1913,Nebraska State League,Hastings,HAS,HAS,HAS
 1913,Nebraska State League,York,YOR,YOR,YOR

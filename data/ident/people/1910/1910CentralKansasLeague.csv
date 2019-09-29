@@ -594,7 +594,7 @@ boxscores/1910/1910-ADR,1910,Central Kansas League,griffith,P6816932,Griffith,,,
 boxscores/1910/1910-BDC,1910,Central Kansas League,griffith,P7817063,Griffith,,,Abilene,19100525,19100525,1,0,c1
 boxscores/1910/1910-BDC,1910,Central Kansas League,griffith,P9404886,Griffith,,,Beloit,19100627,19100715,7,0,"c6,of1,rf1"
 boxscores/1910/1910-CCD,1910,Central Kansas League,griffith,P2314664,Griffith,,,Abilene,19100531,19100531,1,0,c1
-boxscores/1910/1910-CCD,1910,Central Kansas League,griffith,P3977826,Griffith,,,Clay Center,19100716,19100716,1,0,c1
+boxscores/1910/1910-CCD,1910,Central Kansas League,griffith,P5601783,Griffith,,,Beloit,19100716,19100716,1,0,c1
 boxscores/1910/1910-JCDU,1910,Central Kansas League,griffith,P2372499,Griffith,,,Beloit,19100621,19100622,2,0,c2
 boxscores/1910/1910-SEJ,1910,Central Kansas League,griffith,P0245160,Griffith,,,Chapman,19100724,19100724,1,0,"of1,rf1"
 boxscores/1910/1910-TDR,1910,Central Kansas League,griffith,P1367543,Griffith,,,Beloit,19100628,19100628,1,0,c1
@@ -825,7 +825,7 @@ boxscores/1910/1910-ADC,1910,Central Kansas League,jones,P3393729,Jones,,,Beloit
 boxscores/1910/1910-ADR,1910,Central Kansas League,jones,P9458224,Jones,,,Beloit,19100623,19100623,1,1,p1
 boxscores/1910/1910-BDC,1910,Central Kansas League,jones,P1676066,Jones,,,Beloit,19100519,19100713,8,7,p7
 boxscores/1910/1910-CBE,1910,Central Kansas League,jones,P2749891,Jones,,,Beloit,19100531,19100531,1,1,p1
-boxscores/1910/1910-CCD,1910,Central Kansas League,jones-cc,P4796878,Jones,,,Clay Center,19100716,19100716,1,1,p1
+boxscores/1910/1910-CCD,1910,Central Kansas League,jones,P6354147,Jones,,,Beloit,19100716,19100716,1,1,p1
 boxscores/1910/1910-CDK,1910,Central Kansas League,jones,P5859467,Jones,,,Beloit,19100704,19100704,2,1,"p1,3b1"
 boxscores/1910/1910-JCDU,1910,Central Kansas League,jones,P0825215,Jones,,,Beloit,19100621,19100622,2,2,p2
 boxscores/1910/1910-MM,1910,Central Kansas League,jones,P5521747,Jones,,,Beloit,19100701,19100701,1,1,p1
@@ -1188,8 +1188,7 @@ boxscores/1910/1910-BDC,1910,Central Kansas League,oswalt-man+cc,P4516040,Oswalt
 boxscores/1910/1910-BDC,1910,Central Kansas League,oswalt-man+cc,P7343994,Oswalt,,,Manhattan,19100517,19100518,2,2,p2
 boxscores/1910/1910-CBE,1910,Central Kansas League,oswalt-man+cc,P8961819,Oswalt,,,Manhattan,19100520,19100520,1,1,p1
 boxscores/1910/1910-CCD,1910,Central Kansas League,oswalt-man+cc,P1841595,Oswalt,,,Manhattan,19100602,19100602,1,1,p1
-boxscores/1910/1910-CCD,1910,Central Kansas League,oswalt-man+cc,P2403529,Oswalt,,,Clay Center,19100629,19100712,3,3,p3
-boxscores/1910/1910-CCD,1910,Central Kansas League,oswalt-bel,P5891454,Oswalt,,,Beloit,19100716,19100716,1,1,p1
+boxscores/1910/1910-CCD,1910,Central Kansas League,oswalt-man+cc,P2403529,Oswalt,,,Clay Center,19100629,19100716,4,4,p4
 boxscores/1910/1910-JCDU,1910,Central Kansas League,oswalt-man+cc,P5275223,Oswalt,,,Manhattan,19100529,19100613,2,2,p2
 boxscores/1910/1910-MM,1910,Central Kansas League,oswalt-man+cc,P5007929,Oswalt,,,Clay Center,19100704,19100704,1,1,p1
 boxscores/1910/1910-SDU,1910,Central Kansas League,oswalt-man+cc,P4689227,Oswalt,,,Clay Center,19100621,19100624,2,2,p2
@@ -1544,8 +1543,7 @@ boxscores/1910/1910-ADC,1910,Central Kansas League,southwick,P4686798,Southwick,
 boxscores/1910/1910-ADR,1910,Central Kansas League,southwick,P6645533,Southwick,,,Clay Center,19100710,19100710,1,0,c1
 boxscores/1910/1910-BDC,1910,Central Kansas League,southwick,P2890959,Southwick,,,Clay Center,19100519,19100715,6,0,"c6,of1,rf1"
 boxscores/1910/1910-CBE,1910,Central Kansas League,southwick,P0071184,Southwick,,,Clay Center,19100517,19100701,2,0,c2
-boxscores/1910/1910-CCD,1910,Central Kansas League,southwick,P5583152,Southwick,,,Clay Center,19100531,19100720,18,0,"c17,of1,rf1"
-boxscores/1910/1910-CCD,1910,Central Kansas League,southwick,P5698565,Southwick,,,Beloit,19100716,19100716,1,0,c1
+boxscores/1910/1910-CCD,1910,Central Kansas League,southwick,P5583152,Southwick,,,Clay Center,19100531,19100720,19,0,"c18,of1,rf1"
 boxscores/1910/1910-JCDU,1910,Central Kansas League,southwick,P6778956,Southwick,,,Clay Center,19100610,19100611,2,0,c2
 boxscores/1910/1910-MM,1910,Central Kansas League,southwick,P9905952,Southwick,,,Clay Center,19100704,19100705,3,0,"c2,of1,rf1"
 boxscores/1910/1910-SDU,1910,Central Kansas League,southwick,P6712178,Southwick,,,Clay Center,19100526,19100624,6,0,"c4,of2,rf2"
@@ -1585,8 +1583,7 @@ boxscores/1910/1910-ADC,1910,Central Kansas League,stokesberry,P6449770,Stokesbe
 boxscores/1910/1910-BDC,1910,Central Kansas League,stokesberry,P0781099,Stokesberry,,,Clay Center,19100519,19100715,5,3,"p3,2b1"
 boxscores/1910/1910-CBE,1910,Central Kansas League,stokesberry,P0046124,Stokesberry,,,Clay Center,19100517,19100701,2,2,p2
 boxscores/1910/1910-CCD,1910,Central Kansas League,stokesberry@ump,P2304340,Stokesberry,,,#umpire,19100708,19100708,,,
-boxscores/1910/1910-CCD,1910,Central Kansas League,stokesberry,P2579276,Stokesberry,,,Clay Center,19100531,19100713,8,5,"p5,of1,rf1"
-boxscores/1910/1910-CCD,1910,Central Kansas League,stokesberry,P6774433,Stokesberry,,,Beloit,19100716,19100716,1,1,p1
+boxscores/1910/1910-CCD,1910,Central Kansas League,stokesberry,P2579276,Stokesberry,,,Clay Center,19100531,19100716,9,6,"p6,of1,rf1"
 boxscores/1910/1910-JCDU,1910,Central Kansas League,stokesberry,P4809832,Stokesberry,,,Clay Center,19100611,19100611,1,1,p1
 boxscores/1910/1910-MM,1910,Central Kansas League,stokesberry,P0108476,Stokesberry,,,Clay Center,19100705,19100705,1,1,p1
 boxscores/1910/1910-SDU,1910,Central Kansas League,stokesberry,P2088590,Stokesberry,,,Clay Center,19100526,19100622,2,2,p2
