@@ -1,6 +1,6 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 boxscores/1912/1912-DMN,1912,South Central League,adams-par,P0386295,Adams,,,Paris,19120423,19120507,6,4,"p4,of1,cf1"
-boxscores/1912/1912-DMN,1912,South Central League,adams-cle,P1810568,Adams,,,Cleburne,19120425,19120508,9,0,"of9,lf5,cf3,rf1"
+boxscores/1912/1912-DMN,1912,South Central League,adams-cle,P1810568,Adams,,,Cleburne,19120425,19120509,10,0,"of10,lf6,cf3,rf1"
 minoraverages/1913Reach,1912,South Central League,adams-par,B00130,Adams,,0,Paris,,,35,,
 minoraverages/1913Reach,1912,South Central League,adams-cle,B00370,Adams,,0,Cleburne,,,61,,
 minoraverages/1913Reach,1912,South Central League,adams-par,F20526,Adams,R.,0,Paris,,,,,of18
@@ -11,7 +11,7 @@ boxscores/1912/1912-DMN,1912,South Central League,adams-cle,P5170420,Adams [CLE]
 boxscores/1912/1912-DMN,1912,South Central League,adams-cle,P9947316,Adams [Cle],,,Cleburne,19120503,19120505,2,0,"of2,lf2"
 boxscores/1912/1912-DMN,1912,South Central League,adams-par,P6682578,Adams [PAR],,,Paris,19120502,19120502,1,1,p1
 boxscores/1912/1912-DMN,1912,South Central League,adams-par,P3328786,Adams [Par],,,Paris,19120503,19120505,2,0,"of1,rf1"
-boxscores/1912/1912-DMN,1912,South Central League,allen@ump,P4333168,Allen,,,#umpire,19120508,19120508,,,
+boxscores/1912/1912-DMN,1912,South Central League,allen@ump,P4333168,Allen,,,#umpire,19120508,19120509,,,
 boxscores/1912/1912-DMN,1912,South Central League,allen,P8098237,Allen,,,Texarkana,19120423,19120508,15,0,"c6,of9,rf9"
 minoraverages/1913Reach,1912,South Central League,allen,B00255,Allen,,0,Texarkana,,,46,,
 minoraverages/1913Reach,1912,South Central League,allen,F20855,Allen,,0,Texarkana,,,,,of22
@@ -39,7 +39,7 @@ boxscores/1912/1912-DMN,1912,South Central League,bettison,P3490545,Beltison,,,P
 boxscores/1912/1912-DMN,1912,South Central League,bettison,P1309493,Belton,,,Paris,19120424,19120424,1,0,c1
 minoraverages/1913Reach,1912,South Central League,besse,B00037,Besse,,0,Cleburne,,,58,,
 minoraverages/1913Reach,1912,South Central League,besse,F20648,Besse,,0,Cleburne,,,,,of54
-boxscores/1912/1912-DMN,1912,South Central League,besse,P5577181,Bessie,,,Cleburne,19120424,19120508,15,0,"of15,rf15"
+boxscores/1912/1912-DMN,1912,South Central League,besse,P5577181,Bessie,,,Cleburne,19120424,19120509,16,0,"of16,rf16"
 boxscores/1912/1912-DMN,1912,South Central League,bettison,P7370233,Bettison,,,Paris,19120426,19120508,12,0,"c9,ss2,of2,lf1,cf1"
 minoraverages/1913Reach,1912,South Central League,bettison,B00739,Bettison,,0,Paris,,,53,,
 minoraverages/1913Reach,1912,South Central League,bettison,F20552,Bettison,,0,Paris,,,,,of7
@@ -53,7 +53,7 @@ minoraverages/1913Reach,1912,South Central League,black,F20792,Black,,0,Texarkan
 minoraverages/1913Reach,1912,South Central League,black,F21076,Black,,0,Texarkana,,,,,p6
 minoraverages/1913Reach,1912,South Central League,black,P10348,Black,,0,Texarkana,,,,6,
 boxscores/1912/1912-DMN,1912,South Central League,blanchette,P9123227,Blanchett,,,Marshall,19120424,19120506,2,0,1b2
-boxscores/1912/1912-DMN,1912,South Central League,blanchette,P7072544,Blanchette,,,Marshall,19120423,19120508,13,0,1b13
+boxscores/1912/1912-DMN,1912,South Central League,blanchette,P7072544,Blanchette,,,Marshall,19120423,19120509,14,0,1b14
 minoraverages/1913Reach,1912,South Central League,blanchette,B00196,Blanchette,,0,Marshall,,,58,,
 minoraverages/1913Reach,1912,South Central League,blanchette,F20067,Blanchette,,0,Marshall,,,,,1b58
 minoraverages/1913Reach,1912,South Central League,boggus,B00879,Boggus,,0,Texarkana,,,11,,
@@ -79,10 +79,10 @@ minoraverages/1913Reach,1912,South Central League,brown,F21163,Brown,,0,Tyler,,,
 minoraverages/1913Reach,1912,South Central League,brown,P10145,Brown,,0,Tyler,,,,20,
 boxscores/1912/1912-DMN,1912,South Central League,bryan@ump,P0509056,Bryan,,,#umpire,19120423,19120508,,,
 boxscores/1912/1912-DMN,1912,South Central League,bryan@ump,P9918132,Bryant,,,#umpire,19120505,19120505,,,
-boxscores/1912/1912-DMN,1912,South Central League,buster,P0978711,Buster,,,Tyler,19120423,19120506,13,0,c13
+boxscores/1912/1912-DMN,1912,South Central League,buster,P0978711,Buster,,,Tyler,19120423,19120509,14,0,c14
 minoraverages/1913Reach,1912,South Central League,buster,B00125,Buster,,0,Tyler,,,54,,
 minoraverages/1913Reach,1912,South Central League,buster,F21021,Buster,,0,Tyler,,,,,c53
-boxscores/1912/1912-DMN,1912,South Central League,campbell,P2556258,Campbell,,,Tyler,19120424,19120508,15,0,1b15
+boxscores/1912/1912-DMN,1912,South Central League,campbell,P2556258,Campbell,,,Tyler,19120424,19120509,16,0,1b16
 minoraverages/1913Reach,1912,South Central League,campbell,B00286,Campbell,,0,Tyler,,,60,,
 minoraverages/1913Reach,1912,South Central League,campbell,F20023,Campbell,,0,Tyler,,,,,1b61
 minoraverages/1913Reach,1912,South Central League,carey,B00182,Carey,,0,Cleburne,,,36,,
@@ -102,10 +102,11 @@ minoraverages/1913Reach,1912,South Central League,covington,B00638,Covington,,0,
 minoraverages/1913Reach,1912,South Central League,covington,F20943,Covington,,0,Tyler,,,,,c5
 minoraverages/1913Reach,1912,South Central League,cowan,B00059,Cowan,,0,Marshall,,,9,,
 minoraverages/1913Reach,1912,South Central League,cowan,F20560,Cowan,,0,Marshall,,,,,of6
-boxscores/1912/1912-DMN,1912,South Central League,crosby,P7964623,Crosby,,,Longview,19120423,19120508,14,0,"of14,lf1,cf7,rf6"
+boxscores/1912/1912-DMN,1912,South Central League,crosby,P7964623,Crosby,,,Longview,19120423,19120509,15,0,"1b1,of15,lf1,cf8,rf6"
 minoraverages/1913Reach,1912,South Central League,crosby,B00705,Crosby,,0,Longview,,,38,,
 minoraverages/1913Reach,1912,South Central League,crosby,F20661,Crosby,,0,Longview,,,,,of25
 minoraverages/1913Reach,1912,South Central League,crosby,F20919,Crosby,,0,Longview,,,,,c9
+boxscores/1912/1912-DMN,1912,South Central League,daley,P7188533,Dailey,,,Longview,19120509,19120509,1,0,3b1
 minoraverages/1913Reach,1912,South Central League,daley,B00403,Daley,,0,Longview,,,45,,
 minoraverages/1913Reach,1912,South Central League,daley,F20038,Daley,,0,Longview,,,,,1b5
 minoraverages/1913Reach,1912,South Central League,daley,F20131,Daley,,0,Longview,,,,,2b5
@@ -137,7 +138,7 @@ boxscores/1912/1912-DMN,1912,South Central League,fiebert,P2631299,Fiebert,,,Tyl
 minoraverages/1913Reach,1912,South Central League,fiebert,P10385,Fiebert,,0,Tyler,,,,3,
 boxscores/1912/1912-DMN,1912,South Central League,fielbert@ump,P3740337,Fielbert,,,#umpire,19120502,19120502,,,
 boxscores/1912/1912-DMN,1912,South Central League,fruth,P3230271,Firth,,,Tyler,19120428,19120428,1,0,2b1
-boxscores/1912/1912-DMN,1912,South Central League,fisher,P5373315,Fisher,,,Tyler,19120428,19120428,1,0,"of1,lf1"
+boxscores/1912/1912-DMN,1912,South Central League,fisher,P5373315,Fisher,,,Tyler,19120428,19120509,2,0,"of2,lf2"
 boxscores/1912/1912-DMN,1912,South Central League,fruth,P3816171,Fruth,,,Tyler,19120424,19120508,12,0,"2b10,ss2"
 minoraverages/1913Reach,1912,South Central League,fruth,B00667,Fruth,,1,Tyler,,,,,
 minoraverages/1913Reach,1912,South Central League,fruth,B00667,Fruth,,2,Texarkana,,,,,
@@ -146,7 +147,7 @@ minoraverages/1913Reach,1912,South Central League,fruth,F20222,Fruth,,0,Tyler,,,
 minoraverages/1913Reach,1912,South Central League,fruth,F20505,Fruth,,0,Tyler,,,,,ss22
 minoraverages/1913Reach,1912,South Central League,fruth,F20594,Fruth,,0,Tyler,,,,,of5
 boxscores/1912/1912-DMN,1912,South Central League,fulton@ump,P7156284,Fulton,,,#umpire,19120501,19120501,,,
-boxscores/1912/1912-DMN,1912,South Central League,fulton,P8477914,Fulton,,,Tyler,19120502,19120506,2,2,p2
+boxscores/1912/1912-DMN,1912,South Central League,fulton,P8477914,Fulton,,,Tyler,19120502,19120509,3,3,p3
 minoraverages/1913Reach,1912,South Central League,fulton,B00904,Fulton,,0,Tyler,,,25,,
 minoraverages/1913Reach,1912,South Central League,fulton,F21264,Fulton,,0,Tyler,,,,,p19
 minoraverages/1913Reach,1912,South Central League,fulton,P10253,Fulton,,0,Tyler,,,,20,
@@ -156,14 +157,14 @@ minoraverages/1913Reach,1912,South Central League,gaines,F21255,Gaines,,0,Paris,
 minoraverages/1913Reach,1912,South Central League,gaines,P10168,Gaines,,0,Paris,,,,18,
 boxscores/1912/1912-DMN,1912,South Central League,gaines,P0787715,Gains,,,Paris,19120423,19120425,2,2,p2
 boxscores/1912/1912-DMN,1912,South Central League,gardner,P4780106,Gardener,,,Cleburne,19120506,19120507,2,0,3b2
-boxscores/1912/1912-DMN,1912,South Central League,gardner,P7681989,Gardner,,,Cleburne,19120426,19120508,10,0,"3b6,of5,lf5"
+boxscores/1912/1912-DMN,1912,South Central League,gardner,P7681989,Gardner,,,Cleburne,19120426,19120509,11,0,"3b7,of5,lf5"
 minoraverages/1913Reach,1912,South Central League,gardner,B00434,Gardner,,1,Cleburne,,,,,
 minoraverages/1913Reach,1912,South Central League,gardner,B00434,Gardner,,2,Longview,,,,,
 minoraverages/1913Reach,1912,South Central League,gardner,B00434,Gardner,,T,,,,52,,
 minoraverages/1913Reach,1912,South Central League,gardner,F20046,Gardner,,0,Longview,,,,,1b31
 minoraverages/1913Reach,1912,South Central League,gardner,F20303,Gardner,,0,Cleburne,,,,,3b16
 boxscores/1912/1912-DMN,1912,South Central League,gardner,P5906401,Garner,,,Cleburne,19120501,19120501,1,0,3b1
-boxscores/1912/1912-DMN,1912,South Central League,gowan,P0428802,Gowan,,,Marshall,19120423,19120508,10,0,"of10,cf10"
+boxscores/1912/1912-DMN,1912,South Central League,gowan,P0428802,Gowan,,,Marshall,19120423,19120509,11,0,"of11,cf11"
 minoraverages/1913Reach,1912,South Central League,gowan,B00416,Gowan,,0,Marshall,,,61,,
 minoraverages/1913Reach,1912,South Central League,gowan,F20721,Gowan,,0,Marshall,,,,,of59
 boxscores/1912/1912-DMN,1912,South Central League,gowan,P5336070,Gowen,,,Marshall,19120426,19120504,5,0,"of5,cf5"
@@ -183,7 +184,7 @@ boxscores/1912/1912-DMN,1912,South Central League,hall,P7450770,Hall,,,Texarkana
 minoraverages/1913Reach,1912,South Central League,hall,B00822,Hall,,0,Texarkana,,,18,,
 minoraverages/1913Reach,1912,South Central League,hall,P10289,Hall,,0,Texarkana,,,,17,
 boxscores/1912/1912-DMN,1912,South Central League,hallahan,P6683562,Hallahan,,,Texarkana,19120507,19120507,1,0,"of1,rf1"
-boxscores/1912/1912-DMN,1912,South Central League,holliday,P2998085,Halliday,,,Longview,19120423,19120428,6,0,"of6,cf6"
+boxscores/1912/1912-DMN,1912,South Central League,holliday,P2998085,Halliday,,,Longview,19120423,19120509,7,0,"of7,cf6,rf1"
 boxscores/1912/1912-DMN,1912,South Central League,hallahan,P1663794,Hallihan,,,Texarkana,19120508,19120508,1,0,"of1,rf1"
 boxscores/1912/1912-DMN,1912,South Central League,houlihan,P7531956,Hanlihan,,,Texarkana,19120424,19120424,1,0,1b1
 boxscores/1912/1912-DMN,1912,South Central League,hallahan,P3638638,Hannahan,,,Texarkana,19120506,19120506,1,0,"of1,rf1"
@@ -205,7 +206,7 @@ minoraverages/1913Reach,1912,South Central League,hellman,B00101,Hellman,,0,Mars
 minoraverages/1913Reach,1912,South Central League,hellman,F20713,Hellman,,0,Marshall,,,,,of11
 minoraverages/1913Reach,1912,South Central League,hellman,F20956,Hellman,,0,Marshall,,,,,c22
 boxscores/1912/1912-DMN,1912,South Central League,harbin,P2062646,Herben,,,Cleburne,19120507,19120507,1,1,p1
-boxscores/1912/1912-DMN,1912,South Central League,hewitt,P8055287,Hewitt,,,Tyler,19120424,19120508,12,0,3b12
+boxscores/1912/1912-DMN,1912,South Central League,hewitt,P8055287,Hewitt,,,Tyler,19120424,19120509,13,0,3b13
 minoraverages/1913Reach,1912,South Central League,hewitt,B00117,Hewitt,,0,Tyler,,,58,,
 minoraverages/1913Reach,1912,South Central League,hewitt,F20327,Hewitt,,0,Tyler,,,,,3b58
 boxscores/1912/1912-DMN,1912,South Central League,hiett,P1978848,Hiett,,,Cleburne,19120506,19120506,1,1,p1
@@ -217,7 +218,7 @@ minoraverages/1913Reach,1912,South Central League,hiett,P10035,Hiett,,0,Cleburne
 minoraverages/1913Reach,1912,South Central League,hinton,B00450,Hinton,,0,Texarkana,,,6,,
 minoraverages/1913Reach,1912,South Central League,hinton,F21068,Hinton,,0,Texarkana,,,,,p6
 minoraverages/1913Reach,1912,South Central League,hinton,P10081,Hinton,,0,Texarkana,,,,7,
-boxscores/1912/1912-DMN,1912,South Central League,hoffman,P2376220,Hoffman,,,Longview,19120423,19120507,15,0,"of15,lf11,cf2,rf2"
+boxscores/1912/1912-DMN,1912,South Central League,hoffman,P2376220,Hoffman,,,Longview,19120423,19120509,16,0,"of16,lf11,cf3,rf2"
 minoraverages/1913Reach,1912,South Central League,hoffman,B00566,Hoffman,,0,Longview,,,59,,
 minoraverages/1913Reach,1912,South Central League,hoffman,F20636,Hoffman,,0,Longview,,,,,of59
 boxscores/1912/1912-DMN,1912,South Central League,hoffman,P2735382,Hofman,,,Longview,19120508,19120508,1,0,"of1,lf1"
@@ -237,10 +238,10 @@ minoraverages/1913Reach,1912,South Central League,houlihan,F20893,Houlihan,,0,Te
 boxscores/1912/1912-DMN,1912,South Central League,hudson,P4802146,Hudson,,,Texarkana,19120423,19120508,13,0,2b13
 minoraverages/1913Reach,1912,South Central League,hudson,B00760,Hudson,,0,Texarkana,,,46,,
 minoraverages/1913Reach,1912,South Central League,hudson,F20189,Hudson,,0,Texarkana,,,,,2b46
-boxscores/1912/1912-DMN,1912,South Central League,johns,P4140415,Johns,,,Longview,19120424,19120508,15,0,2b14
+boxscores/1912/1912-DMN,1912,South Central League,johns,P4140415,Johns,,,Longview,19120424,19120509,16,0,2b15
 minoraverages/1913Reach,1912,South Central League,johns,B00308,Johns,,0,Longview,,,56,,
 minoraverages/1913Reach,1912,South Central League,johns,F20166,Johns,,0,Longview,,,,,2b52
-boxscores/1912/1912-DMN,1912,South Central League,johnson,P4024513,Johnson,,,Tyler,19120424,19120508,15,0,"1b1,of15,cf5,rf10"
+boxscores/1912/1912-DMN,1912,South Central League,johnson,P4024513,Johnson,,,Tyler,19120424,19120509,16,0,"1b1,of16,cf6,rf10"
 minoraverages/1913Reach,1912,South Central League,johnson,B00278,Johnson,,0,Tyler,,,54,,
 minoraverages/1913Reach,1912,South Central League,johnson,F20620,Johnson,,0,Tyler,,,,,of54
 boxscores/1912/1912-DMN,1912,South Central League,jordan,P6779823,Jordan,,,Texarkana,19120424,19120506,12,0,"c9,1b2"
@@ -252,16 +253,16 @@ boxscores/1912/1912-DMN,1912,South Central League,jutzi,P3380161,Justy,,,Cleburn
 boxscores/1912/1912-DMN,1912,South Central League,jutzi,P3437044,Jutze,,,Cleburne,19120506,19120508,3,0,1b3
 minoraverages/1913Reach,1912,South Central League,jutzi,B00515,Jutzi,,0,Cleburne,,,58,,
 minoraverages/1913Reach,1912,South Central League,jutzi,F20115,Jutzi,,0,Cleburne,,,,,1b52
-boxscores/1912/1912-DMN,1912,South Central League,jutzi,P9283741,Jutzie,,,Cleburne,19120427,19120505,9,0,1b9
-boxscores/1912/1912-DMN,1912,South Central League,kane,P0561317,Kane,,,Marshall,19120424,19120506,5,5,p5
+boxscores/1912/1912-DMN,1912,South Central League,jutzi,P9283741,Jutzie,,,Cleburne,19120427,19120509,10,0,1b10
+boxscores/1912/1912-DMN,1912,South Central League,kane,P0561317,Kane,,,Marshall,19120424,19120509,6,6,p6
 minoraverages/1913Reach,1912,South Central League,kane,B00528,Kane,,0,Marshall,,,18,,
 minoraverages/1913Reach,1912,South Central League,kane,F21130,Kane,,0,Marshall,,,,,p15
 minoraverages/1913Reach,1912,South Central League,kane,P10100,Kane,,0,Marshall,,,,16,
 minoraverages/1913Reach,1912,South Central League,kiefer,B01055,Keefer,,0,Marshall,,,9,,
 minoraverages/1913Reach,1912,South Central League,kiefer,F20829,Keefer,,0,Marshall,,,,,of9
-boxscores/1912/1912-DMN,1912,South Central League,kiefer,P6874364,Keifer,,,Marshall,19120430,19120508,4,0,"of4,lf4"
+boxscores/1912/1912-DMN,1912,South Central League,kiefer,P6874364,Keifer,,,Marshall,19120430,19120509,5,0,"of5,lf5"
 boxscores/1912/1912-DMN,1912,South Central League,kerr-tyl,P8054902,Kerr,,,Tyler,19120424,19120424,1,0,2b1
-boxscores/1912/1912-DMN,1912,South Central League,kerr,P9129142,Kerr,,,Cleburne,19120423,19120508,8,4,p4
+boxscores/1912/1912-DMN,1912,South Central League,kerr,P9129142,Kerr,,,Cleburne,19120423,19120509,9,5,p5
 minoraverages/1913Reach,1912,South Central League,kerr,B00752,Kerr,,0,Cleburne,,,37,,
 minoraverages/1913Reach,1912,South Central League,kerr,F20539,Kerr,,0,Cleburne,,,,,of12
 minoraverages/1913Reach,1912,South Central League,kerr,F21117,Kerr,,0,Cleburne,,,,,p20
@@ -301,6 +302,7 @@ boxscores/1912/1912-DMN,1912,South Central League,marine,P6062978,Marine,,,Marsh
 minoraverages/1913Reach,1912,South Central League,marine,P10399,Marine,,0,Marshall,,,,3,
 boxscores/1912/1912-DMN,1912,South Central League,markle,P4579266,Markle,,,Marshall,19120508,19120508,1,0,2b1
 boxscores/1912/1912-DMN,1912,South Central League,marraine@ump,P1471891,Marraine,,,#umpire,19120501,19120506,,,
+boxscores/1912/1912-DMN,1912,South Central League,marine,P7324533,Marraine,,,Marshall,19120509,19120509,1,1,p1
 minoraverages/1913Reach,1912,South Central League,mathis.l,B00210,Mathais,,1,Longview,,,,,
 minoraverages/1913Reach,1912,South Central League,mathis.l,B00210,Mathais,,2,Paris,,,,,
 minoraverages/1913Reach,1912,South Central League,mathis.l,B00210,Mathais,,T,,,,60,,
@@ -334,7 +336,7 @@ minoraverages/1913Reach,1912,South Central League,merrill,B00747,Merrill,,0,Cleb
 minoraverages/1913Reach,1912,South Central League,merrill,F20604,Merrill,,0,Cleburne,,,,,of5
 minoraverages/1913Reach,1912,South Central League,merrill,F21229,Merrill,,0,Cleburne,,,,,p16
 minoraverages/1913Reach,1912,South Central League,merrill,P10202,Merrill,,0,Cleburne,,,,16,
-boxscores/1912/1912-DMN,1912,South Central League,merritt,P6583332,Merritt,,,Longview,19120430,19120507,7,0,"c5,1b1,3b1,of1,cf1"
+boxscores/1912/1912-DMN,1912,South Central League,merritt,P6583332,Merritt,,,Longview,19120430,19120509,8,0,"c6,1b2,3b1,of1,cf1"
 minoraverages/1913Reach,1912,South Central League,merritt,B00293,Merritt,,0,Longview,,,56,,
 minoraverages/1913Reach,1912,South Central League,merritt,F20051,Merritt,,0,Longview,,,,,1b5
 minoraverages/1913Reach,1912,South Central League,merritt,F20287,Merritt,,0,Longview,,,,,3b9
@@ -349,7 +351,7 @@ minoraverages/1913Reach,1912,South Central League,milan,B00589,Milam,,T,,,,9,,
 minoraverages/1913Reach,1912,South Central League,milan,F20832,Milan,,1,Tyler,,,,,of
 minoraverages/1913Reach,1912,South Central League,milan,F20832,Milan,,2,Marshall,,,,,of
 minoraverages/1913Reach,1912,South Central League,milan,F20832,Milan,,T,,,,,,of9
-boxscores/1912/1912-DMN,1912,South Central League,moody,P3337578,Moody,,,Tyler,19120427,19120508,10,0,ss10
+boxscores/1912/1912-DMN,1912,South Central League,moody,P3337578,Moody,,,Tyler,19120427,19120509,11,0,ss11
 minoraverages/1913Reach,1912,South Central League,moody,B00718,Moody,,1,Tyler,,,,,
 minoraverages/1913Reach,1912,South Central League,moody,B00718,Moody,,2,Marshall,,,,,
 minoraverages/1913Reach,1912,South Central League,moody,B00718,Moody,,T,,,,28,,
@@ -361,23 +363,24 @@ boxscores/1912/1912-DMN,1912,South Central League,moore,P8107711,Moore,,,Longvie
 minoraverages/1913Reach,1912,South Central League,muse,B00651,Muse,,0,Texarkana,,,5,,
 minoraverages/1913Reach,1912,South Central League,muse,F20583,Muse,,0,Texarkana,,,,,of5
 boxscores/1912/1912-DMN,1912,South Central League,nagle,P2353517,Nagel,,,Marshall,19120423,19120508,10,0,"of10,rf10"
-boxscores/1912/1912-DMN,1912,South Central League,nagle,P1590093,Nagle,,,Marshall,19120424,19120507,5,0,"of5,rf5"
+boxscores/1912/1912-DMN,1912,South Central League,nagle,P1590093,Nagle,,,Marshall,19120424,19120509,6,0,"of6,rf6"
 minoraverages/1913Reach,1912,South Central League,nagle,B00013,Nagle,,0,Marshall,,,55,,
 minoraverages/1913Reach,1912,South Central League,nagle,F20886,Nagle,,0,Marshall,,,,,of53
 boxscores/1912/1912-DMN,1912,South Central League,oneill,P3146744,O'Neal,,,Tyler,19120428,19120501,3,0,"2b1,of1,rf1"
-boxscores/1912/1912-DMN,1912,South Central League,oneill,P2092672,O'Neil,,,Tyler,19120425,19120507,7,3,"p3,of4,rf4"
+boxscores/1912/1912-DMN,1912,South Central League,oneill,P2092672,O'Neil,,,Tyler,19120425,19120509,8,3,"p3,of5,rf5"
 boxscores/1912/1912-DMN,1912,South Central League,oneill,P0588396,O'Neill,,,Tyler,19120508,19120508,1,1,"p1,of1,rf1"
 minoraverages/1913Reach,1912,South Central League,oneill,B00068,O'Neill,,0,Tyler,,,54,,
 minoraverages/1913Reach,1912,South Central League,oneill,F20864,O'Neill,,0,Tyler,,,,,of43
 minoraverages/1913Reach,1912,South Central League,oneill,F21324,O'Neill,,0,Tyler,,,,,p11
 minoraverages/1913Reach,1912,South Central League,oneill,P10215,O'Neill,,0,Tyler,,,,17,
-boxscores/1912/1912-DMN,1912,South Central League,pappe,P4607068,Pappe,,,Marshall,19120423,19120508,15,0,ss15
+boxscores/1912/1912-DMN,1912,South Central League,pappe,P4607068,Pappe,,,Marshall,19120423,19120509,16,0,ss16
 minoraverages/1913Reach,1912,South Central League,pappe,B00553,Pappe,,0,Marshall,,,61,,
 minoraverages/1913Reach,1912,South Central League,pappe,F20401,Pappe,,0,Marshall,,,,,ss32
 boxscores/1912/1912-DMN,1912,South Central League,perkins,P4669534,Perkins,,,Cleburne,19120424,19120430,6,0,3b6
 minoraverages/1913Reach,1912,South Central League,perkins,B01032,Perkins,,0,Cleburne,,,7,,
 minoraverages/1913Reach,1912,South Central League,perkins,F20265,Perkins,,0,Cleburne,,,,,3b7
-boxscores/1912/1912-DMN,1912,South Central League,phillips,P6255170,Phillips,,,Longview,19120423,19120508,7,6,p6
+boxscores/1912/1912-DMN,1912,South Central League,pernell@ump,P4597078,Pernell,,,#umpire,19120509,19120509,,,
+boxscores/1912/1912-DMN,1912,South Central League,phillips,P6255170,Phillips,,,Longview,19120423,19120509,8,7,p7
 minoraverages/1913Reach,1912,South Central League,phillips,B00936,Phillips,,0,Longview,,,27,,
 minoraverages/1913Reach,1912,South Central League,phillips,F21241,Phillips,,0,Longview,,,,,p23
 minoraverages/1913Reach,1912,South Central League,phillips,P10184,Phillips,,0,Longview,,,,21,
@@ -385,6 +388,7 @@ boxscores/1912/1912-DMN,1912,South Central League,poindexter,P1735460,Poindexter
 minoraverages/1913Reach,1912,South Central League,poindexter,B00207,Poindexter,,0,Tyler,,,40,,
 minoraverages/1913Reach,1912,South Central League,poindexter,F20759,Poindexter,,0,Tyler,,,,,of32
 boxscores/1912/1912-DMN,1912,South Central League,prudhomme,P6505724,Prodhomme,,,Texarkana,19120425,19120425,1,0,ss1
+boxscores/1912/1912-DMN,1912,South Central League,prudhomme,P3616604,Prudehomme,,,Marshall,19120509,19120509,1,0,2b1
 boxscores/1912/1912-DMN,1912,South Central League,prudhomme,P2637621,Prudhome,,,Texarkana,19120501,19120502,2,0,ss2
 boxscores/1912/1912-DMN,1912,South Central League,prudhomme,P7453762,Prudhomme,,,Texarkana,19120423,19120503,7,0,ss7
 minoraverages/1913Reach,1912,South Central League,prudhomme,F20211,Prudhomme,,0,Marshall,,,,,2b14
@@ -398,7 +402,7 @@ minoraverages/1913Reach,1912,South Central League,prudhomme,B00614,Purdhomme,,2,
 minoraverages/1913Reach,1912,South Central League,prudhomme,B00614,Purdhomme,,T,,,,40,,
 minoraverages/1913Reach,1912,South Central League,reinecke,F20463,Reincke,,0,Texarkana,,,,,ss22
 minoraverages/1913Reach,1912,South Central League,reinecke,B00961,Reinecke,,0,Texarkana,,,22,,
-boxscores/1912/1912-DMN,1912,South Central League,ritter,P1781852,Ritter,,,Cleburne,19120423,19120508,16,0,c16
+boxscores/1912/1912-DMN,1912,South Central League,ritter,P1781852,Ritter,,,Cleburne,19120423,19120509,17,0,c17
 minoraverages/1913Reach,1912,South Central League,ritter,B00174,Ritter,,0,Cleburne,,,59,,
 minoraverages/1913Reach,1912,South Central League,ritter,F20924,Ritter,,0,Cleburne,,,,,c58
 boxscores/1912/1912-DMN,1912,South Central League,robertson@ump,P6007182,Roberson,,,#umpire,19120505,19120505,,,
@@ -420,14 +424,14 @@ boxscores/1912/1912-DMN,1912,South Central League,solliday,P4316636,Salladay,,,P
 boxscores/1912/1912-DMN,1912,South Central League,solliday,P6432228,Salliday,,,Paris,19120503,19120508,6,0,2b6
 boxscores/1912/1912-DMN,1912,South Central League,schultz,P6342014,Schultz,,,Texarkana,19120507,19120507,1,0,"of1,lf1"
 boxscores/1912/1912-DMN,1912,South Central League,schultz@ump,P8417489,Schultz,,,#umpire,19120501,19120501,,,
-boxscores/1912/1912-DMN,1912,South Central League,sheffield,P1027911,Sheffield,,,Longview,19120429,19120508,10,0,"3b5,of5,cf3,rf2"
+boxscores/1912/1912-DMN,1912,South Central League,sheffield,P1027911,Sheffield,,,Longview,19120429,19120509,11,0,"3b5,of6,lf1,cf3,rf2"
 minoraverages/1913Reach,1912,South Central League,sheffield,B00232,Sheffield,,0,Longview,,,54,,
 minoraverages/1913Reach,1912,South Central League,sheffield,F20388,Sheffield,,0,Longview,,,,,3b5
 minoraverages/1913Reach,1912,South Central League,sheffield,F20700,Sheffield,,0,Longview,,,,,of48
 boxscores/1912/1912-DMN,1912,South Central League,sherwood,P2901020,Sherwood,,,Paris,19120423,19120508,12,0,ss12
 minoraverages/1913Reach,1912,South Central League,sherwood,B00623,Sherwood,,0,Paris,,,55,,
 minoraverages/1913Reach,1912,South Central League,sherwood,F20458,Sherwood,,0,Paris,,,,,ss55
-boxscores/1912/1912-DMN,1912,South Central League,short,P9436054,Short,,,Marshall,19120423,19120508,15,0,c15
+boxscores/1912/1912-DMN,1912,South Central League,short,P9436054,Short,,,Marshall,19120423,19120509,16,0,c16
 minoraverages/1913Reach,1912,South Central League,short,B00672,Short,,0,Marshall,,,51,,
 minoraverages/1913Reach,1912,South Central League,short,F20908,Short,,0,Marshall,,,,,of5
 minoraverages/1913Reach,1912,South Central League,short,F21000,Short,,0,Marshall,,,,,c40
@@ -439,13 +443,13 @@ minoraverages/1913Reach,1912,South Central League,solliday,F20254,Solliday,,0,Pa
 boxscores/1912/1912-DMN,1912,South Central League,sorrey,P9934278,Sorrey,,,Cleburne,19120427,19120505,8,0,ss8
 minoraverages/1913Reach,1912,South Central League,sorrey,B00502,Sorrey,,0,Cleburne,,,62,,
 minoraverages/1913Reach,1912,South Central League,sorrey,F20391,Sorrey,,0,Cleburne,,,,,ss61
-boxscores/1912/1912-DMN,1912,South Central League,sorrey,P7522049,Sorry,,,Cleburne,19120424,19120429,3,0,ss3
+boxscores/1912/1912-DMN,1912,South Central League,sorrey,P7522049,Sorry,,,Cleburne,19120424,19120509,4,0,ss4
 boxscores/1912/1912-DMN,1912,South Central League,sorrey,P3859599,Sory,,,Cleburne,19120426,19120508,4,0,ss4
-boxscores/1912/1912-DMN,1912,South Central League,spear,P5578936,Spear,,,Longview,19120423,19120508,8,0,c7
+boxscores/1912/1912-DMN,1912,South Central League,spear,P5578936,Spear,,,Longview,19120423,19120509,9,0,c8
 minoraverages/1913Reach,1912,South Central League,spear,B00833,Spear,,0,Longview,,,23,,
 minoraverages/1913Reach,1912,South Central League,spear,F20970,Spear,,0,Longview,,,,,c22
 boxscores/1912/1912-DMN,1912,South Central League,spear,P4690827,Spears,,,Longview,19120504,19120505,2,0,c2
-boxscores/1912/1912-DMN,1912,South Central League,stapleton,P3094336,Stapleton,,,Marshall,19120423,19120508,14,0,3b14
+boxscores/1912/1912-DMN,1912,South Central League,stapleton,P3094336,Stapleton,,,Marshall,19120423,19120509,15,0,3b15
 minoraverages/1913Reach,1912,South Central League,stapleton,B00229,Stapleton,,0,Marshall,,,60,,
 minoraverages/1913Reach,1912,South Central League,stapleton,F20350,Stapleton,,0,Marshall,,,,,3b60
 boxscores/1912/1912-DMN,1912,South Central League,stapleton,P3126640,Stappleton,,,Marshall,19120502,19120502,1,0,3b1
@@ -500,11 +504,11 @@ minoraverages/1913Reach,1912,South Central League,trammell,B00045,Trammell,,0,Lo
 minoraverages/1913Reach,1912,South Central League,trammell,F20128,Trammell,,0,Longview,,,,,1b5
 minoraverages/1913Reach,1912,South Central League,trammell,F21125,Trammell,,0,Longview,,,,,p20
 minoraverages/1913Reach,1912,South Central League,trammell,P10056,Trammell,,0,Longview,,,,19,
-boxscores/1912/1912-DMN,1912,South Central League,truth,P5991609,Truth,,,Tyler,19120505,19120505,1,0,2b1
+boxscores/1912/1912-DMN,1912,South Central League,truth,P5991609,Truth,,,Tyler,19120505,19120509,2,0,2b2
 boxscores/1912/1912-DMN,1912,South Central League,tucker,P0859248,Tucker,,,Tyler,19120427,19120427,1,0,
 boxscores/1912/1912-DMN,1912,South Central League,turner,P3031842,Turner,,,Tyler,19120427,19120428,2,2,p2
 boxscores/1912/1912-DMN,1912,South Central League,watson,P2399550,Watson,,,Tyler,19120506,19120508,3,0,c3
-boxscores/1912/1912-DMN,1912,South Central League,weber,P5212889,Webber,,,Cleburne,19120425,19120426,2,0,2b2
+boxscores/1912/1912-DMN,1912,South Central League,weber,P5212889,Webber,,,Cleburne,19120425,19120509,3,0,2b3
 boxscores/1912/1912-DMN,1912,South Central League,weber,P1915895,Weber,,,Cleburne,19120424,19120508,13,0,2b13
 minoraverages/1913Reach,1912,South Central League,weber,B00531,Weber,,0,Cleburne,,,62,,
 minoraverages/1913Reach,1912,South Central League,weber,F20177,Weber,,0,Cleburne,,,,,2b61
@@ -517,8 +521,8 @@ minoraverages/1913Reach,1912,South Central League,white-lon,B00680,White,,0,Long
 minoraverages/1913Reach,1912,South Central League,white-cle,F20279,White,,0,Cleburne,,,,,3b9
 minoraverages/1913Reach,1912,South Central League,white-lon,F20449,White,,0,Longview,,,,,ss60
 minoraverages/1913Reach,1912,South Central League,white-cle,F20737,White,,0,Cleburne,,,,,of42
-boxscores/1912/1912-DMN,1912,South Central League,white-cle,P3651375,White [Cle],,,Cleburne,19120426,19120426,1,0,"of1,cf1"
-boxscores/1912/1912-DMN,1912,South Central League,white-lon,P1245727,White [Lon],,,Longview,19120426,19120426,1,0,ss1
+boxscores/1912/1912-DMN,1912,South Central League,white-cle,P3651375,White [Cle],,,Cleburne,19120426,19120509,2,0,"of2,cf2"
+boxscores/1912/1912-DMN,1912,South Central League,white-lon,P1245727,White [Lon],,,Longview,19120426,19120509,2,0,ss2
 minoraverages/1913Reach,1912,South Central League,willett,B00865,Willett,,0,Marshall,,,5,,
 minoraverages/1913Reach,1912,South Central League,willett,F21158,Willett,,0,Marshall,,,,,p5
 minoraverages/1913Reach,1912,South Central League,willett,P10062,Willett,,0,Marshall,,,,5,
@@ -539,6 +543,6 @@ minoraverages/1913Reach,1912,South Central League,woods-tex,B00491,Woods,M. F.,0
 minoraverages/1913Reach,1912,South Central League,woods-par,F20369,Woods,,0,Paris,,,,,3b60
 minoraverages/1913Reach,1912,South Central League,woods-tex,F21293,Woods,,0,Texarkana,,,,,p9
 minoraverages/1913Reach,1912,South Central League,woods-tex,P10320,Woods,,0,Texarkana,,,,9,
-boxscores/1912/1912-DMN,1912,South Central League,wright@ump,P4042009,Wright,,,#umpire,19120426,19120508,,,
+boxscores/1912/1912-DMN,1912,South Central League,wright@ump,P4042009,Wright,,,#umpire,19120426,19120509,,,
 boxscores/1912/1912-DMN,1912,South Central League,wright,P9465911,Wright,,,Cleburne,19120428,19120428,1,0,3b1
 boxscores/1912/1912-DMN,1912,South Central League,littrell,P3195594,Yittrell,,,Texarkana,19120503,19120503,1,0,"of1,rf1"
